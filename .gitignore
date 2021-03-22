@@ -1,0 +1,28 @@
+# if you are producing data in a repo with
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# generated data
+/resources/surveydata/*
+/resources/sourcestobigforgithub/
+/resources/statentpop/ag-b-00.03-22-STATENT2017/STATENT2017_N08_V190822.csv
+/resources/locationdata/infrastructure_rankings/*
+/resources/locationdata/beaches_pop_bfs.csv
+/resources/locationdata/beaches_with_ranks.csv
+/resources/locationdata/list_of_beaches.json
+# IPython
+profile_default/
+ipython_config.py
+
+# Remove previous ipynb_checkpoints
+#   git rm -r .ipynb_checkpoints/
+
+
+# jetbrains IDE stuff
+*.iml
+.idea/
+
+# ms IDE stuff
+*.code-workspace
+.history
+.vscode
