@@ -1,0 +1,938 @@
+id,obs,place,date,time,sci,name,notes
+02777507-6356-5477-92eb-6d7aea343265,,alleestrasse 1,2020-09-02,11:09:04 AM,plantago lanceolata,plantain lancéolé,
+fd359c20-af7c-5560-b412-56bfbbd154e3,,alleestrasse 1,2020-09-02,11:08:19 AM,centaurea nigra,centaurée noire,could be jaucee
+469cc29c-f377-5312-ba11-f222ca888cec,,alleestrasse 1,2020-09-02,11:06:59 AM,plantago media,plantain moyen,
+c7613f5f-b22d-5b51-832f-06cb61bc4128,,alleestrasse 1,2020-09-02,11:06:05 AM,chenopodium album agg.,chénopode blanc,
+9bba2690-f7a5-54b4-bd74-74fd056ccb3a,,alleestrasse 1,2020-09-02,11:05:18 AM,centaurea jacea agg.,centaurée jacée,
+594c2542-0706-5ce3-8a30-d6b8c5ecac58,,alleestrasse 1,2020-09-02,11:02:44 AM,veronica persica,véronique des jardins,could be another veronica
+a5aea9bd-e87a-53af-a4a4-d0a7ddbfcd82,,alleestrasse 1,2020-09-02,11:00:32 AM,geranium pyrenaicum,géranium des pyrénées,allee south corner
+0741e7c3-52a5-5877-83d8-81b81746cf4a,,alleestrasse 1,2020-07-28,10:18:22,centaurea jacea agg.,centaurée jacée,
+0c087d48-bd61-5d4a-b0b2-3b96702655fe,,alleestrasse 1,2020-07-28,10:15:25,daucus carota,carotte sauvage,
+a5aea9bd-e87a-53af-a4a4-d0a7ddbfcd82,,alleestrasse 1,2020-07-28,10:12:44,centaurea jacea agg.,centaurée jacée,
+fd788f12-0ad0-54fb-bd95-5e6950f6e45c,,alleestrasse 2,2020-07-31,10:41:57,mentha spicata agg.,menthe en grappe,
+bb3b9d8f-f3d7-542f-acd4-2ccab50dc962,,alleestrasse 2,2020-07-31,10:36:21,pastinaca sativa,panais cultivé,
+faf5f77a-c5d7-5223-82f4-16c16dda1b0a,,alleestrasse 2,2020-07-31,10:34:12,galium mollugo agg.,gaillet commun gaillet blanc,
+7246ada1-1147-5713-a80d-7ad01f7c939b,,alleestrasse 2,2020-07-31,10:32:28,trifolium pratense,trèfle des prés,
+e0a5da18-2752-54a7-9675-1e898e1c8a0d,,alleestrasse 2,2020-07-31,10:29:38,daucus carota,carotte sauvage,
+,,alleestrasse 3,16.06.2020,,achillea millefolium agg.,,
+,,alleestrasse 3,16.06.2020,,sedum album,,
+,chaerophyllum 1,alleestrasse 3,16.06.2020,,chaerophyllum hirsutum,,
+,erigeron 1,alleestrasse 3,16.06.2020,,erigeron annuus,,
+6e27e0c1-4ad2-527b-ae94-41e5f00ad5e8,,alleestrasse 3,2020-07-31,10:44:13,epilobium hirsutum,epilobe velu,
+,verbascum 1,alleestrasse 4,06.06.2020,,verbascum thapsus,,
+,,alleestrasse 4,16.06.2020,,trifolium pratense,,
+,silene 2,alleestrasse 4,06.06.2020,,silene latifolia,,
+,silene 3,alleestrasse 4,06.06.2020,,silene dichotoma,,
+,verbanum 1,alleestrasse 4,11.07.2020,,verbanum bonariensis ,,
+,achillea 1,alleestrasse 4,16.06.2020,,achillea millefolium,,
+b9e748de-89c1-53c9-a719-69c99b69c690,,bluets 1,2020-08-13,18:22:52,clinopodium vulgare,sarriette clinopode,1 patch
+0fd28909-0b43-57f2-a628-1a893da29932,,bluets 1,2020-08-13,18:18:04,centaurea jacea agg.,centaurée jacée,different species than previous
+1606662e-8e21-542d-b33b-d58a14e751d1,,bluets 1,2020-08-13,18:17:19,centaurea jacea agg.,centaurée jacée,
+3638acb0-eba4-5c97-9cbc-730cf1b91063,,bluets 1,2020-08-13,18:15:56,scabiosa columbaria agg.,scabieuse colombaire,
+b01c401e-8317-5737-bb77-ea5949c79700,,bluets 1,2020-08-13,18:14:52,silene latifolia,compagnon blanc,3 individuals
+65eddced-8760-58e4-b14c-c2b72bbd2c15,,bluets 1,2020-08-13,18:13:35,trifolium pratense,,trifolium medium /hybride?
+4894f478-e132-5a62-a9ba-d0b81b2cfac3,,bluets 1,2020-08-13,18:12:21,trifolium repens,trèfle rampant,2 patches
+d2287cf1-5b49-532b-8379-395e09445ff8,,bluets 1,2020-08-13,09:59:23,silene vulgaris,silène enflé,3 patches
+10a03c65-85dd-5a8e-9c04-2f6919a1f196,,bluets 1,2020-08-13,09:57:26,silene latifolia,compagnon blanc,could be big silene
+1fb8559a-6924-5cc4-9816-a2f8f6982c54,,bluets 1,2020-08-13,09:55:36,epilobium hirsutum,epilobe velu,
+bb0c08ca-5794-5a0f-863d-3bf5972946d2,,bluets 1,2020-08-13,09:52:21,crepis capillaris,crépide capillaire,
+a2ba5850-3adc-5ee9-a670-52805d9ab3d5,,bluets 1,2020-08-13,09:51:36,melilotus albus,mélilot blanc,3 patches
+c8c1b2d1-3abc-5734-b705-316da86cfac0,,bluets 1,2020-08-13,09:47:24,erigeron annuus,vergerette annuelle,3 individuals
+b73b2ffa-a850-5acc-a209-c6cc672dea0b,,bluets 1,2020-08-13,09:32:02,veronica persica,véronique des jardins,
+84fe53af-9daa-5875-b025-682a5aeae2da,,bluets 1,2020-08-13,09:26:29,malva neglecta,petite mauve,1 patch
+d7d82022-a4a9-5b8f-96b8-cfd42e7ec877,,bluets 1,2020-08-13,09:25:10,cirsium arvense,cirse des champs,dozens of individuals
+a2e72c65-b5c2-5377-938e-cf6832261b64,,bluets 1,2020-08-13,09:23:47,calystegia sepium agg.,liseron des haies,7 patches
+a2e72c65-b5c2-5377-938e-cf6832261b64,,bluets 1,2020-08-13,09:23:11,galium mollugo agg.,gaillet commun gaillet blanc,10 patches
+b94f3906-364a-5be3-80f7-b120ec287d56,,bluets 1,2020-08-13,09:20:59,brassica napus,,brassica  no leaves on the plant 
+11348105-aa37-5dec-8275-b83393162491,,bluets 1,2020-08-13,09:20:00,silene latifolia,compagnon blanc,1 individual
+792bed64-85da-5af7-aeac-8bfa0053d206,,bluets 1,2020-08-13,09:19:03,lotus corniculatus agg.,lotier corniculé,about 10 patches
+cfe46871-b908-54f9-8094-942e72e03cc7,,bluets 1,2020-08-13,09:18:31,trifolium pratense,trèfle des prés,dozens of patches
+aa50bf5e-dba8-50e7-bed8-09dce3f614b1,,bluets 1,2020-08-13,09:17:23,medicago varia,,8 patches
+,,bluets 2,10.07.2020,,hypericum perforatum,,
+,tragopogon 1,bluets 2,12.06.2020,05:00:00 PM,tragopogon pratensis,,
+,geranium 1,bluets 2,12.06.2020,05:00:00 PM,geranium pyrenaicum,,
+,,bluets 2,12.06.2020,05:00:00 PM,knautia arvensis agg.,,
+,,bluets 2,12.06.2020,05:00:00 PM,centaurea jacea agg.,,
+,,bluets 2,12.06.2020,05:00:00 PM,galium mollugo agg.,,
+,,bluets 2,12.06.2020,05:00:00 PM,leucanthemum vulgare agg.,,
+,,bluets 2,12.06.2020,05:00:00 PM,vicia sepium,,
+,,bluets 3,28.06.2020,,tragopogon pratensis,,
+,,bluets 3,28.06.2020,,senecio inaequidens,,
+,,bluets 3,28.06.2020,,knautia arvensis agg.,,
+,,bluets 3,28.06.2020,,medicago sativa,,
+,,bluets 3,28.06.2020,,dianthus carthusianorum agg.,,
+,,bluets 3,28.06.2020,,mentha longifolia,,
+,,bluets 3,28.06.2020,,lapsana communis,,
+,,bluets 3,28.06.2020,,galium mollugo agg.,,
+,,bluets 3,28.06.2020,,erigeron annuus,,
+,medicago 4,boujean 1,09.06.2020,,medicago lupulina,,
+,cichorium 1,boujean 1,09.06.2020,,cichorium intybus,,
+,potentilla 1,boujean 1,09.06.2020,,potentilla reptans,,
+,papaver 2,boujean 2,09.06.2020,03:00:00 PM,papaver rhoeas,,
+,hypericum 4,boujean 2,09.06.2020,03:00:00 PM,hypericum maculatum,,
+,trifolium 3,boujean 2,09.06.2020,03:00:00 PM,trifolium pratense,,
+,erigeron 6,boujean 2,09.06.2020,03:00:00 PM,erigeron annuus,,
+,medicago 5,boujean 2,09.06.2020,03:00:00 PM,medicago lupulina,,
+,,boujean 2,18.06.2020,,medicago lupulina,,
+,,boujean 2,18.06.2020,,arenaria serpyllifolia,,
+,,boujean 2,18.06.2020,,crepis capillaris,,
+,,boujean 2,18.06.2020,,clinopodium acinos,,
+,,boujean 3,18.06.2020,,trifolium pratense,,
+,,boujean 3,18.06.2020,,crepis capillaris,,
+,,boujean 3,18.06.2020,,potentilla reptans,,
+,,boujean 3,18.06.2020,,senecio inaequidens,,
+,,boujean 3,18.06.2020,,cichorium intybus,,
+,,boujean 3,18.06.2020,,erigeron annuus,,
+b381a0d2-83e8-5abb-8dca-78881677112e,,buren 1,2020-09-03,02:23:30 PM,lavandula angustifolia,lavande vraie,
+69334db7-0248-50a5-b08c-65f5b53c9e22,,buren 1,2020-09-03,02:22:55 PM,eupatorium cannabinum,eupatoire chanvrine,
+402c3168-2bd3-5fc4-8168-a57bbc199ad9,,buren 1,2020-09-03,02:22:30 PM,cichorium intybus,chicorée sauvage,
+71a6a552-9369-5983-ac94-aa06a64de803,,buren 1,2020-09-03,02:21:15 PM,vicia sepium,vesce des haies,
+c5320d3e-fa04-58ea-972d-b3029b4ceea7,,buren 1,2020-09-03,02:19:57 PM,trifolium pratense,trèfle des prés,
+5cded206-fb62-5a17-b9fb-dda165cc0a78,,buren 1,2020-09-03,02:19:38 PM,lotus corniculatus agg.,lotier corniculé,
+a6da307b-ec15-522b-a966-2d5a4432865c,,buren 1,2020-09-03,02:18:36 PM,solidago canadensis,solidage du canada,
+e0706b59-e68d-5d6a-8780-c72ba89ecbe5,,buren 1,2020-09-03,02:09:44 PM,hypericum perforatum,millepertuis perforé,
+c52a2894-789c-5751-9370-50f1614ba5b0,,buren 1,2020-09-03,02:09:18 PM,senecio inaequidens,séneçon sud-africain,
+1de42a10-697d-53c6-a957-c2eb3199eece,,buren 1,2020-09-03,02:07:34 PM,hypericum perforatum,millepertuis perforé,
+a296f1cb-a97d-5454-8ef7-ad49d0c4253f,,buren 1,2020-09-03,02:06:51 PM,epilobium dodonaei,epilobe romarin,
+54bb68f0-c04e-587b-aad9-b7bd26c248f9,,buren 1,2020-09-03,02:06:23 PM,daucus carota,carotte sauvage,
+deba0547-2fae-5d45-a2c1-580dac8db5e0,,buren 1,2020-09-03,02:05:58 PM,erigeron annuus,vergerette annuelle,
+7f7bce31-99bf-5f00-b046-8f24fa332985,,buren 1,2020-09-03,02:05:30 PM,leucanthemum vulgare agg.,marguerite précoce,
+b12a3175-3073-562a-957b-d361910e72ff,,buren 1,2020-09-03,02:04:31 PM,centaurea jacea agg.,centaurée jacée,
+c7c24e99-fc32-54c8-bdd1-befb7e0d1d99,,buren 1,2020-09-03,02:03:19 PM,echium vulgare,vipérine commune,
+0d054cab-265f-5bc1-a9fc-98b2b5e55f22,,buren 1,2020-09-03,02:02:59 PM,galium mollugo agg.,gaillet commun gaillet blanc,
+fdccda42-c2a9-5794-9a05-90416227023e,,buren 1,2020-09-03,02:02:35 PM,taraxacum,pissenlit dent-de-lion,
+bc069c9a-ef29-51ee-b835-9603271e2dc9,,buren 1,2020-09-03,02:01:47 PM,ranunculus acris agg.,bouton d'or renoncule âcre,
+11d99639-c4cc-5784-b8a1-0b3915e75bfe,,buren 1,2020-09-03,01:58:49 PM,clematis vitalba,clématite blanche,
+992f3e5c-bf98-5b3b-ace7-965dcfc007bc,,buren 1,2020-09-03,01:57:38 PM,dianthus armeria,oeillet arméria,
+79317789-ddca-5126-9351-b27a63ce2291,,buren 1,2020-09-03,01:56:01 PM,senecio inaequidens,,senecio sudafricains
+cd66ba77-3e64-533f-8d07-c9266c443660,,buren 2,2020-09-03,01:52:29 PM,centranthus ruber,centranthe rouge,
+4903046e-5e3d-5bae-9cd1-b08d6499a009,,buren 2,2020-09-03,01:51:30 PM,cichorium intybus,chicorée sauvage,
+3b5b93bf-6204-5574-b7c8-3671d93d60bd,,buren 2,2020-09-03,01:50:36 PM,chelidonium majus,chélidoine herbe aux verrues,
+8d55ec00-e679-562e-ac3d-826ee3f534f8,,buren 2,2020-09-03,01:48:59 PM,cornus sanguinea,cornouiller sanguin,urticaria usual
+c545900d-36a4-5fcd-b3ab-3295727a5950,,buren 2,2020-09-03,01:47:30 PM,verbena officinalis,verveine officinale,site 3 chaerophyllum usual
+a5aea9bd-e87a-53af-a4a4-d0a7ddbfcd82,,buren 2,2020-08-04,10:44:07,potentilla reptans,quintefeuille,
+c4a3d2e3-138f-513f-8cf1-f16762118342,,buren 2,2020-08-04,10:42:44,bryonia dioica,bryone dioïque,
+4772e6b0-666d-54a7-8b28-dbf0a044c2a5,,buren 2,2020-08-04,10:24:31,sorbus aucuparia,sorbier des oiseleurs,
+7de91f9f-ab11-510c-b9d5-59df20a4fb38,,buren 2,2020-08-04,10:23:09,sambucus nigra,grand sureau sureau noir,
+edcbce18-b15f-5a6f-b9e9-415ef8a59b71,,buren 2,2020-08-04,10:20:36,echium vulgare,vipérine commune,
+279871e5-37f9-5541-aaec-f6cd7c006211,,buren 2,2020-08-04,10:17:16,silene latifolia,compagnon blanc,
+39d9fb2d-e010-596b-bf0c-46ee223eecae,,buren 2,2020-08-04,10:11:22,cichorium intybus,chicorée sauvage,
+6a0785c2-85e5-549c-8484-f6c0e8450978,,buren 2,2020-08-04,10:08:59,geranium robertianum agg.,géranium herbe à robert,
+c47ce170-50ed-51a9-80c3-2bbbc7cdc41f,,buren 2,2020-08-04,10:07:15,urtica dioica,ortie dioïque,
+faff8dfb-5005-5618-aee3-495e0fe69752,,buren 2,2020-08-04,10:06:05,sambucus nigra,grand sureau sureau noir,
+58daafc8-fe0f-5e69-bf48-9cc59caf3fbe,,buren 2,2020-08-07,15:53:32,geranium pyrenaicum,géranium des pyrénées,~15 individuals
+4745017f-7aba-53ab-acee-6ce114bf98c7,,buren 2,2020-08-07,15:51:35,melilotus albus,mélilot blanc,1 individual
+def590de-32e5-535e-b51d-ddd0cf6bb2dd,,buren 2,2020-08-07,15:50:01,echium vulgare,vipérine commune,many old individuals present
+31f95a40-c8e9-509b-9343-337989fa5a11,,buren 2,2020-08-07,15:48:13,senecio inaequidens,séneçon sud-africain,1 small patch ~ 3 plants
+3880e0e4-8d5f-5dac-8073-a16772853b4d,,buren 2,2020-08-07,15:46:50,lavandula angustifolia,lavande vraie,
+eca5a831-db18-5dfd-a81f-962ee6187cda,,buren 2,2020-08-07,15:45:24,trifolium pratense,trèfle des prés,many plants ~ 30 in the shaded areas
+de4ac0a8-b0a3-5712-99f6-557e01b04f0b,,buren 2,2020-08-07,15:43:35,daucus carota,carotte sauvage,1 sparse patch of 5-7 individuals
+a16d76d1-f471-5506-991e-9115893c9261,,buren 2,2020-08-07,15:41:38,clematis vitalba,clématite blanche,1 large patch on the ground
+8a0b4128-5cec-5853-9d14-05a17767d919,,buren 2,2020-08-07,15:39:50,hypericum perforatum,millepertuis perforé,many patches most common flower
+31164667-d12f-5cf8-97a3-0cb0178cecad,,buren 2,2020-08-07,15:37:34,eupatorium cannabinum,eupatoire chanvrine,1 patch
+a6101c76-842d-59ad-b825-dbf1a4e7faec,,buren 2,2020-08-07,15:36:17,solidago canadensis,solidage du canada,1 patch
+6c827eea-d1b5-54b6-a5a3-23945719e603,,buren 2,2020-08-07,15:33:49,epilobium dodonaei,epilobe romarin,5 patches
+e4a56b21-a1af-5c57-9bff-5f57b45eb98f,,buren 3,2020-09-03,01:41:08 PM,cornus sanguinea,cornouiller sanguin,clematite blanche
+e5118610-a65b-5f53-bd42-725119c722b5,,buren 3,2020-09-03,01:40:18 PM,rubus,ronce,second site
+1c27dbf0-3259-5cd7-a2d2-e8f471307eb1,,buren 3,2020-09-03,01:37:07 PM,rubus armeniacus,ronce d'arménie ronce des jardins,hard to tell
+060f5e9a-42ee-5093-8837-ebc9b8a4fbeb,,buren 3,2020-09-03,01:35:57 PM,erigeron annuus,vergerette annuelle,senecion sudafricain chaerophyllum usual one months en grappe 
+2079e736-b8fa-5a3f-b1b0-9cadc0711498,,cff lot 1,2020-09-28,13:57:29,knautia arvensis agg.,knautie des champs,suze cff closed 1
+5d7a4451-92e0-52a0-9e66-3555185c4e9c,,cff lot 1,2020-09-28,13:55:16,polygonum aviculare agg.,renouée des oiseaux,suze cff closed 1
+c021c168-3209-59fc-a2b6-68d9e236ae62,,cff lot 1,2020-09-28,13:54:39,trifolium pratense,trèfle des prés,suze cff closed 1
+a24cbe71-f929-50d8-90b1-cbba37751024,,cff lot 1,2020-09-28,13:52:13,rubus rubus sect.,,suze cff closed 1
+e4b6af9b-2ab4-5ce1-be93-37d9b90518eb,,cff lot 1,2020-09-28,13:51:25,lamium maculatum,lamier tacheté,suze cff closed 1
+dbfdef9b-ca16-525d-ac3c-cf5f8fc4bff3,,cff lot 1,2020-09-28,13:50:34,sonchus oleraceus,laiteron maraîcher,suze cff closed 1
+e55fb91f-77c0-55f5-9598-7f98f83bb990,,cff lot 1,2020-09-28,13:49:21,mentha spicata agg.,menthe en grappe,suze cff closed 1
+d7d08898-d096-5cad-8bac-e4878c066ca8,,cff lot 1,2020-09-28,13:46:56,galeopsis tetrahit agg.,ortie royale galéopsis tétrahit,suze cff closed 1
+0b9b8be9-17bb-5c68-a06e-e2b2690e0ee3,,cff lot 1,2020-09-28,13:45:39,galium mollugo agg.,gaillet commun gaillet blanc,suze cff closed 1
+e13fd1d2-6b6a-55ac-95d0-419409e88096,,cff lot 1,2020-09-28,13:44:38,cornus sanguinea,cornouiller sanguin,suze cff closed 1
+c58b20ae-08ee-57fd-9b88-579a980459d9,,cff lot 1,2020-09-28,13:44:01,urtica dioica,ortie dioïque,suze cff closed 1
+d5505f67-3656-5c0c-aac1-b27f09b30085,,cff lot 1,2020-09-28,13:42:45,artemisia vulgaris agg.,armoise commune,suze cff closed 1
+a5aea9bd-e87a-53af-a4a4-d0a7ddbfcd82,,cff lot 1,2020-09-28,13:41:15,erigeron annuus,vergerette annuelle,suze cff closed 1
+5f38b8a2-b7b4-5b0e-acf8-465ed241fd95,,cff lot 2,2020-09-28,14:16:02,medicago lupulina,minette luzerne lupuline,suze cff closed 2
+864c0ba8-2f7d-5082-8a01-9d961e542cd3,,cff lot 2,2020-09-28,14:15:04,parthenocissus quinquefolia agg.,vigne vierge à cinq folioles,suze cff closed 2
+26ebec7f-4a6d-5956-afe0-b6aa17f7751b,,cff lot 2,2020-09-28,14:13:58,medicago sativa,,suze cff closed 2
+fff3f70f-ea7c-52de-ae0b-f2d2d67e02d2,,cff lot 2,2020-09-28,14:13:12,galium mollugo agg.,gaillet commun gaillet blanc,suze cff closed 2
+2d8240dc-2831-546f-b0ef-28d6c8dcca0d,,cff lot 2,2020-09-28,14:10:44,malus sylvestris agg.,pommier sauvage,suze cff closed 2
+6f946f88-5a4f-50b9-83ec-a85d8d379511,,cff lot 2,2020-09-28,14:09:46,rubus rubus sect.,,suze cff closed 2
+d9c6bb39-4675-5f61-91d6-11d9f49147e6,,cff lot 2,2020-09-28,14:08:32,eupatorium cannabinum,eupatoire chanvrine,suze cff closed 2
+582b2877-6df4-58ee-b2f7-84640bc426d9,,cff lot 2,2020-09-28,14:07:05,erigeron annuus,vergerette annuelle,suze cff closed 2
+8fe690d4-d9e4-5ef7-8d98-1a5026b26b2c,,cff lot 2,2020-09-28,14:06:13,trifolium pratense,trèfle des prés,suze cff closed 2
+aa11141e-36a2-50a2-b2b5-51c289d0430c,,cff lot 2,2020-09-28,14:04:48,solidago canadensis,solidage du canada,suze cff closed 2
+3c12f493-1cc3-593c-bfe9-aaf20afb16ab,,cff path 1,2020-09-11,11:20:01,borkhausenia intermedia,sorbier intermédiaire,
+35353d67-3cfb-5fd6-8845-19d0fc8369a7,,cff path 1,2020-09-11,11:17:29,calystegia sepium agg.,liseron des haies,
+67f2f693-f241-5f55-96d0-d8f47d846651,,cff path 1,2020-09-11,11:17:05,epilobium hirsutum,epilobe velu,
+e34ca87b-0cbf-55b7-b6fc-edb84de217c9,,cff path 1,2020-09-11,11:15:55,solidago canadensis,solidage du canada,
+64011326-7b7e-5a1f-8735-1e1570160cec,,cff path 1,2020-09-11,11:15:13,solanum nigrum,morelle noire,
+b587696d-8c78-57a0-a79c-2f528569d35b,,cff path 1,2020-09-11,11:14:34,malva neglecta,petite mauve,
+f8c1913e-e075-5b0f-aa21-8fcd44816a6e,,cff path 1,2020-09-11,11:13:45,urtica dioica,ortie dioïque,
+c0bb9336-b5da-5356-b63d-c4ea1bf43f1a,,cff path 1,2020-09-11,11:13:21,chenopodium album agg.,chénopode blanc,
+a5aea9bd-e87a-53af-a4a4-d0a7ddbfcd82,,cff path 1,2020-09-11,11:11:32,erodium cicutarium agg.,bec de grue commun,start cff path
+b3d4da89-9486-5f68-9c1b-94d640ec3aac,,cff path 2,2020-07-28,11:21:24,malva neglecta,,
+8f976dbd-0f8e-5da0-af9d-a2db8337932d,,cff path 2,2020-07-28,11:17:18,alcea rosea,passerose rose trémière,
+984d30f5-e091-5e36-b0c1-29f116506bf2,arctium 1,cff path 2,2020-07-31,11:03:48,arctium minus,bardane à petits capitules,verify oxalis!
+0d884707-d313-514a-92f1-98e4aa8941eb,carduus 3,cff path 2,2020-07-31,11:07:46,carduus crispus,chardon crépu,
+4b514359-b3bb-5fe4-80f0-2d2aabd7e324,carduus 4,cff path 2,2020-07-31,10:55:39,carduus crispus,chardon crépu,
+5c477daf-2de1-56bb-a6c4-0b06b54be2de,convolvulus 2,cff path 2,2020-07-31,11:06:04,convolvulus arvensis,liseron des champs,
+243ecd20-8dbc-5cfe-93c9-eeb985b2028b,oxalis 2,cff path 2,2020-07-31,10:59:27,oxalis dillenii,oxalis de dillenius,convolvullus 2 photo still in baumaterial folder
+8df7ba68-ae94-5fd4-a42c-63f14d00a1ee,,cff path 2,2020-07-31,10:56:56,sambucus nigra,grand sureau sureau noir,carduus crispus vs cardus anthoides both species on this site
+12d30344-c472-53fa-a3a2-7152fb43fad2,,cff path 2,2020-07-31,10:48:43,crataegus monogyna,aubépine à un style epine blanche,
+ad132a95-af36-5e2b-b0eb-5499cf7817de,epilobium 4,cff path 3,2020-08-07,18:09:15,epilobium hirsutum,epilobe velu,1 very large patch
+4afff76d-cc56-5969-8ef4-0c9733aa4f8a,erigeron 4,cff path 3,2020-08-07,18:06:39,erigeron annuus,vergerette annuelle,3 individuals
+2abded4c-0d3b-524b-9d1f-97d62da2a77c,geranium 7,cff path 3,2020-08-07,18:11:03,geranium pyrenaicum,géranium des pyrénées,3 individuals
+3395ba58-4925-55cc-8ae6-64a102acbfe6,medicago 3,cff path 3,2020-08-07,18:14:58,medicago lupulina,minette luzerne lupuline,2 individuals
+5ed96213-e75a-580a-b1e2-784718c4b685,robinia 1,cff path 3,2020-08-07,18:07:44,robinia pseudoacacia,robinier,
+02db814f-e631-582c-89cb-53d81c7e64ae,solanum 3,cff path 3,2020-08-07,18:12:55,solanum nigrum,morelle noire,2 individuals
+2ccc9d6b-b07a-5931-aace-3e923c6811f5,urtica 1,cff path 3,2020-08-07,18:06:01,urtica dioica,ortie dioïque,1 large patch
+3390c01c-60d4-5f3f-b4f3-5d4fb227fd4c,,chapelle,2020-09-02,04:36:55 PM,erigeron annuus,vergerette annuelle,
+7b6897d4-4078-55e8-9106-a542f3237a41,,chapelle,2020-09-02,04:21:30 PM,centaurea scabiosa,centaurée scabieuse,
+9eb2dc25-2b26-53f2-b736-b1b303edc794,,chapelle,2020-09-02,04:16:46 PM,campanula rotundifolia agg.,campanule à feuilles rondes,
+1624ff0c-9577-556f-98d7-e9defdf44cf4,,chapelle,2020-09-02,04:16:09 PM,daucus carota,carotte sauvage,
+91f704f1-df91-505c-ba2a-a0092c87d0dc,,chapelle,2020-09-02,04:14:27 PM,vicia cracca agg.,vesce cracca,
+20731366-052f-5a0d-871e-0e524cdb5443,,chapelle,2020-09-02,04:13:37 PM,mentha spicata agg.,menthe en grappe,
+517aa973-8c19-59c4-a821-32c709edccfb,,chapelle,2020-09-02,04:12:56 PM,lycopus europaeus,lycope d'europe pied de loup,
+3ee700e2-5fcc-5b06-bfc0-8587cc54c85b,,chapelle,2020-09-02,04:11:42 PM,verbascum thapsus,bouillon blanc molène thapsus,
+1da48e14-888d-53d5-aa68-9c0ff19a51d0,,chapelle,2020-09-02,04:11:10 PM,leucanthemum vulgare agg.,marguerite précoce,
+74a90095-25d0-5ceb-9988-aaacd665955c,,chapelle,2020-09-02,04:10:14 PM,geranium pyrenaicum,géranium des pyrénées,
+ca7b57c7-31bb-5649-a7fe-2f2be928c628,,chapelle,2020-09-02,04:09:11 PM,solidago canadensis,solidage du canada,could be other solidalgo (gigantis?)
+a4b7d4ea-2457-5052-8ff4-a7eff70a83dd,,chapelle,2020-09-02,04:08:09 PM,melilotus albus,mélilot blanc,
+22b21d27-9e80-56d9-8a3f-ddaa7a4b2118,,chapelle,2020-09-02,04:07:44 PM,erigeron annuus,vergerette annuelle,
+e2ce7fda-1c78-58ab-99c5-159befc40289,,chapelle,2020-09-02,04:07:25 PM,erigeron canadensis,vergerette du canada,
+fcd45106-62f2-55f8-ab7a-abb9c23b3d06,,chapelle,2020-09-02,04:05:37 PM,medicago sativa,,
+a49028a5-546a-5fd4-9737-c2fb19dd8661,,chapelle,2020-09-02,04:05:01 PM,leucanthemum vulgare agg.,marguerite précoce,
+477f65a1-bb61-5039-935e-4616b7dcc484,,chapelle,2020-09-02,04:04:30 PM,trifolium repens,trèfle rampant,
+f20a62de-d884-5bf8-ac92-31164e746e8e,,chapelle,2020-09-02,04:03:49 PM,trifolium pratense,trèfle des prés,
+a482286a-7a2c-578a-85d1-0029e3b2fc01,,chapelle,2020-09-02,04:03:29 PM,lotus corniculatus agg.,lotier corniculé,suze chappelle 1
+57e82c08-2c47-55ea-a61f-6756e7ca43b8,,chemin de la course,2020-08-30,05:08:15 PM,trifolium repens,trèfle rampant,
+2676b9cc-8d75-52d6-96d7-7f5175b170af,,chemin de la course,2020-08-30,05:05:11 PM,centaurea jacea agg.,,
+b8affc83-cfb0-54db-b90d-87205856c028,,chemin de la course,2020-08-30,05:03:57 PM,cichorium intybus,chicorée sauvage,
+5f0799dc-40bb-5eb2-8689-c592f91164b3,,chemin de la course,2020-08-30,05:02:55 PM,petrorhagia saxifraga,petrorhagie saxifrage,
+3928ba34-d1b2-54eb-8ff2-d24bbf9dc596,,chemin de la course,2020-08-30,05:02:01 PM,achillea millefolium agg.,achillée millefeuille,
+f8d7b026-feb0-5bea-8551-55d491c2b3bf,,chemin de la course,2020-08-30,05:01:37 PM,cirsium arvense,cirse des champs,
+ce6ea04c-4e92-5ad2-9e76-345168928399,,chemin de la course,2020-08-30,05:00:36 PM,erigeron canadensis,vergerette du canada,
+a6f8f054-1e0e-556f-986e-ddc06517f08c,,chemin de la course,2020-08-30,04:59:46 PM,centaurea scabiosa,,
+e5f494c0-7a6a-58de-a5cd-56c1ccfeb0ea,,chemin de la course,2020-08-30,04:58:44 PM,lotus corniculatus agg.,lotier corniculé,
+4eebd356-1f33-5cc1-aa21-7b6dd872cd65,,chemin de la course,2020-08-30,04:58:04 PM,cirsium vulgare,cirse commun,
+4d2ad0a8-26c2-50d3-8360-8fca5323f52f,,chemin de la course,2020-08-30,04:57:33 PM,tripleurospermum maritimum agg.,matricaire perforée (groupe) matricaire inodore (groupe),
+17289ed4-f206-580c-83ef-99e6b7d6d98d,,chemin de la course,2020-08-30,04:56:25 PM,knautia arvensis agg.,knautie des champs,
+0bd41920-4a78-52c6-97a5-181b729718cc,,chemin de la course,2020-08-30,04:55:48 PM,centaurea jacea agg.,centaurée jacée,
+fb24cac9-bd9b-5f0b-bd85-7764e3d3d1ab,,chemin de la course,2020-08-30,04:55:27 PM,trifolium pratense,trèfle des prés,
+05d8fb31-4f7e-5b40-bcfc-e424bc406920,,chemin de la course,2020-08-30,04:55:06 PM,trifolium pratense,trèfle des prés,
+2cddce68-edf8-5889-9040-9d859ef5f3c5,,chemin de la course,2020-08-30,04:54:41 PM,erigeron annuus,vergerette annuelle,
+09a2f124-dc87-58f7-b113-04b9562a8447,,chemin de la course,2020-08-30,04:53:59 PM,leucanthemum vulgare agg.,marguerite précoce,
+c233d953-8511-5a59-9bbd-3aac42eea406,,chemin de la course,2020-08-30,04:52:46 PM,silene latifolia,compagnon blanc,
+f7f6eb99-917a-5d2c-b519-7ea70aceff45,,chemin de la course,2020-08-30,04:52:13 PM,galium mollugo agg.,gaillet commun gaillet blanc,
+a5aea9bd-e87a-53af-a4a4-d0a7ddbfcd82,,chemin de la course,2020-08-30,04:51:16 PM,medicago varia,,
+01b68364-3216-5ec7-b72c-589521cec6dd,,chemin des voies,2020-07-28,11:58:18,heracleum sphondylium,patte d'ours berce des prés,
+507e962a-b896-5376-b20a-bb3e2158aaf1,,chemin des voies,2020-07-28,11:56:13,bryonia dioica,bryone dioïque,
+4747cfaa-4dc9-54a4-aaf2-42f69ef7d791,,chemin des voies,2020-07-28,11:51:59,geranium molle agg.,géranium mou,
+370b04ad-b35e-5b1e-8d06-5551e70fa882,,chemin des voies,2020-07-28,11:51:18,geum urbanum,benoîte commune,
+7195fc96-6d40-5b9e-9604-218e4af48aa0,,chemin des voies,2020-07-28,11:48:26,urtica dioica,ortie dioïque,
+6d087e13-ba0c-5e30-abe1-5e7d63854397,,chemin des voies,2020-07-28,11:45:57,cornus sanguinea,cornouiller sanguin,
+,,chemin des voies,2020-07-28,,buddleja davidii,,
+,,chemin des voies,2020-07-28,,daucus carota,,
+,,chemin des voies,2020-07-28,,erigeron annuus,,
+b241b9ef-7c32-502e-9d6f-5db26963f524,,chemin des voies,2020-07-28,11:37:36,verbena officinalis,verveine officinale,
+d3bb2e21-6d34-5e83-9c55-a4b38e0f2083,,cheyres path,2020-09-15,10:45:30,lythrum salicaria,salicaire commune,cheyres path 
+6f742e53-cba2-5930-a9f1-1be99ddf95db,,cheyres path,2020-09-15,09:34:14,eupatorium cannabinum,eupatoire chanvrine,cheyres path 
+f4d56cf1-f784-5e96-a32b-6866eb85cd7e,,cheyres path,2020-09-15,09:32:31,viburnum opulus,boule de neige viorne obier,cheyres path 
+cf2e8f4d-efe9-568d-96ff-2cc15c3bdb6f,,cheyres path,2020-09-15,09:31:08,rubus caesius,ronce bleuâtre,cheyres path 
+a5aea9bd-e87a-53af-a4a4-d0a7ddbfcd82,,cheyres path,2020-09-15,09:28:07,calystegia sepium agg.,liseron des haies,
+6f742e53-cba2-5930-a9f1-1be99ddf95db,,cheyres path,2020-09-15,09:27:42,stachys palustris,epiaire des marais,cheyres path
+1446524c-a470-5692-ada6-6f41e9deb7d9,,cheyres reserve,2020-09-15,09:21:34,lycopus europaeus,lycope d'europe pied de loup,
+1446524c-a470-5692-ada6-6f41e9deb7d9,,cheyres reserve,2020-09-15,09:18:23,chenopodium album agg.,chénopode blanc,
+1446524c-a470-5692-ada6-6f41e9deb7d9,,cheyres reserve,2020-09-15,09:17:39,persicaria maculosa,renouée persicaire,
+1b074611-e4c8-58d6-8d51-499b698a7920,,cheyres reserve,2020-09-15,09:15:27,persicaria longiseta,,
+6f742e53-cba2-5930-a9f1-1be99ddf95db,,cheyres reserve,2020-09-15,09:12:39,polygonum aviculare agg.,renouée des oiseaux,
+6f742e53-cba2-5930-a9f1-1be99ddf95db,,cheyres reserve,2020-09-15,09:11:45,solanum nigrum,morelle noire,
+6f742e53-cba2-5930-a9f1-1be99ddf95db,,cheyres reserve,2020-09-15,08:59:17,achillea ptarmica agg.,achillée des marais herbe à éternuer,
+,geranium 4,college,04.07.2020,,geranium pratens,,
+,,college,04.07.2020,,lotus corniculatus,,
+,,college,04.07.2020,,malva alcea,,
+,,college,18.06.2020,,echium vulgare,,
+,,college,18.06.2020,,sedum album,,
+,,college,18.06.2020,,ligustrum vulgare,,
+,,college,18.06.2020,,urtica dioica,,
+,,college,18.06.2020,,geum urbanum,,
+,erigeron,cygnes,19.09.2020,11:00:00 AM,erigeron canadensis,,
+,erigeron,cygnes,19.09.2020,11:00:00 AM,erigeron annuus,,
+,medicago,cygnes,19.09.2020,11:00:00 AM,medicago varia,,
+,lotus,cygnes,19.09.2020,11:00:00 AM,lotus corniculatus,,
+,oenothera,cygnes,19.09.2020,11:00:00 AM,oenothera,,
+c095cc6f-7a96-5c59-a787-258622d7f679,anemone 1,cygnes,2020-08-08,18:44:16,anemone sylvestris,anémone des forêts,2 individuals
+63f584d8-32bb-56e4-bac4-5e041856fabf,cirsium 4,cygnes,2020-08-08,18:48:45,cirsium vulgare,cirse commun,1 individual
+3727aea6-b1db-557d-9999-3fea37ca7538,daucus 1,cygnes,2020-08-08,18:45:55,daucus carota,carotte sauvage,5 individuals
+bf26b88b-f384-58dd-b9ad-13a2a507c02a,hypericum 3,cygnes,2020-08-08,18:49:36,hypericum perforatum,millepertuis perforé,1 patch
+59f9b8a4-4b22-5fb9-8732-56ebdb015b7a,medicago 2,cygnes,2020-08-08,18:51:54,medicago varia,,1 patch
+fa00d06e-4be3-5652-a5d0-47aff962d0ce,senecio 3,cygnes,2020-08-08,18:51:04,senecio jacobaea,séneçon jacobée herbe de st-jacques,1 individual
+77d0ca88-9e09-537f-a8c5-b4da0f199218,solidalgo 2,cygnes,2020-08-08,18:47:33,solidago canadensis,solidage du canada,4 patches
+,artemisia 1,cygnes lot 1,07.07.2020,,artemisia verlotiorum,,
+,carduus 1,cygnes lot 1,07.07.2020,,carduus crispus,,
+,cirsium 1,cygnes lot 1,07.07.2020,,cirsium palustre,,
+,cirsium 2,cygnes lot 1,07.07.2020,,cirsium vulgare,,
+,linaria 1,cygnes lot 1,07.07.2020,,linaria vulgaris,,
+,,cygnes lot 1,07.07.2020,,lactuca serriola,,
+,,cygnes lot 1,07.07.2020,,erigeron annuus,,
+,,cygnes lot 1,07.07.2020,,erigeron canadensis,,
+,,cygnes lot 1,07.07.2020,,medicago sativa,,
+,,cygnes lot 1,07.07.2020,,lotus corniculatus,,
+,epilobium 3,cygnes lot 1,11.07.2020,02:30:00 PM,x,,
+,matricaria 1,cygnes lot 2,08.07.2020,,matricaria chamomilla,,
+,,cygnes lot 2,11.07.2020,02:00:00 PM,daucus carota,,
+,,cygnes lot 2,11.07.2020,02:00:00 PM,melilotus officianalis,,plantnet
+,,cygnes lot 2,11.07.2020,02:00:00 PM,lotus corniculatus,,plantnet
+,erigeron 2,cygnes lot 2,11.07.2020,,erigeron canadensis,,
+,erigeron 3,cygnes lot 2,11.07.2020,,erigeron annuus,,
+,populus 1,cygnes lot 2,11.07.2020,,populus alba,,
+,,cygnes lot 2,11.07.2020,,lactuca serriola,,
+,solidalgo 1,cygnes lot 3,07.07.2020,,solidalgo canadensis,,
+,malva 3,cygnes lot 3,11.07.2020,,malva sylvestris,,
+,oenothera 1,cygnes lot 3,11.07.2020,,oenothera biennis aggr.,,
+,buddleja 1,cygnes lot 3,11.07.2020,,buddleja davidii,,
+,hypericum 1,cygnes lot 3,11.07.2020,,hypericum perforatum,,
+,pastinaca 1,cygnes lot 3,11.07.2020,,pastinaca sativa,,
+,verbascum 2,cygnes lot 4,09.07.2020,,verbascum densiflorum,,
+2c3d337b-0cc0-5799-a047-83fe687b39bc,,cygnes lot 5,2020-09-20,11:39:53,senecio inaequidens,séneçon sud-africain,suze empty lot
+a5aea9bd-e87a-53af-a4a4-d0a7ddbfcd82,,cygnes lot 5,2020-09-20,11:37:56,diplotaxis tenuifolia,diplotaxis à feuilles ténues,suze empty lot
+,papaver 1,cygnes lot 6,11.07.2020,,papaver rhoeas,,
+40134ee3-4817-5dd4-b5fe-321ea3c58af5,,cygnes lot 7,2020-08-30,05:53:24 PM,solidago canadensis,solidage du canada,
+c7237803-b7de-508a-97b9-4330f9f157f3,,cygnes lot 7,2020-08-30,05:32:53 PM,packera aurea,,
+646706ab-dfa0-5369-ba9e-32c134301fc3,,cygnes lot 7,2020-08-30,05:32:26 PM,populus alba agg.,peuplier blanc,
+2596f8db-f814-5c98-a3ee-9c1c128aa170,,cygnes lot 7,2020-08-30,05:29:17 PM,medicago lupulina,minette luzerne lupuline,
+b81fd4c1-3a68-500a-9f05-d9f46e8072c7,,cygnes lot 7,2020-08-30,05:28:56 PM,buddleja davidii,buddléia de david,
+08b0b58a-1e32-518a-b9f1-cfed19dc5f91,,cygnes lot 7,2020-08-30,05:28:31 PM,artemisia vulgaris agg.,armoise commune,
+a2a7893c-f890-52d4-96d8-c3eac068a3e2,,cygnes lot 7,2020-08-30,05:27:56 PM,lotus corniculatus agg.,lotier corniculé,
+0cb6324e-9e81-57c6-964f-e0ff75fc189e,,cygnes lot 7,2020-08-30,05:26:45 PM,erigeron canadensis,vergerette du canada,
+57670cce-188d-5522-aae8-00c194756ee1,,cygnes lot 7,2020-08-30,05:26:21 PM,erigeron annuus,vergerette annuelle,
+a5aea9bd-e87a-53af-a4a4-d0a7ddbfcd82,,cygnes lot 7,2020-08-30,05:23:50 PM,chenopodium album agg.,chénopode blanc,
+147f6ae4-e481-5028-9863-26d75d36f8a6,,cygnes lot 8,2020-08-30,05:52:57 PM,artemisia vulgaris agg.,armoise commune,
+edc10960-d4d7-570c-bd6d-ef2c61cbb1ab,,cygnes lot 8,2020-08-30,05:51:39 PM,rosa canina,eglantier rosier des chiens,
+eda3630d-8139-509b-917f-9319c61cc8a8,,cygnes lot 8,2020-08-30,05:50:54 PM,oenothera,,
+28f129f4-9a84-5f81-b4aa-2ce4194ad0b2,,cygnes lot 8,2020-08-30,05:49:45 PM,medicago varia,,
+13e8cfba-eb76-5db0-ab39-fd0ace465a6f,,cygnes lot 8,2020-08-30,05:49:11 PM,medicago lupulina,minette luzerne lupuline,
+c4d36078-2669-5240-ae17-a1f6e66f6121,,cygnes lot 8,2020-08-30,05:48:23 PM,hypericum perforatum,millepertuis perforé,
+29fceefd-a968-5fc4-bbf9-7a9bad6cf879,,cygnes lot 8,2020-08-30,05:47:44 PM,verbena officinalis,verveine officinale,
+92fa50f0-cdac-5f5f-8355-fd2c118ec020,,cygnes lot 8,2020-08-30,05:46:21 PM,silene vulgaris,silène enflé,
+92fa50f0-cdac-5f5f-8355-fd2c118ec020,,cygnes lot 8,2020-08-30,05:44:40 PM,cirsium arvense,cirse des champs,
+92fa50f0-cdac-5f5f-8355-fd2c118ec020,,cygnes lot 8,2020-08-30,05:44:20 PM,daucus carota,carotte sauvage,
+92fa50f0-cdac-5f5f-8355-fd2c118ec020,,cygnes lot 8,2020-08-30,05:44:02 PM,lotus corniculatus agg.,lotier corniculé,
+554c78ad-cc37-5b3c-aba9-8698a31e12a9,,cygnes lot 8,2020-08-30,05:43:41 PM,trifolium pratense,trèfle des prés,
+b3e4c5d8-4b52-5570-a1f6-5534c3155262,,cygnes lot 8,2020-08-30,05:36:09 PM,pastinaca sativa,panais cultivé,
+b00d9079-3773-5c1e-9f8b-da001f71c267,,cygnes lot 8,2020-08-30,05:35:38 PM,echium vulgare,vipérine commune,
+43879bfd-204f-568b-9471-4dc96dc25d8c,,cygnes lot 8,2020-08-30,05:34:24 PM,senecio inaequidens,séneçon sud-africain,
+,cornus 1,cygnes lot 8,24.07.2020,09:30:00 PM,cornus sanguinea,,
+,crataegus 1,cygnes lot 8,24.07.2020,,crataegus monogyna,,
+,oenothera,cygnes lot 8,24.07.2020,,oenothera,,
+ea7ebfd2-62b4-5d50-925d-ec3e3c35e441,,dam,2020-08-03,13:37:44,cymbalaria muralis,ruine de rome cymbalaire,
+,,dam,2020-08-03,,eupatorium cannabinum,,
+,campanula 4,energie 1,16.06.2020,,campanula rotundifolia,,
+,,energie 1,16.06.2020,,galium mollugo agg.,,
+,,energie 1,16.06.2020,,silene vulgaris,,
+,,energie 1,16.06.2020,,convolvulus arvensis,,
+,,energie 1,16.06.2020,,achillea millefolium agg.,,
+,,energie 1,16.06.2020,,knautia arvensis agg.,,
+,,energie 1,16.06.2020,,polygonum aviculare agg.,,
+8e7fd2af-f4e5-5339-b0ea-ecab065fa0ca,,energie 1,2020-08-03,14:11:53,seseli libanotis,séséli libanotis,
+be9167c7-face-55bb-913f-577cc0db3a4e,,energie 1,2020-08-03,14:11:26,campanula rotundifolia agg.,campanule à feuilles rondes,
+b2f0e5e9-15fe-5bc5-9133-646d97ff4e0d,,energie 2,2020-08-03,14:09:00,clematis vitalba,clématite blanche,
+43e5a7df-b6d1-59e9-96c7-761e0fbc4de6,,energie 2,2020-08-03,14:07:43,hypericum perforatum,millepertuis perforé,
+6c8e1b33-184b-50be-a9bc-b040fa5185f9,,energie 2,2020-08-03,14:07:14,eupatorium cannabinum,eupatoire chanvrine,
+68d97405-c2c5-5143-9130-489165188083,,energie 2,2020-08-03,13:59:43,lactuca serriola,laitue serriole,
+,reseda 1,energie 3,06.06.2020,,reseda lutea,,
+,silene 1,energie 3,06.06.2020,,silene vulgaris,,
+,,energie 3,06.06.2020,,lactuca serriola,,
+,epilobium 1,football 1,03.07.2020,,epilobium hirsutum,,
+,eupatorium 1,football 1,03.07.2020,,eupatorium cannabinum,,
+,solanum 1,football 1,03.07.2020,,solanum dulcamara,,
+,stachys 1,football 1,03.07.2020,,stachys palustris,,
+,veronica 1,football 1,03.07.2020,,veronica persica,,
+2049c72f-3255-5031-a36c-2a4a925c6579,,football 1,2020-08-04,09:42:32,geranium robertianum agg.,géranium herbe à robert,
+745b25ab-0e21-50b4-85e9-812bc2e5ac9d,,football 1,2020-08-04,09:41:50,eupatorium cannabinum,eupatoire chanvrine,
+745b25ab-0e21-50b4-85e9-812bc2e5ac9d,,football 1,2020-08-04,09:40:35,cirsium oleraceum,cirse jaunâtre,
+,clematis 1,football 2,03.07.2020,,clematis vitalba,,
+,,football 2,03.07.2020,,lotus corniculatus,,
+,,football 2,03.07.2020,,geum urbanum,,
+8afe3c22-b1b8-5536-8fb9-d528738ca3ed,,football 2,2020-08-04,09:37:13,viburnum opulus,boule de neige viorne obier,
+745b25ab-0e21-50b4-85e9-812bc2e5ac9d,,football 2,2020-08-04,09:34:33,angelica sylvestris,angélique sauvage,
+745b25ab-0e21-50b4-85e9-812bc2e5ac9d,,football 2,2020-08-04,09:32:28,cirsium arvense,cirse des champs,
+fffa2730-0f9c-597a-91c4-ce28046b4343,,football 2,2020-08-04,09:30:42,origanum vulgare agg.,origan marjolaine,
+,lotus 1,football 3,03.07.2020,,lotus corniculatus,,
+,senecio 1,football 3,03.07.2020,,senecio jacobaea,,
+,sedum 2,football 3,03.07.2020,,sedum sexangulare,,
+,,football 3,03.07.2020,,centaurea jacea agg.,,
+,origanum 1,football 4,03.07.2020,,origanum vulgare,,
+,,football 5,03.07.2020,,cichorium intybus,,
+,,football 5,03.07.2020,,pastinaca sativa,,
+3aef1bd7-be4f-5681-8e0a-7e03021af118,,football 6,2020-08-03,18:55:17,dipsacus fullonum,cardère sauvage,
+c2c1be71-3fd1-53f2-9aa0-09449a86ccb5,,football 6,2020-08-03,18:47:09,erigeron annuus,vergerette annuelle,
+71130cb2-ea72-52bf-a473-4e019422107c,,football 6,2020-08-03,18:46:22,pastinaca sativa,panais cultivé,
+c314607c-f0de-5b24-95ea-ed9595e9cd44,,football 6,2020-08-03,18:42:18,alnus glutinosa,aulne glutineux verne,
+524798fb-acd0-51bc-ba8c-a7933f6f2802,,football 6,2020-08-03,18:39:27,senecio jacobaea,séneçon jacobée herbe de st-jacques,
+12c7d550-6267-565d-8302-e79e5ca86753,,football 6,2020-08-03,18:38:17,origanum vulgare agg.,origan marjolaine,
+,campanula 3,frinvilier fabrique 1,08.07.2020,,campanula rotundifolia,,
+,prenanthes 1,frinvilier fabrique 2,08.07.2020,,prenanthes purpurea,,
+,rubus 2,frinvilier fabrique 2,08.07.2020,,rubus fruticosus,,
+,campanula 1,frinvilier fabrique 3,08.07.2020,,campanula scheuchzeri,,
+,campanula 2,frinvilier fabrique 3,08.07.2020,,campanula trachelium,,
+,,frinvilier fabrique 4,08.07.2020,,filipendula ulmaria,,
+,,frinvilier fabrique 4,08.07.2020,,eupatorium cannabinum,,
+,knautia 1,frinvillier fabrique 1,08.07.2020,,knautia dipsacifolia,,
+,verbascum 3,frinvillier fabrique 1,08.07.2020,,verbascum lynchitis,,
+,verbascum 4,frinvillier fabrique 1,08.07.2020,,verbascum negris,,
+,,frinvillier fabrique 2,08.07.2020,,hypericum perforatum,,
+,,frinvillier fabrique 2,08.07.2020,,melilotus officianalis,,
+,rubus 1,frinvillier fabrique 2,08.07.2020,,rubus idaeus,,
+,,frinvillier fabrique 4,08.07.2020,,senecio jacobaea,,
+,,frinvillier fabrique 4,08.07.2020,,verbascum nigrum,,
+,,frinvillier fabrique 4,08.07.2020,,erigeron annuus,,
+c1a1f1d8-53bb-5a7c-afa6-7cd80d2a8044,,frinvillier ramp,2020-09-22,10:48:49,ranunculus acris agg.,bouton d'or renoncule âcre,frinvillier ramp 
+80a0c5b4-3304-5741-be90-63fb20291513,,frinvillier ramp,2020-09-22,10:47:33,lactuca muralis,laitue des murs,frinvillier ramp 
+c1a1f1d8-53bb-5a7c-afa6-7cd80d2a8044,,frinvillier ramp,2020-09-22,10:44:39,lactuca serriola,laitue serriole,frinvillier ramp 
+b2f47cf0-7e74-5740-9c74-ae7f35103e21,,frinvillier ramp,2020-09-22,10:41:09,solidago virgaurea,solidage verge d'or,frinvillier ramp
+13e0d812-4052-5e22-90c2-e64e3908c740,,gottstatt 1,2020-08-07,17:53:48,rubus caesius,ronce bleuâtre,1 large patch
+a27828bc-8b6f-5229-9046-f240937cc531,,gottstatt 1,2020-08-07,17:51:58,rumex obtusifolius,patience sauvage rumex à feuilles obtuses,3 patches
+75869175-5426-5f27-965c-147afbc5e4b1,,gottstatt 1,2020-08-07,17:51:19,trifolium pratense,trèfle des prés,4 patches
+ec6a8d2d-c7ce-506a-b788-ec3944f2893e,,gottstatt 1,2020-08-07,17:49:23,cichorium intybus,chicorée sauvage,4 individuals
+d78370c8-93ef-5050-af50-b5011ec22271,,gottstatt 1,2020-08-07,17:47:44,daucus carota,carotte sauvage,3 individuals
+41479256-cdb2-5c63-ba2f-6f6dd7ea6660,,gottstatt 1,2020-08-07,17:46:25,lamium maculatum,lamier tacheté,3 small patches
+311c0b1e-011e-546b-83a2-80c520c9a568,,gottstatt 1,2020-08-07,17:45:22,chaerophyllum aureum,chérophylle doré cerfeuil doré,1 very large parch 3 other patches
+93ffeb30-5b15-58ac-9244-3b2dfab14e01,,gottstatt 1,2020-08-07,17:43:39,galium mollugo agg.,gaillet commun gaillet blanc,3 patches
+95a8749f-307e-5a6b-a74b-1930b7888690,,gottstatt 1,2020-08-07,17:40:43,centaurea jacea agg.,centaurée jacée,1 patch
+7572f5ba-7d18-59ae-89da-1ba476087cc7,,gottstatt 1,2020-08-07,17:39:11,silene vulgaris,silène enflé,5 small patches
+72877de6-a131-5343-a883-ed42f87ae446,,gottstatt 1,2020-08-07,17:36:37,medicago varia,,1 patch
+d746b032-9048-542a-b523-480db5161634,,gottstatt 1,2020-08-07,17:35:15,erigeron annuus,vergerette annuelle,8 patches
+679d2c48-7646-58ac-a65b-b043f3495919,,gottstatt 1,2020-08-07,17:34:13,calystegia sepium agg.,liseron des haies,4 patches
+d7ea1411-0262-587d-b0d0-8c322a6c5cb7,,gottstatt 1,2020-08-07,17:32:04,lotus corniculatus agg.,lotier corniculé,8 patches
+f2ffe355-36da-5087-8590-4bb085ab1561,,gottstatt 1,2020-08-07,17:29:58,arctium lappa,bardane commune,6 patches
+31f75026-ef5f-5f73-b4c0-39cf47f19dbd,,gottstatt 2,2020-08-16,14:18:54,galium mollugo agg.,gaillet commun gaillet blanc,
+3e323c95-c7a9-5e3f-bb3a-ee960415fe40,,gottstatt 2,2020-08-16,14:18:31,daucus carota,carotte sauvage,
+40973b67-6d90-582b-8638-b8ce0a8d06cc,,gottstatt 2,2020-08-16,14:11:28,rumex obtusifolius,patience sauvage rumex à feuilles obtuses,
+670ad1b8-f9c5-54f3-b344-1d5153ed3da8,,gottstatt 2,2020-08-16,14:07:52,lotus corniculatus agg.,lotier corniculé,
+917b1367-df8a-52df-8828-e15a9f149954,,gottstatt 2,2020-08-16,14:04:03,medicago varia,,
+31e0120b-d8f8-5fea-b3ca-664fc6f22f9e,,gottstatt 2,2020-08-16,14:03:22,knautia arvensis agg.,knautie des champs,
+a5aea9bd-e87a-53af-a4a4-d0a7ddbfcd82,,gottstatt 2,2020-08-16,13:43:18,acer pseudoplatanus,erable des montagnes erable sycomore,
+d13ea44a-444f-5e74-9779-415a46cd9d1f,achillea a,gottstatt 3,2020-08-24,18:26:38,achillea millefolium agg.,achillée millefeuille,
+5ff4e38e-7de0-5679-b1f9-4b17c84921da,cirsium 6,gottstatt 3,2020-08-24,18:25:56,cirsium arvense,cirse des champs,
+f6452ddc-f547-5824-8eaf-a6e44f74c89f,daucus b,gottstatt 3,2020-08-24,18:15:58,daucus carota,carotte sauvage,
+c9bf9d1b-79de-52f5-b72d-94316662b4d6,erigeron 5,gottstatt 3,2020-08-24,18:17:04,erigeron annuus,vergerette annuelle,
+4904ffd7-1434-5d6b-bd34-d245a27bcea8,galium 3,gottstatt 3,2020-08-24,18:14:33,galium mollugo agg.,gaillet commun gaillet blanc,
+4904ffd7-1434-5d6b-bd34-d245a27bcea8,lotus a,gottstatt 3,2020-08-24,18:15:24,lotus corniculatus agg.,lotier corniculé,
+a5aea9bd-e87a-53af-a4a4-d0a7ddbfcd82,malva 4,gottstatt 3,2020-08-24,18:13:03,malva moschata,mauve musquée,
+495c0107-141b-56f9-808b-5b369b81b866,plantago 1,gottstatt 3,2020-08-24,18:27:01,plantago media agg.,plantain moyen,
+0f2d149a-4aec-559b-940c-8316cdb2a8ac,rumex a,gottstatt 3,2020-08-24,18:17:58,rumex obtusifolius,patience sauvage rumex à feuilles obtuses,
+a5aea9bd-e87a-53af-a4a4-d0a7ddbfcd82,silene c,gottstatt 3,2020-08-24,18:22:20,silene vulgaris,silène enflé,
+8f202ab8-27b8-5d7a-bd68-09c9c7c5b0d2,solanum 4,gottstatt 3,2020-08-24,18:24:47,solanum dulcamara,morelle douce-amère,
+22e015a4-4a25-545e-8adc-d0991470726b,solidalgo 3,gottstatt 3,2020-08-24,18:16:45,solidago canadensis,solidage du canada,
+43e8c8ef-795f-5f6e-8948-367e8da6f66d,trifolium b,gottstatt 3,2020-08-24,18:20:53,trifolium pratense,trèfle des prés,
+163dde75-1cc6-5b24-8d37-229e5f89070c,vicia 1,gottstatt 3,2020-08-24,18:20:05,vicia cracca agg.,vesce cracca,
+3002978d-5c17-5d2e-bdd8-3f7f75e75e23,,gottstatt 3,2020-08-24,18:31:47,verbena officinalis,verveine officinale,
+253ea787-9dd4-5949-9bc4-272e255a38f2,,hayek 1,2020-09-01,12:58:00 PM,reseda lutea,réséda jaune,
+e3781bb4-3f83-5147-b8f0-6b71773aa712,,hayek 1,2020-09-01,12:57:35 PM,cosmos bipinnatus,,
+7e961de5-523c-5b07-a74e-58338ee4750f,,hayek 1,2020-09-01,12:54:53 PM,symphytum officinale agg.,consoude officinale,
+4b2c5603-b211-5e21-9032-8575f7b446c7,,hayek 1,2020-09-01,12:53:08 PM,medicago sativa,,
+8899e404-a110-5980-8718-d2b58bbb46e6,,jura 1,2020-07-28,11:24:05,senecio inaequidens,séneçon sud-africain,
+2ef3a6ba-2053-538e-a6b1-4fceef5c45b2,dianthus 2,jura 1,2020-08-08,18:38:53,dianthus carthusianorum agg.,oeillet des chartreux,2 species
+2119650d-cf18-5059-829c-9f5b3bb536e6,eupatorium 2,jura 1,2020-08-08,18:37:13,eupatorium cannabinum,eupatoire chanvrine,3 patches
+197307b1-5496-52c3-895c-a8261a1f252b,knautia 2,jura 1,2020-08-08,18:40:44,knautia arvensis agg.,,1 individual
+b70bc5f3-0443-5beb-9c9f-ea19183b2bf1,origanum 2,jura 1,2020-08-08,18:35:09,origanum vulgare agg.,origan marjolaine,3 patches
+,verbascum 5,jura 2,09.07.2020,,verbascum negris,,
+,onobrychis 1,jura 2,20.06.2020,,onobrychis viciifolia,,
+,securigera 1,jura 2,20.06.2020,,securigea varia,,
+,chelidonium 1,jura 2,28.06.2020,,chelidonium majus,,
+,malva 2,jura 2,28.06.2020,,malva alcea,,
+,,jura 2,28.06.2020,12:00:00 PM,silene vulgaris,,
+,,jura 2,28.06.2020,,reseda lutea,,
+,,jura 2,28.06.2020,,echium vulgare,,
+,,jura 2,28.06.2020,,calystegia sepium agg.,,
+,,jura 2,28.06.2020,,geum urbanum,,
+,,lezard 1,12.07.2020,,malva alcea,,
+a0d3b74f-53a6-51e2-a8ae-0ba9d4b4961a,,lezard 1,2020-08-04,09:52:28,galeopsis tetrahit agg.,ortie royale galéopsis tétrahit,
+d83b1015-f54b-5f9e-8415-ed783f2960f0,,lezard 1,2020-08-04,09:51:23,linaria vulgaris agg.,linaire commune,
+5e5d730a-96d1-5741-a975-d5a3caa7d0d4,,lezard 1,2020-08-04,09:50:34,cornus sanguinea,cornouiller sanguin,
+b810993f-6991-5c64-8c4f-72696c74e431,,lezard 1,2020-08-04,09:48:33,malva alcea,mauve alcée,
+e35bc0b0-1bd8-5889-91e6-a3281f46c242,,ligerz favorite,2020-07-29,09:46:19,sedum album,orpin blanc,
+a5aea9bd-e87a-53af-a4a4-d0a7ddbfcd82,,ligerz favorite,2020-07-29,09:41:51,crepis capillaris,,
+4e13bd2d-6d17-5747-888f-73ccb92acfda,,lucherz bureli,2020-07-27,10:18:45,bellis perennis,pâquerette vivace,
+7fca813e-9f70-5fa9-92ed-e6b765912fe9,,lucherz bureli,2020-07-27,10:11:36,filipendula ulmaria,reine des prés spirée,
+8242e90b-b0b2-5b43-aca6-c37ed6dd2d5a,,lucherz bureli,2020-07-27,10:01:15,ranunculus acris agg.,,
+36cece8d-7b43-57ca-919c-c3059e0f0585,,lucherz seestrasse,2020-07-27,09:55:24,circaea lutetiana,herbe des sorcières circée commune,
+fa000ede-d557-5068-a252-3370886c506e,,lucherz seestrasse,2020-07-27,09:53:05,filipendula ulmaria,reine des prés spirée,
+7b0bf52d-15df-598d-b87e-d3ff19dc4482,,lucherz seestrasse,2020-07-27,09:46:59,chaerophyllum temulum,chérophylle penché,
+7b0bf52d-15df-598d-b87e-d3ff19dc4482,,lucherz seestrasse,2020-07-27,09:45:58,lythrum salicaria,salicaire commune,
+ea917710-306d-55bd-a247-a205736ae49c,,lucherz seestrasse,2020-07-27,09:44:07,knautia maxima,,
+f4d44192-0e60-556a-90e4-7ea02701a271,,lucherz seestrasse,2020-07-27,09:41:15,viburnum lantana,mancienne viorne lantane,
+f45c9595-bb66-51a5-99eb-9eb2dd332a76,,lucherz seestrasse,2020-07-27,09:38:08,galium mollugo agg.,gaillet commun gaillet blanc,
+b293f530-bb95-51ec-abeb-185248780a5f,,lucherz seestrasse,2020-07-27,09:14:31,heracleum sphondylium,patte d'ours berce des prés,
+61ca32b9-2363-566e-ae30-de5677187071,,lucherz seestrasse,2020-07-27,09:11:40,urtica dioica,ortie dioïque,
+0cb08da1-3a9d-5aab-be51-4fa279b364f3,,orvin petit moulin,2020-09-17,10:09:55,trifolium pratense,trèfle des prés,orvin petit moulin 
+0cb08da1-3a9d-5aab-be51-4fa279b364f3,,orvin petit moulin,2020-09-17,10:09:27,knautia arvensis agg.,knautie des champs,orvin petit moulin 
+93076d32-24fd-5bfd-9106-4ab993b7ace9,,orvin petit moulin,2020-09-17,10:07:34,trifolium dubium agg.,trèfle douteux,orvin petit moulin 
+2f660c10-7900-516b-88ce-945e74b37832,,orvin petit moulin,2020-09-17,10:05:52,galeopsis tetrahit agg.,ortie royale galéopsis tétrahit,orvin petit moulin 
+2f660c10-7900-516b-88ce-945e74b37832,,orvin petit moulin,2020-09-17,10:05:17,corylus cornuta,noisetier à long bec,orvin petit moulin 
+2f660c10-7900-516b-88ce-945e74b37832,,orvin petit moulin,2020-09-17,10:03:52,rubus caesius,ronce bleuâtre,orvin petit moulin 
+bbd784b3-297c-5651-827e-4a8079317ddd,,orvin petit moulin,2020-09-17,10:02:47,prunus spinosa agg.,epine noire prunellier,orvin petit moulin
+b6d0734c-14e0-5ce8-a22b-0660cd0ab005,,pery taubenlochweg,2020-09-22,09:14:11,echium vulgare,vipérine commune,pery trailhead 
+866ff4e7-d026-59d4-a52d-bafde7df28a7,,pery taubenlochweg,2020-09-22,09:13:19,centaurea jacea agg.,centaurée jacée,pery trailhead 
+4af96a6b-6cd1-5c1c-a94a-31788d35d8d8,,pery taubenlochweg,2020-09-22,09:12:46,galium mollugo agg.,gaillet commun gaillet blanc,pery trailhead 
+7059c3cf-cfc3-5c46-a5b2-590844d52669,,pery taubenlochweg,2020-09-22,09:11:50,medicago sativa,,pery trailhead 
+ce2f9caa-e31a-56db-9bd6-4c557f516b75,,pery taubenlochweg,2020-09-22,09:10:45,silene vulgaris,silène enflé,pery trailhead 
+e6eb893c-2a9a-5b9d-bf81-c28502a0dc71,,pery taubenlochweg,2020-09-22,09:10:03,verbascum nigrum,molène noire,pery trailhead
+0371ff17-aed2-52b1-9ae6-02114a8e423f,,pieterlen stockweg,2020-09-25,09:55:28,silene dioica,silène dioïque compagnon rouge,pieterlen stockweg
+dad9210f-cc7f-5f20-9d20-1bd5ba510db2,,reichenbach,2020-09-23,12:27:46,erigeron canadensis,vergerette du canada,bern ile point 
+59cff499-a3c7-5c2b-a342-716a591c32b4,,reichenbach,2020-09-23,12:25:36,cirsium oleraceum,cirse jaunâtre,bern ile point 
+fbd679c9-176d-5a19-ad79-7d85295ccc54,,reichenbach,2020-09-23,12:24:58,reynoutria japonica,renouée du japon,bern ile point 
+dbdc4593-b6e7-5cf0-8d25-7081530f8c89,,reichenbach,2020-09-23,12:12:20,hieracium aurantiacum,,bern ile point 
+e9157a09-8a83-55e7-a05e-55216eb106dd,,reichenbach,2020-09-23,12:10:25,eupatorium cannabinum,eupatoire chanvrine,bern ile point 
+779ad820-9ee7-57aa-a250-04fbef80efc0,,reichenbach,2020-09-23,12:07:54,rubus caesius,ronce bleuâtre,bern ile point 
+60e9cbeb-4971-5da5-a3e8-acad6107135c,,reichenbach,2020-09-23,12:01:48,mentha aquatica,menthe aquatique,bern ile point 
+a3c112af-7bee-5f8a-9a32-e338fe4b30bf,,reichenbach,2020-09-23,12:00:44,cirsium arvense,cirse des champs,bern ile point
+e9b26874-8af5-545e-8897-ccb7e322c97f,,reichenbach,2020-09-23,11:24:58,tragopogon pratensis,salsifis des prés,bern ile path
+16e36247-758e-5a31-b22d-ccadf9d740cf,,rondchatel,2020-09-22,09:52:56,geranium pyrenaicum,géranium des pyrénées,pery end of tunnel before concrete 
+16e36247-758e-5a31-b22d-ccadf9d740cf,,rondchatel,2020-09-22,09:52:06,achillea millefolium agg.,achillée millefeuille,pery end of tunnel before concrete 
+16e36247-758e-5a31-b22d-ccadf9d740cf,,rondchatel,2020-09-22,09:49:19,picris hieracioides,picride fausse épervière picride amère,pery end of tunnel before concrete 
+16e36247-758e-5a31-b22d-ccadf9d740cf,,rondchatel,2020-09-22,09:48:41,urtica dioica,ortie dioïque,pery end of tunnel before concrete 
+16e36247-758e-5a31-b22d-ccadf9d740cf,,rondchatel,2020-09-22,09:47:56,solidago canadensis,solidage du canada,pery end of tunnel before concrete 
+16e36247-758e-5a31-b22d-ccadf9d740cf,,rondchatel,2020-09-22,09:47:29,calystegia sepium agg.,liseron des haies,pery end of tunnel before concrete 
+fe90d853-7d2a-5509-8635-9e974d53aeff,,rondchatel,2020-09-22,09:45:06,lamium maculatum,lamier tacheté,pery end of tunnel before concrete
+16e36247-758e-5a31-b22d-ccadf9d740cf,,rondchatel,2020-09-22,09:44:15,erigeron annuus,vergerette annuelle,pery end of tunnel before concrete
+87c16313-36c8-58b8-9f70-2e7c27ad3c57,,rue alfred-aebi,2020-08-11,18:45:26,urtica dioica,ortie dioïque,
+deab7ebf-69f0-53d5-b3a3-857c40d3d9d7,,rue alfred-aebi,2020-08-11,18:44:33,ligustrum sinense,troène de chine,
+3e9fe5a1-75f8-5026-a865-354c2e84e285,,rue alfred-aebi,2020-08-11,18:43:25,symphoricarpos albus,symphorine blanche,
+f499c480-1571-5a1e-83aa-defd19974640,,rue alfred-aebi,2020-08-11,18:38:21,acer pseudoplatanus,erable des montagnes erable sycomore,
+258389db-f132-511f-ab63-70c254180588,,rue alfred-aebi,2020-08-11,18:36:59,corylus avellana,coudrier noisetier,
+325a1aae-23f2-51f0-ba67-98a7b0051605,,rue alfred-aebi,2020-08-11,18:35:28,acer pseudoplatanus,erable des montagnes erable sycomore,1
+a5aea9bd-e87a-53af-a4a4-d0a7ddbfcd82,,rue alfred-aebi,2020-08-11,18:34:24,sambucus nigra,grand sureau sureau noir,1 indivirual
+fd667893-def3-504e-9d2c-8110e093a5e9,,rue alfred-aebi,2020-08-12,09:10:18,viburnum rhytidophyllum,,viburnum rhytidophyllum
+,lathyrus 1,rue centrale,11.07.2020,,lathyrus latifolius,,
+,malva 1,rue centrale,11.07.2020,,malva moschata,,
+,stachys 2,rue centrale,11.07.2020,,stachys byzantina,,
+,dianthus 1,rue centrale,11.07.2020,,dianthus armeria,,
+,rubus 3,rue centrale,11.07.2020,,rubus caesius,,
+78e7d9e6-754d-599e-94ab-ba89034f5d12,achillea b,rue de l’eau 1,2020-08-23,18:27:27,achillea millefolium agg.,achillée millefeuille,
+2dfb41c4-da45-5777-a7d6-6e3561016b52,buddleja b,rue de l’eau 1,2020-08-23,18:31:30,buddleja davidii,buddléia de david,
+78e7d9e6-754d-599e-94ab-ba89034f5d12,daucus c,rue de l’eau 1,2020-08-23,18:26:38,daucus carota,carotte sauvage,
+eb58ec2c-3ebd-50eb-b584-25b126c0b988,solanum a,rue de l’eau 1,2020-08-23,18:28:37,solanum nigrum,morelle noire,
+78d37cde-12dc-5f77-9a38-695eb016a827,stachys a,rue de l’eau 1,2020-08-23,18:22:52,stachys recta agg.,epiaire droite,
+e892a7bb-bd0b-5229-846b-e032045ec766,,rue de l’eau 1,2020-08-23,18:21:37,centaurea scabiosa,centaurée scabieuse,
+eb797540-6eb4-5462-9b90-bbbe5ce92ccb,,rue de l’eau 1,2020-08-23,18:20:53,lotus corniculatus agg.,lotier corniculé,
+f2e7be19-6008-5a7f-b36c-c4dee0b72ea4,,rue de l’eau 1,2020-08-23,18:15:33,hypericum perforatum,millepertuis perforé,
+78e7d9e6-754d-599e-94ab-ba89034f5d12,,rue de l’eau 1,2020-08-23,18:13:40,oenothera,,
+fd59255a-c42d-5d99-8d2c-a3250904262f,,rue de l’eau 1,2020-08-23,18:07:11,centaurea jacea agg.,centaurée jacée,
+057b0954-3e87-58c5-a7c5-73f82d5bf9f4,,rue de l’eau 1,2020-08-23,18:06:20,centaurea jacea agg.,centaurée jacée,
+ccfe0ea3-4500-5373-aed3-c21097fb9461,,rue de l’eau 1,2020-08-23,18:05:23,trifolium pratense,trèfle des prés,
+86815b53-dca5-57ad-bd4b-fdba3db57aa3,,rue de l’eau 1,2020-08-23,18:04:12,melilotus albus,mélilot blanc,
+2e4a8da0-d30e-5c3f-8281-a1f1ad1be24d,,rue de l’eau 1,2020-08-23,18:03:33,erigeron canadensis,vergerette du canada,
+d7bfaeae-c2a8-5fa6-a6bb-c424bea2e50a,,rue de l’eau 2,2020-08-01,09:34:36,brassica napus,,
+068e94dc-a55d-5765-bf9d-957b7b11a1e9,,rue de l’eau 2,2020-08-03,13:54:36,crepis capillaris,,
+29fc4f9f-c620-57d6-83ae-6177b6b2e2f7,,rue de l’eau 2,2020-08-03,13:50:52,silene vulgaris,silène enflé,
+231e695c-6fd6-523c-b149-0af143f79432,,rue de l’eau 2,2020-08-03,13:45:46,picris hieracioides,picride fausse épervière picride amère,
+9c7891a0-61d4-591e-898e-9e8f81270314,,rue de l’eau 3,2020-08-01,09:29:48,oenothera,,
+9ee90dee-743e-57f2-98a0-a5e56844fbe0,,rue de l’eau 3,2020-08-01,09:27:52,silene vulgaris,silène enflé,
+7abd590b-d3e6-56fd-b465-634606d7c032,,rue de l’eau 3,2020-08-01,09:26:00,silene latifolia,compagnon blanc,
+acd5e347-387c-5319-a076-551c6d46e131,,rue de l’eau 3,2020-08-01,09:24:32,reseda lutea,réséda jaune,
+0d3151bf-6969-50fe-8384-f0fbf28197ab,,rue de l’eau 3,2020-08-01,09:17:25,centaurea scabiosa,centaurée scabieuse,
+379cf5ea-ba5c-597b-8cb7-7f0fd08edff2,,rue de l’eau 3,2020-08-01,09:14:52,tragopogon pratensis,,
+df505e80-4d57-567f-842c-df4a75afc72d,,rue de l’eau 3,2020-08-01,09:14:08,daucus carota,carotte sauvage,
+65ffae66-71c4-5e7e-a7aa-a872ebfedb31,,rue de l’eau 4,2020-08-17,18:49:24,galium mollugo agg.,gaillet commun gaillet blanc,
+0fe34819-97d9-53d0-9dc2-bb4807df5f03,,rue de l’eau 4,2020-08-17,18:48:51,erigeron canadensis,vergerette du canada,
+5a7526f5-9537-5b01-9595-cf2e3a6654a5,,rue de l’eau 4,2020-08-17,18:45:50,lotus corniculatus agg.,lotier corniculé,
+2a27613e-2542-5277-ab62-0c8ba3a31e4f,,rue de l’eau 4,2020-08-17,18:44:40,rumex obtusifolius,patience sauvage rumex à feuilles obtuses,
+8688e353-640f-520d-ac9b-332d77277f0a,,rue de l’eau 4,2020-08-17,18:33:35,trifolium pratense,trèfle des prés,
+682f962f-40c3-50ed-9848-1d0462803b2d,,rue de l’eau 4,2020-08-17,18:30:49,daucus carota,carotte sauvage,
+345aaa82-23ad-52d2-9da5-8809e4a9e812,,rue de l’eau 4,2020-08-17,18:28:58,silene vulgaris,silène enflé,
+2588abf6-3012-54e6-98ad-169e32fdae4e,,rue de l’eau 4,2020-08-17,18:27:04,achillea millefolium agg.,achillée millefeuille,
+46655baf-9a36-5714-9af7-e448622e3c10,,rue de l’eau 4,2020-08-17,18:25:47,melilotus albus,mélilot blanc,
+be5f975f-72eb-5fdf-bf82-e84777ef6b23,,rue de l’eau 4,2020-08-17,18:22:09,stachys recta agg.,epiaire droite,
+f1e3f992-6397-58cc-a179-34feabce14bd,,rue de l’eau 4,2020-08-17,18:20:54,centaurea scabiosa,centaurée scabieuse,
+65a8cbc4-21fe-5245-9fdc-c68abf918bde,,rue de l’eau 4,2020-08-17,18:20:14,centaurea jacea agg.,centaurée jacée,
+db0d6b7d-a06b-5508-b5b7-bdcd1d2fd1b0,,rue de l’eau 5,2020-08-18,18:13:06,prunella grandiflora,brunelle à grandes fleurs,
+317ae542-9a75-59ef-bc42-bc1d95a1c67e,,rue de l’eau 5,2020-08-18,18:12:23,eupatorium serotinum,,cannabinium
+a6b26e0f-3701-5a98-a711-5e9f31b36c38,,rue de l’eau 5,2020-08-18,18:08:34,leucanthemum vulgare agg.,marguerite précoce,
+323b5cc8-7b2c-5c01-8998-cda8e6b48179,,rue de l’eau 5,2020-08-18,18:07:45,lotus corniculatus agg.,lotier corniculé,
+63555dcc-b111-5f38-8581-b27d02e9c3bb,,rue de l’eau 5,2020-08-18,18:07:06,daucus carota,carotte sauvage,
+bc9d3171-9cc9-5443-a6ec-d11424f1b6bd,,rue de l’eau 5,2020-08-18,18:06:20,trifolium pratense,trèfle des prés,
+9c0f3334-fddb-5f1c-9aac-f2082ad7c931,,rue de l’eau 5,2020-08-18,18:05:47,silene vulgaris,silène enflé,
+9c0f3334-fddb-5f1c-9aac-f2082ad7c931,,rue de l’eau 5,2020-08-18,18:05:02,achillea millefolium agg.,achillée millefeuille,
+ccb59cdb-f9c0-5326-bc62-071509395c9a,,saint ursanne falls,2020-08-20,11:53:16,stellaria aquatica,stellaire aquatique,
+ccb59cdb-f9c0-5326-bc62-071509395c9a,,saint ursanne falls,2020-08-20,11:52:15,impatiens glandulifera,impatiente glanduleuse,
+47311778-9d01-59d2-8121-924ad8cb950a,,salome 1,2020-08-15,18:48:44,mentha spicata agg.,menthe en grappe,
+0067034d-38a6-5334-af96-d76b074d20e5,,salome 1,2020-08-15,18:46:17,artemisia vulgaris agg.,armoise commune,
+90635cad-1937-59f4-9d11-f664a17d5c3c,,salome 1,2020-08-15,18:45:44,populus alba agg.,peuplier blanc,
+ab20b1c8-aca8-5545-8bd4-4410f2710f79,,salome 1,2020-08-15,18:42:33,alnus glutinosa,aulne glutineux verne,
+7ec82eab-9082-5303-96b9-3a15dcd48b01,,salome 1,2020-08-15,18:33:50,salix alba,,salix of some sort
+bf403c0d-b801-53bb-a0f7-2103677ec142,,salome 1,2020-08-15,18:25:12,salix purpurea,osier rouge saule pourpre,
+7c63773c-94a9-5c0e-81f9-01957e50d961,,salome 1,2020-08-15,18:24:35,sambucus nigra,grand sureau sureau noir,
+a5aea9bd-e87a-53af-a4a4-d0a7ddbfcd82,,salome 1,2020-08-15,18:23:38,crataegus monogyna,aubépine à un style epine blanche,
+,,salome 2,05.06.2020,11:40:00 AM,galium mollugo agg.,,
+,echium 1,salome 2,23.07.2020,09:30:00 PM,echium vulgare,,
+,sedum 3,salome 2,24.07.2020,09:30:00 PM,sedum sexangulare,,
+,sedum 4,salome 2,24.07.2020,09:30:00 PM,sedum album,,
+,senecio 4,salome 3,05.06.2020,11:40:00 AM,senecio inaequidens,,
+,sedum 5,salome 3,05.06.2020,11:40:00 AM,sedum album,,
+,galium 1,salome 4,03.06.2020,,galium album,,
+,sedum 1,salome 4,03.06.2020,,sedum album,,
+,cirsium 3,salome 5,24.06.2020,,cirsium palustre,,
+,,salome 5,24.06.2020,,erigeron annuus,,
+,,salome 5,24.06.2020,,sysimbrium officinale,,
+,,salome 5,24.06.2020,,urtica dioica,,
+,,salome 5,24.06.2020,,galium mollugo agg.,,
+,,salome 5,24.06.2020,,mentha spicata agg.,,
+,,salome 5,24.06.2020,,oenothera,,
+,geranium 1,salome 5,24.06.2020,,geranium pyrenaicum ,,
+,hypericum 2,salome 5,24.06.2020,,hypericum maculatum,,
+,medicago 1,salome 5,24.06.2020,,medicago sativa,,
+,dipsacus 1,schlosslifeld 1,04.07.2020,,dipsacus fullonum,,
+,,schlosslifeld 1,04.07.2020,,cichorium intybus,,
+,,schlosslifeld 1,04.07.2020,,echium vulgare,,
+,,schlosslifeld 2,04.07.2020,,potentilla reptans,,
+,,schlosslifeld 2,04.07.2020,,echium vulgare,,
+,,schlosslifeld 2,04.07.2020,,silene latifolia,,
+,,schlosslifeld 2,04.07.2020,,cichorium intybus,,
+,,schlosslifeld 2,04.07.2020,,malva alcea,,
+ac8ec192-71e1-5588-a228-ee2016ea80db,,schlosslifeld 2,2020-08-19,15:55:05,galeopsis tetrahit agg.,ortie royale galéopsis tétrahit,
+64f5c8c8-059e-54bb-ab46-5f3cac0bd660,,schlosslifeld 2,2020-08-19,15:52:00,silene latifolia,compagnon blanc,maybe grande silene
+d4cc401b-30d8-5aec-b1df-41475c3bb154,,schlosslifeld 2,2020-08-19,15:50:20,polygonum aviculare agg.,renouée des oiseaux,
+8625fa53-d974-5950-9323-03cc7c15a558,,schlosslifeld 2,2020-08-19,15:49:38,echium vulgare,vipérine commune,
+7bc7efd2-cb31-5244-b2cd-0215d9fb7b8a,,schlosslifeld 2,2020-08-19,15:46:04,chaenorhinum minus agg.,chénorhinum mineur (groupe),
+e34fec96-111b-5fd6-a6ae-7cec12b4b975,,schlosslifeld 2,2020-08-19,15:39:29,geranium pusillum,géranium fluet,likely the case
+10fd4ca6-9bea-5f13-9da6-1f32c4b4df7c,,schlosslifeld 2,2020-08-19,15:38:48,acer pseudoplatanus,erable des montagnes erable sycomore,
+caaff285-dbcb-5a71-a520-671cf3a7e403,,schlosslifeld 2,2020-08-19,15:35:59,dianthus armeria,oeillet arméria,
+,,schlosslifeld 3,04.07.2020,,filipendula ulmaria,,
+,,schlosslifeld 3,04.07.2020,,echium vulgare,,
+,,schlosslifeld 3,04.07.2020,,melilotus albus,,
+,,schlosslifeld 3,04.07.2020,,ranunculus acris agg.,,
+,,schlosslifeld 3,04.07.2020,,tragopogon pratensis,,
+,,schlosslifeld 3,07.07.2020,12:50:00 PM,malva alcea,,
+,malva 5,schlosslifeld 3,04.07.2020,,malva sylvestris,,
+,alcea 1,schlosslistrasse,18.06.2020,,alcea rosea,,
+,geranium 2,schlosslistrasse,18.06.2020,,geranium molle,,
+,,schlosslistrasse,18.06.2020,,achillea millefolium agg.,,
+,,schlosslistrasse,18.06.2020,,senecio inaequidens,,
+,,schlosslistrasse,18.06.2020,,daucus carota,,
+,,schlosslistrasse,18.06.2020,,lepidium virginicum,,
+,,schusinsel 3,10.07.2020,,daucus carota,,
+,convulvulus 1,schussinsel 1,10.07.2020,,convolvulus arvensis,,
+,lactuca 1,schussinsel 2,10.07.2020,,lactuca serriola,,
+,,schussinsel 2,10.07.2020,,tragopogon pratensis,,
+,,schussinsel 3,10.07.2020,,oenothera,,
+,,schussinsel 3,10.07.2020,,hypericum perforatum,,
+,,schussinsel 3,10.07.2020,,verbascum thapsus,,
+,,schussinsel 3,10.07.2020,,medicago varia,,
+,,schussinsel 3,10.07.2020,,erigeron annuus,,
+,,schussinsel 3,10.07.2020,,cirsium arvense,,
+dcf80f15-7aea-5a9b-ab8e-dafeabb4af48,,schussinsel 4,2020-09-01,06:13:56 PM,centaurea jacea agg.,centaurée jacée,
+c0b8df8b-a226-565d-a2a5-fce4a91b894b,,schussinsel 4,2020-09-01,06:13:15 PM,erigeron annuus,vergerette annuelle,
+f9dc2805-6bc0-51a4-b9fa-1e8935de5fcb,,schussinsel 4,2020-09-01,06:12:55 PM,erigeron canadensis,vergerette du canada,
+23a67d2b-e3bd-5588-b247-bf204b2eb2df,,schussinsel 4,2020-09-01,06:12:29 PM,silene vulgaris,silène enflé,
+3d148d85-f260-5f84-9477-f20da1bf15d0,,schussinsel 4,2020-09-01,06:12:05 PM,lotus corniculatus agg.,lotier corniculé,
+5c1d5c3c-31de-5148-ae75-7712562d1e5a,,schussinsel 4,2020-09-01,06:11:50 PM,salvia pratensis,sauge des prés,
+e1e040a1-d4b1-52f7-aa67-f7b5330be683,,schussinsel 4,2020-09-01,06:11:33 PM,trifolium pratense,trèfle des prés,
+78f92a3b-a0fe-5c4f-863d-b94b5bfd4858,,schussinsel 4,2020-09-01,06:10:10 PM,trifolium repens,trèfle rampant,
+81bba047-216c-5dd7-a1a5-4982a0718910,,schussinsel 4,2020-09-01,06:09:46 PM,campanula rotundifolia agg.,campanule à feuilles rondes,
+6af2a6ee-1673-50d7-809a-89c74a064756,,schussinsel 4,2020-09-01,06:08:21 PM,calystegia sepium agg.,liseron des haies,
+55012fc5-683f-54e9-bbd9-d0856dbecc98,,schussinsel 4,2020-09-01,06:05:52 PM,centaurea jacea agg.,,centauree
+9c653d78-f9fe-5b86-83eb-517025a2706b,,schussinsel 4,2020-09-01,06:04:59 PM,scabiosa columbaria agg.,scabieuse colombaire,
+e31aedae-61d8-54d3-b4ed-b23e1d76d370,,schussinsel 4,2020-09-01,06:03:56 PM,erigeron annuus,vergerette annuelle,
+e29a6e32-8a8e-52fa-b260-f03ac29f3fa6,,schussinsel 4,2020-09-01,06:03:09 PM,trifolium pratense,trèfle des prés,
+cddb39d9-adeb-57ed-b1e8-d517d171fa5d,,schussinsel 4,2020-09-01,06:02:15 PM,silene vulgaris,silène enflé,
+7ab1db2f-cc43-5fdf-9f8e-82ef1d167823,,schussinsel 4,2020-09-01,06:01:50 PM,leucanthemum vulgare agg.,marguerite précoce,
+,,schussinsel 4,2020-09-01,,onobrychis viciifolia,,
+cc99afa7-b32d-56b4-9e1d-850a9171ef7c,,schussinsel 5,2020-09-02,03:58:39 PM,rumex obtusifolius,patience sauvage rumex à feuilles obtuses,
+9bce524c-0752-5ca9-8258-0659f6c69533,,schussinsel 5,2020-09-02,03:58:08 PM,salvia pratensis,sauge des prés,
+9b74bdd9-233e-515b-a706-5b2ad70935d5,,schussinsel 5,2020-09-02,03:53:09 PM,centaurea jacea agg.,centaurée jacée,
+0a663d12-02fd-59af-a67d-87d3cc233958,,schussinsel 5,2020-09-02,03:52:06 PM,knautia arvensis agg.,knautie des champs,
+60078df6-4c33-5b0a-9e4c-326635c4d11b,,schussinsel 5,2020-09-02,03:48:07 PM,leucanthemum vulgare agg.,marguerite précoce,
+3426f9ac-8688-5792-9ec2-1bc69be258ad,,schussinsel 5,2020-09-02,03:46:25 PM,succisa pratensis,succise des prés,
+8211aef9-d433-5b5c-804b-ce7f34bd1bad,,schussinsel 5,2020-09-02,03:44:44 PM,urtica dioica,ortie dioïque,
+251241c7-1b8c-583c-af21-70314dfacc54,,schussinsel 5,2020-09-02,03:44:14 PM,rubus rubus sect.,,
+d7da7fef-8c08-590c-baec-08f71e0c399f,,schussinsel 5,2020-09-02,03:43:29 PM,epilobium hirsutum,epilobe velu,
+267f5afd-a615-55a8-aac8-e105b2dce1fa,,schussinsel 5,2020-09-02,03:43:12 PM,eupatorium cannabinum,eupatoire chanvrine,
+c88bf68a-9d6a-57b4-8c0a-ce97d7e95c0c,,schussinsel 5,2020-09-02,03:42:28 PM,galium mollugo agg.,gaillet commun gaillet blanc,
+480ef151-f825-591a-8fb2-1a9de53fbfdd,,schussinsel 5,2020-09-02,03:42:04 PM,artemisia vulgaris agg.,armoise commune,
+c42009e3-d88f-553a-b916-f2d2cd0e72dc,,schussinsel 5,2020-09-02,03:40:33 PM,potentilla reptans,quintefeuille,
+ba94f7a7-725b-5f53-a5ce-c30ad24a5386,,schussinsel 5,2020-09-02,03:39:36 PM,silene vulgaris,silène enflé,
+c2681b0b-f236-5015-97b0-0de42f10d193,,schussinsel 5,2020-09-02,03:38:52 PM,lotus corniculatus agg.,lotier corniculé,
+052d4853-1f06-5888-97c7-9fd93fd87bdb,,schussinsel 5,2020-09-02,03:38:23 PM,erigeron annuus,vergerette annuelle,suze ile 2
+d1e18202-18e7-52e2-a620-bd1141f934e6,,schussinsel 6,2020-09-02,03:36:16 PM,medicago sativa,,
+ce5beafa-9aac-578c-9ccf-f9c90b9274a7,,schussinsel 6,2020-09-02,03:35:28 PM,daucus carota,carotte sauvage,
+27154ae6-bc25-5868-aecd-d05ffa4abe3c,,schussinsel 6,2020-09-02,03:33:53 PM,silene vulgaris,silène enflé,
+610c2e45-8fa6-5a72-a8f2-deca6f0a7624,,schussinsel 6,2020-09-02,03:32:38 PM,epilobium hirsutum,epilobe velu,
+08d1cfe1-e610-5c25-adca-fd2c4b0438c5,,schussinsel 6,2020-09-02,03:32:24 PM,urtica dioica,ortie dioïque,
+4c7d3c06-5a83-5ee8-b59f-a01cd0c5ae80,,schussinsel 6,2020-09-02,03:32:10 PM,solidago canadensis,solidage du canada,
+072541a2-5d82-591b-8034-a3add98c4f35,,schussinsel 6,2020-09-02,03:31:34 PM,galium mollugo agg.,gaillet commun gaillet blanc,
+5ff09fee-ee52-5a40-99ac-4b0f08dae9e1,,schussinsel 6,2020-09-02,03:31:03 PM,trifolium repens,trèfle rampant,
+a3543e12-2bf3-5a79-b45c-4fb500943222,,schussinsel 6,2020-09-02,03:29:51 PM,clinopodium vulgare,sarriette clinopode,
+4f4f55c4-bbc8-5462-956a-7e93ce3ce527,,schussinsel 6,2020-09-02,03:29:04 PM,leucanthemum vulgare agg.,marguerite précoce,
+35fb5b4c-df38-5159-9f17-dc8a473f47a8,,schussinsel 6,2020-09-02,03:28:42 PM,trifolium pratense,trèfle des prés,
+c4ca37dd-a6da-5e76-b928-1377eda79d23,,schussinsel 6,2020-09-02,03:28:22 PM,lotus corniculatus agg.,lotier corniculé,
+e76eb716-0fa0-52c5-b03c-e6033540efd1,,schussinsel 6,2020-09-02,03:27:45 PM,onobrychis viciifolia agg.,esparcette commune sainfoin,
+,,sonnenfeld 1,09.06.2020,,bryonia dioica,,
+,geranium 3,sonnenfeld 1,18.06.2020,,geranium robertanium,,
+,,sonnenfeld 1,18.06.2020,,bryonia dioica,,
+,,sonnenfeld 1,18.06.2020,,daucus carota,,
+,,sonnenfeld 1,18.06.2020,04:00:00 PM,malva alcea,,
+,,sonnenfeld 1,18.06.2020,,senecio inaequidens,,
+,,sonnenfeld 2,04.07.2020,,melilotus albus,,
+,,sonnenfeld 2,04.07.2020,,daucus carota,,
+,,sonnenfeld 2,04.07.2020,,geranium robertanium,,
+,,sonnenfeld 2,04.07.2020,,senecio inaequidens,,
+c95df2e0-4766-584e-96f7-e87bdd82f520,,strom,2020-08-14,17:49:59,mentha spicata agg.,menthe en grappe,
+34fbfd45-4e9f-57ac-83e3-bac6952633d9,,strom,2020-08-14,17:49:29,erigeron annuus,vergerette annuelle,
+6306e938-6814-56c1-84c3-12f341161f5b,,strom,2020-08-14,17:46:04,verbena officinalis,,verbena of some sort
+3f3b29c1-8f48-58ef-878b-5314f17d5f45,,strom,2020-08-14,17:43:08,hypericum perforatum,millepertuis perforé,
+db7fc334-7ab1-56e5-836c-2b24dcf7d9b6,,strom,2020-08-14,17:40:57,mycelis muralis,laitue des murs,very likely this
+57c066ed-6831-5235-95b3-edf1dc81efa6,,strom,2020-08-14,17:37:40,eupatorium cannabinum,eupatoire chanvrine,
+11675ae8-219b-57ee-968c-373fc3dd8a0b,,strom,2020-08-14,17:25:37,crepis biennis,,unknown
+870854c2-7626-5291-b892-92b4cf46dfc2,,strom,2020-08-14,17:23:54,rubus rubus sect.,,
+82247251-bae2-573c-9617-d142cadd151e,,strom,2020-08-14,17:23:18,clematis vitalba,clématite blanche,dominates the river bank
+a5aea9bd-e87a-53af-a4a4-d0a7ddbfcd82,,strom,2020-08-14,17:22:17,saponaria officinalis,saponaire officinale,4 individuals
+c5c8c1cb-3162-53d1-8e70-003411c3fff5,buddleja a,sundgraben beach,2020-08-26,10:40:30,buddleja davidii,buddléia de david,
+dcd42d05-b0e3-5da9-880d-3ac450f118f8,cornus a,sundgraben beach,2020-08-26,10:41:29,cornus sanguinea,cornouiller sanguin,
+57efe062-06ce-57b4-8984-07a9df7eab02,cotoneaster 1,sundgraben beach,2020-08-26,10:29:53,cotoneaster horizontalis,cotonéaster horizontal,
+704e1aa0-cb2d-5213-8e60-3b9a627b26c4,epilobium 5,sundgraben beach,2020-08-26,13:30:04,epilobium angustifolium,epilobe à feuilles étroites,fi gps measurement was across the lake
+19367b92-8ac1-516a-ac61-e6921664df3f,epilobium 6,sundgraben beach,2020-08-26,13:31:55,epilobium parviflorum,epilobe à petites fleurs,
+3dfe6ac1-80f5-536a-9a64-d7c0d569aea4,epilobium 7,sundgraben beach,2020-08-26,13:25:26,epilobium fleischeri,epilobe des alluvions epilobe de fleischer,
+f23aef33-a163-5b8f-a15a-f150b94fccdf,erigeron a,sundgraben beach,2020-08-26,10:46:03,erigeron annuus,vergerette annuelle,
+57efe062-06ce-57b4-8984-07a9df7eab02,erigeron b,sundgraben beach,2020-08-26,10:34:33,erigeron canadensis,vergerette du canada,
+57efe062-06ce-57b4-8984-07a9df7eab02,eupatorium a,sundgraben beach,2020-08-26,10:29:12,eupatorium cannabinum,eupatoire chanvrine,
+d330a115-71a9-5152-99d4-614cd5d40940,hippocrepis 1,sundgraben beach,2020-08-26,10:35:15,hippocrepis emerus,hippocrépide buissonnante coronille émérus,
+e4db68c2-dc21-5c0d-aa9a-a0266b47b969,hypochaeris a,sundgraben beach,2020-08-26,10:52:30,hypochaeris radicata,porcelle enracinée porcelle des prés,
+3dfe6ac1-80f5-536a-9a64-d7c0d569aea4,origanam a,sundgraben beach,2020-08-26,10:58:52,origanum vulgare agg.,origan marjolaine,
+a5aea9bd-e87a-53af-a4a4-d0a7ddbfcd82,oxalis 1,sundgraben beach,2020-08-26,10:20:38,oxalis dillenii,oxalis de dillenius,
+c2bc0edc-8834-5590-8070-2cb4ed622535,rubus a,sundgraben beach,2020-08-26,10:42:34,rubus caesius,ronce bleuâtre,
+e5ce8105-8660-52ba-b49a-e046cb4de8f7,senecio a,sundgraben beach,2020-08-26,10:54:57,senecio inaequidens,séneçon sud-africain,
+790c058a-c8e2-5c78-8641-8fc21b8eaef6,silene a,sundgraben beach,2020-08-26,13:23:41,silene vulgaris,silène enflé,
+f23aef33-a163-5b8f-a15a-f150b94fccdf,trifolium 2,sundgraben beach,2020-08-26,10:44:07,trifolium medium,trèfle intermédiaire,
+6bf8d33b-1a0b-5b47-a114-a7724a59a998,,sundgraben bridge left,2020-09-05,11:19:35 AM,galeopsis tetrahit agg.,ortie royale galéopsis tétrahit,not sure
+c92a5301-470d-5a50-96b0-7dff38ae1857,,sundgraben bridge left,2020-09-05,11:18:42 AM,calamintha nepeta agg.,sarriette népéta,sundlaunen left forest 
+b5bf097d-3072-5670-a90f-1c53bb80eb99,,sundgraben bridge left,2020-09-05,11:17:21 AM,oxalis dillenii,oxalis de dillenius,sundlaunen left forest 
+86b27e70-c731-58e4-b619-50fe97bdd231,,sundgraben bridge left,2020-09-05,11:15:09 AM,linaria repens,linaire striée,sundlaunen left forest 
+8d2dfb4f-390d-5c7b-bad2-184437926ccc,,sundgraben bridge left,2020-09-05,11:13:31 AM,oenothera,,sundlaunen left forest 
+4d497fe3-94b4-5d10-a97c-b85da4a54a74,,sundgraben bridge left,2020-09-05,11:12:43 AM,clinopodium vulgare,sarriette clinopode,
+213e15cd-577a-5d19-a55d-323d3cd0aa70,,sundgraben bridge left,2020-09-05,11:12:24 AM,achillea millefolium agg.,achillée millefeuille,
+7b81506d-1c14-5c9d-b9e3-7e20dfa9bb62,,sundgraben bridge left,2020-09-05,11:11:14 AM,reseda lutea,réséda jaune,
+90d37431-d4e0-5bab-b120-8b4fd6549444,,sundgraben bridge left,2020-09-05,11:09:58 AM,daucus carota,carotte sauvage,sundlaunen left forest 
+90d37431-d4e0-5bab-b120-8b4fd6549444,,sundgraben bridge left,2020-09-05,11:09:35 AM,linaria vulgaris agg.,linaire commune,sundbach 
+74f7ff6b-6764-5eed-94c1-2e3384578406,,sundgraben bridge left,2020-09-05,11:09:18 AM,lotus corniculatus agg.,lotier corniculé,
+7b81506d-1c14-5c9d-b9e3-7e20dfa9bb62,,sundgraben bridge left,2020-09-05,11:08:06 AM,centaurea scabiosa,centaurée scabieuse,
+6bf8d33b-1a0b-5b47-a114-a7724a59a998,,sundgraben bridge left,2020-09-05,11:07:37 AM,hypericum perforatum,millepertuis perforé,
+6bf8d33b-1a0b-5b47-a114-a7724a59a998,,sundgraben bridge left,2020-09-05,11:06:52 AM,trifolium medium,trèfle intermédiaire,sundbach left forest 
+7b81506d-1c14-5c9d-b9e3-7e20dfa9bb62,,sundgraben bridge left,2020-09-05,11:06:31 AM,calystegia sepium agg.,liseron des haies,
+6bf8d33b-1a0b-5b47-a114-a7724a59a998,,sundgraben bridge left,2020-09-05,11:05:56 AM,buddleja davidii,buddléia de david,sundlaunen left forest 
+6bf8d33b-1a0b-5b47-a114-a7724a59a998,,sundgraben bridge left,2020-09-05,11:02:42 AM,cyclamen purpurascens,cyclamen d'europe,sundbach left bridge
+0f7a017b-b94b-5483-af29-d3defa3d7b7b,,sundgraben forest left,2020-09-13,12:46:49,hippocrepis emerus,hippocrépide buissonnante coronille émérus,sundlaunen forest left 
+39c5d44c-09a6-5e77-93fb-8b4200aa97d3,,sundgraben forest left,2020-09-13,11:04:22,lysimachia arvensis,mouron des champs,sundlaunen forest left 
+eff9cd1d-7f90-5aab-9712-c0b284c947fc,,sundgraben forest left,2020-09-13,10:57:21,ligustrum vulgare,troène vulgaire,sundlaunen forest left 
+99f1057c-c2f9-527c-9fa1-b5fcce552336,,sundgraben forest left,2020-09-13,10:55:04,oxalis dillenii,oxalis de dillenius,sundlaunen forest left 
+7be02f2e-f73c-536f-bb79-9345202b38ac,,sundgraben forest left,2020-09-13,10:53:03,knautia arvensis agg.,knautie des champs,sundlaunen forest left 
+959e9f97-b909-5943-9635-49f495c170fb,,sundgraben forest right,2020-09-13,10:49:48,trifolium pratense,trèfle des prés,sundlaunen forest right 
+b701e56b-9cee-5a7a-a9c8-21faa7dc373b,,sundgraben forest right,2020-09-13,10:46:00,medicago sativa,,sundlaunen forest right 
+f097b5ba-2d3c-5317-a462-933e6e7fff57,,sundgraben forest right,2020-09-13,10:41:42,centaurea scabiosa,centaurée scabieuse,sundlaunen forest right 
+93722185-e9cd-52bc-8fe9-d9f459c8c8a0,,sundgraben forest right,2020-09-13,10:33:24,rorippa sylvestris,cresson des forêts,sundlaunen forest right 
+b8ad0718-7103-5f7a-99a8-74fa7370e8c0,,sundgraben forest right,2020-09-13,10:32:49,centaurea jacea agg.,centaurée jacée,sundlaunen forest right 
+65d008d4-64d8-5680-824d-2d343c884ca0,,sundgraben forest right,2020-09-13,10:30:31,achillea millefolium agg.,achillée millefeuille,sundlaunen forest right: light color leaves different species in agg.
+cd02d7c4-7eb6-5b40-a1c0-021f4fb14b0f,,sundgraben forest right,2020-09-13,10:29:42,erigeron annuus,vergerette annuelle,sundlaunen forest right 
+2cb13740-8726-5a42-8e77-b3d5cbf8a6ff,,sundgraben forest right,2020-09-13,10:28:37,daucus carota,carotte sauvage,sundlaunen forest right 
+2cb13740-8726-5a42-8e77-b3d5cbf8a6ff,,sundgraben forest right,2020-09-13,10:27:37,silene vulgaris,silène enflé,sundlaunen forest right 
+5553c3ea-d972-58fa-a052-99a32f724ade,,sundgraben forest right,2020-09-13,10:26:49,eupatorium cannabinum,eupatoire chanvrine,sundlaunen forest right 
+a5aea9bd-e87a-53af-a4a4-d0a7ddbfcd82,,sundgraben forest right,2020-09-13,10:26:13,erigeron canadensis,vergerette du canada,sundbach wald right 
+6bf8d33b-1a0b-5b47-a114-a7724a59a998,,sundgraben forest right,2020-09-05,09:44:43 AM,melampyrum pratense,mélampyre des prés,forest above sundbach to the right near first bridge; plant reddish and flower growth pattern different perhaps by older plants 
+cd1fa14e-60b2-50fd-a9c6-5e5be81160de,,sundgraben gorge,2020-09-13,13:01:08,calystegia sepium agg.,liseron des haies,sundlaunen bridge left 
+eff9cd1d-7f90-5aab-9712-c0b284c947fc,,sundgraben gorge,2020-09-13,12:59:47,oenothera,,sundlaunen bridge left 
+b701e56b-9cee-5a7a-a9c8-21faa7dc373b,,sundgraben gorge,2020-09-13,12:57:49,centaurea scabiosa,centaurée scabieuse,sundlaunen bridge left 
+5449cfef-6244-5417-b32d-9bff1c2ef7f8,,sundgraben gorge,2020-09-13,12:56:13,clinopodium vulgare,sarriette clinopode,sundlaunen bridge left 
+af3d09b2-900e-5c66-8da7-5d1b3b85b59f,,sundgraben gorge,2020-09-13,12:55:42,linaria vulgaris agg.,linaire commune,sundlaunen bridge left 
+6de2c05d-ef61-531c-84e7-2026566e5104,,sundgraben gorge,2020-09-13,12:54:21,rudbeckia hirta,rudbeckie hérissée,sundlaunen bridge left 
+eff9cd1d-7f90-5aab-9712-c0b284c947fc,,sundgraben gorge,2020-09-13,12:53:52,eupatorium cannabinum,eupatoire chanvrine,sundlaunen bridge left 
+7a814ac3-002a-5945-9a30-74d1298b384d,,sundgraben gorge,2020-09-13,12:53:24,antirrhinum majus,grand muflier gueule de loup,sundlaunen bridge left 
+7fde4737-e63b-5b83-9dd3-1840030ec0c3,,sundgraben port,2020-09-05,10:43:33 AM,trifolium pratense,trèfle des prés,s. harbour
+acdeb3cf-7b6d-55eb-a3bf-8208c69d2ab8,,sundgraben port,2020-09-05,10:42:36 AM,daucus carota,carotte sauvage,s. harbor 
+3c051e11-13c3-516d-b00f-669b20b62420,,sundgraben port,2020-09-05,10:41:38 AM,verbena officinalis,verveine officinale,sundlaunen harbor 
+2b8e07bc-96d3-51b3-9ad3-3b0080734b33,,sundgraben port,2020-09-05,10:40:13 AM,eupatorium cannabinum,eupatoire chanvrine,sundlaunen harbor 
+c69e4b92-d5ec-58d9-9d15-9d8d753920c9,,sundgraben port,2020-09-05,10:39:49 AM,erigeron canadensis,vergerette du canada,sundlaunen hrbour
+2bbb99e4-89f5-5928-8630-86decd043aae,,sundgraben port,2020-09-05,10:37:52 AM,oxalis corniculata,oxalis corniculé,sundlaunen harbours 
+44cf9e0c-8fa6-56a0-ba56-ffc3fcfb0e73,,sureaux,2020-07-28,11:14:31,crepis capillaris,crépide capillaire,2 individuals
+1d2e91be-263b-53e0-8054-e1022f4ba60f,,sureaux,2020-07-28,11:12:52,trifolium pratense,trèfle des prés,many individuals along the whole left bank
+328c521e-e21d-57f4-80f8-220969e52943,,sureaux,2020-07-28,11:11:44,heracleum sphondylium,patte d'ours berce des prés,left bank of river has many individuals
+a2e5318e-561d-53e7-bea8-470f09366336,,sureaux,2020-08-09,18:26:55,solanum ptychanthum,,
+2e343c35-0815-5b3f-862a-dcdbe8a95df2,,sureaux,2020-08-09,18:23:38,chenopodium album agg.,chénopode blanc,2 patches
+d7e8c57b-2a76-5dac-951f-e97deeecd52a,,sureaux,2020-08-09,18:23:09,erigeron canadensis,vergerette du canada,4 individuals
+1973528b-5884-5da0-8a51-fea4b07d1c9e,,sureaux,2020-08-09,18:10:07,ranunculus repens,renoncule rampante,3 patches
+67a6310c-a420-5243-b7b3-8c938d4a2a57,,sureaux,2020-08-09,18:07:30,geranium pyrenaicum,géranium des pyrénées,4 patches upper end of river
+b49fa108-8930-5f42-8e0d-346d6499ad51,,sureaux,2020-08-09,18:05:15,rubus caesius,ronce bleuâtre,2 patches
+fd164e31-7ddc-55f5-876f-e874d57089ec,,sureaux,2020-08-09,18:03:46,filipendula ulmaria,reine des prés spirée,1 patch
+a1d0a927-00ef-5c5f-adde-0902a5b54c3e,,sureaux,2020-08-09,18:00:38,erigeron annuus,vergerette annuelle,erigeron of some sort leaves don't match annuus. one individual
+23355009-630c-5348-8847-a0d22c22d4c7,,sureaux,2020-08-09,17:59:34,erigeron annuus,vergerette annuelle,many individuals on upper left bank scattered throughout whole left bank
+ff568fd1-6473-5232-ab65-91b89863a330,,sureaux,2020-08-09,17:57:06,achillea millefolium agg.,achillée millefeuille,1 patch
+fc4e28cd-6343-5b52-a627-43a41d7ddf6d,,sureaux,2020-08-09,17:55:02,galium mollugo agg.,gaillet commun gaillet blanc,7 patches
+177da1a6-7e26-58d9-b23a-f1ac69caf51b,,sureaux,2020-08-09,17:52:27,aethusa cynapium,petite ciguë ethuse ciguë,2 patches
+90c7d698-4c5d-5217-bd64-123eb88b5a92,,sureaux,2020-08-09,17:51:31,carduus crispus,chardon crépu,many indviduals aling whole left bank
+cbe5a782-cac4-5e0b-90fa-4d52a1d3ca31,,sureaux,2020-08-09,17:47:32,rumex obtusifolius,patience sauvage rumex à feuilles obtuses,6 patches
+d0859ba5-6b79-55e6-9e46-3aeaf903d677,,lezard 2,2020-08-04,09:47:01,echium vulgare,vipérine commune,
+2b86de0c-3c6f-5154-9e52-6f4401928f54,,lezard 2,2020-08-04,09:46:14,cichorium intybus,chicorée sauvage,
+08221d56-90cb-503b-8ca8-0f3c9db27aa1,,parc muni,2020-08-13,10:24:18,epilobium roseum,epilobe rosé,maybe the case
+993650c9-0e2e-5277-a3c2-9a7ce945b44c,,parc muni,2020-08-13,10:20:38,epilobium parviflorum,epilobe à petites fleurs,
+f2d56356-241c-5f7b-bd0a-8d4c02f98279,,parc muni,2020-08-13,10:19:35,veronica beccabunga,cresson de cheval véronique beccabunga,1 large patch several small ones
+862e8232-9c14-55e3-9766-d1dddd991882,,parc muni,2020-08-13,10:16:44,cyclamen hederifolium,cyclamen de naples,
+ca650453-fcb7-5a07-9d64-b4d12ca6a74b,,salome 2,2020-08-15,18:49:18,solidago canadensis,solidage du canada,
+a06659b7-9367-5951-9bd2-f6bbd59290ce,artemisia 2,swatch 1,2020-08-08,18:17:28,artemisia vulgaris agg.,armoise commune,3 patches
+e0a507a3-6586-5bcb-b43c-c8bd3ef7aed6,cirsium 4,swatch 1,2020-08-08,18:14:54,cirsium arvense,cirse des champs,5 patches
+f47ebad7-2db8-50cb-b982-2274d7e25353,galium c,swatch 1,2020-08-08,18:19:09,galium mollugo agg.,gaillet commun gaillet blanc,5 large patches
+59d9c786-4dc0-5bc6-b31f-9ba281f57fc1,lathyrus 2,swatch 1,2020-08-08,18:20:52,lathyrus sylvestris,gesse à larges feuilles,1 patch
+2fb8d240-e828-52ac-b799-4cb03feabc5b,secirugea 2,swatch 1,2020-08-08,18:25:13,securigera varia,coronille bigarrée,1 patch
+aa870dfa-fcb9-5874-b18d-597c3734d91d,silene 4,swatch 1,2020-08-08,18:16:06,silene vulgaris,silène enflé,
+590eb2a7-e38a-549c-9406-197aa2476b71,trifolium 1,swatch 1,2020-08-08,18:14:02,trifolium pratense,trèfle des prés,4 patches
+,,swatch 2,2020-08-31,,medicago sativa,,
+aac03084-82cc-5d7e-b176-304566d4b1ce,,swatch 2,2020-08-31,05:50:42 PM,centaurea scabiosa,centaurée scabieuse,
+c4b9a7ac-b286-5704-a8aa-5b999c0927c7,,swatch 2,2020-08-31,05:49:52 PM,centaurea jacea agg.,centaurée jacée,
+fadde6ab-6d83-5ff2-8617-c6841d6e723b,,swatch 2,2020-08-31,05:49:24 PM,leucanthemum vulgare agg.,marguerite précoce,
+343cb375-18d4-56ac-a9f0-d63fc1507af1,,swatch 2,2020-08-31,05:48:45 PM,reseda lutea,réséda jaune,
+25ddb225-0a4d-5a8d-85c0-b15a3ec7593a,,swatch 2,2020-08-31,05:47:30 PM,melilotus albus,mélilot blanc,
+ce7f1c27-95f2-568a-a12c-a102fe2adb7e,,swatch 2,2020-08-31,05:46:51 PM,lathyrus pratensis,gesse des prés,
+aac69f7f-0551-5811-aa20-c3cdf1385e2a,,swatch 2,2020-08-31,05:45:39 PM,reseda lutea,réséda jaune,
+5d411001-3f7c-5c44-8ffc-8194e8bcfe5e,,swatch 2,2020-08-31,05:45:01 PM,cirsium vulgare,cirse commun,
+c343b92f-13af-56f6-bdfb-33f73600a8f1,,swatch 2,2020-08-31,05:44:17 PM,rumex obtusifolius,patience sauvage rumex à feuilles obtuses,
+32c83ce9-1086-5ebb-a123-177df4bfc7da,,swatch 2,2020-08-31,05:43:34 PM,trifolium repens,trèfle rampant,
+07c01a43-d22d-5fd1-9e91-01007f3efa76,,swatch 2,2020-08-31,05:42:10 PM,mentha spicata agg.,menthe en grappe,
+86fc0411-c5a9-5707-82ef-78fb1c07d7d9,,swatch 2,2020-08-31,05:41:40 PM,clematis vitalba,clématite blanche,
+e40334c5-902c-5afe-8a1b-1ed38dcf72cb,,swatch 2,2020-08-31,05:41:07 PM,calystegia sepium agg.,liseron des haies,
+43c8ef1f-eba6-5ec6-ad7e-ad2484e01106,,swatch 2,2020-08-31,05:40:03 PM,daucus carota,carotte sauvage,
+4459bbef-3200-55e6-900f-946f008aae85,,swatch 2,2020-08-31,05:36:55 PM,cirsium arvense,cirse des champs,
+1303ff04-322a-5c7f-bbeb-3f9cca39eabd,,swatch 2,2020-08-31,05:36:21 PM,trifolium pratense,trèfle des prés,
+1abedfad-700b-5552-bb32-42a3fcbb1641,,swatch 2,2020-08-31,05:35:38 PM,silene vulgaris,silène enflé,
+a5aea9bd-e87a-53af-a4a4-d0a7ddbfcd82,,swatch 2,2020-08-31,05:35:05 PM,erigeron annuus,vergerette annuelle,
+5f67a2a1-843c-543c-83dd-77f001e8662b,,taubenloch 1,2020-08-18,10:15:23,galeopsis tetrahit agg.,ortie royale galéopsis tétrahit,
+9717b683-7622-51e8-8caf-8010724b3894,,taubenloch 1,2020-08-18,10:04:33,epilobium collinum,epilobe des coteaux,
+e7f6b953-e535-569c-997b-932c3eb12106,,taubenloch 1,2020-08-18,10:04:10,geranium robertianum agg.,géranium herbe à robert,
+bb99b519-b0c8-5d6d-9207-a07dd607d9ca,,taubenloch 1,2020-08-18,09:59:44,hylotelephium telephium agg.,orpin reprise,
+8221ad0d-a817-5ff6-a2c9-76db9b355049,,taubenloch 1,2020-08-18,09:57:14,mycelis muralis,laitue des murs,
+2f17cd65-0aa0-5201-857e-4eb0913a0425,,taubenloch 1,2020-08-18,09:55:50,lapsana communis,lapsane commune,
+e05d182e-78cc-5e4d-998a-3585642290d9,,taubenloch 1,2020-08-18,09:54:25,galeopsis tetrahit agg.,ortie royale galéopsis tétrahit,
+a5aea9bd-e87a-53af-a4a4-d0a7ddbfcd82,,taubenloch 1,2020-08-18,09:50:42,campanula trachelium,campanule gantelée,
+3f1f8c12-b383-5ce7-8794-3d8422c0de73,,taubenloch 2,2020-08-22,17:04:36,campanula trachelium,campanule gantelée,
+b6b80545-ed1f-5e7d-b9bb-58d8f83666bf,,taubenloch 2,2020-08-22,17:01:47,solanum dulcamara,morelle douce-amère,
+51a5452f-4563-5d94-91d0-e3268d5578b5,,taubenloch 2,2020-08-22,16:47:42,galeopsis tetrahit agg.,ortie royale galéopsis tétrahit,not aure this is correct
+bd0a5db7-ea2b-5652-bd80-5fe8c832982b,,taubenloch 2,2020-08-22,16:46:20,salvia glutinosa,sauge glutineuse,
+fd19c432-79fc-59ad-b2d2-55d2f3842e60,,taubenloch 2,2020-08-22,16:38:38,campanula rotundifolia agg.,campanule à feuilles rondes,
+bd0a5db7-ea2b-5652-bd80-5fe8c832982b,,taubenloch 2,2020-08-22,16:38:01,geranium robertianum agg.,géranium herbe à robert,is it? white?
+2b4827d9-f62e-528c-8e89-0fd8ccf018ff,,taubenloch 2,2020-08-22,16:35:51,campanula rapunculoides,campanule stolonifère,
+51a5452f-4563-5d94-91d0-e3268d5578b5,,taubenloch 2,2020-08-22,16:33:50,salvia glutinosa,sauge glutineuse,
+51a5452f-4563-5d94-91d0-e3268d5578b5,,taubenloch 2,2020-08-22,16:29:43,galeopsis tetrahit agg.,ortie royale galéopsis tétrahit,
+2b4827d9-f62e-528c-8e89-0fd8ccf018ff,,taubenloch 2,2020-08-22,16:22:18,campanula rhomboidalis,campanule à feuilles rhomboïdales,
+75a77de0-04a3-5779-a57d-ccf03b71eaae,,taubenloch 2,2020-08-22,16:21:31,mycelis muralis,laitue des murs,
+bd0a5db7-ea2b-5652-bd80-5fe8c832982b,,taubenloch 2,2020-08-22,16:20:09,geranium robertianum agg.,géranium herbe à robert,
+bf520b30-8664-5356-8ab7-6dea127cab92,,taubenloch 2,2020-08-22,16:14:40,geranium robertianum agg.,géranium herbe à robert,
+f3658403-da68-5c12-9839-0f1944267aff,,transjurane tunnel,2020-09-22,10:22:19,rubus caesius,ronce bleuâtre,
+e077a77d-4a56-5563-aeea-31d31ac2a0e3,,transjurane tunnel,2020-09-22,10:20:41,hylotelephium telephium agg.,orpin reprise,frinvillier deviation tunnel entrance 
+b4968a87-da8a-5c30-af31-d3909d63b24f,artemisia 2,truite 1,2020-08-08,07:31:49,artemisia vulgaris agg.,armoise commune,
+da92edf6-0298-5354-9960-73e848b32237,carduus 2,truite 1,2020-08-08,08:43:50,carduus personata,cardus personata,1 large stand
+18be4e8e-e107-5b39-8f71-686eba470834,chaenorhinum,truite 1,2020-08-08,07:24:34,chaenorhinum minus agg.,chénorhinum mineur (groupe),
+dbc176fb-095e-5ffa-acb1-6739af1f52e3,cirsium 5,truite 1,2020-08-08,07:27:50,cirsium arvense,cirse des champs,3 patches
+6c0c5224-55dc-5f6d-86ca-e65c78952742,daucus 2,truite 1,2020-08-08,07:26:06,daucus carota,carotte sauvage,1 patch
+4e728acc-6e42-59db-b47e-58ebd3a10b2a,dipsacus 2,truite 1,2020-08-08,08:40:35,dipsacus pilosus,cardère poilue,1 individual
+0fff01d3-85ad-55cb-bbd4-15253d619f52,epilobium 3,truite 1,2020-08-08,08:57:24,epilobium hirsutum,epilobe velu,1 patch
+4d91187e-6b66-5c44-b9b6-a76d3209ed16,eupatorium 3,truite 1,2020-08-08,08:39:07,eupatorium cannabinum,eupatoire chanvrine,1 patch
+bc0f2e19-22c9-52bd-b516-90e92ce4a401,galeopsis 1,truite 1,2020-08-08,07:15:08,galeopsis tetrahit agg.,ortie royale galéopsis tétrahit,2 patches
+d6a40716-7ea5-5018-9c00-772a0707453b,galium 2,truite 1,2020-08-08,07:33:00,galium mollugo agg.,gaillet commun gaillet blanc,4 patches
+1a783d97-3b5f-5967-9718-858d48e972c1,geranium 5,truite 1,2020-08-08,08:41:41,geranium pyrenaicum,géranium des pyrénées,1 patch
+21c19f55-d903-5d1d-a31a-7f3755c419fa,geranium 6,truite 1,2020-08-08,07:18:41,geranium robertianum agg.,géranium herbe à robert,2 patches
+975cabde-2f8b-5059-a699-98b629e92260,knautia 3,truite 1,2020-08-08,08:42:35,knautia arvensis agg.,knautie des champs,1 individual
+fc732283-b56c-5a7e-b138-7b1836336bea,lactuca 3,truite 1,2020-08-08,08:53:48,lactuca serriola,,1 patch
+5e88902e-f5f1-55a6-9ec9-4a76b829a426,lapsana 1,truite 1,2020-08-08,07:19:58,lapsana communis,lapsane commune,3 individuals
+1b08bb46-c0fa-546f-828a-f0c44eb77725,leontodon 1,truite 1,2020-08-08,08:47:22,leontodon hispidus,liondent hispide,1 individual - “capitules penché avant la floraison tiges 3x plus longue que les feuilles +/- dréssé
+8691c99f-14e7-5aff-9ee9-ee44d37e8044,pastinaca 2,truite 1,2020-08-08,07:26:44,pastinaca sativa,panais cultivé,1 individual
+b0e1080e-3de8-5f26-b47f-89b0372343ca,polygonum 1,truite 1,2020-08-08,07:13:42,polygonum persicaria,renouée persicaire,2 individuals
+5756330e-2546-51f5-aab3-011cbabf1e26,silene 5,truite 1,2020-08-08,08:35:25,silene vulgaris,silène enflé,4 patches
+e897497c-8770-5c4e-8af9-446163a54922,solanum 2,truite 1,2020-08-08,07:22:52,solanum dulcamara,morelle douce-amère,1 individual
+815a47f4-e238-5d07-87fe-0a7801943153,urtica b,truite 1,2020-08-08,07:21:33,urtica dioica,ortie dioïque,2 large patches
+e33ec5a8-6504-5bde-85d6-22b4c1b4a9c0,veronica 2,truite 1,2020-08-08,07:15:53,veronica persica,véronique des jardins,
+747e9afc-f81f-58b0-8236-35d878d4a3bf,,truite 2,2020-08-22,06:58:44,petasites hybridus,pétasite hybride,
+d89ae2f1-df4a-5306-bf72-1501444cae7d,,truite 2,2020-08-22,06:57:49,clematis vitalba,clématite blanche,
+6e99182d-d2e8-5cf6-bc26-43e925eba033,,truite 2,2020-08-22,06:55:45,salix nigra,,perhaps not
+5c82d870-f492-5c4f-812e-b2bcc9d268bd,,truite 2,2020-08-22,06:55:12,solanum dulcamara,morelle douce-amère,
+078b3ff3-2637-5c0e-95d0-8fb51e23b484,,truite 2,2020-08-22,06:53:26,rumex obtusifolius,patience sauvage rumex à feuilles obtuses,
+fed5ac1e-92b1-59b5-8a17-36d5d1ae8ea6,,truite 2,2020-08-22,06:52:38,epilobium hirsutum,epilobe velu,
+8406c24c-da88-5a47-bda0-0ca6e051eff0,,truite 2,2020-08-22,06:51:26,polygonum aviculare agg.,renouée des oiseaux,
+f5298e0b-88bb-54bf-9503-084b443bc220,,truite 2,2020-08-22,06:50:01,rorippa islandica agg.,cresson des marais,
+58b01976-d446-5743-94ec-bb24a2959b3c,,truite 2,2020-08-22,06:48:25,tussilago farfara,pas d'âne tussilage,
+dca545ff-c4a6-5d8e-9fb0-a6bab8ab8292,,truite 2,2020-08-22,06:47:48,urtica dioica,ortie dioïque,
+fc0ea5ae-f517-515b-8adc-68dcb7485206,,truite 2,2020-08-22,06:47:08,mentha spicata agg.,menthe en grappe,
+a1c305c8-1ef1-58af-b237-77d789c99113,,truite 2,2020-08-22,06:40:05,persicaria lapathifolia,renouée à feuilles d'oseille renouée à feuilles de patience,maybe not
+a5aea9bd-e87a-53af-a4a4-d0a7ddbfcd82,,truite 2,2020-08-22,06:27:44,lathyrus latifolius,gesse à larges feuilles,
+4f3903fa-8c35-5530-a790-47291020b8f8,,truite 3,2020-08-06,18:28:26,phlox pilosa,phlox pubescent,
+c79c2539-0868-5a5d-b9bd-258805e83ba1,,truite 3,2020-08-06,18:26:03,urtica dioica,ortie dioïque,
+221b654f-3f7c-559f-a4b1-15d054ee0152,,truite 3,2020-08-06,18:24:04,salix purpurea,osier rouge saule pourpre,
+e9eaef75-728c-5eb5-b144-7a7ab0c5b1b7,,truite 3,2020-08-06,18:19:42,rosa spinosissima,rosier très épineux,
+a5aea9bd-e87a-53af-a4a4-d0a7ddbfcd82,,truite 3,2020-08-06,18:15:36,sambucus nigra,grand sureau sureau noir,
+3de78176-f550-5f36-9a28-3b4044c8f720,,truite 3,2020-08-06,18:14:39,rubus rubus sect.,,
+abf9b598-de46-5689-935d-ca8efb77c17b,,truite 3,2020-08-06,18:06:41,daucus carota,carotte sauvage,
+41da50ce-2b65-51a0-85b2-032d7cc84d8d,,truite 3,2020-08-06,18:05:59,trifolium pratense,trèfle des prés,
+0761027a-bef4-5f55-9207-6a963c345d6c,,truite 3,2020-08-06,18:05:34,silene vulgaris,silène enflé,3 patches
+2a418683-340e-59ad-a92c-e8ce313a2cdf,,truite 3,2020-08-06,18:04:50,centaurea scabiosa,centaurée scabieuse,
+98b86b0a-84a4-575d-ab8a-c46cac31a967,,truite 3,2020-08-06,18:04:16,lotus corniculatus agg.,lotier corniculé,
+42a8f5cd-b6c7-5401-98cb-dc150ba61c0f,,truite 3,2020-08-06,18:03:11,chenopodium album agg.,chénopode blanc,
+751050e0-40e2-50f5-8023-f3460621f20a,,truite 3,2020-08-06,18:02:15,leucanthemum vulgare agg.,marguerite précoce,
+225e9e94-220d-5851-a326-9979570d5a2b,,truite 3,2020-08-06,18:00:54,centaurea jacea agg.,centaurée jacée,
+7906053d-1225-51db-a5fb-678df49d8307,,truite 3,2020-08-06,17:59:18,cirsium arvense,cirse des champs,
+8a6ea4db-e470-506c-8949-22635e08a8e1,,truite 3,2020-08-06,17:57:15,galium mollugo agg.,gaillet commun gaillet blanc,
+1ab3f6dd-96ff-5d7e-925d-9967f63db4d4,,truite 4,2020-08-03,19:04:42,centaurea jacea agg.,centaurée jacée,
+3b325920-9557-5716-891d-ec2b06647775,,truite 4,2020-08-03,19:04:16,salvia pratensis agg.,sauge des prés,
+b59cceca-6d70-52e5-9e12-67c04f61658a,,truite 4,2020-08-03,18:59:56,cichorium intybus,chicorée sauvage,
+b756a3e0-a103-5421-af46-28109799113d,,truite 4,2020-08-06,18:52:20,hypericum perforatum,millepertuis perforé,
+884b8371-ce45-5b15-9355-3ade0bc6b3e8,,truite 4,2020-08-06,18:50:38,silene latifolia,compagnon blanc,
+a9420e14-80df-521c-9033-d313306531b0,,truite 4,2020-08-06,18:48:23,knautia arvensis agg.,knautie des champs,
+a5aea9bd-e87a-53af-a4a4-d0a7ddbfcd82,,truite 4,2020-08-06,18:39:19,cirsium arvense,cirse des champs,
+3fa98d72-39ea-5159-b8b9-3652931930eb,,truite 4,2020-08-06,18:38:12,rumex obtusifolius,patience sauvage rumex à feuilles obtuses,
+f49c6cb0-2f25-57ac-9a9b-64561983c228,,truite 4,2020-08-06,18:35:31,clinopodium vulgare,sarriette clinopode,
+accd536d-4d5a-59ae-9f56-65eaca7be661,,truite 4,2020-08-06,18:32:11,echium vulgare,,
+b526d28d-dc0e-5e72-9b4d-3e1a8eefbfa6,,truite 5,2020-08-29,03:51:05 PM,trifolium repens,trèfle rampant,
+7564c0bb-2799-5efb-9375-48b17dc32e8e,,truite 5,2020-08-29,03:49:18 PM,lotus corniculatus agg.,lotier corniculé,
+977238d1-b697-51fb-bf0f-e8aa4a8887e0,,truite 5,2020-08-29,03:48:27 PM,rubus rubus sect.,,
+7e8c3350-c197-5320-97dd-b0641672964a,,truite 5,2020-08-29,03:48:07 PM,clematis vitalba,clématite blanche,
+90c821ae-926e-597e-b5c1-30f83a71c0c7,,truite 5,2020-08-29,03:46:27 PM,lamium maculatum,lamier tacheté,
+72f9a432-72a0-5693-86a9-f4aeb00f01b9,,truite 5,2020-08-29,03:44:17 PM,verbena officinalis,verveine officinale,
+87c95631-9d7c-5a9b-acf2-baf0833a67b2,,truite 5,2020-08-29,03:42:46 PM,trifolium pratense,trèfle des prés,
+aca9c5d9-a97b-5cc9-a308-51977d00a74b,,truite 5,2020-08-29,03:37:44 PM,senecio jacobaea,séneçon jacobée herbe de st-jacques,
+72033182-bc70-5db6-b80b-df71b6dcbcef,,truite 5,2020-08-29,03:37:20 PM,galium mollugo agg.,gaillet commun gaillet blanc,
+3829f372-5968-5fad-8e07-6a17c4ad54b2,,truite 5,2020-08-29,03:34:46 PM,ranunculus acris agg.,bouton d'or renoncule âcre,
+520509f0-f91f-527d-8675-24a46a715e64,,truite 5,2020-08-29,03:34:17 PM,silene vulgaris,silène enflé,
+84f21fb9-5b64-53e5-b8f5-1bd7e3f2bc9e,,truite 5,2020-08-29,03:33:47 PM,linaria vulgaris agg.,linaire commune,
+7f2aa188-23be-5877-8b88-e0bab4056f11,,truite 5,2020-08-29,03:31:50 PM,potentilla reptans,quintefeuille,
+f68fd748-f63f-5c43-b4ee-ff9394930d42,,truite 5,2020-08-29,03:26:04 PM,rapistrum rugosum,,
+dbb6c24d-dd89-52a9-843c-f12f5d2d329d,,truite 5,2020-08-29,03:25:14 PM,malva moschata,mauve musquée,
+dbb6c24d-dd89-52a9-843c-f12f5d2d329d,,truite 5,2020-08-29,03:24:45 PM,daucus carota,carotte sauvage,
+8bdef823-0325-52fa-9f55-c8fac0c25f37,,truite 5,2020-08-29,03:24:17 PM,medicago varia,,
+a5aea9bd-e87a-53af-a4a4-d0a7ddbfcd82,,truite 5,2020-08-29,03:23:05 PM,reseda lutea,réséda jaune,
+eeb6ba94-b056-5e4b-8ee4-8ac9a433fdc2,angelica a,twann estuary,2020-08-25,10:40:09,angelica sylvestris,angélique sauvage,
+bd300057-b642-586e-844f-5cb24f4bc7a6,calystegia a,twann estuary,2020-08-25,09:36:51,calystegia sepium agg.,liseron des haies,
+b0ca5ea3-0613-535c-b577-b3bd77f3044b,cornus b,twann estuary,2020-08-25,09:43:41,cornus sanguinea,cornouiller sanguin,
+eeb6ba94-b056-5e4b-8ee4-8ac9a433fdc2,cymbalaria 1,twann estuary,2020-08-25,09:55:17,cymbalaria muralis,ruine de rome cymbalaire,
+69e71bfd-ef3c-506f-8682-c80d393b6fbf,daucus a,twann estuary,2020-08-25,09:52:50,daucus carota,carotte sauvage,
+b7f74ba0-859c-509d-a2e0-970abdfebec1,epilobium a,twann estuary,2020-08-25,09:54:05,epilobium hirsutum,epilobe velu,
+ad88344f-8d72-5cde-8169-62cb64cadc10,erigeron c,twann estuary,2020-08-25,10:07:56,erigeron annuus,vergerette annuelle,
+877624c4-fae3-591e-94e4-bfb2346b890f,galium a,twann estuary,2020-08-25,10:16:58,galium mollugo agg.,gaillet commun gaillet blanc,
+d0a6075e-b3fb-59a2-aaf6-d3843f5279ea,geranium 8,twann estuary,2020-08-25,10:54:12,geranium rotundifolium,géranium à feuilles rondes,
+bc131f5a-338b-513e-81cb-e905a5839e23,heracleum 1,twann estuary,2020-08-25,10:51:11,heracleum sphondylium,patte d'ours berce des prés,
+b0ca5ea3-0613-535c-b577-b3bd77f3044b,hieracium 1,twann estuary,2020-08-25,09:45:15,hieracium morulum,,could be murorum
+ba98c7f6-3d05-565b-8983-5dba74f17e95,lactuca 4,twann estuary,2020-08-25,10:47:42,lactuca serriola,laitue serriole,
+eeb6ba94-b056-5e4b-8ee4-8ac9a433fdc2,lathyrus a,twann estuary,2020-08-25,10:00:42,lathyrus latifolius,gesse à larges feuilles,
+b0ca5ea3-0613-535c-b577-b3bd77f3044b,lycopus 1,twann estuary,2020-08-25,09:38:15,lycopus europaeus,lycope d'europe pied de loup,
+eeb6ba94-b056-5e4b-8ee4-8ac9a433fdc2,rubus 4,twann estuary,2020-08-25,10:56:46,rubus rubus sect.,,
+2f2a8712-2b2e-52ed-972a-909e25cd7375,rubus b,twann estuary,2020-08-25,10:46:27,rubus caesius,ronce bleuâtre,
+eeb6ba94-b056-5e4b-8ee4-8ac9a433fdc2,silene b,twann estuary,2020-08-25,09:54:39,silene vulgaris,silène enflé,
+0e878b2b-a583-5bb3-ae27-5840386c7a62,trifolium a,twann estuary,2020-08-25,10:21:29,trifolium pratense,trèfle des prés,
+eeb6ba94-b056-5e4b-8ee4-8ac9a433fdc2,urtica a,twann estuary,2020-08-25,10:39:35,urtica dioica,ortie dioïque,
+413f2674-f09b-5f14-b6c3-efb7e23a4eaa,verbascum a,twann estuary,2020-08-25,10:53:19,verbascum densiflorum,bonhomme molène à fleurs denses,
+4d9cd8b2-2d4c-58ef-ab8f-df22f3abbf12,vicia a,twann estuary,2020-08-25,10:22:36,vicia cracca agg.,vesce cracca,
+a5aea9bd-e87a-53af-a4a4-d0a7ddbfcd82,,twann gorges,2020-08-05,10:43:18,pseudofumaria lutea,corydale jaune,
+16fd667b-7bf7-594f-a599-1300ebb8ca2a,,weissenau,2020-08-10,09:36:06,hippocrepis emerus,hippocrépide buissonnante coronille émérus,identified while walking along an elevated nature reserve path
+d4f07471-6088-5381-82a6-982a2af25c64,,weissenau,2020-08-10,09:33:41,mycelis muralis,laitue des murs,identified while walking along an elevated nature reserve path
+36be9c31-89f6-5665-b7cd-40e1b49c2e32,,weissenau,2020-08-10,09:27:47,calystegia sepium agg.,liseron des haies,identified while walking along an elevated nature reserve path
+36be9c31-89f6-5665-b7cd-40e1b49c2e32,,weissenau,2020-08-10,09:26:37,viburnum opulus,boule de neige viorne obier,identified while walking along an elevated nature reserve path
+0bb1f993-a364-5dcc-9b00-e9be3c0f08d2,,weissenau,2020-08-10,09:21:41,mentha aquatica agg.,menthe aquatique,identified while walking along an elevated nature reserve path
+72541ae3-aa72-58fa-9a9e-dd0aa0885a08,,weissenau,2020-08-10,09:19:21,sorbus aria agg.,alisier blanc,identified while walking along an elevated nature reserve path
+30ef8420-b9f7-50d3-9887-734d731a603b,,weissenau,2020-08-10,09:14:53,allium carinatum,ail caréné,identified while walking along an elevated nature reserve path
+30ef8420-b9f7-50d3-9887-734d731a603b,,weissenau,2020-08-10,09:09:48,viburnum lantana,mancienne viorne lantane,identified while walking along an elevated nature reserve path
+0bb1f993-a364-5dcc-9b00-e9be3c0f08d2,,weissenau,2020-08-10,09:07:35,filipendula ulmaria,reine des prés spirée,identified while walking along an elevated nature reserve path
+d4f07471-6088-5381-82a6-982a2af25c64,,weissenau,2020-08-10,09:05:26,lythrum salicaria,salicaire commune,identified while walking along an elevated nature reserve path
+d4f07471-6088-5381-82a6-982a2af25c64,,weissenau,2020-08-10,09:04:12,lysimachia vulgaris,lysimaque commune,identified while walking along an elevated nature reserve path
