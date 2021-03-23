@@ -3,6 +3,7 @@
 */.ipynb_checkpoints/*
 
 # generated data
+/archive/*
 /resources/surveydata/*
 /resources/sourcestobigforgithub/
 /resources/statentpop/ag-b-00.03-22-STATENT2017/STATENT2017_N08_V190822.csv
