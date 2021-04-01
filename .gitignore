@@ -4,6 +4,7 @@
 
 # generated data
 /archive/*
+/shape_files/*
 /resources/surveydata/*
 /resources/sourcestobigforgithub/
 /resources/statentpop/ag-b-00.03-22-STATENT2017/STATENT2017_N08_V190822.csv
