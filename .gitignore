@@ -4,6 +4,7 @@
 
 # generated data
 /archive/*
+/data/2021
 /shape_files/*
 /resources/surveydata/*
 /resources/sourcestobigforgithub/
