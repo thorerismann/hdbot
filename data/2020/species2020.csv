@@ -1,0 +1,938 @@
+,place,date,time,species,name,string_list,species1,a_new_name
+0,alleestrasse-1,2020-09-02,11:09:04 AM,plantago lanceolata,plantain lancéolé,"['plantago', 'lanceolata']",plantago lanceolata,plantago lanceolatathree
+1,alleestrasse-1,2020-09-02,11:08:19 AM,centaurea nigra,centaurée noire,"['centaurea', 'nigra']",centaurea nigra,centaurea nigrathree
+2,alleestrasse-1,2020-09-02,11:06:59 AM,plantago media,plantain moyen,"['plantago', 'media']",plantago media,plantago mediathree
+3,alleestrasse-1,2020-09-02,11:06:05 AM,chenopodium album,chénopode blanc,"['chenopodium', 'album', 'agg.']",chenopodium album,chenopodium albumthree
+4,alleestrasse-1,2020-09-02,11:05:18 AM,centaurea jacea,centaurée jacée,"['centaurea', 'jacea', 'agg.']",centaurea jacea,centaurea jaceathree
+5,alleestrasse-1,2020-09-02,11:02:44 AM,veronica persica,véronique des jardins,"['veronica', 'persica']",veronica persica,veronica persicathree
+6,alleestrasse-1,2020-09-02,11:00:32 AM,geranium pyrenaicum,géranium des pyrénées,"['geranium', 'pyrenaicum']",geranium pyrenaicum,geranium pyrenaicumthree
+7,alleestrasse-1,2020-07-28,10:18:22,centaurea jacea,centaurée jacée,"['centaurea', 'jacea', 'agg.']",centaurea jacea,centaurea jaceathree
+8,alleestrasse-1,2020-07-28,10:15:25,daucus carota,carotte sauvage,"['daucus', 'carota']",daucus carota,daucus carotathree
+9,alleestrasse-1,2020-07-28,10:12:44,centaurea jacea,centaurée jacée,"['centaurea', 'jacea', 'agg.']",centaurea jacea,centaurea jaceathree
+10,alleestrasse-2,2020-07-31,10:41:57,mentha spicata,menthe en grappe,"['mentha', 'spicata', 'agg.']",mentha spicata,mentha spicatathree
+11,alleestrasse-2,2020-07-31,10:36:21,pastinaca sativa,panais cultivé,"['pastinaca', 'sativa']",pastinaca sativa,pastinaca sativathree
+12,alleestrasse-2,2020-07-31,10:34:12,galium mollugo,"gaillet commun, gaillet blanc","['galium', 'mollugo', 'agg.']",galium mollugo,galium mollugothree
+13,alleestrasse-2,2020-07-31,10:32:28,trifolium pratense,trèfle des prés,"['trifolium', 'pratense']",trifolium pratense,trifolium pratensethree
+14,alleestrasse-2,2020-07-31,10:29:38,daucus carota,carotte sauvage,"['daucus', 'carota']",daucus carota,daucus carotathree
+15,alleestrasse-3,16.06.2020,,achillea millefolium,,"['achillea', 'millefolium', 'agg.']",achillea millefolium,achillea millefoliumthree
+16,alleestrasse-3,16.06.2020,,sedum album,,"['sedum', 'album']",sedum album,sedum albumthree
+17,alleestrasse-3,16.06.2020,,chaerophyllum hirsutum,,"['chaerophyllum', 'hirsutum']",chaerophyllum hirsutum,chaerophyllum hirsutumthree
+18,alleestrasse-3,16.06.2020,,erigeron annuus,,"['erigeron', 'annuus']",erigeron annuus,erigeron annuusthree
+19,alleestrasse-3,2020-07-31,10:44:13,epilobium hirsutum,epilobe velu,"['epilobium', 'hirsutum']",epilobium hirsutum,epilobium hirsutumthree
+20,alleestrasse-4,06.06.2020,,verbascum thapsus,,"['verbascum', 'thapsus']",verbascum thapsus,verbascum thapsusthree
+21,alleestrasse-4,16.06.2020,,trifolium pratense,,"['trifolium', 'pratense']",trifolium pratense,trifolium pratensethree
+22,alleestrasse-4,06.06.2020,,silene latifolia,,"['silene', 'latifolia']",silene latifolia,silene latifoliathree
+23,alleestrasse-4,06.06.2020,,silene dichotoma,,"['silene', 'dichotoma']",silene dichotoma,silene dichotomathree
+24,alleestrasse-4,11.07.2020,,verbanum bonariensis ,,"['verbanum', 'bonariensis', '']",verbanum bonariensis ,verbanum bonariensis three
+25,alleestrasse-4,16.06.2020,,achillea millefolium,,"['achillea', 'millefolium']",achillea millefolium,achillea millefoliumthree
+26,bluets-1,2020-08-13,18:22:52,clinopodium vulgare,sarriette clinopode,"['clinopodium', 'vulgare']",clinopodium vulgare,clinopodium vulgarethree
+27,bluets-1,2020-08-13,18:18:04,centaurea jacea,centaurée jacée,"['centaurea', 'jacea', 'agg.']",centaurea jacea,centaurea jaceathree
+28,bluets-1,2020-08-13,18:17:19,centaurea jacea,centaurée jacée,"['centaurea', 'jacea', 'agg.']",centaurea jacea,centaurea jaceathree
+29,bluets-1,2020-08-13,18:15:56,scabiosa columbaria,scabieuse colombaire,"['scabiosa', 'columbaria', 'agg.']",scabiosa columbaria,scabiosa columbariathree
+30,bluets-1,2020-08-13,18:14:52,silene latifolia,compagnon blanc,"['silene', 'latifolia']",silene latifolia,silene latifoliathree
+31,bluets-1,2020-08-13,18:13:35,trifolium pratense,,"['trifolium', 'pratense']",trifolium pratense,trifolium pratensethree
+32,bluets-1,2020-08-13,18:12:21,trifolium repens,trèfle rampant,"['trifolium', 'repens']",trifolium repens,trifolium repensthree
+33,bluets-1,2020-08-13,09:59:23,silene vulgaris,silène enflé,"['silene', 'vulgaris']",silene vulgaris,silene vulgaristhree
+34,bluets-1,2020-08-13,09:57:26,silene latifolia,compagnon blanc,"['silene', 'latifolia']",silene latifolia,silene latifoliathree
+35,bluets-1,2020-08-13,09:55:36,epilobium hirsutum,epilobe velu,"['epilobium', 'hirsutum']",epilobium hirsutum,epilobium hirsutumthree
+36,bluets-1,2020-08-13,09:52:21,crepis capillaris,crépide capillaire,"['crepis', 'capillaris']",crepis capillaris,crepis capillaristhree
+37,bluets-1,2020-08-13,09:51:36,melilotus albus,mélilot blanc,"['melilotus', 'albus']",melilotus albus,melilotus albusthree
+38,bluets-1,2020-08-13,09:47:24,erigeron annuus,vergerette annuelle,"['erigeron', 'annuus']",erigeron annuus,erigeron annuusthree
+39,bluets-1,2020-08-13,09:32:02,veronica persica,véronique des jardins,"['veronica', 'persica']",veronica persica,veronica persicathree
+40,bluets-1,2020-08-13,09:26:29,malva neglecta,petite mauve,"['malva', 'neglecta']",malva neglecta,malva neglectathree
+41,bluets-1,2020-08-13,09:25:10,cirsium arvense,cirse des champs,"['cirsium', 'arvense']",cirsium arvense,cirsium arvensethree
+42,bluets-1,2020-08-13,09:23:47,calystegia sepium,liseron des haies,"['calystegia', 'sepium', 'agg.']",calystegia sepium,calystegia sepiumthree
+43,bluets-1,2020-08-13,09:23:11,galium mollugo,"gaillet commun, gaillet blanc","['galium', 'mollugo', 'agg.']",galium mollugo,galium mollugothree
+44,bluets-1,2020-08-13,09:20:59,brassica napus,,"['brassica', 'napus']",brassica napus,brassica napusthree
+45,bluets-1,2020-08-13,09:20:00,silene latifolia,compagnon blanc,"['silene', 'latifolia']",silene latifolia,silene latifoliathree
+46,bluets-1,2020-08-13,09:19:03,lotus corniculatus,lotier corniculé,"['lotus', 'corniculatus', 'agg.']",lotus corniculatus,lotus corniculatusthree
+47,bluets-1,2020-08-13,09:18:31,trifolium pratense,trèfle des prés,"['trifolium', 'pratense']",trifolium pratense,trifolium pratensethree
+48,bluets-1,2020-08-13,09:17:23,medicago sativa,,"['medicago', 'varia']",medicago sativa,medicago sativathree
+49,bluets-2,10.07.2020,,hypericum perforatum,,"['hypericum', 'perforatum']",hypericum perforatum,hypericum perforatumthree
+50,bluets-2,12.06.2020,05:00:00 PM,tragopogon pratensis,,"['tragopogon', 'pratensis']",tragopogon pratensis,tragopogon pratensisthree
+51,bluets-2,12.06.2020,05:00:00 PM,geranium pyrenaicum,,"['geranium', 'pyrenaicum']",geranium pyrenaicum,geranium pyrenaicumthree
+52,bluets-2,12.06.2020,05:00:00 PM,knautia arvensis,,"['knautia', 'arvensis', 'agg.']",knautia arvensis,knautia arvensisthree
+53,bluets-2,12.06.2020,05:00:00 PM,centaurea jacea,,"['centaurea', 'jacea', 'agg.']",centaurea jacea,centaurea jaceathree
+54,bluets-2,12.06.2020,05:00:00 PM,galium mollugo,,"['galium', 'mollugo', 'agg.']",galium mollugo,galium mollugothree
+55,bluets-2,12.06.2020,05:00:00 PM,leucanthemum vulgare,,"['leucanthemum', 'vulgare', 'agg.']",leucanthemum vulgare,leucanthemum vulgarethree
+56,bluets-2,12.06.2020,05:00:00 PM,vicia sepium,,"['vicia', 'sepium']",vicia sepium,vicia sepiumthree
+57,bluets-3,28.06.2020,,tragopogon pratensis,,"['tragopogon', 'pratensis']",tragopogon pratensis,tragopogon pratensisthree
+58,bluets-3,28.06.2020,,senecio inaequidens,,"['senecio', 'inaequidens']",senecio inaequidens,senecio inaequidensthree
+59,bluets-3,28.06.2020,,knautia arvensis,,"['knautia', 'arvensis', 'agg.']",knautia arvensis,knautia arvensisthree
+60,bluets-3,28.06.2020,,medicago sativa,,"['medicago', 'sativa']",medicago sativa,medicago sativathree
+61,bluets-3,28.06.2020,,dianthus carthusianorum,,"['dianthus', 'carthusianorum', 'agg.']",dianthus carthusianorum,dianthus carthusianorumthree
+62,bluets-3,28.06.2020,,mentha longifolia,,"['mentha', 'longifolia']",mentha longifolia,mentha longifoliathree
+63,bluets-3,28.06.2020,,lapsana communis,,"['lapsana', 'communis']",lapsana communis,lapsana communisthree
+64,bluets-3,28.06.2020,,galium mollugo,,"['galium', 'mollugo', 'agg.']",galium mollugo,galium mollugothree
+65,bluets-3,28.06.2020,,erigeron annuus,,"['erigeron', 'annuus']",erigeron annuus,erigeron annuusthree
+66,boujean-1,09.06.2020,,medicago lupulina,,"['medicago', 'lupulina']",medicago lupulina,medicago lupulinathree
+67,boujean-1,09.06.2020,,cichorium intybus,,"['cichorium', 'intybus']",cichorium intybus,cichorium intybusthree
+68,boujean-1,09.06.2020,,potentilla reptans,,"['potentilla', 'reptans']",potentilla reptans,potentilla reptansthree
+69,boujean-2,09.06.2020,03:00:00 PM,papaver rhoeas,,"['papaver', 'rhoeas']",papaver rhoeas,papaver rhoeasthree
+70,boujean-2,09.06.2020,03:00:00 PM,hypericum maculatum,,"['hypericum', 'maculatum']",hypericum maculatum,hypericum maculatumthree
+71,boujean-2,09.06.2020,03:00:00 PM,trifolium pratense,,"['trifolium', 'pratense']",trifolium pratense,trifolium pratensethree
+72,boujean-2,09.06.2020,03:00:00 PM,erigeron annuus,,"['erigeron', 'annuus']",erigeron annuus,erigeron annuusthree
+73,boujean-2,09.06.2020,03:00:00 PM,medicago lupulina,,"['medicago', 'lupulina']",medicago lupulina,medicago lupulinathree
+74,boujean-2,18.06.2020,,medicago lupulina,,"['medicago', 'lupulina']",medicago lupulina,medicago lupulinathree
+75,boujean-2,18.06.2020,,arenaria serpyllifolia,,"['arenaria', 'serpyllifolia']",arenaria serpyllifolia,arenaria serpyllifoliathree
+76,boujean-2,18.06.2020,,crepis capillaris,,"['crepis', 'capillaris']",crepis capillaris,crepis capillaristhree
+77,boujean-2,18.06.2020,,clinopodium acinos,,"['clinopodium', 'acinos']",clinopodium acinos,clinopodium acinosthree
+78,boujean-3,18.06.2020,,trifolium pratense,,"['trifolium', 'pratense']",trifolium pratense,trifolium pratensethree
+79,boujean-3,18.06.2020,,crepis capillaris,,"['crepis', 'capillaris']",crepis capillaris,crepis capillaristhree
+80,boujean-3,18.06.2020,,potentilla reptans,,"['potentilla', 'reptans']",potentilla reptans,potentilla reptansthree
+81,boujean-3,18.06.2020,,senecio inaequidens,,"['senecio', 'inaequidens']",senecio inaequidens,senecio inaequidensthree
+82,boujean-3,18.06.2020,,cichorium intybus,,"['cichorium', 'intybus']",cichorium intybus,cichorium intybusthree
+83,boujean-3,18.06.2020,,erigeron annuus,,"['erigeron', 'annuus']",erigeron annuus,erigeron annuusthree
+84,buren-1,2020-09-03,02:23:30 PM,lavandula angustifolia,lavande vraie,"['lavandula', 'angustifolia']",lavandula angustifolia,lavandula angustifoliathree
+85,buren-1,2020-09-03,02:22:55 PM,eupatorium cannabinum,eupatoire chanvrine,"['eupatorium', 'cannabinum']",eupatorium cannabinum,eupatorium cannabinumthree
+86,buren-1,2020-09-03,02:22:30 PM,cichorium intybus,chicorée sauvage,"['cichorium', 'intybus']",cichorium intybus,cichorium intybusthree
+87,buren-1,2020-09-03,02:21:15 PM,vicia sepium,vesce des haies,"['vicia', 'sepium']",vicia sepium,vicia sepiumthree
+88,buren-1,2020-09-03,02:19:57 PM,trifolium pratense,trèfle des prés,"['trifolium', 'pratense']",trifolium pratense,trifolium pratensethree
+89,buren-1,2020-09-03,02:19:38 PM,lotus corniculatus,lotier corniculé,"['lotus', 'corniculatus', 'agg.']",lotus corniculatus,lotus corniculatusthree
+90,buren-1,2020-09-03,02:18:36 PM,solidago canadensis,solidage du canada,"['solidago', 'canadensis']",solidago canadensis,solidago canadensisthree
+91,buren-1,2020-09-03,02:09:44 PM,hypericum perforatum,millepertuis perforé,"['hypericum', 'perforatum']",hypericum perforatum,hypericum perforatumthree
+92,buren-1,2020-09-03,02:09:18 PM,senecio inaequidens,séneçon sud-africain,"['senecio', 'inaequidens']",senecio inaequidens,senecio inaequidensthree
+93,buren-1,2020-09-03,02:07:34 PM,hypericum perforatum,millepertuis perforé,"['hypericum', 'perforatum']",hypericum perforatum,hypericum perforatumthree
+94,buren-1,2020-09-03,02:06:51 PM,epilobium dodonaei,epilobe romarin,"['epilobium', 'dodonaei']",epilobium dodonaei,epilobium dodonaeithree
+95,buren-1,2020-09-03,02:06:23 PM,daucus carota,carotte sauvage,"['daucus', 'carota']",daucus carota,daucus carotathree
+96,buren-1,2020-09-03,02:05:58 PM,erigeron annuus,vergerette annuelle,"['erigeron', 'annuus']",erigeron annuus,erigeron annuusthree
+97,buren-1,2020-09-03,02:05:30 PM,leucanthemum vulgare,marguerite précoce,"['leucanthemum', 'vulgare', 'agg.']",leucanthemum vulgare,leucanthemum vulgarethree
+98,buren-1,2020-09-03,02:04:31 PM,centaurea jacea,centaurée jacée,"['centaurea', 'jacea', 'agg.']",centaurea jacea,centaurea jaceathree
+99,buren-1,2020-09-03,02:03:19 PM,echium vulgare,vipérine commune,"['echium', 'vulgare']",echium vulgare,echium vulgarethree
+100,buren-1,2020-09-03,02:02:59 PM,galium mollugo,"gaillet commun, gaillet blanc","['galium', 'mollugo', 'agg.']",galium mollugo,galium mollugothree
+101,buren-1,2020-09-03,02:02:35 PM,taraxacum,"pissenlit, dent-de-lion",['taraxacum'],taraxacum,taraxacumthree
+102,buren-1,2020-09-03,02:01:47 PM,ranunculus acris,"bouton d'or, renoncule âcre","['ranunculus', 'acris', 'agg.']",ranunculus acris,ranunculus acristhree
+103,buren-1,2020-09-03,01:58:49 PM,clematis vitalba,clématite blanche,"['clematis', 'vitalba']",clematis vitalba,clematis vitalbathree
+104,buren-1,2020-09-03,01:57:38 PM,dianthus armeria,oeillet arméria,"['dianthus', 'armeria']",dianthus armeria,dianthus armeriathree
+105,buren-1,2020-09-03,01:56:01 PM,senecio inaequidens,,"['senecio', 'inaequidens']",senecio inaequidens,senecio inaequidensthree
+106,buren-2,2020-09-03,01:52:29 PM,centranthus ruber,centranthe rouge,"['centranthus', 'ruber']",centranthus ruber,centranthus ruberthree
+107,buren-2,2020-09-03,01:51:30 PM,cichorium intybus,chicorée sauvage,"['cichorium', 'intybus']",cichorium intybus,cichorium intybusthree
+108,buren-2,2020-09-03,01:50:36 PM,chelidonium majus,"chélidoine, herbe aux verrues","['chelidonium', 'majus']",chelidonium majus,chelidonium majusthree
+109,buren-2,2020-09-03,01:48:59 PM,cornus sanguinea,cornouiller sanguin,"['cornus', 'sanguinea']",cornus sanguinea,cornus sanguineathree
+110,buren-2,2020-09-03,01:47:30 PM,verbena officinalis,verveine officinale,"['verbena', 'officinalis']",verbena officinalis,verbena officinalisthree
+111,buren-2,2020-08-04,10:44:07,potentilla reptans,quintefeuille,"['potentilla', 'reptans']",potentilla reptans,potentilla reptansthree
+112,buren-2,2020-08-04,10:42:44,bryonia dioica,bryone dioïque,"['bryonia', 'dioica']",bryonia dioica,bryonia dioicathree
+113,buren-2,2020-08-04,10:24:31,sorbus aucuparia,sorbier des oiseleurs,"['sorbus', 'aucuparia']",sorbus aucuparia,sorbus aucupariathree
+114,buren-2,2020-08-04,10:23:09,sambucus nigra,"grand sureau, sureau noir","['sambucus', 'nigra']",sambucus nigra,sambucus nigrathree
+115,buren-2,2020-08-04,10:20:36,echium vulgare,vipérine commune,"['echium', 'vulgare']",echium vulgare,echium vulgarethree
+116,buren-2,2020-08-04,10:17:16,silene latifolia,compagnon blanc,"['silene', 'latifolia']",silene latifolia,silene latifoliathree
+117,buren-2,2020-08-04,10:11:22,cichorium intybus,chicorée sauvage,"['cichorium', 'intybus']",cichorium intybus,cichorium intybusthree
+118,buren-2,2020-08-04,10:08:59,geranium robertianum,géranium herbe à robert,"['geranium', 'robertianum', 'agg.']",geranium robertianum,geranium robertianumthree
+119,buren-2,2020-08-04,10:07:15,urtica dioica,ortie dioïque,"['urtica', 'dioica']",urtica dioica,urtica dioicathree
+120,buren-2,2020-08-04,10:06:05,sambucus nigra,"grand sureau, sureau noir","['sambucus', 'nigra']",sambucus nigra,sambucus nigrathree
+121,buren-2,2020-08-07,15:53:32,geranium pyrenaicum,géranium des pyrénées,"['geranium', 'pyrenaicum']",geranium pyrenaicum,geranium pyrenaicumthree
+122,buren-2,2020-08-07,15:51:35,melilotus albus,mélilot blanc,"['melilotus', 'albus']",melilotus albus,melilotus albusthree
+123,buren-2,2020-08-07,15:50:01,echium vulgare,vipérine commune,"['echium', 'vulgare']",echium vulgare,echium vulgarethree
+124,buren-2,2020-08-07,15:48:13,senecio inaequidens,séneçon sud-africain,"['senecio', 'inaequidens']",senecio inaequidens,senecio inaequidensthree
+125,buren-2,2020-08-07,15:46:50,lavandula angustifolia,lavande vraie,"['lavandula', 'angustifolia']",lavandula angustifolia,lavandula angustifoliathree
+126,buren-2,2020-08-07,15:45:24,trifolium pratense,trèfle des prés,"['trifolium', 'pratense']",trifolium pratense,trifolium pratensethree
+127,buren-2,2020-08-07,15:43:35,daucus carota,carotte sauvage,"['daucus', 'carota']",daucus carota,daucus carotathree
+128,buren-2,2020-08-07,15:41:38,clematis vitalba,clématite blanche,"['clematis', 'vitalba']",clematis vitalba,clematis vitalbathree
+129,buren-2,2020-08-07,15:39:50,hypericum perforatum,millepertuis perforé,"['hypericum', 'perforatum']",hypericum perforatum,hypericum perforatumthree
+130,buren-2,2020-08-07,15:37:34,eupatorium cannabinum,eupatoire chanvrine,"['eupatorium', 'cannabinum']",eupatorium cannabinum,eupatorium cannabinumthree
+131,buren-2,2020-08-07,15:36:17,solidago canadensis,solidage du canada,"['solidago', 'canadensis']",solidago canadensis,solidago canadensisthree
+132,buren-2,2020-08-07,15:33:49,epilobium dodonaei,epilobe romarin,"['epilobium', 'dodonaei']",epilobium dodonaei,epilobium dodonaeithree
+133,buren-3,2020-09-03,01:41:08 PM,cornus sanguinea,cornouiller sanguin,"['cornus', 'sanguinea']",cornus sanguinea,cornus sanguineathree
+134,buren-3,2020-09-03,01:40:18 PM,rubus,ronce,['rubus'],rubus,rubusthree
+135,buren-3,2020-09-03,01:37:07 PM,rubus armeniacus,"ronce d'arménie, ronce des jardins","['rubus', 'armeniacus']",rubus armeniacus,rubus armeniacusthree
+136,buren-3,2020-09-03,01:35:57 PM,erigeron annuus,vergerette annuelle,"['erigeron', 'annuus']",erigeron annuus,erigeron annuusthree
+137,cff-lot-1,2020-09-28,13:57:29,knautia arvensis,knautie des champs,"['knautia', 'arvensis', 'agg.']",knautia arvensis,knautia arvensisthree
+138,cff-lot-1,2020-09-28,13:55:16,polygonum aviculare,renouée des oiseaux,"['polygonum', 'aviculare', 'agg.']",polygonum aviculare,polygonum avicularethree
+139,cff-lot-1,2020-09-28,13:54:39,trifolium pratense,trèfle des prés,"['trifolium', 'pratense']",trifolium pratense,trifolium pratensethree
+140,cff-lot-1,2020-09-28,13:52:13,rubus rubus sect.,,"['rubus', 'rubus', 'sect.']",rubus rubus sect.,rubus rubus sect.three
+141,cff-lot-1,2020-09-28,13:51:25,lamium maculatum,lamier tacheté,"['lamium', 'maculatum']",lamium maculatum,lamium maculatumthree
+142,cff-lot-1,2020-09-28,13:50:34,sonchus oleraceus,laiteron maraîcher,"['sonchus', 'oleraceus']",sonchus oleraceus,sonchus oleraceusthree
+143,cff-lot-1,2020-09-28,13:49:21,mentha spicata,menthe en grappe,"['mentha', 'spicata', 'agg.']",mentha spicata,mentha spicatathree
+144,cff-lot-1,2020-09-28,13:46:56,galeopsis tetrahit,"ortie royale, galéopsis tétrahit","['galeopsis', 'tetrahit', 'agg.']",galeopsis tetrahit,galeopsis tetrahitthree
+145,cff-lot-1,2020-09-28,13:45:39,galium mollugo,"gaillet commun, gaillet blanc","['galium', 'mollugo', 'agg.']",galium mollugo,galium mollugothree
+146,cff-lot-1,2020-09-28,13:44:38,cornus sanguinea,cornouiller sanguin,"['cornus', 'sanguinea']",cornus sanguinea,cornus sanguineathree
+147,cff-lot-1,2020-09-28,13:44:01,urtica dioica,ortie dioïque,"['urtica', 'dioica']",urtica dioica,urtica dioicathree
+148,cff-lot-1,2020-09-28,13:42:45,artemisia vulgaris,armoise commune,"['artemisia', 'vulgaris', 'agg.']",artemisia vulgaris,artemisia vulgaristhree
+149,cff-lot-1,2020-09-28,13:41:15,erigeron annuus,vergerette annuelle,"['erigeron', 'annuus']",erigeron annuus,erigeron annuusthree
+150,cff-lot-2,2020-09-28,14:16:02,medicago lupulina,"minette, luzerne lupuline","['medicago', 'lupulina']",medicago lupulina,medicago lupulinathree
+151,cff-lot-2,2020-09-28,14:15:04,parthenocissus quinquefolia,vigne vierge à cinq folioles,"['parthenocissus', 'quinquefolia', 'agg.']",parthenocissus quinquefolia,parthenocissus quinquefoliathree
+152,cff-lot-2,2020-09-28,14:13:58,medicago sativa,,"['medicago', 'sativa']",medicago sativa,medicago sativathree
+153,cff-lot-2,2020-09-28,14:13:12,galium mollugo,"gaillet commun, gaillet blanc","['galium', 'mollugo', 'agg.']",galium mollugo,galium mollugothree
+154,cff-lot-2,2020-09-28,14:10:44,malus sylvestris,pommier sauvage,"['malus', 'sylvestris', 'agg.']",malus sylvestris,malus sylvestristhree
+155,cff-lot-2,2020-09-28,14:09:46,rubus rubus sect.,,"['rubus', 'rubus', 'sect.']",rubus rubus sect.,rubus rubus sect.three
+156,cff-lot-2,2020-09-28,14:08:32,eupatorium cannabinum,eupatoire chanvrine,"['eupatorium', 'cannabinum']",eupatorium cannabinum,eupatorium cannabinumthree
+157,cff-lot-2,2020-09-28,14:07:05,erigeron annuus,vergerette annuelle,"['erigeron', 'annuus']",erigeron annuus,erigeron annuusthree
+158,cff-lot-2,2020-09-28,14:06:13,trifolium pratense,trèfle des prés,"['trifolium', 'pratense']",trifolium pratense,trifolium pratensethree
+159,cff-lot-2,2020-09-28,14:04:48,solidago canadensis,solidage du canada,"['solidago', 'canadensis']",solidago canadensis,solidago canadensisthree
+160,cff-path-1,2020-09-11,11:20:01,borkhausenia intermedia,sorbier intermédiaire,"['borkhausenia', 'intermedia']",borkhausenia intermedia,borkhausenia intermediathree
+161,cff-path-1,2020-09-11,11:17:29,calystegia sepium,liseron des haies,"['calystegia', 'sepium', 'agg.']",calystegia sepium,calystegia sepiumthree
+162,cff-path-1,2020-09-11,11:17:05,epilobium hirsutum,epilobe velu,"['epilobium', 'hirsutum']",epilobium hirsutum,epilobium hirsutumthree
+163,cff-path-1,2020-09-11,11:15:55,solidago canadensis,solidage du canada,"['solidago', 'canadensis']",solidago canadensis,solidago canadensisthree
+164,cff-path-1,2020-09-11,11:15:13,solanum nigrum,morelle noire,"['solanum', 'nigrum']",solanum nigrum,solanum nigrumthree
+165,cff-path-1,2020-09-11,11:14:34,malva neglecta,petite mauve,"['malva', 'neglecta']",malva neglecta,malva neglectathree
+166,cff-path-1,2020-09-11,11:13:45,urtica dioica,ortie dioïque,"['urtica', 'dioica']",urtica dioica,urtica dioicathree
+167,cff-path-1,2020-09-11,11:13:21,chenopodium album,chénopode blanc,"['chenopodium', 'album', 'agg.']",chenopodium album,chenopodium albumthree
+168,cff-path-1,2020-09-11,11:11:32,erodium cicutarium,bec de grue commun,"['erodium', 'cicutarium', 'agg.']",erodium cicutarium,erodium cicutariumthree
+169,cff-path-2,2020-07-28,11:21:24,malva neglecta,,"['malva', 'neglecta']",malva neglecta,malva neglectathree
+170,cff-path-2,2020-07-28,11:17:18,alcea rosea,"passerose, rose trémière","['alcea', 'rosea']",alcea rosea,alcea roseathree
+171,cff-path-2,2020-07-31,11:03:48,arctium minus,bardane à petits capitules,"['arctium', 'minus']",arctium minus,arctium minusthree
+172,cff-path-2,2020-07-31,11:07:46,carduus crispus,chardon crépu,"['carduus', 'crispus']",carduus crispus,carduus crispusthree
+173,cff-path-2,2020-07-31,10:55:39,carduus crispus,chardon crépu,"['carduus', 'crispus']",carduus crispus,carduus crispusthree
+174,cff-path-2,2020-07-31,11:06:04,convolvulus arvensis,liseron des champs,"['convolvulus', 'arvensis']",convolvulus arvensis,convolvulus arvensisthree
+175,cff-path-2,2020-07-31,10:59:27,oxalis dillenii,oxalis de dillenius,"['oxalis', 'dillenii']",oxalis dillenii,oxalis dilleniithree
+176,cff-path-2,2020-07-31,10:56:56,sambucus nigra,"grand sureau, sureau noir","['sambucus', 'nigra']",sambucus nigra,sambucus nigrathree
+177,cff-path-2,2020-07-31,10:48:43,crataegus monogyna,"aubépine à un style, epine blanche","['crataegus', 'monogyna']",crataegus monogyna,crataegus monogynathree
+178,cff-path-3,2020-08-07,18:09:15,epilobium hirsutum,epilobe velu,"['epilobium', 'hirsutum']",epilobium hirsutum,epilobium hirsutumthree
+179,cff-path-3,2020-08-07,18:06:39,erigeron annuus,vergerette annuelle,"['erigeron', 'annuus']",erigeron annuus,erigeron annuusthree
+180,cff-path-3,2020-08-07,18:11:03,geranium pyrenaicum,géranium des pyrénées,"['geranium', 'pyrenaicum']",geranium pyrenaicum,geranium pyrenaicumthree
+181,cff-path-3,2020-08-07,18:14:58,medicago lupulina,"minette, luzerne lupuline","['medicago', 'lupulina']",medicago lupulina,medicago lupulinathree
+182,cff-path-3,2020-08-07,18:07:44,robinia pseudoacacia,robinier,"['robinia', 'pseudoacacia']",robinia pseudoacacia,robinia pseudoacaciathree
+183,cff-path-3,2020-08-07,18:12:55,solanum nigrum,morelle noire,"['solanum', 'nigrum']",solanum nigrum,solanum nigrumthree
+184,cff-path-3,2020-08-07,18:06:01,urtica dioica,ortie dioïque,"['urtica', 'dioica']",urtica dioica,urtica dioicathree
+185,chapelle,2020-09-02,04:36:55 PM,erigeron annuus,vergerette annuelle,"['erigeron', 'annuus']",erigeron annuus,erigeron annuusthree
+186,chapelle,2020-09-02,04:21:30 PM,centaurea scabiosa,centaurée scabieuse,"['centaurea', 'scabiosa']",centaurea scabiosa,centaurea scabiosathree
+187,chapelle,2020-09-02,04:16:46 PM,campanula rotundifolia,campanule à feuilles rondes,"['campanula', 'rotundifolia', 'agg.']",campanula rotundifolia,campanula rotundifoliathree
+188,chapelle,2020-09-02,04:16:09 PM,daucus carota,carotte sauvage,"['daucus', 'carota']",daucus carota,daucus carotathree
+189,chapelle,2020-09-02,04:14:27 PM,vicia cracca,vesce cracca,"['vicia', 'cracca', 'agg.']",vicia cracca,vicia craccathree
+190,chapelle,2020-09-02,04:13:37 PM,mentha spicata,menthe en grappe,"['mentha', 'spicata', 'agg.']",mentha spicata,mentha spicatathree
+191,chapelle,2020-09-02,04:12:56 PM,lycopus europaeus,"lycope d'europe, pied de loup","['lycopus', 'europaeus']",lycopus europaeus,lycopus europaeusthree
+192,chapelle,2020-09-02,04:11:42 PM,verbascum thapsus,"bouillon blanc, molène thapsus","['verbascum', 'thapsus']",verbascum thapsus,verbascum thapsusthree
+193,chapelle,2020-09-02,04:11:10 PM,leucanthemum vulgare,marguerite précoce,"['leucanthemum', 'vulgare', 'agg.']",leucanthemum vulgare,leucanthemum vulgarethree
+194,chapelle,2020-09-02,04:10:14 PM,geranium pyrenaicum,géranium des pyrénées,"['geranium', 'pyrenaicum']",geranium pyrenaicum,geranium pyrenaicumthree
+195,chapelle,2020-09-02,04:09:11 PM,solidago canadensis,solidage du canada,"['solidago', 'canadensis']",solidago canadensis,solidago canadensisthree
+196,chapelle,2020-09-02,04:08:09 PM,melilotus albus,mélilot blanc,"['melilotus', 'albus']",melilotus albus,melilotus albusthree
+197,chapelle,2020-09-02,04:07:44 PM,erigeron annuus,vergerette annuelle,"['erigeron', 'annuus']",erigeron annuus,erigeron annuusthree
+198,chapelle,2020-09-02,04:07:25 PM,erigeron canadensis,vergerette du canada,"['erigeron', 'canadensis']",erigeron canadensis,erigeron canadensisthree
+199,chapelle,2020-09-02,04:05:37 PM,medicago sativa,,"['medicago', 'sativa']",medicago sativa,medicago sativathree
+200,chapelle,2020-09-02,04:05:01 PM,leucanthemum vulgare,marguerite précoce,"['leucanthemum', 'vulgare', 'agg.']",leucanthemum vulgare,leucanthemum vulgarethree
+201,chapelle,2020-09-02,04:04:30 PM,trifolium repens,trèfle rampant,"['trifolium', 'repens']",trifolium repens,trifolium repensthree
+202,chapelle,2020-09-02,04:03:49 PM,trifolium pratense,trèfle des prés,"['trifolium', 'pratense']",trifolium pratense,trifolium pratensethree
+203,chapelle,2020-09-02,04:03:29 PM,lotus corniculatus,lotier corniculé,"['lotus', 'corniculatus', 'agg.']",lotus corniculatus,lotus corniculatusthree
+204,chemin-de-la-course,2020-08-30,05:08:15 PM,trifolium repens,trèfle rampant,"['trifolium', 'repens']",trifolium repens,trifolium repensthree
+205,chemin-de-la-course,2020-08-30,05:05:11 PM,centaurea jacea,,"['centaurea', 'jacea', 'agg.']",centaurea jacea,centaurea jaceathree
+206,chemin-de-la-course,2020-08-30,05:03:57 PM,cichorium intybus,chicorée sauvage,"['cichorium', 'intybus']",cichorium intybus,cichorium intybusthree
+207,chemin-de-la-course,2020-08-30,05:02:55 PM,petrorhagia saxifraga,petrorhagie saxifrage,"['petrorhagia', 'saxifraga']",petrorhagia saxifraga,petrorhagia saxifragathree
+208,chemin-de-la-course,2020-08-30,05:02:01 PM,achillea millefolium,achillée millefeuille,"['achillea', 'millefolium', 'agg.']",achillea millefolium,achillea millefoliumthree
+209,chemin-de-la-course,2020-08-30,05:01:37 PM,cirsium arvense,cirse des champs,"['cirsium', 'arvense']",cirsium arvense,cirsium arvensethree
+210,chemin-de-la-course,2020-08-30,05:00:36 PM,erigeron canadensis,vergerette du canada,"['erigeron', 'canadensis']",erigeron canadensis,erigeron canadensisthree
+211,chemin-de-la-course,2020-08-30,04:59:46 PM,centaurea scabiosa,,"['centaurea', 'scabiosa']",centaurea scabiosa,centaurea scabiosathree
+212,chemin-de-la-course,2020-08-30,04:58:44 PM,lotus corniculatus,lotier corniculé,"['lotus', 'corniculatus', 'agg.']",lotus corniculatus,lotus corniculatusthree
+213,chemin-de-la-course,2020-08-30,04:58:04 PM,cirsium vulgare,cirse commun,"['cirsium', 'vulgare']",cirsium vulgare,cirsium vulgarethree
+214,chemin-de-la-course,2020-08-30,04:57:33 PM,tripleurospermum maritimum,"matricaire perforée (groupe), matricaire inodore (groupe)","['tripleurospermum', 'maritimum', 'agg.']",tripleurospermum maritimum,tripleurospermum maritimumthree
+215,chemin-de-la-course,2020-08-30,04:56:25 PM,knautia arvensis,knautie des champs,"['knautia', 'arvensis', 'agg.']",knautia arvensis,knautia arvensisthree
+216,chemin-de-la-course,2020-08-30,04:55:48 PM,centaurea jacea,centaurée jacée,"['centaurea', 'jacea', 'agg.']",centaurea jacea,centaurea jaceathree
+217,chemin-de-la-course,2020-08-30,04:55:27 PM,trifolium pratense,trèfle des prés,"['trifolium', 'pratense']",trifolium pratense,trifolium pratensethree
+218,chemin-de-la-course,2020-08-30,04:55:06 PM,trifolium pratense,trèfle des prés,"['trifolium', 'pratense']",trifolium pratense,trifolium pratensethree
+219,chemin-de-la-course,2020-08-30,04:54:41 PM,erigeron annuus,vergerette annuelle,"['erigeron', 'annuus']",erigeron annuus,erigeron annuusthree
+220,chemin-de-la-course,2020-08-30,04:53:59 PM,leucanthemum vulgare,marguerite précoce,"['leucanthemum', 'vulgare', 'agg.']",leucanthemum vulgare,leucanthemum vulgarethree
+221,chemin-de-la-course,2020-08-30,04:52:46 PM,silene latifolia,compagnon blanc,"['silene', 'latifolia']",silene latifolia,silene latifoliathree
+222,chemin-de-la-course,2020-08-30,04:52:13 PM,galium mollugo,"gaillet commun, gaillet blanc","['galium', 'mollugo', 'agg.']",galium mollugo,galium mollugothree
+223,chemin-de-la-course,2020-08-30,04:51:16 PM,medicago sativa,,"['medicago', 'varia']",medicago sativa,medicago sativathree
+224,chemin-des-voies,2020-07-28,11:58:18,heracleum sphondylium,"patte d'ours, berce des prés","['heracleum', 'sphondylium']",heracleum sphondylium,heracleum sphondyliumthree
+225,chemin-des-voies,2020-07-28,11:56:13,bryonia dioica,bryone dioïque,"['bryonia', 'dioica']",bryonia dioica,bryonia dioicathree
+226,chemin-des-voies,2020-07-28,11:51:59,geranium molle,géranium mou,"['geranium', 'molle', 'agg.']",geranium molle,geranium mollethree
+227,chemin-des-voies,2020-07-28,11:51:18,geum urbanum,benoîte commune,"['geum', 'urbanum']",geum urbanum,geum urbanumthree
+228,chemin-des-voies,2020-07-28,11:48:26,urtica dioica,ortie dioïque,"['urtica', 'dioica']",urtica dioica,urtica dioicathree
+229,chemin-des-voies,2020-07-28,11:45:57,cornus sanguinea,cornouiller sanguin,"['cornus', 'sanguinea']",cornus sanguinea,cornus sanguineathree
+230,chemin-des-voies,2020-07-28,,buddleja davidii,,"['buddleja', 'davidii']",buddleja davidii,buddleja davidiithree
+231,chemin-des-voies,2020-07-28,,daucus carota,,"['daucus', 'carota']",daucus carota,daucus carotathree
+232,chemin-des-voies,2020-07-28,,erigeron annuus,,"['erigeron', 'annuus']",erigeron annuus,erigeron annuusthree
+233,chemin-des-voies,2020-07-28,11:37:36,verbena officinalis,verveine officinale,"['verbena', 'officinalis']",verbena officinalis,verbena officinalisthree
+234,cheyres-path,2020-09-15,10:45:30,lythrum salicaria,salicaire commune,"['lythrum', 'salicaria']",lythrum salicaria,lythrum salicariathree
+235,cheyres-path,2020-09-15,09:34:14,eupatorium cannabinum,eupatoire chanvrine,"['eupatorium', 'cannabinum']",eupatorium cannabinum,eupatorium cannabinumthree
+236,cheyres-path,2020-09-15,09:32:31,viburnum opulus,"boule de neige, viorne obier","['viburnum', 'opulus']",viburnum opulus,viburnum opulusthree
+237,cheyres-path,2020-09-15,09:31:08,rubus caesius,ronce bleuâtre,"['rubus', 'caesius']",rubus caesius,rubus caesiusthree
+238,cheyres-path,2020-09-15,09:28:07,calystegia sepium,liseron des haies,"['calystegia', 'sepium', 'agg.']",calystegia sepium,calystegia sepiumthree
+239,cheyres-path,2020-09-15,09:27:42,stachys palustris,epiaire des marais,"['stachys', 'palustris']",stachys palustris,stachys palustristhree
+240,cheyres-reserve,2020-09-15,09:21:34,lycopus europaeus,"lycope d'europe, pied de loup","['lycopus', 'europaeus']",lycopus europaeus,lycopus europaeusthree
+241,cheyres-reserve,2020-09-15,09:18:23,chenopodium album,chénopode blanc,"['chenopodium', 'album', 'agg.']",chenopodium album,chenopodium albumthree
+242,cheyres-reserve,2020-09-15,09:17:39,persicaria maculosa,renouée persicaire,"['persicaria', 'maculosa']",persicaria maculosa,persicaria maculosathree
+243,cheyres-reserve,2020-09-15,09:15:27,persicaria longiseta,,"['persicaria', 'longiseta']",persicaria longiseta,persicaria longisetathree
+244,cheyres-reserve,2020-09-15,09:12:39,polygonum aviculare,renouée des oiseaux,"['polygonum', 'aviculare', 'agg.']",polygonum aviculare,polygonum avicularethree
+245,cheyres-reserve,2020-09-15,09:11:45,solanum nigrum,morelle noire,"['solanum', 'nigrum']",solanum nigrum,solanum nigrumthree
+246,cheyres-reserve,2020-09-15,08:59:17,achillea ptarmica,"achillée des marais, herbe à éternuer","['achillea', 'ptarmica', 'agg.']",achillea ptarmica,achillea ptarmicathree
+247,college,04.07.2020,,geranium pratense,,"['geranium', 'pratens']",geranium pratense,geranium pratensethree
+248,college,04.07.2020,,lotus corniculatus,,"['lotus', 'corniculatus']",lotus corniculatus,lotus corniculatusthree
+249,college,04.07.2020,,malva alcea,,"['malva', 'alcea']",malva alcea,malva alceathree
+250,college,18.06.2020,,echium vulgare,,"['echium', 'vulgare']",echium vulgare,echium vulgarethree
+251,college,18.06.2020,,sedum album,,"['sedum', 'album']",sedum album,sedum albumthree
+252,college,18.06.2020,,ligustrum vulgare,,"['ligustrum', 'vulgare']",ligustrum vulgare,ligustrum vulgarethree
+253,college,18.06.2020,,urtica dioica,,"['urtica', 'dioica']",urtica dioica,urtica dioicathree
+254,college,18.06.2020,,geum urbanum,,"['geum', 'urbanum']",geum urbanum,geum urbanumthree
+255,cygnes,19.09.2020,11:00:00 AM,erigeron canadensis,,"['erigeron', 'canadensis']",erigeron canadensis,erigeron canadensisthree
+256,cygnes,19.09.2020,11:00:00 AM,erigeron annuus,,"['erigeron', 'annuus']",erigeron annuus,erigeron annuusthree
+257,cygnes,19.09.2020,11:00:00 AM,medicago sativa,,"['medicago', 'varia']",medicago sativa,medicago sativathree
+258,cygnes,19.09.2020,11:00:00 AM,lotus corniculatus,,"['lotus', 'corniculatus']",lotus corniculatus,lotus corniculatusthree
+259,cygnes,19.09.2020,11:00:00 AM,oenothera biennis,,['oenothera'],oenothera biennis,oenothera biennisthree
+260,cygnes,2020-08-08,18:44:16,anemone sylvestris,anémone des forêts,"['anemone', 'sylvestris']",anemone sylvestris,anemone sylvestristhree
+261,cygnes,2020-08-08,18:48:45,cirsium vulgare,cirse commun,"['cirsium', 'vulgare']",cirsium vulgare,cirsium vulgarethree
+262,cygnes,2020-08-08,18:45:55,daucus carota,carotte sauvage,"['daucus', 'carota']",daucus carota,daucus carotathree
+263,cygnes,2020-08-08,18:49:36,hypericum perforatum,millepertuis perforé,"['hypericum', 'perforatum']",hypericum perforatum,hypericum perforatumthree
+264,cygnes,2020-08-08,18:51:54,medicago sativa,,"['medicago', 'varia']",medicago sativa,medicago sativathree
+265,cygnes,2020-08-08,18:51:04,jacobaea vulgaris,"séneçon jacobée, herbe de st-jacques","['senecio', 'jacobaea']",jacobaea vulgaris,jacobaea vulgaristhree
+266,cygnes,2020-08-08,18:47:33,solidago canadensis,solidage du canada,"['solidago', 'canadensis']",solidago canadensis,solidago canadensisthree
+267,cygnes-lot-1,07.07.2020,,artemisia verlotiorum,,"['artemisia', 'verlotiorum']",artemisia verlotiorum,artemisia verlotiorumthree
+268,cygnes-lot-1,07.07.2020,,carduus crispus,,"['carduus', 'crispus']",carduus crispus,carduus crispusthree
+269,cygnes-lot-1,07.07.2020,,cirsium palustre,,"['cirsium', 'palustre']",cirsium palustre,cirsium palustrethree
+270,cygnes-lot-1,07.07.2020,,cirsium vulgare,,"['cirsium', 'vulgare']",cirsium vulgare,cirsium vulgarethree
+271,cygnes-lot-1,07.07.2020,,linaria vulgaris,,"['linaria', 'vulgaris']",linaria vulgaris,linaria vulgaristhree
+272,cygnes-lot-1,07.07.2020,,lactuca serriola,,"['lactuca', 'serriola']",lactuca serriola,lactuca serriolathree
+273,cygnes-lot-1,07.07.2020,,erigeron annuus,,"['erigeron', 'annuus']",erigeron annuus,erigeron annuusthree
+274,cygnes-lot-1,07.07.2020,,erigeron canadensis,,"['erigeron', 'canadensis']",erigeron canadensis,erigeron canadensisthree
+275,cygnes-lot-1,07.07.2020,,medicago sativa,,"['medicago', 'sativa']",medicago sativa,medicago sativathree
+276,cygnes-lot-1,07.07.2020,,lotus corniculatus,,"['lotus', 'corniculatus']",lotus corniculatus,lotus corniculatusthree
+277,cygnes-lot-1,11.07.2020,02:30:00 PM,x,,['x'],x,xthree
+278,cygnes-lot-2,08.07.2020,,matricaria chamomilla,,"['matricaria', 'chamomilla']",matricaria chamomilla,matricaria chamomillathree
+279,cygnes-lot-2,11.07.2020,02:00:00 PM,daucus carota,,"['daucus', 'carota']",daucus carota,daucus carotathree
+280,cygnes-lot-2,11.07.2020,02:00:00 PM,melilotus officinalis,,"['melilotus', 'officianalis']",melilotus officinalis,melilotus officinalisthree
+281,cygnes-lot-2,11.07.2020,02:00:00 PM,lotus corniculatus,,"['lotus', 'corniculatus']",lotus corniculatus,lotus corniculatusthree
+282,cygnes-lot-2,11.07.2020,,erigeron canadensis,,"['erigeron', 'canadensis']",erigeron canadensis,erigeron canadensisthree
+283,cygnes-lot-2,11.07.2020,,erigeron annuus,,"['erigeron', 'annuus']",erigeron annuus,erigeron annuusthree
+284,cygnes-lot-2,11.07.2020,,populus alba,,"['populus', 'alba']",populus alba,populus albathree
+285,cygnes-lot-2,11.07.2020,,lactuca serriola,,"['lactuca', 'serriola']",lactuca serriola,lactuca serriolathree
+286,cygnes-lot-3,07.07.2020,,solidago canadensis,,"['solidalgo', 'canadensis']",solidago canadensis,solidago canadensisthree
+287,cygnes-lot-3,11.07.2020,,malva sylvestris,,"['malva', 'sylvestris']",malva sylvestris,malva sylvestristhree
+288,cygnes-lot-3,11.07.2020,,oenothera biennis aggr.,,"['oenothera', 'biennis', 'aggr.']",oenothera biennis aggr.,oenothera biennis aggr.three
+289,cygnes-lot-3,11.07.2020,,buddleja davidii,,"['buddleja', 'davidii']",buddleja davidii,buddleja davidiithree
+290,cygnes-lot-3,11.07.2020,,hypericum perforatum,,"['hypericum', 'perforatum']",hypericum perforatum,hypericum perforatumthree
+291,cygnes-lot-3,11.07.2020,,pastinaca sativa,,"['pastinaca', 'sativa']",pastinaca sativa,pastinaca sativathree
+292,cygnes-lot-4,09.07.2020,,verbascum densiflorum,,"['verbascum', 'densiflorum']",verbascum densiflorum,verbascum densiflorumthree
+293,cygnes-lot-5,2020-09-20,11:39:53,senecio inaequidens,séneçon sud-africain,"['senecio', 'inaequidens']",senecio inaequidens,senecio inaequidensthree
+294,cygnes-lot-5,2020-09-20,11:37:56,diplotaxis tenuifolia,diplotaxis à feuilles ténues,"['diplotaxis', 'tenuifolia']",diplotaxis tenuifolia,diplotaxis tenuifoliathree
+295,cygnes-lot-6,11.07.2020,,papaver rhoeas,,"['papaver', 'rhoeas']",papaver rhoeas,papaver rhoeasthree
+296,cygnes-lot-7,2020-08-30,05:53:24 PM,solidago canadensis,solidage du canada,"['solidago', 'canadensis']",solidago canadensis,solidago canadensisthree
+297,cygnes-lot-7,2020-08-30,05:32:53 PM,packera aurea,,"['packera', 'aurea']",packera aurea,packera aureathree
+298,cygnes-lot-7,2020-08-30,05:32:26 PM,populus alba,peuplier blanc,"['populus', 'alba', 'agg.']",populus alba,populus albathree
+299,cygnes-lot-7,2020-08-30,05:29:17 PM,medicago lupulina,"minette, luzerne lupuline","['medicago', 'lupulina']",medicago lupulina,medicago lupulinathree
+300,cygnes-lot-7,2020-08-30,05:28:56 PM,buddleja davidii,buddléia de david,"['buddleja', 'davidii']",buddleja davidii,buddleja davidiithree
+301,cygnes-lot-7,2020-08-30,05:28:31 PM,artemisia vulgaris,armoise commune,"['artemisia', 'vulgaris', 'agg.']",artemisia vulgaris,artemisia vulgaristhree
+302,cygnes-lot-7,2020-08-30,05:27:56 PM,lotus corniculatus,lotier corniculé,"['lotus', 'corniculatus', 'agg.']",lotus corniculatus,lotus corniculatusthree
+303,cygnes-lot-7,2020-08-30,05:26:45 PM,erigeron canadensis,vergerette du canada,"['erigeron', 'canadensis']",erigeron canadensis,erigeron canadensisthree
+304,cygnes-lot-7,2020-08-30,05:26:21 PM,erigeron annuus,vergerette annuelle,"['erigeron', 'annuus']",erigeron annuus,erigeron annuusthree
+305,cygnes-lot-7,2020-08-30,05:23:50 PM,chenopodium album,chénopode blanc,"['chenopodium', 'album', 'agg.']",chenopodium album,chenopodium albumthree
+306,cygnes-lot-8,2020-08-30,05:52:57 PM,artemisia vulgaris,armoise commune,"['artemisia', 'vulgaris', 'agg.']",artemisia vulgaris,artemisia vulgaristhree
+307,cygnes-lot-8,2020-08-30,05:51:39 PM,rosa canina,"eglantier, rosier des chiens","['rosa', 'canina']",rosa canina,rosa caninathree
+308,cygnes-lot-8,2020-08-30,05:50:54 PM,oenothera biennis,,['oenothera'],oenothera biennis,oenothera biennisthree
+309,cygnes-lot-8,2020-08-30,05:49:45 PM,medicago sativa,,"['medicago', 'varia']",medicago sativa,medicago sativathree
+310,cygnes-lot-8,2020-08-30,05:49:11 PM,medicago lupulina,"minette, luzerne lupuline","['medicago', 'lupulina']",medicago lupulina,medicago lupulinathree
+311,cygnes-lot-8,2020-08-30,05:48:23 PM,hypericum perforatum,millepertuis perforé,"['hypericum', 'perforatum']",hypericum perforatum,hypericum perforatumthree
+312,cygnes-lot-8,2020-08-30,05:47:44 PM,verbena officinalis,verveine officinale,"['verbena', 'officinalis']",verbena officinalis,verbena officinalisthree
+313,cygnes-lot-8,2020-08-30,05:46:21 PM,silene vulgaris,silène enflé,"['silene', 'vulgaris']",silene vulgaris,silene vulgaristhree
+314,cygnes-lot-8,2020-08-30,05:44:40 PM,cirsium arvense,cirse des champs,"['cirsium', 'arvense']",cirsium arvense,cirsium arvensethree
+315,cygnes-lot-8,2020-08-30,05:44:20 PM,daucus carota,carotte sauvage,"['daucus', 'carota']",daucus carota,daucus carotathree
+316,cygnes-lot-8,2020-08-30,05:44:02 PM,lotus corniculatus,lotier corniculé,"['lotus', 'corniculatus', 'agg.']",lotus corniculatus,lotus corniculatusthree
+317,cygnes-lot-8,2020-08-30,05:43:41 PM,trifolium pratense,trèfle des prés,"['trifolium', 'pratense']",trifolium pratense,trifolium pratensethree
+318,cygnes-lot-8,2020-08-30,05:36:09 PM,pastinaca sativa,panais cultivé,"['pastinaca', 'sativa']",pastinaca sativa,pastinaca sativathree
+319,cygnes-lot-8,2020-08-30,05:35:38 PM,echium vulgare,vipérine commune,"['echium', 'vulgare']",echium vulgare,echium vulgarethree
+320,cygnes-lot-8,2020-08-30,05:34:24 PM,senecio inaequidens,séneçon sud-africain,"['senecio', 'inaequidens']",senecio inaequidens,senecio inaequidensthree
+321,cygnes-lot-8,24.07.2020,09:30:00 PM,cornus sanguinea,,"['cornus', 'sanguinea']",cornus sanguinea,cornus sanguineathree
+322,cygnes-lot-8,24.07.2020,,crataegus monogyna,,"['crataegus', 'monogyna']",crataegus monogyna,crataegus monogynathree
+323,cygnes-lot-8,24.07.2020,,oenothera biennis,,['oenothera'],oenothera biennis,oenothera biennisthree
+324,dam,2020-08-03,13:37:44,cymbalaria muralis,"ruine de rome, cymbalaire","['cymbalaria', 'muralis']",cymbalaria muralis,cymbalaria muralisthree
+325,dam,2020-08-03,,eupatorium cannabinum,,"['eupatorium', 'cannabinum']",eupatorium cannabinum,eupatorium cannabinumthree
+326,energie-1,16.06.2020,,campanula rotundifolia,,"['campanula', 'rotundifolia']",campanula rotundifolia,campanula rotundifoliathree
+327,energie-1,16.06.2020,,galium mollugo,,"['galium', 'mollugo', 'agg.']",galium mollugo,galium mollugothree
+328,energie-1,16.06.2020,,silene vulgaris,,"['silene', 'vulgaris']",silene vulgaris,silene vulgaristhree
+329,energie-1,16.06.2020,,convolvulus arvensis,,"['convolvulus', 'arvensis']",convolvulus arvensis,convolvulus arvensisthree
+330,energie-1,16.06.2020,,achillea millefolium,,"['achillea', 'millefolium', 'agg.']",achillea millefolium,achillea millefoliumthree
+331,energie-1,16.06.2020,,knautia arvensis,,"['knautia', 'arvensis', 'agg.']",knautia arvensis,knautia arvensisthree
+332,energie-1,16.06.2020,,polygonum aviculare,,"['polygonum', 'aviculare', 'agg.']",polygonum aviculare,polygonum avicularethree
+333,energie-1,2020-08-03,14:11:53,seseli libanotis,séséli libanotis,"['seseli', 'libanotis']",seseli libanotis,seseli libanotisthree
+334,energie-1,2020-08-03,14:11:26,campanula rotundifolia,campanule à feuilles rondes,"['campanula', 'rotundifolia', 'agg.']",campanula rotundifolia,campanula rotundifoliathree
+335,energie-2,2020-08-03,14:09:00,clematis vitalba,clématite blanche,"['clematis', 'vitalba']",clematis vitalba,clematis vitalbathree
+336,energie-2,2020-08-03,14:07:43,hypericum perforatum,millepertuis perforé,"['hypericum', 'perforatum']",hypericum perforatum,hypericum perforatumthree
+337,energie-2,2020-08-03,14:07:14,eupatorium cannabinum,eupatoire chanvrine,"['eupatorium', 'cannabinum']",eupatorium cannabinum,eupatorium cannabinumthree
+338,energie-2,2020-08-03,13:59:43,lactuca serriola,laitue serriole,"['lactuca', 'serriola']",lactuca serriola,lactuca serriolathree
+339,energie-3,06.06.2020,,reseda lutea,,"['reseda', 'lutea']",reseda lutea,reseda luteathree
+340,energie-3,06.06.2020,,silene vulgaris,,"['silene', 'vulgaris']",silene vulgaris,silene vulgaristhree
+341,energie-3,06.06.2020,,lactuca serriola,,"['lactuca', 'serriola']",lactuca serriola,lactuca serriolathree
+342,football-1,03.07.2020,,epilobium hirsutum,,"['epilobium', 'hirsutum']",epilobium hirsutum,epilobium hirsutumthree
+343,football-1,03.07.2020,,eupatorium cannabinum,,"['eupatorium', 'cannabinum']",eupatorium cannabinum,eupatorium cannabinumthree
+344,football-1,03.07.2020,,solanum dulcamara,,"['solanum', 'dulcamara']",solanum dulcamara,solanum dulcamarathree
+345,football-1,03.07.2020,,stachys palustris,,"['stachys', 'palustris']",stachys palustris,stachys palustristhree
+346,football-1,03.07.2020,,veronica persica,,"['veronica', 'persica']",veronica persica,veronica persicathree
+347,football-1,2020-08-04,09:42:32,geranium robertianum,géranium herbe à robert,"['geranium', 'robertianum', 'agg.']",geranium robertianum,geranium robertianumthree
+348,football-1,2020-08-04,09:41:50,eupatorium cannabinum,eupatoire chanvrine,"['eupatorium', 'cannabinum']",eupatorium cannabinum,eupatorium cannabinumthree
+349,football-1,2020-08-04,09:40:35,cirsium oleraceum,cirse jaunâtre,"['cirsium', 'oleraceum']",cirsium oleraceum,cirsium oleraceumthree
+350,football-2,03.07.2020,,clematis vitalba,,"['clematis', 'vitalba']",clematis vitalba,clematis vitalbathree
+351,football-2,03.07.2020,,lotus corniculatus,,"['lotus', 'corniculatus']",lotus corniculatus,lotus corniculatusthree
+352,football-2,03.07.2020,,geum urbanum,,"['geum', 'urbanum']",geum urbanum,geum urbanumthree
+353,football-2,2020-08-04,09:37:13,viburnum opulus,"boule de neige, viorne obier","['viburnum', 'opulus']",viburnum opulus,viburnum opulusthree
+354,football-2,2020-08-04,09:34:33,angelica sylvestris,angélique sauvage,"['angelica', 'sylvestris']",angelica sylvestris,angelica sylvestristhree
+355,football-2,2020-08-04,09:32:28,cirsium arvense,cirse des champs,"['cirsium', 'arvense']",cirsium arvense,cirsium arvensethree
+356,football-2,2020-08-04,09:30:42,origanum vulgare,"origan, marjolaine","['origanum', 'vulgare', 'agg.']",origanum vulgare,origanum vulgarethree
+357,football-3,03.07.2020,,lotus corniculatus,,"['lotus', 'corniculatus']",lotus corniculatus,lotus corniculatusthree
+358,football-3,03.07.2020,,jacobaea vulgaris,,"['senecio', 'jacobaea']",jacobaea vulgaris,jacobaea vulgaristhree
+359,football-3,03.07.2020,,sedum sexangulare,,"['sedum', 'sexangulare']",sedum sexangulare,sedum sexangularethree
+360,football-3,03.07.2020,,centaurea jacea,,"['centaurea', 'jacea', 'agg.']",centaurea jacea,centaurea jaceathree
+361,football-4,03.07.2020,,origanum vulgare,,"['origanum', 'vulgare']",origanum vulgare,origanum vulgarethree
+362,football-5,03.07.2020,,cichorium intybus,,"['cichorium', 'intybus']",cichorium intybus,cichorium intybusthree
+363,football-5,03.07.2020,,pastinaca sativa,,"['pastinaca', 'sativa']",pastinaca sativa,pastinaca sativathree
+364,football-6,2020-08-03,18:55:17,dipsacus fullonum,cardère sauvage,"['dipsacus', 'fullonum']",dipsacus fullonum,dipsacus fullonumthree
+365,football-6,2020-08-03,18:47:09,erigeron annuus,vergerette annuelle,"['erigeron', 'annuus']",erigeron annuus,erigeron annuusthree
+366,football-6,2020-08-03,18:46:22,pastinaca sativa,panais cultivé,"['pastinaca', 'sativa']",pastinaca sativa,pastinaca sativathree
+367,football-6,2020-08-03,18:42:18,alnus glutinosa,"aulne glutineux, verne","['alnus', 'glutinosa']",alnus glutinosa,alnus glutinosathree
+368,football-6,2020-08-03,18:39:27,jacobaea vulgaris,"séneçon jacobée, herbe de st-jacques","['senecio', 'jacobaea']",jacobaea vulgaris,jacobaea vulgaristhree
+369,football-6,2020-08-03,18:38:17,origanum vulgare,"origan, marjolaine","['origanum', 'vulgare', 'agg.']",origanum vulgare,origanum vulgarethree
+370,frinvillier-fabrique-1,08.07.2020,,campanula rotundifolia,,"['campanula', 'rotundifolia']",campanula rotundifolia,campanula rotundifoliathree
+371,frinvillier-fabrique-2,08.07.2020,,prenanthes purpurea,,"['prenanthes', 'purpurea']",prenanthes purpurea,prenanthes purpureathree
+372,frinvillier-fabrique-2,08.07.2020,,rubus fruticosus,,"['rubus', 'fruticosus']",rubus fruticosus,rubus fruticosusthree
+373,frinvillier-fabrique-3,08.07.2020,,campanula scheuchzeri,,"['campanula', 'scheuchzeri']",campanula scheuchzeri,campanula scheuchzerithree
+374,frinvillier-fabrique-3,08.07.2020,,campanula trachelium,,"['campanula', 'trachelium']",campanula trachelium,campanula tracheliumthree
+375,frinvillier-fabrique-4,08.07.2020,,filipendula ulmaria,,"['filipendula', 'ulmaria']",filipendula ulmaria,filipendula ulmariathree
+376,frinvillier-fabrique-4,08.07.2020,,eupatorium cannabinum,,"['eupatorium', 'cannabinum']",eupatorium cannabinum,eupatorium cannabinumthree
+377,frinvillier-fabrique-1,08.07.2020,,knautia dipsacifolia,,"['knautia', 'dipsacifolia']",knautia dipsacifolia,knautia dipsacifoliathree
+378,frinvillier-fabrique-1,08.07.2020,,verbascum lychnitis,,"['verbascum', 'lynchitis']",verbascum lychnitis,verbascum lychnitisthree
+379,frinvillier-fabrique-1,08.07.2020,,verbascum nigrum,,"['verbascum', 'negris']",verbascum nigrum,verbascum nigrumthree
+380,frinvillier-fabrique-2,08.07.2020,,hypericum perforatum,,"['hypericum', 'perforatum']",hypericum perforatum,hypericum perforatumthree
+381,frinvillier-fabrique-2,08.07.2020,,melilotus officinalis,,"['melilotus', 'officianalis']",melilotus officinalis,melilotus officinalisthree
+382,frinvillier-fabrique-2,08.07.2020,,rubus idaeus,,"['rubus', 'idaeus']",rubus idaeus,rubus idaeusthree
+383,frinvillier-fabrique-4,08.07.2020,,jacobaea vulgaris,,"['senecio', 'jacobaea']",jacobaea vulgaris,jacobaea vulgaristhree
+384,frinvillier-fabrique-4,08.07.2020,,verbascum nigrum,,"['verbascum', 'nigrum']",verbascum nigrum,verbascum nigrumthree
+385,frinvillier-fabrique-4,08.07.2020,,erigeron annuus,,"['erigeron', 'annuus']",erigeron annuus,erigeron annuusthree
+386,frinvillier-ramp,2020-09-22,10:48:49,ranunculus acris,"bouton d'or, renoncule âcre","['ranunculus', 'acris', 'agg.']",ranunculus acris,ranunculus acristhree
+387,frinvillier-ramp,2020-09-22,10:47:33,lactuca muralis,laitue des murs,"['lactuca', 'muralis']",lactuca muralis,lactuca muralisthree
+388,frinvillier-ramp,2020-09-22,10:44:39,lactuca serriola,laitue serriole,"['lactuca', 'serriola']",lactuca serriola,lactuca serriolathree
+389,frinvillier-ramp,2020-09-22,10:41:09,solidago virgaurea,solidage verge d'or,"['solidago', 'virgaurea']",solidago virgaurea,solidago virgaureathree
+390,gottstatt-1,2020-08-07,17:53:48,rubus caesius,ronce bleuâtre,"['rubus', 'caesius']",rubus caesius,rubus caesiusthree
+391,gottstatt-1,2020-08-07,17:51:58,rumex obtusifolius,"patience sauvage, rumex à feuilles obtuses","['rumex', 'obtusifolius']",rumex obtusifolius,rumex obtusifoliusthree
+392,gottstatt-1,2020-08-07,17:51:19,trifolium pratense,trèfle des prés,"['trifolium', 'pratense']",trifolium pratense,trifolium pratensethree
+393,gottstatt-1,2020-08-07,17:49:23,cichorium intybus,chicorée sauvage,"['cichorium', 'intybus']",cichorium intybus,cichorium intybusthree
+394,gottstatt-1,2020-08-07,17:47:44,daucus carota,carotte sauvage,"['daucus', 'carota']",daucus carota,daucus carotathree
+395,gottstatt-1,2020-08-07,17:46:25,lamium maculatum,lamier tacheté,"['lamium', 'maculatum']",lamium maculatum,lamium maculatumthree
+396,gottstatt-1,2020-08-07,17:45:22,chaerophyllum aureum,"chérophylle doré, cerfeuil doré","['chaerophyllum', 'aureum']",chaerophyllum aureum,chaerophyllum aureumthree
+397,gottstatt-1,2020-08-07,17:43:39,galium mollugo,"gaillet commun, gaillet blanc","['galium', 'mollugo', 'agg.']",galium mollugo,galium mollugothree
+398,gottstatt-1,2020-08-07,17:40:43,centaurea jacea,centaurée jacée,"['centaurea', 'jacea', 'agg.']",centaurea jacea,centaurea jaceathree
+399,gottstatt-1,2020-08-07,17:39:11,silene vulgaris,silène enflé,"['silene', 'vulgaris']",silene vulgaris,silene vulgaristhree
+400,gottstatt-1,2020-08-07,17:36:37,medicago sativa,,"['medicago', 'varia']",medicago sativa,medicago sativathree
+401,gottstatt-1,2020-08-07,17:35:15,erigeron annuus,vergerette annuelle,"['erigeron', 'annuus']",erigeron annuus,erigeron annuusthree
+402,gottstatt-1,2020-08-07,17:34:13,calystegia sepium,liseron des haies,"['calystegia', 'sepium', 'agg.']",calystegia sepium,calystegia sepiumthree
+403,gottstatt-1,2020-08-07,17:32:04,lotus corniculatus,lotier corniculé,"['lotus', 'corniculatus', 'agg.']",lotus corniculatus,lotus corniculatusthree
+404,gottstatt-1,2020-08-07,17:29:58,arctium lappa,bardane commune,"['arctium', 'lappa']",arctium lappa,arctium lappathree
+405,gottstatt-2,2020-08-16,14:18:54,galium mollugo,"gaillet commun, gaillet blanc","['galium', 'mollugo', 'agg.']",galium mollugo,galium mollugothree
+406,gottstatt-2,2020-08-16,14:18:31,daucus carota,carotte sauvage,"['daucus', 'carota']",daucus carota,daucus carotathree
+407,gottstatt-2,2020-08-16,14:11:28,rumex obtusifolius,"patience sauvage, rumex à feuilles obtuses","['rumex', 'obtusifolius']",rumex obtusifolius,rumex obtusifoliusthree
+408,gottstatt-2,2020-08-16,14:07:52,lotus corniculatus,lotier corniculé,"['lotus', 'corniculatus', 'agg.']",lotus corniculatus,lotus corniculatusthree
+409,gottstatt-2,2020-08-16,14:04:03,medicago sativa,,"['medicago', 'varia']",medicago sativa,medicago sativathree
+410,gottstatt-2,2020-08-16,14:03:22,knautia arvensis,knautie des champs,"['knautia', 'arvensis', 'agg.']",knautia arvensis,knautia arvensisthree
+411,gottstatt-2,2020-08-16,13:43:18,acer pseudoplatanus,"erable des montagnes, erable sycomore","['acer', 'pseudoplatanus']",acer pseudoplatanus,acer pseudoplatanusthree
+412,gottstatt-3,2020-08-24,18:26:38,achillea millefolium,achillée millefeuille,"['achillea', 'millefolium', 'agg.']",achillea millefolium,achillea millefoliumthree
+413,gottstatt-3,2020-08-24,18:25:56,cirsium arvense,cirse des champs,"['cirsium', 'arvense']",cirsium arvense,cirsium arvensethree
+414,gottstatt-3,2020-08-24,18:15:58,daucus carota,carotte sauvage,"['daucus', 'carota']",daucus carota,daucus carotathree
+415,gottstatt-3,2020-08-24,18:17:04,erigeron annuus,vergerette annuelle,"['erigeron', 'annuus']",erigeron annuus,erigeron annuusthree
+416,gottstatt-3,2020-08-24,18:14:33,galium mollugo,"gaillet commun, gaillet blanc","['galium', 'mollugo', 'agg.']",galium mollugo,galium mollugothree
+417,gottstatt-3,2020-08-24,18:15:24,lotus corniculatus,lotier corniculé,"['lotus', 'corniculatus', 'agg.']",lotus corniculatus,lotus corniculatusthree
+418,gottstatt-3,2020-08-24,18:13:03,malva moschata,mauve musquée,"['malva', 'moschata']",malva moschata,malva moschatathree
+419,gottstatt-3,2020-08-24,18:27:01,plantago media,plantain moyen,"['plantago', 'media', 'agg.']",plantago media,plantago mediathree
+420,gottstatt-3,2020-08-24,18:17:58,rumex obtusifolius,"patience sauvage, rumex à feuilles obtuses","['rumex', 'obtusifolius']",rumex obtusifolius,rumex obtusifoliusthree
+421,gottstatt-3,2020-08-24,18:22:20,silene vulgaris,silène enflé,"['silene', 'vulgaris']",silene vulgaris,silene vulgaristhree
+422,gottstatt-3,2020-08-24,18:24:47,solanum dulcamara,morelle douce-amère,"['solanum', 'dulcamara']",solanum dulcamara,solanum dulcamarathree
+423,gottstatt-3,2020-08-24,18:16:45,solidago canadensis,solidage du canada,"['solidago', 'canadensis']",solidago canadensis,solidago canadensisthree
+424,gottstatt-3,2020-08-24,18:20:53,trifolium pratense,trèfle des prés,"['trifolium', 'pratense']",trifolium pratense,trifolium pratensethree
+425,gottstatt-3,2020-08-24,18:20:05,vicia cracca,vesce cracca,"['vicia', 'cracca', 'agg.']",vicia cracca,vicia craccathree
+426,gottstatt-3,2020-08-24,18:31:47,verbena officinalis,verveine officinale,"['verbena', 'officinalis']",verbena officinalis,verbena officinalisthree
+427,hayek-1,2020-09-01,12:58:00 PM,reseda lutea,réséda jaune,"['reseda', 'lutea']",reseda lutea,reseda luteathree
+428,hayek-1,2020-09-01,12:57:35 PM,cosmos bipinnatus,,"['cosmos', 'bipinnatus']",cosmos bipinnatus,cosmos bipinnatusthree
+429,hayek-1,2020-09-01,12:54:53 PM,symphytum officinale,consoude officinale,"['symphytum', 'officinale', 'agg.']",symphytum officinale,symphytum officinalethree
+430,hayek-1,2020-09-01,12:53:08 PM,medicago sativa,,"['medicago', 'sativa']",medicago sativa,medicago sativathree
+431,jura-1,2020-07-28,11:24:05,senecio inaequidens,séneçon sud-africain,"['senecio', 'inaequidens']",senecio inaequidens,senecio inaequidensthree
+432,jura-1,2020-08-08,18:38:53,dianthus carthusianorum,oeillet des chartreux,"['dianthus', 'carthusianorum', 'agg.']",dianthus carthusianorum,dianthus carthusianorumthree
+433,jura-1,2020-08-08,18:37:13,eupatorium cannabinum,eupatoire chanvrine,"['eupatorium', 'cannabinum']",eupatorium cannabinum,eupatorium cannabinumthree
+434,jura-1,2020-08-08,18:40:44,knautia arvensis,,"['knautia', 'arvensis', 'agg.']",knautia arvensis,knautia arvensisthree
+435,jura-1,2020-08-08,18:35:09,origanum vulgare,"origan, marjolaine","['origanum', 'vulgare', 'agg.']",origanum vulgare,origanum vulgarethree
+436,jura-2,09.07.2020,,verbascum nigrum,,"['verbascum', 'negris']",verbascum nigrum,verbascum nigrumthree
+437,jura-2,20.06.2020,,onobrychis viciifolia,,"['onobrychis', 'viciifolia']",onobrychis viciifolia,onobrychis viciifoliathree
+438,jura-2,20.06.2020,,securigera varia,,"['securigea', 'varia']",securigera varia,securigera variathree
+439,jura-2,28.06.2020,,chelidonium majus,,"['chelidonium', 'majus']",chelidonium majus,chelidonium majusthree
+440,jura-2,28.06.2020,,malva alcea,,"['malva', 'alcea']",malva alcea,malva alceathree
+441,jura-2,28.06.2020,12:00:00 PM,silene vulgaris,,"['silene', 'vulgaris']",silene vulgaris,silene vulgaristhree
+442,jura-2,28.06.2020,,reseda lutea,,"['reseda', 'lutea']",reseda lutea,reseda luteathree
+443,jura-2,28.06.2020,,echium vulgare,,"['echium', 'vulgare']",echium vulgare,echium vulgarethree
+444,jura-2,28.06.2020,,calystegia sepium,,"['calystegia', 'sepium', 'agg.']",calystegia sepium,calystegia sepiumthree
+445,jura-2,28.06.2020,,geum urbanum,,"['geum', 'urbanum']",geum urbanum,geum urbanumthree
+446,lezard-1,12.07.2020,,malva alcea,,"['malva', 'alcea']",malva alcea,malva alceathree
+447,lezard-1,2020-08-04,09:52:28,galeopsis tetrahit,"ortie royale, galéopsis tétrahit","['galeopsis', 'tetrahit', 'agg.']",galeopsis tetrahit,galeopsis tetrahitthree
+448,lezard-1,2020-08-04,09:51:23,linaria vulgaris,linaire commune,"['linaria', 'vulgaris', 'agg.']",linaria vulgaris,linaria vulgaristhree
+449,lezard-1,2020-08-04,09:50:34,cornus sanguinea,cornouiller sanguin,"['cornus', 'sanguinea']",cornus sanguinea,cornus sanguineathree
+450,lezard-1,2020-08-04,09:48:33,malva alcea,mauve alcée,"['malva', 'alcea']",malva alcea,malva alceathree
+451,ligerz-favorite,2020-07-29,09:46:19,sedum album,orpin blanc,"['sedum', 'album']",sedum album,sedum albumthree
+452,ligerz-favorite,2020-07-29,09:41:51,crepis capillaris,,"['crepis', 'capillaris']",crepis capillaris,crepis capillaristhree
+453,lucherz-bureli,2020-07-27,10:18:45,bellis perennis,pâquerette vivace,"['bellis', 'perennis']",bellis perennis,bellis perennisthree
+454,lucherz-bureli,2020-07-27,10:11:36,filipendula ulmaria,"reine des prés, spirée","['filipendula', 'ulmaria']",filipendula ulmaria,filipendula ulmariathree
+455,lucherz-bureli,2020-07-27,10:01:15,ranunculus acris,,"['ranunculus', 'acris', 'agg.']",ranunculus acris,ranunculus acristhree
+456,lucherz-seestrasse,2020-07-27,09:55:24,circaea lutetiana,"herbe des sorcières, circée commune","['circaea', 'lutetiana']",circaea lutetiana,circaea lutetianathree
+457,lucherz-seestrasse,2020-07-27,09:53:05,filipendula ulmaria,"reine des prés, spirée","['filipendula', 'ulmaria']",filipendula ulmaria,filipendula ulmariathree
+458,lucherz-seestrasse,2020-07-27,09:46:59,chaerophyllum temulum,chérophylle penché,"['chaerophyllum', 'temulum']",chaerophyllum temulum,chaerophyllum temulumthree
+459,lucherz-seestrasse,2020-07-27,09:45:58,lythrum salicaria,salicaire commune,"['lythrum', 'salicaria']",lythrum salicaria,lythrum salicariathree
+460,lucherz-seestrasse,2020-07-27,09:44:07,knautia dipsacifolia,,"['knautia', 'maxima']",knautia dipsacifolia,knautia dipsacifoliathree
+461,lucherz-seestrasse,2020-07-27,09:41:15,viburnum lantana,"mancienne, viorne lantane","['viburnum', 'lantana']",viburnum lantana,viburnum lantanathree
+462,lucherz-seestrasse,2020-07-27,09:38:08,galium mollugo,"gaillet commun, gaillet blanc","['galium', 'mollugo', 'agg.']",galium mollugo,galium mollugothree
+463,lucherz-seestrasse,2020-07-27,09:14:31,heracleum sphondylium,"patte d'ours, berce des prés","['heracleum', 'sphondylium']",heracleum sphondylium,heracleum sphondyliumthree
+464,lucherz-seestrasse,2020-07-27,09:11:40,urtica dioica,ortie dioïque,"['urtica', 'dioica']",urtica dioica,urtica dioicathree
+465,orvin-petit-moulin,2020-09-17,10:09:55,trifolium pratense,trèfle des prés,"['trifolium', 'pratense']",trifolium pratense,trifolium pratensethree
+466,orvin-petit-moulin,2020-09-17,10:09:27,knautia arvensis,knautie des champs,"['knautia', 'arvensis', 'agg.']",knautia arvensis,knautia arvensisthree
+467,orvin-petit-moulin,2020-09-17,10:07:34,trifolium dubium,trèfle douteux,"['trifolium', 'dubium', 'agg.']",trifolium dubium,trifolium dubiumthree
+468,orvin-petit-moulin,2020-09-17,10:05:52,galeopsis tetrahit,"ortie royale, galéopsis tétrahit","['galeopsis', 'tetrahit', 'agg.']",galeopsis tetrahit,galeopsis tetrahitthree
+469,orvin-petit-moulin,2020-09-17,10:05:17,corylus cornuta,noisetier à long bec,"['corylus', 'cornuta']",corylus cornuta,corylus cornutathree
+470,orvin-petit-moulin,2020-09-17,10:03:52,rubus caesius,ronce bleuâtre,"['rubus', 'caesius']",rubus caesius,rubus caesiusthree
+471,orvin-petit-moulin,2020-09-17,10:02:47,prunus spinosa,"epine noire, prunellier","['prunus', 'spinosa', 'agg.']",prunus spinosa,prunus spinosathree
+472,pery-taubenlochweg,2020-09-22,09:14:11,echium vulgare,vipérine commune,"['echium', 'vulgare']",echium vulgare,echium vulgarethree
+473,pery-taubenlochweg,2020-09-22,09:13:19,centaurea jacea,centaurée jacée,"['centaurea', 'jacea', 'agg.']",centaurea jacea,centaurea jaceathree
+474,pery-taubenlochweg,2020-09-22,09:12:46,galium mollugo,"gaillet commun, gaillet blanc","['galium', 'mollugo', 'agg.']",galium mollugo,galium mollugothree
+475,pery-taubenlochweg,2020-09-22,09:11:50,medicago sativa,,"['medicago', 'sativa']",medicago sativa,medicago sativathree
+476,pery-taubenlochweg,2020-09-22,09:10:45,silene vulgaris,silène enflé,"['silene', 'vulgaris']",silene vulgaris,silene vulgaristhree
+477,pery-taubenlochweg,2020-09-22,09:10:03,verbascum nigrum,molène noire,"['verbascum', 'nigrum']",verbascum nigrum,verbascum nigrumthree
+478,pieterlen-stockweg,2020-09-25,09:55:28,silene dioica,"silène dioïque, compagnon rouge","['silene', 'dioica']",silene dioica,silene dioicathree
+479,reichenbach,2020-09-23,12:27:46,erigeron canadensis,vergerette du canada,"['erigeron', 'canadensis']",erigeron canadensis,erigeron canadensisthree
+480,reichenbach,2020-09-23,12:25:36,cirsium oleraceum,cirse jaunâtre,"['cirsium', 'oleraceum']",cirsium oleraceum,cirsium oleraceumthree
+481,reichenbach,2020-09-23,12:24:58,reynoutria japonica,renouée du japon,"['reynoutria', 'japonica']",reynoutria japonica,reynoutria japonicathree
+482,reichenbach,2020-09-23,12:12:20,pilosella aurantiaca,,"['hieracium', 'aurantiacum']",pilosella aurantiaca,pilosella aurantiacathree
+483,reichenbach,2020-09-23,12:10:25,eupatorium cannabinum,eupatoire chanvrine,"['eupatorium', 'cannabinum']",eupatorium cannabinum,eupatorium cannabinumthree
+484,reichenbach,2020-09-23,12:07:54,rubus caesius,ronce bleuâtre,"['rubus', 'caesius']",rubus caesius,rubus caesiusthree
+485,reichenbach,2020-09-23,12:01:48,mentha aquatica,menthe aquatique,"['mentha', 'aquatica']",mentha aquatica,mentha aquaticathree
+486,reichenbach,2020-09-23,12:00:44,cirsium arvense,cirse des champs,"['cirsium', 'arvense']",cirsium arvense,cirsium arvensethree
+487,reichenbach,2020-09-23,11:24:58,tragopogon pratensis,salsifis des prés,"['tragopogon', 'pratensis']",tragopogon pratensis,tragopogon pratensisthree
+488,rondchatel,2020-09-22,09:52:56,geranium pyrenaicum,géranium des pyrénées,"['geranium', 'pyrenaicum']",geranium pyrenaicum,geranium pyrenaicumthree
+489,rondchatel,2020-09-22,09:52:06,achillea millefolium,achillée millefeuille,"['achillea', 'millefolium', 'agg.']",achillea millefolium,achillea millefoliumthree
+490,rondchatel,2020-09-22,09:49:19,picris hieracioides,"picride fausse épervière, picride amère","['picris', 'hieracioides']",picris hieracioides,picris hieracioidesthree
+491,rondchatel,2020-09-22,09:48:41,urtica dioica,ortie dioïque,"['urtica', 'dioica']",urtica dioica,urtica dioicathree
+492,rondchatel,2020-09-22,09:47:56,solidago canadensis,solidage du canada,"['solidago', 'canadensis']",solidago canadensis,solidago canadensisthree
+493,rondchatel,2020-09-22,09:47:29,calystegia sepium,liseron des haies,"['calystegia', 'sepium', 'agg.']",calystegia sepium,calystegia sepiumthree
+494,rondchatel,2020-09-22,09:45:06,lamium maculatum,lamier tacheté,"['lamium', 'maculatum']",lamium maculatum,lamium maculatumthree
+495,rondchatel,2020-09-22,09:44:15,erigeron annuus,vergerette annuelle,"['erigeron', 'annuus']",erigeron annuus,erigeron annuusthree
+496,rue-alfred-aebi,2020-08-11,18:45:26,urtica dioica,ortie dioïque,"['urtica', 'dioica']",urtica dioica,urtica dioicathree
+497,rue-alfred-aebi,2020-08-11,18:44:33,ligustrum sinense,troène de chine,"['ligustrum', 'sinense']",ligustrum sinense,ligustrum sinensethree
+498,rue-alfred-aebi,2020-08-11,18:43:25,symphoricarpos albus,symphorine blanche,"['symphoricarpos', 'albus']",symphoricarpos albus,symphoricarpos albusthree
+499,rue-alfred-aebi,2020-08-11,18:38:21,acer pseudoplatanus,"erable des montagnes, erable sycomore","['acer', 'pseudoplatanus']",acer pseudoplatanus,acer pseudoplatanusthree
+500,rue-alfred-aebi,2020-08-11,18:36:59,corylus avellana,"coudrier, noisetier","['corylus', 'avellana']",corylus avellana,corylus avellanathree
+501,rue-alfred-aebi,2020-08-11,18:35:28,acer pseudoplatanus,"erable des montagnes, erable sycomore","['acer', 'pseudoplatanus']",acer pseudoplatanus,acer pseudoplatanusthree
+502,rue-alfred-aebi,2020-08-11,18:34:24,sambucus nigra,"grand sureau, sureau noir","['sambucus', 'nigra']",sambucus nigra,sambucus nigrathree
+503,rue-alfred-aebi,2020-08-12,09:10:18,viburnum rhytidophyllum,,"['viburnum', 'rhytidophyllum']",viburnum rhytidophyllum,viburnum rhytidophyllumthree
+504,rue-centrale,11.07.2020,,lathyrus latifolius,,"['lathyrus', 'latifolius']",lathyrus latifolius,lathyrus latifoliusthree
+505,rue-centrale,11.07.2020,,malva moschata,,"['malva', 'moschata']",malva moschata,malva moschatathree
+506,rue-centrale,11.07.2020,,stachys byzantina,,"['stachys', 'byzantina']",stachys byzantina,stachys byzantinathree
+507,rue-centrale,11.07.2020,,dianthus armeria,,"['dianthus', 'armeria']",dianthus armeria,dianthus armeriathree
+508,rue-centrale,11.07.2020,,rubus caesius,,"['rubus', 'caesius']",rubus caesius,rubus caesiusthree
+509,rue-de-leau-1,2020-08-23,18:27:27,achillea millefolium,achillée millefeuille,"['achillea', 'millefolium', 'agg.']",achillea millefolium,achillea millefoliumthree
+510,rue-de-leau-1,2020-08-23,18:31:30,buddleja davidii,buddléia de david,"['buddleja', 'davidii']",buddleja davidii,buddleja davidiithree
+511,rue-de-leau-1,2020-08-23,18:26:38,daucus carota,carotte sauvage,"['daucus', 'carota']",daucus carota,daucus carotathree
+512,rue-de-leau-1,2020-08-23,18:28:37,solanum nigrum,morelle noire,"['solanum', 'nigrum']",solanum nigrum,solanum nigrumthree
+513,rue-de-leau-1,2020-08-23,18:22:52,stachys recta,epiaire droite,"['stachys', 'recta', 'agg.']",stachys recta,stachys rectathree
+514,rue-de-leau-1,2020-08-23,18:21:37,centaurea scabiosa,centaurée scabieuse,"['centaurea', 'scabiosa']",centaurea scabiosa,centaurea scabiosathree
+515,rue-de-leau-1,2020-08-23,18:20:53,lotus corniculatus,lotier corniculé,"['lotus', 'corniculatus', 'agg.']",lotus corniculatus,lotus corniculatusthree
+516,rue-de-leau-1,2020-08-23,18:15:33,hypericum perforatum,millepertuis perforé,"['hypericum', 'perforatum']",hypericum perforatum,hypericum perforatumthree
+517,rue-de-leau-1,2020-08-23,18:13:40,oenothera biennis,,['oenothera'],oenothera biennis,oenothera biennisthree
+518,rue-de-leau-1,2020-08-23,18:07:11,centaurea jacea,centaurée jacée,"['centaurea', 'jacea', 'agg.']",centaurea jacea,centaurea jaceathree
+519,rue-de-leau-1,2020-08-23,18:06:20,centaurea jacea,centaurée jacée,"['centaurea', 'jacea', 'agg.']",centaurea jacea,centaurea jaceathree
+520,rue-de-leau-1,2020-08-23,18:05:23,trifolium pratense,trèfle des prés,"['trifolium', 'pratense']",trifolium pratense,trifolium pratensethree
+521,rue-de-leau-1,2020-08-23,18:04:12,melilotus albus,mélilot blanc,"['melilotus', 'albus']",melilotus albus,melilotus albusthree
+522,rue-de-leau-1,2020-08-23,18:03:33,erigeron canadensis,vergerette du canada,"['erigeron', 'canadensis']",erigeron canadensis,erigeron canadensisthree
+523,rue-de-leau-2,2020-08-01,09:34:36,brassica napus,,"['brassica', 'napus']",brassica napus,brassica napusthree
+524,rue-de-leau-2,2020-08-03,13:54:36,crepis capillaris,,"['crepis', 'capillaris']",crepis capillaris,crepis capillaristhree
+525,rue-de-leau-2,2020-08-03,13:50:52,silene vulgaris,silène enflé,"['silene', 'vulgaris']",silene vulgaris,silene vulgaristhree
+526,rue-de-leau-2,2020-08-03,13:45:46,picris hieracioides,"picride fausse épervière, picride amère","['picris', 'hieracioides']",picris hieracioides,picris hieracioidesthree
+527,rue-de-leau-3,2020-08-01,09:29:48,oenothera biennis,,['oenothera'],oenothera biennis,oenothera biennisthree
+528,rue-de-leau-3,2020-08-01,09:27:52,silene vulgaris,silène enflé,"['silene', 'vulgaris']",silene vulgaris,silene vulgaristhree
+529,rue-de-leau-3,2020-08-01,09:26:00,silene latifolia,compagnon blanc,"['silene', 'latifolia']",silene latifolia,silene latifoliathree
+530,rue-de-leau-3,2020-08-01,09:24:32,reseda lutea,réséda jaune,"['reseda', 'lutea']",reseda lutea,reseda luteathree
+531,rue-de-leau-3,2020-08-01,09:17:25,centaurea scabiosa,centaurée scabieuse,"['centaurea', 'scabiosa']",centaurea scabiosa,centaurea scabiosathree
+532,rue-de-leau-3,2020-08-01,09:14:52,tragopogon pratensis,,"['tragopogon', 'pratensis']",tragopogon pratensis,tragopogon pratensisthree
+533,rue-de-leau-3,2020-08-01,09:14:08,daucus carota,carotte sauvage,"['daucus', 'carota']",daucus carota,daucus carotathree
+534,rue-de-leau-4,2020-08-17,18:49:24,galium mollugo,"gaillet commun, gaillet blanc","['galium', 'mollugo', 'agg.']",galium mollugo,galium mollugothree
+535,rue-de-leau-4,2020-08-17,18:48:51,erigeron canadensis,vergerette du canada,"['erigeron', 'canadensis']",erigeron canadensis,erigeron canadensisthree
+536,rue-de-leau-4,2020-08-17,18:45:50,lotus corniculatus,lotier corniculé,"['lotus', 'corniculatus', 'agg.']",lotus corniculatus,lotus corniculatusthree
+537,rue-de-leau-4,2020-08-17,18:44:40,rumex obtusifolius,"patience sauvage, rumex à feuilles obtuses","['rumex', 'obtusifolius']",rumex obtusifolius,rumex obtusifoliusthree
+538,rue-de-leau-4,2020-08-17,18:33:35,trifolium pratense,trèfle des prés,"['trifolium', 'pratense']",trifolium pratense,trifolium pratensethree
+539,rue-de-leau-4,2020-08-17,18:30:49,daucus carota,carotte sauvage,"['daucus', 'carota']",daucus carota,daucus carotathree
+540,rue-de-leau-4,2020-08-17,18:28:58,silene vulgaris,silène enflé,"['silene', 'vulgaris']",silene vulgaris,silene vulgaristhree
+541,rue-de-leau-4,2020-08-17,18:27:04,achillea millefolium,achillée millefeuille,"['achillea', 'millefolium', 'agg.']",achillea millefolium,achillea millefoliumthree
+542,rue-de-leau-4,2020-08-17,18:25:47,melilotus albus,mélilot blanc,"['melilotus', 'albus']",melilotus albus,melilotus albusthree
+543,rue-de-leau-4,2020-08-17,18:22:09,stachys recta,epiaire droite,"['stachys', 'recta', 'agg.']",stachys recta,stachys rectathree
+544,rue-de-leau-4,2020-08-17,18:20:54,centaurea scabiosa,centaurée scabieuse,"['centaurea', 'scabiosa']",centaurea scabiosa,centaurea scabiosathree
+545,rue-de-leau-4,2020-08-17,18:20:14,centaurea jacea,centaurée jacée,"['centaurea', 'jacea', 'agg.']",centaurea jacea,centaurea jaceathree
+546,rue-de-leau-5,2020-08-18,18:13:06,prunella grandiflora,brunelle à grandes fleurs,"['prunella', 'grandiflora']",prunella grandiflora,prunella grandiflorathree
+547,rue-de-leau-5,2020-08-18,18:12:23,eupatorium serotinum,,"['eupatorium', 'serotinum']",eupatorium serotinum,eupatorium serotinumthree
+548,rue-de-leau-5,2020-08-18,18:08:34,leucanthemum vulgare,marguerite précoce,"['leucanthemum', 'vulgare', 'agg.']",leucanthemum vulgare,leucanthemum vulgarethree
+549,rue-de-leau-5,2020-08-18,18:07:45,lotus corniculatus,lotier corniculé,"['lotus', 'corniculatus', 'agg.']",lotus corniculatus,lotus corniculatusthree
+550,rue-de-leau-5,2020-08-18,18:07:06,daucus carota,carotte sauvage,"['daucus', 'carota']",daucus carota,daucus carotathree
+551,rue-de-leau-5,2020-08-18,18:06:20,trifolium pratense,trèfle des prés,"['trifolium', 'pratense']",trifolium pratense,trifolium pratensethree
+552,rue-de-leau-5,2020-08-18,18:05:47,silene vulgaris,silène enflé,"['silene', 'vulgaris']",silene vulgaris,silene vulgaristhree
+553,rue-de-leau-5,2020-08-18,18:05:02,achillea millefolium,achillée millefeuille,"['achillea', 'millefolium', 'agg.']",achillea millefolium,achillea millefoliumthree
+554,saint-ursanne-falls,2020-08-20,11:53:16,stellaria aquatica,stellaire aquatique,"['stellaria', 'aquatica']",stellaria aquatica,stellaria aquaticathree
+555,saint-ursanne-falls,2020-08-20,11:52:15,impatiens glandulifera,impatiente glanduleuse,"['impatiens', 'glandulifera']",impatiens glandulifera,impatiens glanduliferathree
+556,salome-1,2020-08-15,18:48:44,mentha spicata,menthe en grappe,"['mentha', 'spicata', 'agg.']",mentha spicata,mentha spicatathree
+557,salome-1,2020-08-15,18:46:17,artemisia vulgaris,armoise commune,"['artemisia', 'vulgaris', 'agg.']",artemisia vulgaris,artemisia vulgaristhree
+558,salome-1,2020-08-15,18:45:44,populus alba,peuplier blanc,"['populus', 'alba', 'agg.']",populus alba,populus albathree
+559,salome-1,2020-08-15,18:42:33,alnus glutinosa,"aulne glutineux, verne","['alnus', 'glutinosa']",alnus glutinosa,alnus glutinosathree
+560,salome-1,2020-08-15,18:33:50,salix alba,,"['salix', 'alba']",salix alba,salix albathree
+561,salome-1,2020-08-15,18:25:12,salix purpurea,"osier rouge, saule pourpre","['salix', 'purpurea']",salix purpurea,salix purpureathree
+562,salome-1,2020-08-15,18:24:35,sambucus nigra,"grand sureau, sureau noir","['sambucus', 'nigra']",sambucus nigra,sambucus nigrathree
+563,salome-1,2020-08-15,18:23:38,crataegus monogyna,"aubépine à un style, epine blanche","['crataegus', 'monogyna']",crataegus monogyna,crataegus monogynathree
+564,salome-2,05.06.2020,11:40:00 AM,galium mollugo,,"['galium', 'mollugo', 'agg.']",galium mollugo,galium mollugothree
+565,salome-2,23.07.2020,09:30:00 PM,echium vulgare,,"['echium', 'vulgare']",echium vulgare,echium vulgarethree
+566,salome-2,24.07.2020,09:30:00 PM,sedum sexangulare,,"['sedum', 'sexangulare']",sedum sexangulare,sedum sexangularethree
+567,salome-2,24.07.2020,09:30:00 PM,sedum album,,"['sedum', 'album']",sedum album,sedum albumthree
+568,salome-3,05.06.2020,11:40:00 AM,senecio inaequidens,,"['senecio', 'inaequidens']",senecio inaequidens,senecio inaequidensthree
+569,salome-3,05.06.2020,11:40:00 AM,sedum album,,"['sedum', 'album']",sedum album,sedum albumthree
+570,salome-4,03.06.2020,,galium album,,"['galium', 'album']",galium album,galium albumthree
+571,salome-4,03.06.2020,,sedum album,,"['sedum', 'album']",sedum album,sedum albumthree
+572,salome-5,24.06.2020,,cirsium palustre,,"['cirsium', 'palustre']",cirsium palustre,cirsium palustrethree
+573,salome-5,24.06.2020,,erigeron annuus,,"['erigeron', 'annuus']",erigeron annuus,erigeron annuusthree
+574,salome-5,24.06.2020,,sisymbrium officinale,,"['sysimbrium', 'officinale']",sisymbrium officinale,sisymbrium officinalethree
+575,salome-5,24.06.2020,,urtica dioica,,"['urtica', 'dioica']",urtica dioica,urtica dioicathree
+576,salome-5,24.06.2020,,galium mollugo,,"['galium', 'mollugo', 'agg.']",galium mollugo,galium mollugothree
+577,salome-5,24.06.2020,,mentha spicata,,"['mentha', 'spicata', 'agg.']",mentha spicata,mentha spicatathree
+578,salome-5,24.06.2020,,oenothera biennis,,['oenothera'],oenothera biennis,oenothera biennisthree
+579,salome-5,24.06.2020,,geranium pyrenaicum ,,"['geranium', 'pyrenaicum', '']",geranium pyrenaicum ,geranium pyrenaicum three
+580,salome-5,24.06.2020,,hypericum maculatum,,"['hypericum', 'maculatum']",hypericum maculatum,hypericum maculatumthree
+581,salome-5,24.06.2020,,medicago sativa,,"['medicago', 'sativa']",medicago sativa,medicago sativathree
+582,schlosslifeld-1,04.07.2020,,dipsacus fullonum,,"['dipsacus', 'fullonum']",dipsacus fullonum,dipsacus fullonumthree
+583,schlosslifeld-1,04.07.2020,,cichorium intybus,,"['cichorium', 'intybus']",cichorium intybus,cichorium intybusthree
+584,schlosslifeld-1,04.07.2020,,echium vulgare,,"['echium', 'vulgare']",echium vulgare,echium vulgarethree
+585,schlosslifeld-2,04.07.2020,,potentilla reptans,,"['potentilla', 'reptans']",potentilla reptans,potentilla reptansthree
+586,schlosslifeld-2,04.07.2020,,echium vulgare,,"['echium', 'vulgare']",echium vulgare,echium vulgarethree
+587,schlosslifeld-2,04.07.2020,,silene latifolia,,"['silene', 'latifolia']",silene latifolia,silene latifoliathree
+588,schlosslifeld-2,04.07.2020,,cichorium intybus,,"['cichorium', 'intybus']",cichorium intybus,cichorium intybusthree
+589,schlosslifeld-2,04.07.2020,,malva alcea,,"['malva', 'alcea']",malva alcea,malva alceathree
+590,schlosslifeld-2,2020-08-19,15:55:05,galeopsis tetrahit,"ortie royale, galéopsis tétrahit","['galeopsis', 'tetrahit', 'agg.']",galeopsis tetrahit,galeopsis tetrahitthree
+591,schlosslifeld-2,2020-08-19,15:52:00,silene latifolia,compagnon blanc,"['silene', 'latifolia']",silene latifolia,silene latifoliathree
+592,schlosslifeld-2,2020-08-19,15:50:20,polygonum aviculare,renouée des oiseaux,"['polygonum', 'aviculare', 'agg.']",polygonum aviculare,polygonum avicularethree
+593,schlosslifeld-2,2020-08-19,15:49:38,echium vulgare,vipérine commune,"['echium', 'vulgare']",echium vulgare,echium vulgarethree
+594,schlosslifeld-2,2020-08-19,15:46:04,chaenorhinum minus,chénorhinum mineur (groupe),"['chaenorhinum', 'minus', 'agg.']",chaenorhinum minus,chaenorhinum minusthree
+595,schlosslifeld-2,2020-08-19,15:39:29,geranium pusillum,géranium fluet,"['geranium', 'pusillum']",geranium pusillum,geranium pusillumthree
+596,schlosslifeld-2,2020-08-19,15:38:48,acer pseudoplatanus,"erable des montagnes, erable sycomore","['acer', 'pseudoplatanus']",acer pseudoplatanus,acer pseudoplatanusthree
+597,schlosslifeld-2,2020-08-19,15:35:59,dianthus armeria,oeillet arméria,"['dianthus', 'armeria']",dianthus armeria,dianthus armeriathree
+598,schlosslifeld-3,04.07.2020,,filipendula ulmaria,,"['filipendula', 'ulmaria']",filipendula ulmaria,filipendula ulmariathree
+599,schlosslifeld-3,04.07.2020,,echium vulgare,,"['echium', 'vulgare']",echium vulgare,echium vulgarethree
+600,schlosslifeld-3,04.07.2020,,melilotus albus,,"['melilotus', 'albus']",melilotus albus,melilotus albusthree
+601,schlosslifeld-3,04.07.2020,,ranunculus acris,,"['ranunculus', 'acris', 'agg.']",ranunculus acris,ranunculus acristhree
+602,schlosslifeld-3,04.07.2020,,tragopogon pratensis,,"['tragopogon', 'pratensis']",tragopogon pratensis,tragopogon pratensisthree
+603,schlosslifeld-3,07.07.2020,12:50:00 PM,malva alcea,,"['malva', 'alcea']",malva alcea,malva alceathree
+604,schlosslifeld-3,04.07.2020,,malva sylvestris,,"['malva', 'sylvestris']",malva sylvestris,malva sylvestristhree
+605,schlosslistrasse,18.06.2020,,alcea rosea,,"['alcea', 'rosea']",alcea rosea,alcea roseathree
+606,schlosslistrasse,18.06.2020,,geranium molle,,"['geranium', 'molle']",geranium molle,geranium mollethree
+607,schlosslistrasse,18.06.2020,,achillea millefolium,,"['achillea', 'millefolium', 'agg.']",achillea millefolium,achillea millefoliumthree
+608,schlosslistrasse,18.06.2020,,senecio inaequidens,,"['senecio', 'inaequidens']",senecio inaequidens,senecio inaequidensthree
+609,schlosslistrasse,18.06.2020,,daucus carota,,"['daucus', 'carota']",daucus carota,daucus carotathree
+610,schlosslistrasse,18.06.2020,,lepidium virginicum,,"['lepidium', 'virginicum']",lepidium virginicum,lepidium virginicumthree
+611,schussinsel-3,10.07.2020,,daucus carota,,"['daucus', 'carota']",daucus carota,daucus carotathree
+612,schussinsel-1,10.07.2020,,convolvulus arvensis,,"['convolvulus', 'arvensis']",convolvulus arvensis,convolvulus arvensisthree
+613,schussinsel-2,10.07.2020,,lactuca serriola,,"['lactuca', 'serriola']",lactuca serriola,lactuca serriolathree
+614,schussinsel-2,10.07.2020,,tragopogon pratensis,,"['tragopogon', 'pratensis']",tragopogon pratensis,tragopogon pratensisthree
+615,schussinsel-3,10.07.2020,,oenothera biennis,,['oenothera'],oenothera biennis,oenothera biennisthree
+616,schussinsel-3,10.07.2020,,hypericum perforatum,,"['hypericum', 'perforatum']",hypericum perforatum,hypericum perforatumthree
+617,schussinsel-3,10.07.2020,,verbascum thapsus,,"['verbascum', 'thapsus']",verbascum thapsus,verbascum thapsusthree
+618,schussinsel-3,10.07.2020,,medicago sativa,,"['medicago', 'varia']",medicago sativa,medicago sativathree
+619,schussinsel-3,10.07.2020,,erigeron annuus,,"['erigeron', 'annuus']",erigeron annuus,erigeron annuusthree
+620,schussinsel-3,10.07.2020,,cirsium arvense,,"['cirsium', 'arvense']",cirsium arvense,cirsium arvensethree
+621,schussinsel-4,2020-09-01,06:13:56 PM,centaurea jacea,centaurée jacée,"['centaurea', 'jacea', 'agg.']",centaurea jacea,centaurea jaceathree
+622,schussinsel-4,2020-09-01,06:13:15 PM,erigeron annuus,vergerette annuelle,"['erigeron', 'annuus']",erigeron annuus,erigeron annuusthree
+623,schussinsel-4,2020-09-01,06:12:55 PM,erigeron canadensis,vergerette du canada,"['erigeron', 'canadensis']",erigeron canadensis,erigeron canadensisthree
+624,schussinsel-4,2020-09-01,06:12:29 PM,silene vulgaris,silène enflé,"['silene', 'vulgaris']",silene vulgaris,silene vulgaristhree
+625,schussinsel-4,2020-09-01,06:12:05 PM,lotus corniculatus,lotier corniculé,"['lotus', 'corniculatus', 'agg.']",lotus corniculatus,lotus corniculatusthree
+626,schussinsel-4,2020-09-01,06:11:50 PM,salvia pratensis,sauge des prés,"['salvia', 'pratensis']",salvia pratensis,salvia pratensisthree
+627,schussinsel-4,2020-09-01,06:11:33 PM,trifolium pratense,trèfle des prés,"['trifolium', 'pratense']",trifolium pratense,trifolium pratensethree
+628,schussinsel-4,2020-09-01,06:10:10 PM,trifolium repens,trèfle rampant,"['trifolium', 'repens']",trifolium repens,trifolium repensthree
+629,schussinsel-4,2020-09-01,06:09:46 PM,campanula rotundifolia,campanule à feuilles rondes,"['campanula', 'rotundifolia', 'agg.']",campanula rotundifolia,campanula rotundifoliathree
+630,schussinsel-4,2020-09-01,06:08:21 PM,calystegia sepium,liseron des haies,"['calystegia', 'sepium', 'agg.']",calystegia sepium,calystegia sepiumthree
+631,schussinsel-4,2020-09-01,06:05:52 PM,centaurea jacea,,"['centaurea', 'jacea', 'agg.']",centaurea jacea,centaurea jaceathree
+632,schussinsel-4,2020-09-01,06:04:59 PM,scabiosa columbaria,scabieuse colombaire,"['scabiosa', 'columbaria', 'agg.']",scabiosa columbaria,scabiosa columbariathree
+633,schussinsel-4,2020-09-01,06:03:56 PM,erigeron annuus,vergerette annuelle,"['erigeron', 'annuus']",erigeron annuus,erigeron annuusthree
+634,schussinsel-4,2020-09-01,06:03:09 PM,trifolium pratense,trèfle des prés,"['trifolium', 'pratense']",trifolium pratense,trifolium pratensethree
+635,schussinsel-4,2020-09-01,06:02:15 PM,silene vulgaris,silène enflé,"['silene', 'vulgaris']",silene vulgaris,silene vulgaristhree
+636,schussinsel-4,2020-09-01,06:01:50 PM,leucanthemum vulgare,marguerite précoce,"['leucanthemum', 'vulgare', 'agg.']",leucanthemum vulgare,leucanthemum vulgarethree
+637,schussinsel-4,2020-09-01,,onobrychis viciifolia,,"['onobrychis', 'viciifolia']",onobrychis viciifolia,onobrychis viciifoliathree
+638,schussinsel-5,2020-09-02,03:58:39 PM,rumex obtusifolius,"patience sauvage, rumex à feuilles obtuses","['rumex', 'obtusifolius']",rumex obtusifolius,rumex obtusifoliusthree
+639,schussinsel-5,2020-09-02,03:58:08 PM,salvia pratensis,sauge des prés,"['salvia', 'pratensis']",salvia pratensis,salvia pratensisthree
+640,schussinsel-5,2020-09-02,03:53:09 PM,centaurea jacea,centaurée jacée,"['centaurea', 'jacea', 'agg.']",centaurea jacea,centaurea jaceathree
+641,schussinsel-5,2020-09-02,03:52:06 PM,knautia arvensis,knautie des champs,"['knautia', 'arvensis', 'agg.']",knautia arvensis,knautia arvensisthree
+642,schussinsel-5,2020-09-02,03:48:07 PM,leucanthemum vulgare,marguerite précoce,"['leucanthemum', 'vulgare', 'agg.']",leucanthemum vulgare,leucanthemum vulgarethree
+643,schussinsel-5,2020-09-02,03:46:25 PM,succisa pratensis,succise des prés,"['succisa', 'pratensis']",succisa pratensis,succisa pratensisthree
+644,schussinsel-5,2020-09-02,03:44:44 PM,urtica dioica,ortie dioïque,"['urtica', 'dioica']",urtica dioica,urtica dioicathree
+645,schussinsel-5,2020-09-02,03:44:14 PM,rubus rubus sect.,,"['rubus', 'rubus', 'sect.']",rubus rubus sect.,rubus rubus sect.three
+646,schussinsel-5,2020-09-02,03:43:29 PM,epilobium hirsutum,epilobe velu,"['epilobium', 'hirsutum']",epilobium hirsutum,epilobium hirsutumthree
+647,schussinsel-5,2020-09-02,03:43:12 PM,eupatorium cannabinum,eupatoire chanvrine,"['eupatorium', 'cannabinum']",eupatorium cannabinum,eupatorium cannabinumthree
+648,schussinsel-5,2020-09-02,03:42:28 PM,galium mollugo,"gaillet commun, gaillet blanc","['galium', 'mollugo', 'agg.']",galium mollugo,galium mollugothree
+649,schussinsel-5,2020-09-02,03:42:04 PM,artemisia vulgaris,armoise commune,"['artemisia', 'vulgaris', 'agg.']",artemisia vulgaris,artemisia vulgaristhree
+650,schussinsel-5,2020-09-02,03:40:33 PM,potentilla reptans,quintefeuille,"['potentilla', 'reptans']",potentilla reptans,potentilla reptansthree
+651,schussinsel-5,2020-09-02,03:39:36 PM,silene vulgaris,silène enflé,"['silene', 'vulgaris']",silene vulgaris,silene vulgaristhree
+652,schussinsel-5,2020-09-02,03:38:52 PM,lotus corniculatus,lotier corniculé,"['lotus', 'corniculatus', 'agg.']",lotus corniculatus,lotus corniculatusthree
+653,schussinsel-5,2020-09-02,03:38:23 PM,erigeron annuus,vergerette annuelle,"['erigeron', 'annuus']",erigeron annuus,erigeron annuusthree
+654,schussinsel-6,2020-09-02,03:36:16 PM,medicago sativa,,"['medicago', 'sativa']",medicago sativa,medicago sativathree
+655,schussinsel-6,2020-09-02,03:35:28 PM,daucus carota,carotte sauvage,"['daucus', 'carota']",daucus carota,daucus carotathree
+656,schussinsel-6,2020-09-02,03:33:53 PM,silene vulgaris,silène enflé,"['silene', 'vulgaris']",silene vulgaris,silene vulgaristhree
+657,schussinsel-6,2020-09-02,03:32:38 PM,epilobium hirsutum,epilobe velu,"['epilobium', 'hirsutum']",epilobium hirsutum,epilobium hirsutumthree
+658,schussinsel-6,2020-09-02,03:32:24 PM,urtica dioica,ortie dioïque,"['urtica', 'dioica']",urtica dioica,urtica dioicathree
+659,schussinsel-6,2020-09-02,03:32:10 PM,solidago canadensis,solidage du canada,"['solidago', 'canadensis']",solidago canadensis,solidago canadensisthree
+660,schussinsel-6,2020-09-02,03:31:34 PM,galium mollugo,"gaillet commun, gaillet blanc","['galium', 'mollugo', 'agg.']",galium mollugo,galium mollugothree
+661,schussinsel-6,2020-09-02,03:31:03 PM,trifolium repens,trèfle rampant,"['trifolium', 'repens']",trifolium repens,trifolium repensthree
+662,schussinsel-6,2020-09-02,03:29:51 PM,clinopodium vulgare,sarriette clinopode,"['clinopodium', 'vulgare']",clinopodium vulgare,clinopodium vulgarethree
+663,schussinsel-6,2020-09-02,03:29:04 PM,leucanthemum vulgare,marguerite précoce,"['leucanthemum', 'vulgare', 'agg.']",leucanthemum vulgare,leucanthemum vulgarethree
+664,schussinsel-6,2020-09-02,03:28:42 PM,trifolium pratense,trèfle des prés,"['trifolium', 'pratense']",trifolium pratense,trifolium pratensethree
+665,schussinsel-6,2020-09-02,03:28:22 PM,lotus corniculatus,lotier corniculé,"['lotus', 'corniculatus', 'agg.']",lotus corniculatus,lotus corniculatusthree
+666,schussinsel-6,2020-09-02,03:27:45 PM,onobrychis viciifolia,"esparcette commune, sainfoin","['onobrychis', 'viciifolia', 'agg.']",onobrychis viciifolia,onobrychis viciifoliathree
+667,sonnenfeld-1,09.06.2020,,bryonia dioica,,"['bryonia', 'dioica']",bryonia dioica,bryonia dioicathree
+668,sonnenfeld-1,18.06.2020,,geranium robertianum,,"['geranium', 'robertanium']",geranium robertianum,geranium robertianumthree
+669,sonnenfeld-1,18.06.2020,,bryonia dioica,,"['bryonia', 'dioica']",bryonia dioica,bryonia dioicathree
+670,sonnenfeld-1,18.06.2020,,daucus carota,,"['daucus', 'carota']",daucus carota,daucus carotathree
+671,sonnenfeld-1,18.06.2020,04:00:00 PM,malva alcea,,"['malva', 'alcea']",malva alcea,malva alceathree
+672,sonnenfeld-1,18.06.2020,,senecio inaequidens,,"['senecio', 'inaequidens']",senecio inaequidens,senecio inaequidensthree
+673,sonnenfeld-2,04.07.2020,,melilotus albus,,"['melilotus', 'albus']",melilotus albus,melilotus albusthree
+674,sonnenfeld-2,04.07.2020,,daucus carota,,"['daucus', 'carota']",daucus carota,daucus carotathree
+675,sonnenfeld-2,04.07.2020,,geranium robertianum,,"['geranium', 'robertanium']",geranium robertianum,geranium robertianumthree
+676,sonnenfeld-2,04.07.2020,,senecio inaequidens,,"['senecio', 'inaequidens']",senecio inaequidens,senecio inaequidensthree
+677,strom,2020-08-14,17:49:59,mentha spicata,menthe en grappe,"['mentha', 'spicata', 'agg.']",mentha spicata,mentha spicatathree
+678,strom,2020-08-14,17:49:29,erigeron annuus,vergerette annuelle,"['erigeron', 'annuus']",erigeron annuus,erigeron annuusthree
+679,strom,2020-08-14,17:46:04,verbena officinalis,,"['verbena', 'officinalis']",verbena officinalis,verbena officinalisthree
+680,strom,2020-08-14,17:43:08,hypericum perforatum,millepertuis perforé,"['hypericum', 'perforatum']",hypericum perforatum,hypericum perforatumthree
+681,strom,2020-08-14,17:40:57,lactuca muralis,laitue des murs,"['mycelis', 'muralis']",lactuca muralis,lactuca muralisthree
+682,strom,2020-08-14,17:37:40,eupatorium cannabinum,eupatoire chanvrine,"['eupatorium', 'cannabinum']",eupatorium cannabinum,eupatorium cannabinumthree
+683,strom,2020-08-14,17:25:37,crepis biennis,,"['crepis', 'biennis']",crepis biennis,crepis biennisthree
+684,strom,2020-08-14,17:23:54,rubus rubus sect.,,"['rubus', 'rubus', 'sect.']",rubus rubus sect.,rubus rubus sect.three
+685,strom,2020-08-14,17:23:18,clematis vitalba,clématite blanche,"['clematis', 'vitalba']",clematis vitalba,clematis vitalbathree
+686,strom,2020-08-14,17:22:17,saponaria officinalis,saponaire officinale,"['saponaria', 'officinalis']",saponaria officinalis,saponaria officinalisthree
+687,sundgraben-beach,2020-08-26,10:40:30,buddleja davidii,buddléia de david,"['buddleja', 'davidii']",buddleja davidii,buddleja davidiithree
+688,sundgraben-beach,2020-08-26,10:41:29,cornus sanguinea,cornouiller sanguin,"['cornus', 'sanguinea']",cornus sanguinea,cornus sanguineathree
+689,sundgraben-beach,2020-08-26,10:29:53,cotoneaster horizontalis,cotonéaster horizontal,"['cotoneaster', 'horizontalis']",cotoneaster horizontalis,cotoneaster horizontalisthree
+690,sundgraben-beach,2020-08-26,13:30:04,epilobium angustifolium,epilobe à feuilles étroites,"['epilobium', 'angustifolium']",epilobium angustifolium,epilobium angustifoliumthree
+691,sundgraben-beach,2020-08-26,13:31:55,epilobium parviflorum,epilobe à petites fleurs,"['epilobium', 'parviflorum']",epilobium parviflorum,epilobium parviflorumthree
+692,sundgraben-beach,2020-08-26,13:25:26,epilobium fleischeri,"epilobe des alluvions, epilobe de fleischer","['epilobium', 'fleischeri']",epilobium fleischeri,epilobium fleischerithree
+693,sundgraben-beach,2020-08-26,10:46:03,erigeron annuus,vergerette annuelle,"['erigeron', 'annuus']",erigeron annuus,erigeron annuusthree
+694,sundgraben-beach,2020-08-26,10:34:33,erigeron canadensis,vergerette du canada,"['erigeron', 'canadensis']",erigeron canadensis,erigeron canadensisthree
+695,sundgraben-beach,2020-08-26,10:29:12,eupatorium cannabinum,eupatoire chanvrine,"['eupatorium', 'cannabinum']",eupatorium cannabinum,eupatorium cannabinumthree
+696,sundgraben-beach,2020-08-26,10:35:15,hippocrepis emerus,"hippocrépide buissonnante, coronille émérus","['hippocrepis', 'emerus']",hippocrepis emerus,hippocrepis emerusthree
+697,sundgraben-beach,2020-08-26,10:52:30,hypochaeris radicata,"porcelle enracinée, porcelle des prés","['hypochaeris', 'radicata']",hypochaeris radicata,hypochaeris radicatathree
+698,sundgraben-beach,2020-08-26,10:58:52,origanum vulgare,"origan, marjolaine","['origanum', 'vulgare', 'agg.']",origanum vulgare,origanum vulgarethree
+699,sundgraben-beach,2020-08-26,10:20:38,oxalis dillenii,oxalis de dillenius,"['oxalis', 'dillenii']",oxalis dillenii,oxalis dilleniithree
+700,sundgraben-beach,2020-08-26,10:42:34,rubus caesius,ronce bleuâtre,"['rubus', 'caesius']",rubus caesius,rubus caesiusthree
+701,sundgraben-beach,2020-08-26,10:54:57,senecio inaequidens,séneçon sud-africain,"['senecio', 'inaequidens']",senecio inaequidens,senecio inaequidensthree
+702,sundgraben-beach,2020-08-26,13:23:41,silene vulgaris,silène enflé,"['silene', 'vulgaris']",silene vulgaris,silene vulgaristhree
+703,sundgraben-beach,2020-08-26,10:44:07,trifolium medium,trèfle intermédiaire,"['trifolium', 'medium']",trifolium medium,trifolium mediumthree
+704,sundgraben-bridge-left,2020-09-05,11:19:35 AM,galeopsis tetrahit,"ortie royale, galéopsis tétrahit","['galeopsis', 'tetrahit', 'agg.']",galeopsis tetrahit,galeopsis tetrahitthree
+705,sundgraben-bridge-left,2020-09-05,11:18:42 AM,clinopodium nepeta,sarriette népéta,"['calamintha', 'nepeta', 'agg.']",clinopodium nepeta,clinopodium nepetathree
+706,sundgraben-bridge-left,2020-09-05,11:17:21 AM,oxalis dillenii,oxalis de dillenius,"['oxalis', 'dillenii']",oxalis dillenii,oxalis dilleniithree
+707,sundgraben-bridge-left,2020-09-05,11:15:09 AM,linaria repens,linaire striée,"['linaria', 'repens']",linaria repens,linaria repensthree
+708,sundgraben-bridge-left,2020-09-05,11:13:31 AM,oenothera biennis,,['oenothera'],oenothera biennis,oenothera biennisthree
+709,sundgraben-bridge-left,2020-09-05,11:12:43 AM,clinopodium vulgare,sarriette clinopode,"['clinopodium', 'vulgare']",clinopodium vulgare,clinopodium vulgarethree
+710,sundgraben-bridge-left,2020-09-05,11:12:24 AM,achillea millefolium,achillée millefeuille,"['achillea', 'millefolium', 'agg.']",achillea millefolium,achillea millefoliumthree
+711,sundgraben-bridge-left,2020-09-05,11:11:14 AM,reseda lutea,réséda jaune,"['reseda', 'lutea']",reseda lutea,reseda luteathree
+712,sundgraben-bridge-left,2020-09-05,11:09:58 AM,daucus carota,carotte sauvage,"['daucus', 'carota']",daucus carota,daucus carotathree
+713,sundgraben-bridge-left,2020-09-05,11:09:35 AM,linaria vulgaris,linaire commune,"['linaria', 'vulgaris', 'agg.']",linaria vulgaris,linaria vulgaristhree
+714,sundgraben-bridge-left,2020-09-05,11:09:18 AM,lotus corniculatus,lotier corniculé,"['lotus', 'corniculatus', 'agg.']",lotus corniculatus,lotus corniculatusthree
+715,sundgraben-bridge-left,2020-09-05,11:08:06 AM,centaurea scabiosa,centaurée scabieuse,"['centaurea', 'scabiosa']",centaurea scabiosa,centaurea scabiosathree
+716,sundgraben-bridge-left,2020-09-05,11:07:37 AM,hypericum perforatum,millepertuis perforé,"['hypericum', 'perforatum']",hypericum perforatum,hypericum perforatumthree
+717,sundgraben-bridge-left,2020-09-05,11:06:52 AM,trifolium medium,trèfle intermédiaire,"['trifolium', 'medium']",trifolium medium,trifolium mediumthree
+718,sundgraben-bridge-left,2020-09-05,11:06:31 AM,calystegia sepium,liseron des haies,"['calystegia', 'sepium', 'agg.']",calystegia sepium,calystegia sepiumthree
+719,sundgraben-bridge-left,2020-09-05,11:05:56 AM,buddleja davidii,buddléia de david,"['buddleja', 'davidii']",buddleja davidii,buddleja davidiithree
+720,sundgraben-bridge-left,2020-09-05,11:02:42 AM,cyclamen purpurascens,cyclamen d'europe,"['cyclamen', 'purpurascens']",cyclamen purpurascens,cyclamen purpurascensthree
+721,sundgraben-forest-left,2020-09-13,12:46:49,hippocrepis emerus,"hippocrépide buissonnante, coronille émérus","['hippocrepis', 'emerus']",hippocrepis emerus,hippocrepis emerusthree
+722,sundgraben-forest-left,2020-09-13,11:04:22,lysimachia arvensis,mouron des champs,"['lysimachia', 'arvensis']",lysimachia arvensis,lysimachia arvensisthree
+723,sundgraben-forest-left,2020-09-13,10:57:21,ligustrum vulgare,troène vulgaire,"['ligustrum', 'vulgare']",ligustrum vulgare,ligustrum vulgarethree
+724,sundgraben-forest-left,2020-09-13,10:55:04,oxalis dillenii,oxalis de dillenius,"['oxalis', 'dillenii']",oxalis dillenii,oxalis dilleniithree
+725,sundgraben-forest-left,2020-09-13,10:53:03,knautia arvensis,knautie des champs,"['knautia', 'arvensis', 'agg.']",knautia arvensis,knautia arvensisthree
+726,sundgraben-forest-right,2020-09-13,10:49:48,trifolium pratense,trèfle des prés,"['trifolium', 'pratense']",trifolium pratense,trifolium pratensethree
+727,sundgraben-forest-right,2020-09-13,10:46:00,medicago sativa,,"['medicago', 'sativa']",medicago sativa,medicago sativathree
+728,sundgraben-forest-right,2020-09-13,10:41:42,centaurea scabiosa,centaurée scabieuse,"['centaurea', 'scabiosa']",centaurea scabiosa,centaurea scabiosathree
+729,sundgraben-forest-right,2020-09-13,10:33:24,rorippa sylvestris,cresson des forêts,"['rorippa', 'sylvestris']",rorippa sylvestris,rorippa sylvestristhree
+730,sundgraben-forest-right,2020-09-13,10:32:49,centaurea jacea,centaurée jacée,"['centaurea', 'jacea', 'agg.']",centaurea jacea,centaurea jaceathree
+731,sundgraben-forest-right,2020-09-13,10:30:31,achillea millefolium,achillée millefeuille,"['achillea', 'millefolium', 'agg.']",achillea millefolium,achillea millefoliumthree
+732,sundgraben-forest-right,2020-09-13,10:29:42,erigeron annuus,vergerette annuelle,"['erigeron', 'annuus']",erigeron annuus,erigeron annuusthree
+733,sundgraben-forest-right,2020-09-13,10:28:37,daucus carota,carotte sauvage,"['daucus', 'carota']",daucus carota,daucus carotathree
+734,sundgraben-forest-right,2020-09-13,10:27:37,silene vulgaris,silène enflé,"['silene', 'vulgaris']",silene vulgaris,silene vulgaristhree
+735,sundgraben-forest-right,2020-09-13,10:26:49,eupatorium cannabinum,eupatoire chanvrine,"['eupatorium', 'cannabinum']",eupatorium cannabinum,eupatorium cannabinumthree
+736,sundgraben-forest-right,2020-09-13,10:26:13,erigeron canadensis,vergerette du canada,"['erigeron', 'canadensis']",erigeron canadensis,erigeron canadensisthree
+737,sundgraben-forest-right,2020-09-05,09:44:43 AM,melampyrum pratense,mélampyre des prés,"['melampyrum', 'pratense']",melampyrum pratense,melampyrum pratensethree
+738,sundgraben-gorge,2020-09-13,13:01:08,calystegia sepium,liseron des haies,"['calystegia', 'sepium', 'agg.']",calystegia sepium,calystegia sepiumthree
+739,sundgraben-gorge,2020-09-13,12:59:47,oenothera biennis,,['oenothera'],oenothera biennis,oenothera biennisthree
+740,sundgraben-gorge,2020-09-13,12:57:49,centaurea scabiosa,centaurée scabieuse,"['centaurea', 'scabiosa']",centaurea scabiosa,centaurea scabiosathree
+741,sundgraben-gorge,2020-09-13,12:56:13,clinopodium vulgare,sarriette clinopode,"['clinopodium', 'vulgare']",clinopodium vulgare,clinopodium vulgarethree
+742,sundgraben-gorge,2020-09-13,12:55:42,linaria vulgaris,linaire commune,"['linaria', 'vulgaris', 'agg.']",linaria vulgaris,linaria vulgaristhree
+743,sundgraben-gorge,2020-09-13,12:54:21,rudbeckia hirta,rudbeckie hérissée,"['rudbeckia', 'hirta']",rudbeckia hirta,rudbeckia hirtathree
+744,sundgraben-gorge,2020-09-13,12:53:52,eupatorium cannabinum,eupatoire chanvrine,"['eupatorium', 'cannabinum']",eupatorium cannabinum,eupatorium cannabinumthree
+745,sundgraben-gorge,2020-09-13,12:53:24,antirrhinum majus,"grand muflier, gueule de loup","['antirrhinum', 'majus']",antirrhinum majus,antirrhinum majusthree
+746,sundgraben-port,2020-09-05,10:43:33 AM,trifolium pratense,trèfle des prés,"['trifolium', 'pratense']",trifolium pratense,trifolium pratensethree
+747,sundgraben-port,2020-09-05,10:42:36 AM,daucus carota,carotte sauvage,"['daucus', 'carota']",daucus carota,daucus carotathree
+748,sundgraben-port,2020-09-05,10:41:38 AM,verbena officinalis,verveine officinale,"['verbena', 'officinalis']",verbena officinalis,verbena officinalisthree
+749,sundgraben-port,2020-09-05,10:40:13 AM,eupatorium cannabinum,eupatoire chanvrine,"['eupatorium', 'cannabinum']",eupatorium cannabinum,eupatorium cannabinumthree
+750,sundgraben-port,2020-09-05,10:39:49 AM,erigeron canadensis,vergerette du canada,"['erigeron', 'canadensis']",erigeron canadensis,erigeron canadensisthree
+751,sundgraben-port,2020-09-05,10:37:52 AM,oxalis corniculata,oxalis corniculé,"['oxalis', 'corniculata']",oxalis corniculata,oxalis corniculatathree
+752,sureaux,2020-07-28,11:14:31,crepis capillaris,crépide capillaire,"['crepis', 'capillaris']",crepis capillaris,crepis capillaristhree
+753,sureaux,2020-07-28,11:12:52,trifolium pratense,trèfle des prés,"['trifolium', 'pratense']",trifolium pratense,trifolium pratensethree
+754,sureaux,2020-07-28,11:11:44,heracleum sphondylium,"patte d'ours, berce des prés","['heracleum', 'sphondylium']",heracleum sphondylium,heracleum sphondyliumthree
+755,sureaux,2020-08-09,18:26:55,solanum ptychanthum,,"['solanum', 'ptychanthum']",solanum ptychanthum,solanum ptychanthumthree
+756,sureaux,2020-08-09,18:23:38,chenopodium album,chénopode blanc,"['chenopodium', 'album', 'agg.']",chenopodium album,chenopodium albumthree
+757,sureaux,2020-08-09,18:23:09,erigeron canadensis,vergerette du canada,"['erigeron', 'canadensis']",erigeron canadensis,erigeron canadensisthree
+758,sureaux,2020-08-09,18:10:07,ranunculus repens,renoncule rampante,"['ranunculus', 'repens']",ranunculus repens,ranunculus repensthree
+759,sureaux,2020-08-09,18:07:30,geranium pyrenaicum,géranium des pyrénées,"['geranium', 'pyrenaicum']",geranium pyrenaicum,geranium pyrenaicumthree
+760,sureaux,2020-08-09,18:05:15,rubus caesius,ronce bleuâtre,"['rubus', 'caesius']",rubus caesius,rubus caesiusthree
+761,sureaux,2020-08-09,18:03:46,filipendula ulmaria,"reine des prés, spirée","['filipendula', 'ulmaria']",filipendula ulmaria,filipendula ulmariathree
+762,sureaux,2020-08-09,18:00:38,erigeron annuus,vergerette annuelle,"['erigeron', 'annuus']",erigeron annuus,erigeron annuusthree
+763,sureaux,2020-08-09,17:59:34,erigeron annuus,vergerette annuelle,"['erigeron', 'annuus']",erigeron annuus,erigeron annuusthree
+764,sureaux,2020-08-09,17:57:06,achillea millefolium,achillée millefeuille,"['achillea', 'millefolium', 'agg.']",achillea millefolium,achillea millefoliumthree
+765,sureaux,2020-08-09,17:55:02,galium mollugo,"gaillet commun, gaillet blanc","['galium', 'mollugo', 'agg.']",galium mollugo,galium mollugothree
+766,sureaux,2020-08-09,17:52:27,aethusa cynapium,"petite ciguë, ethuse ciguë","['aethusa', 'cynapium']",aethusa cynapium,aethusa cynapiumthree
+767,sureaux,2020-08-09,17:51:31,carduus crispus,chardon crépu,"['carduus', 'crispus']",carduus crispus,carduus crispusthree
+768,sureaux,2020-08-09,17:47:32,rumex obtusifolius,"patience sauvage, rumex à feuilles obtuses","['rumex', 'obtusifolius']",rumex obtusifolius,rumex obtusifoliusthree
+769,lezard-2,2020-08-04,09:47:01,echium vulgare,vipérine commune,"['echium', 'vulgare']",echium vulgare,echium vulgarethree
+770,lezard-2,2020-08-04,09:46:14,cichorium intybus,chicorée sauvage,"['cichorium', 'intybus']",cichorium intybus,cichorium intybusthree
+771,parc-muni,2020-08-13,10:24:18,epilobium roseum,epilobe rosé,"['epilobium', 'roseum']",epilobium roseum,epilobium roseumthree
+772,parc-muni,2020-08-13,10:20:38,epilobium parviflorum,epilobe à petites fleurs,"['epilobium', 'parviflorum']",epilobium parviflorum,epilobium parviflorumthree
+773,parc-muni,2020-08-13,10:19:35,veronica beccabunga,"cresson de cheval, véronique beccabunga","['veronica', 'beccabunga']",veronica beccabunga,veronica beccabungathree
+774,parc-muni,2020-08-13,10:16:44,cyclamen hederifolium,cyclamen de naples,"['cyclamen', 'hederifolium']",cyclamen hederifolium,cyclamen hederifoliumthree
+775,salome-2,2020-08-15,18:49:18,solidago canadensis,solidage du canada,"['solidago', 'canadensis']",solidago canadensis,solidago canadensisthree
+776,swatch-1,2020-08-08,18:17:28,artemisia vulgaris,armoise commune,"['artemisia', 'vulgaris', 'agg.']",artemisia vulgaris,artemisia vulgaristhree
+777,swatch-1,2020-08-08,18:14:54,cirsium arvense,cirse des champs,"['cirsium', 'arvense']",cirsium arvense,cirsium arvensethree
+778,swatch-1,2020-08-08,18:19:09,galium mollugo,"gaillet commun, gaillet blanc","['galium', 'mollugo', 'agg.']",galium mollugo,galium mollugothree
+779,swatch-1,2020-08-08,18:20:52,lathyrus sylvestris,gesse à larges feuilles,"['lathyrus', 'sylvestris']",lathyrus sylvestris,lathyrus sylvestristhree
+780,swatch-1,2020-08-08,18:25:13,securigera varia,coronille bigarrée,"['securigera', 'varia']",securigera varia,securigera variathree
+781,swatch-1,2020-08-08,18:16:06,silene vulgaris,silène enflé,"['silene', 'vulgaris']",silene vulgaris,silene vulgaristhree
+782,swatch-1,2020-08-08,18:14:02,trifolium pratense,trèfle des prés,"['trifolium', 'pratense']",trifolium pratense,trifolium pratensethree
+783,swatch-2,2020-08-31,,medicago sativa,,"['medicago', 'sativa']",medicago sativa,medicago sativathree
+784,swatch-2,2020-08-31,05:50:42 PM,centaurea scabiosa,centaurée scabieuse,"['centaurea', 'scabiosa']",centaurea scabiosa,centaurea scabiosathree
+785,swatch-2,2020-08-31,05:49:52 PM,centaurea jacea,centaurée jacée,"['centaurea', 'jacea', 'agg.']",centaurea jacea,centaurea jaceathree
+786,swatch-2,2020-08-31,05:49:24 PM,leucanthemum vulgare,marguerite précoce,"['leucanthemum', 'vulgare', 'agg.']",leucanthemum vulgare,leucanthemum vulgarethree
+787,swatch-2,2020-08-31,05:48:45 PM,reseda lutea,réséda jaune,"['reseda', 'lutea']",reseda lutea,reseda luteathree
+788,swatch-2,2020-08-31,05:47:30 PM,melilotus albus,mélilot blanc,"['melilotus', 'albus']",melilotus albus,melilotus albusthree
+789,swatch-2,2020-08-31,05:46:51 PM,lathyrus pratensis,gesse des prés,"['lathyrus', 'pratensis']",lathyrus pratensis,lathyrus pratensisthree
+790,swatch-2,2020-08-31,05:45:39 PM,reseda lutea,réséda jaune,"['reseda', 'lutea']",reseda lutea,reseda luteathree
+791,swatch-2,2020-08-31,05:45:01 PM,cirsium vulgare,cirse commun,"['cirsium', 'vulgare']",cirsium vulgare,cirsium vulgarethree
+792,swatch-2,2020-08-31,05:44:17 PM,rumex obtusifolius,"patience sauvage, rumex à feuilles obtuses","['rumex', 'obtusifolius']",rumex obtusifolius,rumex obtusifoliusthree
+793,swatch-2,2020-08-31,05:43:34 PM,trifolium repens,trèfle rampant,"['trifolium', 'repens']",trifolium repens,trifolium repensthree
+794,swatch-2,2020-08-31,05:42:10 PM,mentha spicata,menthe en grappe,"['mentha', 'spicata', 'agg.']",mentha spicata,mentha spicatathree
+795,swatch-2,2020-08-31,05:41:40 PM,clematis vitalba,clématite blanche,"['clematis', 'vitalba']",clematis vitalba,clematis vitalbathree
+796,swatch-2,2020-08-31,05:41:07 PM,calystegia sepium,liseron des haies,"['calystegia', 'sepium', 'agg.']",calystegia sepium,calystegia sepiumthree
+797,swatch-2,2020-08-31,05:40:03 PM,daucus carota,carotte sauvage,"['daucus', 'carota']",daucus carota,daucus carotathree
+798,swatch-2,2020-08-31,05:36:55 PM,cirsium arvense,cirse des champs,"['cirsium', 'arvense']",cirsium arvense,cirsium arvensethree
+799,swatch-2,2020-08-31,05:36:21 PM,trifolium pratense,trèfle des prés,"['trifolium', 'pratense']",trifolium pratense,trifolium pratensethree
+800,swatch-2,2020-08-31,05:35:38 PM,silene vulgaris,silène enflé,"['silene', 'vulgaris']",silene vulgaris,silene vulgaristhree
+801,swatch-2,2020-08-31,05:35:05 PM,erigeron annuus,vergerette annuelle,"['erigeron', 'annuus']",erigeron annuus,erigeron annuusthree
+802,taubenloch-1,2020-08-18,10:15:23,galeopsis tetrahit,"ortie royale, galéopsis tétrahit","['galeopsis', 'tetrahit', 'agg.']",galeopsis tetrahit,galeopsis tetrahitthree
+803,taubenloch-1,2020-08-18,10:04:33,epilobium collinum,epilobe des coteaux,"['epilobium', 'collinum']",epilobium collinum,epilobium collinumthree
+804,taubenloch-1,2020-08-18,10:04:10,geranium robertianum,géranium herbe à robert,"['geranium', 'robertianum', 'agg.']",geranium robertianum,geranium robertianumthree
+805,taubenloch-1,2020-08-18,09:59:44,hylotelephium telephium,orpin reprise,"['hylotelephium', 'telephium', 'agg.']",hylotelephium telephium,hylotelephium telephiumthree
+806,taubenloch-1,2020-08-18,09:57:14,lactuca muralis,laitue des murs,"['mycelis', 'muralis']",lactuca muralis,lactuca muralisthree
+807,taubenloch-1,2020-08-18,09:55:50,lapsana communis,lapsane commune,"['lapsana', 'communis']",lapsana communis,lapsana communisthree
+808,taubenloch-1,2020-08-18,09:54:25,galeopsis tetrahit,"ortie royale, galéopsis tétrahit","['galeopsis', 'tetrahit', 'agg.']",galeopsis tetrahit,galeopsis tetrahitthree
+809,taubenloch-1,2020-08-18,09:50:42,campanula trachelium,campanule gantelée,"['campanula', 'trachelium']",campanula trachelium,campanula tracheliumthree
+810,taubenloch-2,2020-08-22,17:04:36,campanula trachelium,campanule gantelée,"['campanula', 'trachelium']",campanula trachelium,campanula tracheliumthree
+811,taubenloch-2,2020-08-22,17:01:47,solanum dulcamara,morelle douce-amère,"['solanum', 'dulcamara']",solanum dulcamara,solanum dulcamarathree
+812,taubenloch-2,2020-08-22,16:47:42,galeopsis tetrahit,"ortie royale, galéopsis tétrahit","['galeopsis', 'tetrahit', 'agg.']",galeopsis tetrahit,galeopsis tetrahitthree
+813,taubenloch-2,2020-08-22,16:46:20,salvia glutinosa,sauge glutineuse,"['salvia', 'glutinosa']",salvia glutinosa,salvia glutinosathree
+814,taubenloch-2,2020-08-22,16:38:38,campanula rotundifolia,campanule à feuilles rondes,"['campanula', 'rotundifolia', 'agg.']",campanula rotundifolia,campanula rotundifoliathree
+815,taubenloch-2,2020-08-22,16:38:01,geranium robertianum,géranium herbe à robert,"['geranium', 'robertianum', 'agg.']",geranium robertianum,geranium robertianumthree
+816,taubenloch-2,2020-08-22,16:35:51,campanula rapunculoides,campanule stolonifère,"['campanula', 'rapunculoides']",campanula rapunculoides,campanula rapunculoidesthree
+817,taubenloch-2,2020-08-22,16:33:50,salvia glutinosa,sauge glutineuse,"['salvia', 'glutinosa']",salvia glutinosa,salvia glutinosathree
+818,taubenloch-2,2020-08-22,16:29:43,galeopsis tetrahit,"ortie royale, galéopsis tétrahit","['galeopsis', 'tetrahit', 'agg.']",galeopsis tetrahit,galeopsis tetrahitthree
+819,taubenloch-2,2020-08-22,16:22:18,campanula rhomboidalis,campanule à feuilles rhomboïdales,"['campanula', 'rhomboidalis']",campanula rhomboidalis,campanula rhomboidalisthree
+820,taubenloch-2,2020-08-22,16:21:31,lactuca muralis,laitue des murs,"['mycelis', 'muralis']",lactuca muralis,lactuca muralisthree
+821,taubenloch-2,2020-08-22,16:20:09,geranium robertianum,géranium herbe à robert,"['geranium', 'robertianum', 'agg.']",geranium robertianum,geranium robertianumthree
+822,taubenloch-2,2020-08-22,16:14:40,geranium robertianum,géranium herbe à robert,"['geranium', 'robertianum', 'agg.']",geranium robertianum,geranium robertianumthree
+823,transjurane-tunnel,2020-09-22,10:22:19,rubus caesius,ronce bleuâtre,"['rubus', 'caesius']",rubus caesius,rubus caesiusthree
+824,transjurane-tunnel,2020-09-22,10:20:41,hylotelephium telephium,orpin reprise,"['hylotelephium', 'telephium', 'agg.']",hylotelephium telephium,hylotelephium telephiumthree
+825,truite-1,2020-08-08,07:31:49,artemisia vulgaris,armoise commune,"['artemisia', 'vulgaris', 'agg.']",artemisia vulgaris,artemisia vulgaristhree
+826,truite-1,2020-08-08,08:43:50,carduus personata,cardus personata,"['carduus', 'personata']",carduus personata,carduus personatathree
+827,truite-1,2020-08-08,07:24:34,chaenorhinum minus,chénorhinum mineur (groupe),"['chaenorhinum', 'minus', 'agg.']",chaenorhinum minus,chaenorhinum minusthree
+828,truite-1,2020-08-08,07:27:50,cirsium arvense,cirse des champs,"['cirsium', 'arvense']",cirsium arvense,cirsium arvensethree
+829,truite-1,2020-08-08,07:26:06,daucus carota,carotte sauvage,"['daucus', 'carota']",daucus carota,daucus carotathree
+830,truite-1,2020-08-08,08:40:35,dipsacus pilosus,cardère poilue,"['dipsacus', 'pilosus']",dipsacus pilosus,dipsacus pilosusthree
+831,truite-1,2020-08-08,08:57:24,epilobium hirsutum,epilobe velu,"['epilobium', 'hirsutum']",epilobium hirsutum,epilobium hirsutumthree
+832,truite-1,2020-08-08,08:39:07,eupatorium cannabinum,eupatoire chanvrine,"['eupatorium', 'cannabinum']",eupatorium cannabinum,eupatorium cannabinumthree
+833,truite-1,2020-08-08,07:15:08,galeopsis tetrahit,"ortie royale, galéopsis tétrahit","['galeopsis', 'tetrahit', 'agg.']",galeopsis tetrahit,galeopsis tetrahitthree
+834,truite-1,2020-08-08,07:33:00,galium mollugo,"gaillet commun, gaillet blanc","['galium', 'mollugo', 'agg.']",galium mollugo,galium mollugothree
+835,truite-1,2020-08-08,08:41:41,geranium pyrenaicum,géranium des pyrénées,"['geranium', 'pyrenaicum']",geranium pyrenaicum,geranium pyrenaicumthree
+836,truite-1,2020-08-08,07:18:41,geranium robertianum,géranium herbe à robert,"['geranium', 'robertianum', 'agg.']",geranium robertianum,geranium robertianumthree
+837,truite-1,2020-08-08,08:42:35,knautia arvensis,knautie des champs,"['knautia', 'arvensis', 'agg.']",knautia arvensis,knautia arvensisthree
+838,truite-1,2020-08-08,08:53:48,lactuca serriola,,"['lactuca', 'serriola']",lactuca serriola,lactuca serriolathree
+839,truite-1,2020-08-08,07:19:58,lapsana communis,lapsane commune,"['lapsana', 'communis']",lapsana communis,lapsana communisthree
+840,truite-1,2020-08-08,08:47:22,leontodon hispidus,liondent hispide,"['leontodon', 'hispidus']",leontodon hispidus,leontodon hispidusthree
+841,truite-1,2020-08-08,07:26:44,pastinaca sativa,panais cultivé,"['pastinaca', 'sativa']",pastinaca sativa,pastinaca sativathree
+842,truite-1,2020-08-08,07:13:42,persicaria maculosa,renouée persicaire,"['polygonum', 'persicaria']",persicaria maculosa,persicaria maculosathree
+843,truite-1,2020-08-08,08:35:25,silene vulgaris,silène enflé,"['silene', 'vulgaris']",silene vulgaris,silene vulgaristhree
+844,truite-1,2020-08-08,07:22:52,solanum dulcamara,morelle douce-amère,"['solanum', 'dulcamara']",solanum dulcamara,solanum dulcamarathree
+845,truite-1,2020-08-08,07:21:33,urtica dioica,ortie dioïque,"['urtica', 'dioica']",urtica dioica,urtica dioicathree
+846,truite-1,2020-08-08,07:15:53,veronica persica,véronique des jardins,"['veronica', 'persica']",veronica persica,veronica persicathree
+847,truite-2,2020-08-22,06:58:44,petasites hybridus,pétasite hybride,"['petasites', 'hybridus']",petasites hybridus,petasites hybridusthree
+848,truite-2,2020-08-22,06:57:49,clematis vitalba,clématite blanche,"['clematis', 'vitalba']",clematis vitalba,clematis vitalbathree
+849,truite-2,2020-08-22,06:55:45,salix nigra,,"['salix', 'nigra']",salix nigra,salix nigrathree
+850,truite-2,2020-08-22,06:55:12,solanum dulcamara,morelle douce-amère,"['solanum', 'dulcamara']",solanum dulcamara,solanum dulcamarathree
+851,truite-2,2020-08-22,06:53:26,rumex obtusifolius,"patience sauvage, rumex à feuilles obtuses","['rumex', 'obtusifolius']",rumex obtusifolius,rumex obtusifoliusthree
+852,truite-2,2020-08-22,06:52:38,epilobium hirsutum,epilobe velu,"['epilobium', 'hirsutum']",epilobium hirsutum,epilobium hirsutumthree
+853,truite-2,2020-08-22,06:51:26,polygonum aviculare,renouée des oiseaux,"['polygonum', 'aviculare', 'agg.']",polygonum aviculare,polygonum avicularethree
+854,truite-2,2020-08-22,06:50:01,rorippa islandica,cresson des marais,"['rorippa', 'islandica', 'agg.']",rorippa islandica,rorippa islandicathree
+855,truite-2,2020-08-22,06:48:25,tussilago farfara,"pas d'âne, tussilage","['tussilago', 'farfara']",tussilago farfara,tussilago farfarathree
+856,truite-2,2020-08-22,06:47:48,urtica dioica,ortie dioïque,"['urtica', 'dioica']",urtica dioica,urtica dioicathree
+857,truite-2,2020-08-22,06:47:08,mentha spicata,menthe en grappe,"['mentha', 'spicata', 'agg.']",mentha spicata,mentha spicatathree
+858,truite-2,2020-08-22,06:40:05,persicaria lapathifolia,"renouée à feuilles d'oseille, renouée à feuilles de patience","['persicaria', 'lapathifolia']",persicaria lapathifolia,persicaria lapathifoliathree
+859,truite-2,2020-08-22,06:27:44,lathyrus latifolius,gesse à larges feuilles,"['lathyrus', 'latifolius']",lathyrus latifolius,lathyrus latifoliusthree
+860,truite-3,2020-08-06,18:28:26,phlox pilosa,phlox pubescent,"['phlox', 'pilosa']",phlox pilosa,phlox pilosathree
+861,truite-3,2020-08-06,18:26:03,urtica dioica,ortie dioïque,"['urtica', 'dioica']",urtica dioica,urtica dioicathree
+862,truite-3,2020-08-06,18:24:04,salix purpurea,"osier rouge, saule pourpre","['salix', 'purpurea']",salix purpurea,salix purpureathree
+863,truite-3,2020-08-06,18:19:42,rosa spinosissima,rosier très épineux,"['rosa', 'spinosissima']",rosa spinosissima,rosa spinosissimathree
+864,truite-3,2020-08-06,18:15:36,sambucus nigra,"grand sureau, sureau noir","['sambucus', 'nigra']",sambucus nigra,sambucus nigrathree
+865,truite-3,2020-08-06,18:14:39,rubus rubus sect.,,"['rubus', 'rubus', 'sect.']",rubus rubus sect.,rubus rubus sect.three
+866,truite-3,2020-08-06,18:06:41,daucus carota,carotte sauvage,"['daucus', 'carota']",daucus carota,daucus carotathree
+867,truite-3,2020-08-06,18:05:59,trifolium pratense,trèfle des prés,"['trifolium', 'pratense']",trifolium pratense,trifolium pratensethree
+868,truite-3,2020-08-06,18:05:34,silene vulgaris,silène enflé,"['silene', 'vulgaris']",silene vulgaris,silene vulgaristhree
+869,truite-3,2020-08-06,18:04:50,centaurea scabiosa,centaurée scabieuse,"['centaurea', 'scabiosa']",centaurea scabiosa,centaurea scabiosathree
+870,truite-3,2020-08-06,18:04:16,lotus corniculatus,lotier corniculé,"['lotus', 'corniculatus', 'agg.']",lotus corniculatus,lotus corniculatusthree
+871,truite-3,2020-08-06,18:03:11,chenopodium album,chénopode blanc,"['chenopodium', 'album', 'agg.']",chenopodium album,chenopodium albumthree
+872,truite-3,2020-08-06,18:02:15,leucanthemum vulgare,marguerite précoce,"['leucanthemum', 'vulgare', 'agg.']",leucanthemum vulgare,leucanthemum vulgarethree
+873,truite-3,2020-08-06,18:00:54,centaurea jacea,centaurée jacée,"['centaurea', 'jacea', 'agg.']",centaurea jacea,centaurea jaceathree
+874,truite-3,2020-08-06,17:59:18,cirsium arvense,cirse des champs,"['cirsium', 'arvense']",cirsium arvense,cirsium arvensethree
+875,truite-3,2020-08-06,17:57:15,galium mollugo,"gaillet commun, gaillet blanc","['galium', 'mollugo', 'agg.']",galium mollugo,galium mollugothree
+876,truite-4,2020-08-03,19:04:42,centaurea jacea,centaurée jacée,"['centaurea', 'jacea', 'agg.']",centaurea jacea,centaurea jaceathree
+877,truite-4,2020-08-03,19:04:16,salvia pratensis,sauge des prés,"['salvia', 'pratensis', 'agg.']",salvia pratensis,salvia pratensisthree
+878,truite-4,2020-08-03,18:59:56,cichorium intybus,chicorée sauvage,"['cichorium', 'intybus']",cichorium intybus,cichorium intybusthree
+879,truite-4,2020-08-06,18:52:20,hypericum perforatum,millepertuis perforé,"['hypericum', 'perforatum']",hypericum perforatum,hypericum perforatumthree
+880,truite-4,2020-08-06,18:50:38,silene latifolia,compagnon blanc,"['silene', 'latifolia']",silene latifolia,silene latifoliathree
+881,truite-4,2020-08-06,18:48:23,knautia arvensis,knautie des champs,"['knautia', 'arvensis', 'agg.']",knautia arvensis,knautia arvensisthree
+882,truite-4,2020-08-06,18:39:19,cirsium arvense,cirse des champs,"['cirsium', 'arvense']",cirsium arvense,cirsium arvensethree
+883,truite-4,2020-08-06,18:38:12,rumex obtusifolius,"patience sauvage, rumex à feuilles obtuses","['rumex', 'obtusifolius']",rumex obtusifolius,rumex obtusifoliusthree
+884,truite-4,2020-08-06,18:35:31,clinopodium vulgare,sarriette clinopode,"['clinopodium', 'vulgare']",clinopodium vulgare,clinopodium vulgarethree
+885,truite-4,2020-08-06,18:32:11,echium vulgare,,"['echium', 'vulgare']",echium vulgare,echium vulgarethree
+886,truite-5,2020-08-29,03:51:05 PM,trifolium repens,trèfle rampant,"['trifolium', 'repens']",trifolium repens,trifolium repensthree
+887,truite-5,2020-08-29,03:49:18 PM,lotus corniculatus,lotier corniculé,"['lotus', 'corniculatus', 'agg.']",lotus corniculatus,lotus corniculatusthree
+888,truite-5,2020-08-29,03:48:27 PM,rubus rubus sect.,,"['rubus', 'rubus', 'sect.']",rubus rubus sect.,rubus rubus sect.three
+889,truite-5,2020-08-29,03:48:07 PM,clematis vitalba,clématite blanche,"['clematis', 'vitalba']",clematis vitalba,clematis vitalbathree
+890,truite-5,2020-08-29,03:46:27 PM,lamium maculatum,lamier tacheté,"['lamium', 'maculatum']",lamium maculatum,lamium maculatumthree
+891,truite-5,2020-08-29,03:44:17 PM,verbena officinalis,verveine officinale,"['verbena', 'officinalis']",verbena officinalis,verbena officinalisthree
+892,truite-5,2020-08-29,03:42:46 PM,trifolium pratense,trèfle des prés,"['trifolium', 'pratense']",trifolium pratense,trifolium pratensethree
+893,truite-5,2020-08-29,03:37:44 PM,jacobaea vulgaris,"séneçon jacobée, herbe de st-jacques","['senecio', 'jacobaea']",jacobaea vulgaris,jacobaea vulgaristhree
+894,truite-5,2020-08-29,03:37:20 PM,galium mollugo,"gaillet commun, gaillet blanc","['galium', 'mollugo', 'agg.']",galium mollugo,galium mollugothree
+895,truite-5,2020-08-29,03:34:46 PM,ranunculus acris,"bouton d'or, renoncule âcre","['ranunculus', 'acris', 'agg.']",ranunculus acris,ranunculus acristhree
+896,truite-5,2020-08-29,03:34:17 PM,silene vulgaris,silène enflé,"['silene', 'vulgaris']",silene vulgaris,silene vulgaristhree
+897,truite-5,2020-08-29,03:33:47 PM,linaria vulgaris,linaire commune,"['linaria', 'vulgaris', 'agg.']",linaria vulgaris,linaria vulgaristhree
+898,truite-5,2020-08-29,03:31:50 PM,potentilla reptans,quintefeuille,"['potentilla', 'reptans']",potentilla reptans,potentilla reptansthree
+899,truite-5,2020-08-29,03:26:04 PM,rapistrum rugosum,,"['rapistrum', 'rugosum']",rapistrum rugosum,rapistrum rugosumthree
+900,truite-5,2020-08-29,03:25:14 PM,malva moschata,mauve musquée,"['malva', 'moschata']",malva moschata,malva moschatathree
+901,truite-5,2020-08-29,03:24:45 PM,daucus carota,carotte sauvage,"['daucus', 'carota']",daucus carota,daucus carotathree
+902,truite-5,2020-08-29,03:24:17 PM,medicago sativa,,"['medicago', 'varia']",medicago sativa,medicago sativathree
+903,truite-5,2020-08-29,03:23:05 PM,reseda lutea,réséda jaune,"['reseda', 'lutea']",reseda lutea,reseda luteathree
+904,twann-estuary,2020-08-25,10:40:09,angelica sylvestris,angélique sauvage,"['angelica', 'sylvestris']",angelica sylvestris,angelica sylvestristhree
+905,twann-estuary,2020-08-25,09:36:51,calystegia sepium,liseron des haies,"['calystegia', 'sepium', 'agg.']",calystegia sepium,calystegia sepiumthree
+906,twann-estuary,2020-08-25,09:43:41,cornus sanguinea,cornouiller sanguin,"['cornus', 'sanguinea']",cornus sanguinea,cornus sanguineathree
+907,twann-estuary,2020-08-25,09:55:17,cymbalaria muralis,"ruine de rome, cymbalaire","['cymbalaria', 'muralis']",cymbalaria muralis,cymbalaria muralisthree
+908,twann-estuary,2020-08-25,09:52:50,daucus carota,carotte sauvage,"['daucus', 'carota']",daucus carota,daucus carotathree
+909,twann-estuary,2020-08-25,09:54:05,epilobium hirsutum,epilobe velu,"['epilobium', 'hirsutum']",epilobium hirsutum,epilobium hirsutumthree
+910,twann-estuary,2020-08-25,10:07:56,erigeron annuus,vergerette annuelle,"['erigeron', 'annuus']",erigeron annuus,erigeron annuusthree
+911,twann-estuary,2020-08-25,10:16:58,galium mollugo,"gaillet commun, gaillet blanc","['galium', 'mollugo', 'agg.']",galium mollugo,galium mollugothree
+912,twann-estuary,2020-08-25,10:54:12,geranium rotundifolium,géranium à feuilles rondes,"['geranium', 'rotundifolium']",geranium rotundifolium,geranium rotundifoliumthree
+913,twann-estuary,2020-08-25,10:51:11,heracleum sphondylium,"patte d'ours, berce des prés","['heracleum', 'sphondylium']",heracleum sphondylium,heracleum sphondyliumthree
+914,twann-estuary,2020-08-25,09:45:15,hieracium morulum,,"['hieracium', 'morulum']",hieracium morulum,hieracium morulumthree
+915,twann-estuary,2020-08-25,10:47:42,lactuca serriola,laitue serriole,"['lactuca', 'serriola']",lactuca serriola,lactuca serriolathree
+916,twann-estuary,2020-08-25,10:00:42,lathyrus latifolius,gesse à larges feuilles,"['lathyrus', 'latifolius']",lathyrus latifolius,lathyrus latifoliusthree
+917,twann-estuary,2020-08-25,09:38:15,lycopus europaeus,"lycope d'europe, pied de loup","['lycopus', 'europaeus']",lycopus europaeus,lycopus europaeusthree
+918,twann-estuary,2020-08-25,10:56:46,rubus rubus sect.,,"['rubus', 'rubus', 'sect.']",rubus rubus sect.,rubus rubus sect.three
+919,twann-estuary,2020-08-25,10:46:27,rubus caesius,ronce bleuâtre,"['rubus', 'caesius']",rubus caesius,rubus caesiusthree
+920,twann-estuary,2020-08-25,09:54:39,silene vulgaris,silène enflé,"['silene', 'vulgaris']",silene vulgaris,silene vulgaristhree
+921,twann-estuary,2020-08-25,10:21:29,trifolium pratense,trèfle des prés,"['trifolium', 'pratense']",trifolium pratense,trifolium pratensethree
+922,twann-estuary,2020-08-25,10:39:35,urtica dioica,ortie dioïque,"['urtica', 'dioica']",urtica dioica,urtica dioicathree
+923,twann-estuary,2020-08-25,10:53:19,verbascum densiflorum,"bonhomme, molène à fleurs denses","['verbascum', 'densiflorum']",verbascum densiflorum,verbascum densiflorumthree
+924,twann-estuary,2020-08-25,10:22:36,vicia cracca,vesce cracca,"['vicia', 'cracca', 'agg.']",vicia cracca,vicia craccathree
+925,twann-gorges,2020-08-05,10:43:18,pseudofumaria lutea,corydale jaune,"['pseudofumaria', 'lutea']",pseudofumaria lutea,pseudofumaria luteathree
+926,weissenau,2020-08-10,09:36:06,hippocrepis emerus,"hippocrépide buissonnante, coronille émérus","['hippocrepis', 'emerus']",hippocrepis emerus,hippocrepis emerusthree
+927,weissenau,2020-08-10,09:33:41,lactuca muralis,laitue des murs,"['mycelis', 'muralis']",lactuca muralis,lactuca muralisthree
+928,weissenau,2020-08-10,09:27:47,calystegia sepium,liseron des haies,"['calystegia', 'sepium', 'agg.']",calystegia sepium,calystegia sepiumthree
+929,weissenau,2020-08-10,09:26:37,viburnum opulus,"boule de neige, viorne obier","['viburnum', 'opulus']",viburnum opulus,viburnum opulusthree
+930,weissenau,2020-08-10,09:21:41,mentha aquatica,menthe aquatique,"['mentha', 'aquatica', 'agg.']",mentha aquatica,mentha aquaticathree
+931,weissenau,2020-08-10,09:19:21,aria edulis,alisier blanc,"['sorbus', 'aria', 'agg.']",aria edulis,aria edulisthree
+932,weissenau,2020-08-10,09:14:53,allium carinatum,ail caréné,"['allium', 'carinatum']",allium carinatum,allium carinatumthree
+933,weissenau,2020-08-10,09:09:48,viburnum lantana,"mancienne, viorne lantane","['viburnum', 'lantana']",viburnum lantana,viburnum lantanathree
+934,weissenau,2020-08-10,09:07:35,filipendula ulmaria,"reine des prés, spirée","['filipendula', 'ulmaria']",filipendula ulmaria,filipendula ulmariathree
+935,weissenau,2020-08-10,09:05:26,lythrum salicaria,salicaire commune,"['lythrum', 'salicaria']",lythrum salicaria,lythrum salicariathree
+936,weissenau,2020-08-10,09:04:12,lysimachia vulgaris,lysimaque commune,"['lysimachia', 'vulgaris']",lysimachia vulgaris,lysimachia vulgaristhree
