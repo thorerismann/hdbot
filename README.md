@@ -7,6 +7,7 @@ home folder
 preprocess.pynb - cleans up data and prepares for use
 2020_descriptive.ipynb - primary analysis of the data
 words_2020.ipynb - file where the report is constructed and published
+trials.pynb - data testing, draft file, where code is prepared before input into 2020_descriptive.pynb
 
 pictures folder
 flowers subfolder - contains the pictures of individual flowers in final consideration for inclusion in the report
