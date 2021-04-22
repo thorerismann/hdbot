@@ -5,7 +5,7 @@ File and folder descriptions
 
 home folder
 preprocess.pynb - cleans up data and prepares for use
-2020_descriptive.ipynb - runs descriptive statistics on the data
+2020_descriptive.ipynb - primary analysis of the data
 words_2020.ipynb - file where the report is constructed and published
 
 pictures folder
