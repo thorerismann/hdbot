@@ -1,18 +1,13 @@
-# if you are producing data in a repo with
-.ipynb_checkpoints
+# ignores .idea, .pycache, .pynb_checkpoint files
+*/.idea/*
+*/.pycache/*
 */.ipynb_checkpoints/*
 
-# generated data
-/archive/*
-/data/2021
+# ignores the heavy data files
 /shape_files/*
-/resources/surveydata/*
-/resources/sourcestobigforgithub/
-/resources/statentpop/ag-b-00.03-22-STATENT2017/STATENT2017_N08_V190822.csv
-/resources/locationdata/infrastructure_rankings/*
-/resources/locationdata/beaches_pop_bfs.csv
-/resources/locationdata/beaches_with_ranks.csv
-/resources/locationdata/list_of_beaches.json
+/resources/reference-data/*
+/resources/pictures/ignore/*
+
 # IPython
 profile_default/
 ipython_config.py
