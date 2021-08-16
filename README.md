@@ -1,19 +1,7 @@
 # hdbot
 
+This repository is used to produce a short report on identifying wild flowers along the urban Suze river in 2020. The final report is available as a Jupyter notebook (final-report.pynb)
 
-File and folder descriptions
+The reference data used in the analysis is included in the resources/preprocessed folder organized into .json dictionairies. The original files are freely available from Info Flora (www.infoflora.ch).
 
-home folder
-preprocess.pynb - cleans up data and prepares for use
-2020_descriptive.ipynb - primary analysis of the data
-words_2020.ipynb - file where the report is constructed and published
-
-pictures folder
-flowers subfolder - contains the pictures of individual flowers in final consideration for inclusion in the report
-sites subfolder - contains pictures of survey sites
-
-data folder
-florahelvetica subfolder - contains data sets provided by flora helvetica for comparison with hammerdirt's data
-2020 subfolder - contains the data for 2020
-
-output folder - contains the graphics produced for the words_2020.pynb file
+The survey and reference data is prepared for analysis in the preprocessing file, with the results stored in the preprocessed folder. These files are then used to generate the graphics and analysis in the final-report.pynb file.
