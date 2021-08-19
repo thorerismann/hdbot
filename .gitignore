@@ -5,7 +5,7 @@
 
 # ignores the heavy data files
 /shape_files/*
-/resources/reference-data/*
+/resources/reference-data/qgis-suze-files*
 /resources/pictures/ignore/*
 
 # IPython
