@@ -1,0 +1,601 @@
+No ISFS,Full Name,Short Name,Family,"200 Bellis","400 Iris","600 Dryas",Indigenat,"F value","R value","N value"
+100,Abies alba Mill.,Abies alba,Pinaceae,*,*,*,I,4,3,3
+300,Acer campestre L.,Acer campestre,Sapindaceae,*,*,*,I,2.5,3,3
+600,Acer opalus Mill.,Acer opalus,Sapindaceae,,,*,I,2,4,3
+700,Acer platanoides L.,Acer platanoides,Sapindaceae,*,*,*,I,3,4,3
+800,Acer pseudoplatanus L.,Acer pseudoplatanus,Sapindaceae,*,*,*,I,3.5,3,3
+1000,Achillea atrata L.,Achillea atrata,Asteraceae,,,*,I,3,5,2
+1500,Achillea erba-rotta subsp. moschata (Wulfen) Vacc.,Achillea erba-rotta subsp. moschata,Asteraceae,,,*,I,3,2,2
+1600,Achillea macrophylla L.,Achillea macrophylla,Asteraceae,,,*,I,3,3,4
+1700,Achillea millefolium L.,Achillea millefolium,Asteraceae,*,*,*,I,2,3,3
+2800,Acinos alpinus (L.) Moench,Acinos alpinus,Lamiaceae,,,*,I,2,3,2
+3510,Aconitum lycoctonum L.,Aconitum lycoctonum,Ranunculaceae,,*,*,I,4,4,4
+3540,Aconitum napellus L.,Aconitum napellus,Ranunculaceae,,*,*,I,x,3,4
+5400,Adenostyles alliariae (Gouan) A. Kern.,Adenostyles alliariae,Asteraceae,,*,*,I,3.5,3,4
+5450,Adenostyles alpina (L.) Bluff & Fingerh.,Adenostyles alpina,Asteraceae,,*,*,I,3.5,5,3
+6800,Aegopodium podagraria L.,Aegopodium podagraria,Apiaceae,*,*,*,I,3.5,3,4
+8600,Agrostis capillaris L.,Agrostis capillaris,Poaceae,,*,*,I,2.5,2,2
+9300,Agrostis stolonifera L.,Agrostis stolonifera,Poaceae,,*,*,I,4,4,4
+10300,Ajuga pyramidalis L.,Ajuga pyramidalis,Lamiaceae,,,*,I,3,2,2
+10400,Ajuga reptans L.,Ajuga reptans,Lamiaceae,*,*,*,I,3,3,3
+18100,Alchemilla pentaphyllea L.,Alchemilla pentaphyllea,Rosaceae,,,*,I,4,2,3
+22100,Alliaria petiolata (M. Bieb.) Cavara & Grande,Alliaria petiolata,Brassicaceae,*,*,*,I,3.5,4,5
+24200,Allium schoenoprasum L.,Allium schoenoprasum,Amaryllidaceae,,,*,I,4,4,3
+24800,Allium ursinum L.,Allium ursinum,Amaryllidaceae,*,*,*,I,4,4,3
+25200,Alnus glutinosa (L.) Gaertn.,Alnus glutinosa,Betulaceae,*,*,*,I,4.5,3,4
+25300,Alnus incana (L.) Moench,Alnus incana,Betulaceae,*,*,*,I,4,4,4
+25400,Alnus viridis (Chaix) DC.,Alnus viridis,Betulaceae,,,*,I,4,2,4
+26000,Alopecurus pratensis L.,Alopecurus pratensis,Poaceae,*,*,*,I,3.5,3,4
+29300,Amelanchier ovalis Medik.,Amelanchier ovalis,Rosaceae,,*,*,I,2,4,2
+29700,Anagallis arvensis L.,Anagallis arvensis,Primulaceae,,*,*,ARCH,3,3,3
+31300,Androsace alpina (L.) Lam.,Androsace alpina,Primulaceae,,,*,I,4,2,1
+31800,Androsace chamaejasme Wulfen,Androsace chamaejasme,Primulaceae,,,*,I,2,5,2
+32100,Androsace helvetica (L.) All.,Androsace helvetica,Primulaceae,,,*,I,1.5,5,1
+32400,Androsace obtusifolia All.,Androsace obtusifolia,Primulaceae,,,*,I,2.5,2,2
+33600,Anemone nemorosa L.,Anemone nemorosa,Ranunculaceae,*,*,*,I,3,x,3
+34400,Antennaria dioica (L.) Gaertn.,Antennaria dioica,Asteraceae,,,*,I,2,2,2
+35100,Anthericum liliago L.,Anthericum liliago,Asparagaceae,,*,*,I,1.5,3,2
+35400,Anthoxanthum odoratum L.,Anthoxanthum odoratum,Poaceae,*,*,*,I,3,2,2
+35900,Anthriscus sylvestris (L.) Hoffm.,Anthriscus sylvestris,Apiaceae,*,*,*,I,3,3,4
+36790,Anthyllis vulneraria L.,Anthyllis vulneraria,Fabaceae,*,*,*,I/NEO,1.5,x,2
+39100,Aquilegia vulgaris L.,Aquilegia vulgaris,Ranunculaceae,,*,*,I,3,4,3
+39200,Arabidopsis thaliana (L.) Heynh.,Arabidopsis thaliana,Brassicaceae,*,*,*,I,2,3,3
+39350,Arabis alpina L.,Arabis alpina,Brassicaceae,,,*,I,3,5,2
+42200,Arctium lappa L.,Arctium lappa,Asteraceae,,,*,I,2.5,4,5
+43100,Arctostaphylos uva-ursi (L.) Spreng.,Arctostaphylos uva-ursi,Ericaceae,,,*,I,2,3,2
+43400,Arenaria biflora L.,Arenaria biflora,Caryophyllaceae,,,*,I,4,2,2
+44300,Arenaria serpyllifolia L.,Arenaria serpyllifolia,Caryophyllaceae,,,*,I,2,4,4
+45700,Arnica montana L.,Arnica montana,Asteraceae,,,*,I,3.5,2,2
+45900,Arrhenatherum elatius (L.) J. Presl & C. Presl,Arrhenatherum elatius,Poaceae,*,*,*,I/ARCH,3,3,4
+46100,Artemisia absinthium L.,Artemisia absinthium,Asteraceae,,*,*,I,2,4,4
+46700,Artemisia campestris L.,Artemisia campestris,Asteraceae,,*,*,I,1,4,2
+48000,Artemisia vulgaris L.,Artemisia vulgaris,Asteraceae,*,*,*,I,2.5,3,4
+48200,Arum maculatum L.,Arum maculatum,Araceae,*,*,*,I,3,4,3
+48700,Asarum europaeum L.,Asarum europaeum,Aristolochiaceae,,,*,I,3.5,4,3
+49400,Asperula cynanchica L.,Asperula cynanchica,Rubiaceae,,,*,I,2,4,2
+50900,Asplenium ruta-muraria L.,Asplenium ruta-muraria,Aspleniaceae,*,*,*,I,2,5,2
+51400,Asplenium trichomanes L.,Asplenium trichomanes,Aspleniaceae,*,*,*,I,2,2,2
+51500,Asplenium viride Huds.,Asplenium viride,Aspleniaceae,,,*,I,3.5,5,2
+51800,Aster alpinus L.,Aster alpinus,Asteraceae,,,*,I,2,3,2
+52000,Aster bellidiastrum (L.) Scop.,Aster bellidiastrum,Asteraceae,,,*,I,3.5,4,2
+53200,Astragalus alpinus L.,Astragalus alpinus,Fabaceae,,,*,I,2.5,4,2
+53900,Astragalus frigidus (L.) A. Gray,Astragalus frigidus,Fabaceae,,,*,I,3,5,3
+55200,Astrantia major L.,Astrantia major,Apiaceae,,*,*,I,3.5,4,3
+55400,Athamanta cretensis L.,Athamanta cretensis,Apiaceae,,,*,I,2,5,2
+55700,Athyrium filix-femina (L.) Roth,Athyrium filix-femina,Athyriaceae,*,*,*,I,3,2,3
+56500,Atropa bella-donna L.,Atropa bella-donna,Solanaceae,,*,*,I,2.5,4,4
+57400,Avenella flexuosa (L.) Drejer,Avenella flexuosa,Poaceae,,*,*,I,2.5,1,2
+58700,Bartsia alpina L.,Bartsia alpina,Orobanchaceae,,,*,I,4,3,3
+59100,Bellis perennis L.,Bellis perennis,Asteraceae,*,*,*,I,3,4,3
+59200,Berberis vulgaris L.,Berberis vulgaris,Berberidaceae,,*,*,I,2,4,2
+60400,Betula pendula Roth,Betula pendula,Betulaceae,*,*,*,I,x,x,2
+60500,Betula pubescens Ehrh.,Betula pubescens,Betulaceae,,,*,I,4,x,2
+62000,Biscutella laevigata L.,Biscutella laevigata,Brassicaceae,,,*,I,2.5,4,2
+62500,Blechnum spicant (L.) Roth,Blechnum spicant,Blechnaceae,,,*,I,2.5,1,2
+63300,Botrychium lunaria (L.) Sw.,Botrychium lunaria,Ophioglossaceae,,,*,I,3,3,2
+64000,Brachypodium pinnatum aggr.,Brachypodium pinnatum aggr.,Poaceae,,*,*,I,2,4,3
+64200,Brachypodium sylvaticum (Huds.) P. Beauv.,Brachypodium sylvaticum,Poaceae,,*,*,I,3.5,3,3
+65200,Briza media L.,Briza media,Poaceae,*,*,*,I,2,4,2
+65695,Bromus erectus Huds.,Bromus erectus,Poaceae,*,*,*,I,2,4,2
+66000,Bromus hordeaceus L.,Bromus hordeaceus,Poaceae,*,*,*,ARCH,3,3,4
+67200,Bromus sterilis L.,Bromus sterilis,Poaceae,*,*,*,ARCH,2,3,4
+67300,Bromus tectorum L.,Bromus tectorum,Poaceae,,*,*,ARCH,1,3,4
+67700,Buddleja davidii Franch.,Buddleja davidii,Scrophulariaceae,,*,*,NEO,2,4,3
+71400,Calamagrostis varia (Schrad.) Host,Calamagrostis varia,Poaceae,,*,*,I,3.5,4,2
+73600,Calluna vulgaris (L.) Hull,Calluna vulgaris,Ericaceae,*,*,*,I,3,1,2
+73700,Caltha palustris L.,Caltha palustris,Ranunculaceae,*,*,*,I,5,3,3
+73900,Calystegia sepium (L.) R. Br.,Calystegia sepium,Convolvulaceae,*,*,*,I,3.5,4,4
+74700,Campanula barbata L.,Campanula barbata,Campanulaceae,,,*,I,3,2,2
+75200,Campanula cochleariifolia Lam.,Campanula cochleariifolia,Campanulaceae,,,*,I,3.5,5,2
+77000,Campanula rhomboidalis L.,Campanula rhomboidalis,Campanulaceae,,*,*,I,3,3,4
+77100,Campanula rotundifolia L.,Campanula rotundifolia,Campanulaceae,*,*,*,I,2,3,2
+77200,Campanula scheuchzeri Vill.,Campanula scheuchzeri,Campanulaceae,,,*,I,2.5,3,3
+77600,Campanula trachelium L.,Campanula trachelium,Campanulaceae,,*,*,I,3.5,4,3
+77900,Capsella bursa-pastoris (L.) Medik.,Capsella bursa-pastoris,Brassicaceae,*,*,*,I,2,3,4
+78800,Cardamine heptaphylla (Vill.) O. E. Schulz,Cardamine heptaphylla,Brassicaceae,,*,*,I,3.5,4,4
+78900,Cardamine hirsuta L.,Cardamine hirsuta,Brassicaceae,*,*,*,ARCH,3,3,4
+79790,Cardamine pratensis L.,Cardamine pratensis,Brassicaceae,*,*,*,I,3.5,3,4
+80300,Cardamine resedifolia L.,Cardamine resedifolia,Brassicaceae,,,*,I,3,2,2
+81595,Carduus defloratus L.,Carduus defloratus,Asteraceae,,,*,I,2,4,3
+82400,Carduus personata (L.) Jacq.,Carduus personata,Asteraceae,,*,*,I,4,4,5
+83000,Carex acutiformis Ehrh.,Carex acutiformis,Cyperaceae,,,*,I,4.5,4,4
+83350,Carex atrata L.,Carex atrata,Cyperaceae,,,*,I,3.5,3,2
+84900,Carex caryophyllea Latourr.,Carex caryophyllea,Cyperaceae,*,*,*,I,2.5,3,2
+85395,Carex curvula All.,Carex curvula,Cyperaceae,,,*,I,2,2,2
+85700,Carex davalliana Sm.,Carex davalliana,Cyperaceae,,*,*,I,4.5,4,2
+86100,Carex digitata L.,Carex digitata,Cyperaceae,,*,*,I,2.5,3,2
+86700,Carex echinata Murray,Carex echinata,Cyperaceae,,*,*,I,4.5,2,2
+86800,Carex elata All.,Carex elata,Cyperaceae,,*,*,I,5,3,3
+87200,Carex ferruginea Scop.,Carex ferruginea,Cyperaceae,,,*,I,3.5,4,3
+87400,Carex firma Host,Carex firma,Cyperaceae,,,*,I,2,5,1
+87500,Carex flacca Schreb.,Carex flacca,Cyperaceae,*,*,*,I,2.5,4,2
+87600,Carex flava L.,Carex flava,Cyperaceae,*,*,*,I,4.5,3,3
+88600,Carex hirta L.,Carex hirta,Cyperaceae,,*,*,I,3.5,3,4
+90500,Carex muricata aggr.,Carex muricata aggr.,Cyperaceae,,*,*,I,x,x,x
+90700,Carex nigra (L.) Reichard,Carex nigra,Cyperaceae,*,*,*,I,4.5,2,2
+91600,Carex pallescens L.,Carex pallescens,Cyperaceae,,*,*,I,3,2,3
+91700,Carex panicea L.,Carex panicea,Cyperaceae,,*,*,I,4.5,4,2
+92000,Carex parviflora Host,Carex parviflora,Cyperaceae,,,*,I,3.5,5,2
+92300,Carex pendula Huds.,Carex pendula,Cyperaceae,,*,*,I,4,3,4
+93900,Carex sempervirens Vill.,Carex sempervirens,Cyperaceae,,,*,I,2,3,2
+94700,Carex sylvatica Huds.,Carex sylvatica,Cyperaceae,*,*,*,I,3.5,3,3
+95800,Carlina acaulis L.,Carlina acaulis,Asteraceae,,,*,I,2.5,3,2
+96900,Carpinus betulus L.,Carpinus betulus,Betulaceae,*,*,*,I,3,3,3
+97100,Carum carvi L.,Carum carvi,Apiaceae,,*,*,I,3,3,3
+97200,Castanea sativa Mill.,Castanea sativa,Fagaceae,,*,*,ARCH,3,2,2
+98500,Centaurea cyanus L.,Centaurea cyanus,Asteraceae,,*,*,I,2.5,3,3
+98750,Centaurea jacea L.,Centaurea jacea,Asteraceae,*,*,*,I,2.5,3,3
+99200,Centaurea montana L.,Centaurea montana,Asteraceae,,*,*,I,3,4,3
+99995,Centaurea scabiosa L.,Centaurea scabiosa,Asteraceae,*,*,*,I,2,4,2
+102595,Cerastium arvense L.,Cerastium arvense,Caryophyllaceae,,,*,I,2,3,2
+103595,Cerastium fontanum Baumg.,Cerastium fontanum,Caryophyllaceae,*,*,*,I,3,2,4
+104200,Cerastium latifolium L.,Cerastium latifolium,Caryophyllaceae,,,*,I,3,5,2
+105400,Cerastium uniflorum Clairv.,Cerastium uniflorum,Caryophyllaceae,,,*,I,3,2,2
+106100,Chaenorrhinum minus (L.) Lange,Chaenorrhinum minus,Plantaginaceae,,*,*,I,2.5,4,4
+106700,Chaerophyllum hirsutum L.,Chaerophyllum hirsutum,Apiaceae,,*,*,I,3.5,4,4
+108200,Chelidonium majus L.,Chelidonium majus,Papaveraceae,*,*,*,I,3,4,4
+108300,Chenopodium album L.,Chenopodium album,Amaranthaceae,,*,*,ARCH,2,3,4
+108500,Chenopodium bonus-henricus L.,Chenopodium bonus-henricus,Amaranthaceae,,,*,I,2,3,5
+112500,Chrysosplenium alternifolium L.,Chrysosplenium alternifolium,Saxifragaceae,,*,*,I,4.5,4,3
+112800,Cicerbita alpina (L.) Wallr.,Cicerbita alpina,Asteraceae,,,*,I,4,3,4
+113200,Cichorium intybus L.,Cichorium intybus,Asteraceae,*,*,*,ARCH,2.5,4,3
+113500,Circaea lutetiana L.,Circaea lutetiana,Onagraceae,,*,*,I,3.5,4,4
+113800,Cirsium arvense (L.) Scop.,Cirsium arvense,Asteraceae,,*,*,I,3,3,4
+114800,Cirsium oleraceum (L.) Scop.,Cirsium oleraceum,Asteraceae,,*,*,I,4,4,4
+115300,Cirsium spinosissimum (L.) Scop.,Cirsium spinosissimum,Asteraceae,,,*,I,3.5,3,4
+116400,Clematis vitalba L.,Clematis vitalba,Ranunculaceae,*,*,*,I,3,4,3
+117200,Coeloglossum viride (L.) Hartm.,Coeloglossum viride,Orchidaceae,,,*,I,3,3,2
+117700,Colchicum autumnale L.,Colchicum autumnale,Colchicaceae,*,*,*,I,3,4,3
+118700,Consolida regalis Gray,Consolida regalis,Ranunculaceae,,,*,ARCH,2.5,4,3
+118800,Convallaria majalis L.,Convallaria majalis,Asparagaceae,*,*,*,I,2.5,3,2
+118900,Convolvulus arvensis L.,Convolvulus arvensis,Convolvulaceae,*,*,*,ARCH,2.5,4,4
+119600,Cornus mas L.,Cornus mas,Cornaceae,,,*,I,2.5,4,3
+119700,Cornus sanguinea L.,Cornus sanguinea,Cornaceae,*,*,*,I,3,4,3
+121600,Corylus avellana L.,Corylus avellana,Betulaceae,*,*,*,I,3,3,3
+121800,Cotoneaster integerrimus Medik.,Cotoneaster integerrimus,Rosaceae,,,*,I,1.5,4,2
+122200,Crataegus laevigata (Poir.) DC.,Crataegus laevigata,Rosaceae,,*,*,I,3.5,3,3
+122400,Crataegus monogyna Jacq.,Crataegus monogyna,Rosaceae,*,*,*,I,3,4,3
+123000,Crepis aurea (L.) Cass.,Crepis aurea,Asteraceae,,,*,I,3,3,4
+123100,Crepis biennis L.,Crepis biennis,Asteraceae,*,*,*,I,3,3,4
+123400,Crepis capillaris Wallr.,Crepis capillaris,Asteraceae,,*,*,I,2.5,3,3
+125800,Crocus albiflorus Kit.,Crocus albiflorus,Iridaceae,,,*,I,3,4,4
+126300,Cruciata laevipes Opiz,Cruciata laevipes,Rubiaceae,,*,*,I,3,3,3
+127800,Cuscuta epithymum (L.) L.,Cuscuta epithymum,Convolvulaceae,,,*,I,2.5,4,2
+128600,Cymbalaria muralis G. Gaertn. & al.,Cymbalaria muralis,Plantaginaceae,*,*,*,I,3.5,4,3
+129400,Cynosurus cristatus L.,Cynosurus cristatus,Poaceae,,*,*,I,3,3,3
+130400,Cypripedium calceolus L.,Cypripedium calceolus,Orchidaceae,*,*,*,I,3,4,2
+130700,Cystopteris fragilis (L.) Bernh.,Cystopteris fragilis,Cystopteridaceae,,,*,I,3.5,4,2
+131800,Dactylis glomerata L.,Dactylis glomerata,Poaceae,*,*,*,I,3,3,4
+132600,Dactylorhiza maculata (L.) Soó,Dactylorhiza maculata,Orchidaceae,*,*,*,I,4,1,2
+133600,Daphne mezereum L.,Daphne mezereum,Thymelaeaceae,,*,*,I,3,4,3
+133700,Daphne striata Tratt.,Daphne striata,Thymelaeaceae,,,*,I,2.5,4,2
+133900,Daucus carota L.,Daucus carota,Apiaceae,*,*,*,ARCH,2.5,4,2
+134800,Deschampsia cespitosa (L.) P. Beauv.,Deschampsia cespitosa,Poaceae,,*,*,I,4,x,3
+135500,Dianthus carthusianorum L.,Dianthus carthusianorum,Caryophyllaceae,*,*,*,I,1.5,4,2
+136800,Dianthus superbus L.,Dianthus superbus,Caryophyllaceae,,*,*,I,3.5,4,2
+136900,Dianthus sylvestris Wulfen,Dianthus sylvestris,Caryophyllaceae,*,*,*,I,1,3,2
+137100,Digitalis grandiflora Mill.,Digitalis grandiflora,Plantaginaceae,,*,*,I,3,3,4
+139200,Dipsacus fullonum L.,Dipsacus fullonum,Caprifoliaceae,,,*,I,3.5,4,4
+139700,Doronicum clusii (All.) Tausch,Doronicum clusii,Asteraceae,,,*,I,3.5,2,3
+140000,Doronicum grandiflorum Lam.,Doronicum grandiflorum,Asteraceae,,,*,I,3.5,4,3
+140500,Draba aizoides L.,Draba aizoides,Brassicaceae,,,*,I,2,5,2
+142300,Drosera rotundifolia L.,Drosera rotundifolia,Droseraceae,,*,*,I,4,1,1
+142500,Dryas octopetala L.,Dryas octopetala,Rosaceae,,,*,I,2.5,5,2
+143500,Dryopteris filix-mas (L.) Schott,Dryopteris filix-mas,Dryopteridaceae,*,*,*,I,3.5,3,3
+144500,Echium vulgare L.,Echium vulgare,Boraginaceae,,*,*,I,2,3,3
+146560,Elymus repens (L.) Gould,Elymus repens,Poaceae,,*,*,I,3,4,4
+146600,Elyna myosuroides (Vill.) Fritsch,Elyna myosuroides,Cyperaceae,,,*,I,2,3,1
+146900,Empetrum nigrum subsp. hermaphroditum (Hagerup) Böcher,Empetrum nigrum subsp. hermaphroditum,Ericaceae,,,*,I,3.5,1,2
+147700,Epilobium angustifolium L.,Epilobium angustifolium,Onagraceae,,*,*,I,3,3,3
+148600,Epilobium montanum L.,Epilobium montanum,Onagraceae,,*,*,I,3,4,4
+150600,Equisetum arvense L.,Equisetum arvense,Equisetaceae,*,*,*,I,3.5,4,3
+150800,Equisetum hyemale L.,Equisetum hyemale,Equisetaceae,*,*,*,I,4,4,3
+151400,Equisetum sylvaticum L.,Equisetum sylvaticum,Equisetaceae,,,*,I,4,2,3
+151500,Equisetum telmateia Ehrh.,Equisetum telmateia,Equisetaceae,*,*,*,I,4.5,4,3
+152400,Erica carnea L.,Erica carnea,Ericaceae,,*,*,I,2,4,2
+153600,Erigeron alpinus L.,Erigeron alpinus,Asteraceae,,,*,I,2,3,2
+153800,Erigeron annuus (L.) Desf.,Erigeron annuus,Asteraceae,*,*,*,NEO,2.5,3,4
+155000,Erigeron uniflorus L.,Erigeron uniflorus,Asteraceae,,,*,I,2.5,3,2
+155200,Eriophorum angustifolium Honck.,Eriophorum angustifolium,Cyperaceae,*,*,*,I,4.5,2,2
+155400,Eriophorum latifolium Hoppe,Eriophorum latifolium,Cyperaceae,*,*,*,I,4.5,4,2
+155500,Eriophorum scheuchzeri Hoppe,Eriophorum scheuchzeri,Cyperaceae,,,*,I,5,2,2
+155600,Eriophorum vaginatum L.,Eriophorum vaginatum,Cyperaceae,,,*,I,4.5,1,1
+156000,Erodium cicutarium (L.) L'Hér.,Erodium cicutarium,Geraniaceae,,*,*,I,2,4,3
+159000,Euonymus europaeus L.,Euonymus europaeus,Celastraceae,*,*,*,I,3.5,4,3
+159300,Eupatorium cannabinum L.,Eupatorium cannabinum,Asteraceae,*,*,*,I,4,4,4
+159400,Euphorbia amygdaloides L.,Euphorbia amygdaloides,Euphorbiaceae,,*,*,I,3,4,3
+159800,Euphorbia cyparissias L.,Euphorbia cyparissias,Euphorbiaceae,*,*,*,I,2,4,2
+160200,Euphorbia helioscopia L.,Euphorbia helioscopia,Euphorbiaceae,,,*,ARCH,3,4,4
+162750,Euphrasia minima Schleich.,Euphrasia minima,Orobanchaceae,,,*,I,2.5,2,2
+163450,Euphrasia rostkoviana Hayne,Euphrasia rostkoviana,Orobanchaceae,,,*,I,4,3,2
+165000,Fagus sylvatica L.,Fagus sylvatica,Fagaceae,*,*,*,I,3,3,3
+166100,Festuca arundinacea Schreb.,Festuca arundinacea,Poaceae,,,*,I,4,4,4
+169100,Festuca pratensis Huds.,Festuca pratensis,Poaceae,,*,*,I,3,3,4
+170100,Festuca rubra L.,Festuca rubra,Poaceae,*,*,*,I,3,3,3
+171600,Festuca valesiaca Gaudin,Festuca valesiaca,Poaceae,,*,*,I,1,4,2
+173100,Filipendula ulmaria (L.) Maxim.,Filipendula ulmaria,Rosaceae,,*,*,I,4,3,4
+173800,Fragaria vesca L.,Fragaria vesca,Rosaceae,*,*,*,I,3,3,3
+174000,Frangula alnus Mill.,Frangula alnus,Rhamnaceae,,*,*,I,3.5,3,2
+174200,Fraxinus excelsior L.,Fraxinus excelsior,Oleaceae,*,*,*,I,3.5,4,3
+174300,Fraxinus ornus L.,Fraxinus ornus,Oleaceae,,,*,I,2,4,2
+176200,Galanthus nivalis L.,Galanthus nivalis,Amaryllidaceae,,*,*,I,3,4,3
+177100,Galeopsis tetrahit L.,Galeopsis tetrahit,Lamiaceae,,*,*,I,3,3,5
+177500,Galium anisophyllon Vill.,Galium anisophyllon,Rubiaceae,,,*,I,2.5,3,2
+177600,Galium aparine L.,Galium aparine,Rubiaceae,*,*,*,I,3,3,5
+179000,Galium mollugo aggr.,Galium mollugo aggr.,Rubiaceae,*,*,*,I,3.5,3,4
+179300,Galium odoratum (L.) Scop.,Galium odoratum,Rubiaceae,*,*,*,I,3,3,3
+180900,Galium verum L.,Galium verum,Rubiaceae,,*,*,I,2.5,4,2
+182200,Gentiana acaulis L.,Gentiana acaulis,Gentianaceae,*,*,*,I,2.5,2,2
+183100,Gentiana campestris L.,Gentiana campestris,Gentianaceae,,,*,I,3,3,2
+183500,Gentiana clusii E. P. Perrier & Songeon,Gentiana clusii,Gentianaceae,,*,*,I,2.5,5,2
+183800,Gentiana germanica Willd.,Gentiana germanica,Gentianaceae,,,*,I,2.5,4,2
+184100,Gentiana lutea L.,Gentiana lutea,Gentianaceae,,,*,I,3,4,3
+184800,Gentiana punctata L.,Gentiana punctata,Gentianaceae,,,*,I,3,1,2
+184900,Gentiana purpurea L.,Gentiana purpurea,Gentianaceae,,,*,I,3,2,2
+185400,Gentiana verna L.,Gentiana verna,Gentianaceae,,,*,I,3,4,2
+188600,Geranium pyrenaicum Burm. f.,Geranium pyrenaicum,Geraniaceae,*,*,*,I,3,3,3
+188795,Geranium robertianum L.,Geranium robertianum,Geraniaceae,*,*,*,I,3,3,4
+189000,Geranium rotundifolium L.,Geranium rotundifolium,Geraniaceae,,,*,ARCH,2,4,3
+189100,Geranium sanguineum L.,Geranium sanguineum,Geraniaceae,,*,*,I,2,4,2
+189300,Geranium sylvaticum L.,Geranium sylvaticum,Geraniaceae,*,*,*,I,3.5,3,4
+189400,Geum montanum L.,Geum montanum,Rosaceae,,,*,I,3,2,2
+189600,Geum rivale L.,Geum rivale,Rosaceae,*,*,*,I,4,3,4
+189700,Geum urbanum L.,Geum urbanum,Rosaceae,*,*,*,I,3.5,3,4
+190500,Glechoma hederacea L.,Glechoma hederacea,Lamiaceae,*,*,*,I,3.5,4,3
+191000,Globularia cordifolia L.,Globularia cordifolia,Plantaginaceae,,*,*,I,2,5,2
+191200,Globularia nudicaulis L.,Globularia nudicaulis,Plantaginaceae,,,*,I,2.5,4,2
+192500,Gnaphalium supinum L.,Gnaphalium supinum,Asteraceae,,,*,I,4,2,2
+192600,Gnaphalium sylvaticum L.,Gnaphalium sylvaticum,Asteraceae,,,*,I,2.5,2,2
+193200,Gymnadenia conopsea (L.) R. Br.,Gymnadenia conopsea,Orchidaceae,,*,*,I,3,4,2
+193800,Gypsophila repens L.,Gypsophila repens,Caryophyllaceae,,*,*,I,3.5,5,2
+194000,Hedera helix L.,Hedera helix,Araliaceae,*,*,*,I,3,3,3
+194100,Hedysarum hedysaroides (L.) Schinz & Thell.,Hedysarum hedysaroides,Fabaceae,,,*,I,3,4,3
+194300,Helianthemum alpestre (Jacq.) DC.,Helianthemum alpestre,Cistaceae,,,*,I,2,5,2
+194895,Helianthemum nummularium (L.) Mill.,Helianthemum nummularium,Cistaceae,,*,*,I,x,x,2
+196800,Helictotrichon pubescens (Huds.) Pilg.,Helictotrichon pubescens,Poaceae,,*,*,I,2.5,4,3
+197300,Helleborus foetidus L.,Helleborus foetidus,Ranunculaceae,,*,*,I,2,4,3
+198595,Heracleum sphondylium L.,Heracleum sphondylium,Apiaceae,*,*,*,I,3,4,4
+199300,Herniaria glabra L.,Herniaria glabra,Caryophyllaceae,,,*,I,1.5,3,3
+202700,Hieracium murorum aggr.,Hieracium murorum aggr.,Asteraceae,*,*,*,I,2,3,3
+203400,Hieracium pilosella L.,Hieracium pilosella,Asteraceae,*,*,*,I,2,3,2
+205800,Hieracium villosum Jacq.,Hieracium villosum,Asteraceae,,,*,I,3,5,2
+206300,Hippocrepis comosa L.,Hippocrepis comosa,Fabaceae,*,*,*,I,2,5,2
+206500,Hippophaë rhamnoides L.,Hippophaë rhamnoides,Elaeagnaceae,,*,*,I,2.5,4,3
+206800,Holcus lanatus L.,Holcus lanatus,Poaceae,*,*,*,I,3,3,3
+207300,Homogyne alpina (L.) Cass.,Homogyne alpina,Asteraceae,,,*,I,3.5,2,2
+207795,Hordeum murinum L.,Hordeum murinum,Poaceae,,*,*,ARCH,2,3,4
+208800,Humulus lupulus L.,Humulus lupulus,Cannabaceae,,*,*,I,4,3,4
+208900,Huperzia selago (L.) Schrank & Mart.,Huperzia selago,Lycopodiaceae,,,*,I,3,2,1
+211050,Hypericum perforatum L.,Hypericum perforatum,Hypericaceae,*,*,*,I,3,3,3
+213300,Ilex aquifolium L.,Ilex aquifolium,Aquifoliaceae,,*,*,I,2.5,3,3
+213600,Impatiens glandulifera Royle,Impatiens glandulifera,Balsaminaceae,,*,*,NEO,3.5,4,4
+213700,Impatiens noli-tangere L.,Impatiens noli-tangere,Balsaminaceae,,*,*,I,4,4,4
+213800,Impatiens parviflora DC.,Impatiens parviflora,Balsaminaceae,,*,*,NEO,3,3,4
+215500,Iris pseudacorus L.,Iris pseudacorus,Iridaceae,,*,*,I,4.5,3,4
+215600,Iris sibirica L.,Iris sibirica,Iridaceae,,*,*,I,4,4,2
+217500,Juglans regia L.,Juglans regia,Juglandaceae,,*,*,ARCH,2.5,4,4
+217700,Juncus alpinoarticulatus Chaix,Juncus alpinoarticulatus,Juncaceae,,*,*,I,4.5,4,2
+218800,Juncus effusus L.,Juncus effusus,Juncaceae,*,*,*,I,4,2,4
+219100,Juncus inflexus L.,Juncus inflexus,Juncaceae,*,*,*,I,4,4,4
+220100,Juncus trifidus L.,Juncus trifidus,Juncaceae,,,*,I,2,1,2
+220400,Juniperus communis L. subsp. communis,Juniperus communis subsp. communis,Cupressaceae,*,*,*,I,2,3,2
+220500,Juniperus communis subsp. alpina Čelak.,Juniperus communis subsp. alpina,Cupressaceae,,,*,I,2,3,2
+220800,Juniperus sabina L.,Juniperus sabina,Cupressaceae,,*,*,I,1.5,3,2
+221000,Kernera saxatilis (L.) Sweet,Kernera saxatilis,Brassicaceae,,,*,I,1.5,5,2
+221400,Knautia arvensis (L.) Coult.,Knautia arvensis,Caprifoliaceae,*,*,*,I,2.5,3,3
+221450,Knautia dipsacifolia Kreutzer,Knautia dipsacifolia,Caprifoliaceae,,,*,I,3.5,3,3
+224300,Laburnum anagyroides Medik.,Laburnum anagyroides,Fabaceae,,*,*,I,2.5,4,3
+225500,Lamium album L.,Lamium album,Lamiaceae,,*,*,I,3,3,5
+225750,Lamium galeobdolon (L.) L.,Lamium galeobdolon,Lamiaceae,*,*,*,I/NEO,3,4,3
+226200,Lamium maculatum (L.) L.,Lamium maculatum,Lamiaceae,*,*,*,I,3.5,3,5
+226500,Lamium purpureum L.,Lamium purpureum,Lamiaceae,*,*,*,ARCH,3,4,4
+226900,Lapsana communis L.,Lapsana communis,Asteraceae,*,*,*,I,3.5,3,4
+227200,Larix decidua Mill.,Larix decidua,Pinaceae,*,*,*,I,3,2,2
+227700,Laserpitium latifolium L.,Laserpitium latifolium,Apiaceae,,*,*,I,2.5,4,3
+228100,Laserpitium siler L.,Laserpitium siler,Apiaceae,,*,*,I,2,4,2
+230400,Lathyrus pratensis L.,Lathyrus pratensis,Fabaceae,*,*,*,I,3.5,3,3
+231195,Lathyrus vernus (L.) Bernh.,Lathyrus vernus,Fabaceae,,*,*,I,2.5,4,2
+232300,Lemna minor L.,Lemna minor,Araceae,,,*,I,5v,3,3
+232900,Leontodon helveticus Mérat,Leontodon helveticus,Asteraceae,,,*,I,3,2,2
+233000,Leontodon hispidus L.,Leontodon hispidus,Asteraceae,*,*,*,I,2.5,4,3
+234600,Leontopodium alpinum Cass.,Leontopodium alpinum,Asteraceae,,,*,I,2,4,2
+236000,Leucanthemopsis alpina (L.) Heywood,Leucanthemopsis alpina,Asteraceae,,,*,I,3,2,2
+236200,Leucanthemum adustum (W. D. J. Koch) Gremli,Leucanthemum adustum,Asteraceae,,,*,I,3,4,2
+236800,Leucanthemum vulgare Lam.,Leucanthemum vulgare,Asteraceae,*,*,*,I,3,3,3
+237100,Leucojum vernum L.,Leucojum vernum,Amaryllidaceae,,*,*,I,3.5,3,4
+237800,Ligusticum mutellina (L.) Crantz,Ligusticum mutellina,Apiaceae,,,*,I,3.5,2,3
+238100,Ligustrum vulgare L.,Ligustrum vulgare,Oleaceae,*,*,*,I,2.5,4,3
+238500,Lilium martagon L.,Lilium martagon,Liliaceae,*,*,*,I,3,4,3
+238800,Linaria alpina (L.) Mill.,Linaria alpina,Plantaginaceae,,,*,I,3.5,4,2
+240300,Linaria vulgaris Mill.,Linaria vulgaris,Plantaginaceae,*,*,*,I,2,3,4
+241100,Linum catharticum L.,Linum catharticum,Linaceae,,*,*,I,2.5,4,2
+242000,Listera ovata (L.) R. Br.,Listera ovata,Orchidaceae,*,*,*,I,3.5,3,3
+242500,Lloydia serotina (L.) Rchb.,Lloydia serotina,Liliaceae,,,*,I,2.5,2,1
+242600,Loiseleuria procumbens (L.) Desv.,Loiseleuria procumbens,Ericaceae,,,*,I,2,2,1
+242700,Lolium multiflorum Lam.,Lolium multiflorum,Poaceae,*,*,*,NEO,3.5,3,4
+242800,Lolium perenne L.,Lolium perenne,Poaceae,*,*,*,I,3,3,4
+243400,Lonicera alpigena L.,Lonicera alpigena,Caprifoliaceae,,*,*,I,3,4,3
+243500,Lonicera caerulea L.,Lonicera caerulea,Caprifoliaceae,,*,*,I,3,2,2
+243900,Lonicera nigra L.,Lonicera nigra,Caprifoliaceae,,*,*,I,3,3,3
+244200,Lonicera xylosteum L.,Lonicera xylosteum,Caprifoliaceae,*,*,*,I,3,4,3
+244400,Lotus corniculatus L.,Lotus corniculatus,Fabaceae,*,*,*,I,2.5,3,3
+245400,Lunaria annua L.,Lunaria annua,Brassicaceae,,*,*,NEO,3,3,4
+246100,Luzula campestris (L.) DC.,Luzula campestris,Juncaceae,,*,*,I,2.5,2,2
+246600,Luzula lutea (All.) DC.,Luzula lutea,Juncaceae,,,*,I,2,2,2
+247500,Luzula pilosa (L.) Willd.,Luzula pilosa,Juncaceae,,*,*,I,3,2,2
+248300,Luzula sylvatica (Huds.) Gaudin,Luzula sylvatica,Juncaceae,*,*,*,I,3.5,2,2
+249700,Lycopodium annotinum L.,Lycopodium annotinum,Lycopodiaceae,,*,*,I,3,1,1
+251400,Lysimachia nemorum L.,Lysimachia nemorum,Primulaceae,,*,*,I,3.5,2,3
+252400,Maianthemum bifolium (L.) F. W. Schmidt,Maianthemum bifolium,Asparagaceae,,*,*,I,3,2,2
+252900,Malus sylvestris (L.) Mill.,Malus sylvestris,Rosaceae,,,*,I,3,4,3
+253400,Malva neglecta Wallr.,Malva neglecta,Malvaceae,,*,*,ARCH,2.5,3,5
+253500,Malva sylvestris L.,Malva sylvestris,Malvaceae,,,*,I,2.5,4,4
+254000,Matricaria chamomilla L.,Matricaria chamomilla,Asteraceae,,*,*,I,3,4,4
+254100,Matricaria discoidea DC.,Matricaria discoidea,Asteraceae,,*,*,NEO,3,4,4
+255100,Medicago falcata L.,Medicago falcata,Fabaceae,,,*,I,1.5,4,2
+255300,Medicago lupulina L.,Medicago lupulina,Fabaceae,*,*,*,ARCH,2,4,3
+256000,Medicago sativa L.,Medicago sativa,Fabaceae,*,*,*,ARCH,2,4,3
+256500,Melampyrum pratense L.,Melampyrum pratense,Orobanchaceae,,*,*,I,2,2,2
+256600,Melampyrum sylvaticum L.,Melampyrum sylvaticum,Orobanchaceae,,*,*,I,3.5,1,2
+256900,Melica nutans L.,Melica nutans,Poaceae,*,*,*,I,2.5,4,3
+257200,Melilotus albus Medik.,Melilotus albus,Fabaceae,,*,*,ARCH,2.5,4,3
+257600,Melilotus officinalis Lam.,Melilotus officinalis,Fabaceae,,*,*,ARCH,3,4,3
+257900,Melittis melissophyllum L.,Melittis melissophyllum,Lamiaceae,,*,*,I,2.5,4,2
+258900,Mercurialis annua L.,Mercurialis annua,Euphorbiaceae,,,*,ARCH,2.5,4,4
+259100,Mercurialis perennis L.,Mercurialis perennis,Euphorbiaceae,*,*,*,I,3.5,4,3
+259800,Milium effusum L.,Milium effusum,Poaceae,,*,*,I,3,2,3
+261700,Minuartia sedoides (L.) Hiern,Minuartia sedoides,Caryophyllaceae,,,*,I,2.5,3,1
+262000,Minuartia verna (L.) Hiern,Minuartia verna,Caryophyllaceae,,,*,I,2,4,1
+263400,Molinia caerulea (L.) Moench,Molinia caerulea,Poaceae,,*,*,I,4,3,2
+265800,Myosotis alpestris F. W. Schmidt,Myosotis alpestris,Boraginaceae,,,*,I,3,4,3
+265900,Myosotis arvensis Hill,Myosotis arvensis,Boraginaceae,,*,*,I,2,3,3
+268850,Narcissus poëticus aggr.,Narcissus poëticus aggr.,Amaryllidaceae,,,*,ARCH,3,3,4
+268900,Narcissus pseudonarcissus L.,Narcissus pseudonarcissus,Amaryllidaceae,,,*,I,3,3,2
+269700,Nardus stricta L.,Nardus stricta,Poaceae,,*,*,I,3,2,2
+270100,Neottia nidus-avis (L.) Rich.,Neottia nidus-avis,Orchidaceae,,*,*,I,3,4,3
+271700,Nigritella rhellicani aggr.,Nigritella rhellicani aggr.,Orchidaceae,,,*,I,2.5,3,2
+272300,Nuphar lutea (L.) Sm.,Nuphar lutea,Nymphaeaceae,*,*,*,I,5v,4,3
+272500,Nymphaea alba L.,Nymphaea alba,Nymphaeaceae,,*,*,I,5v,3,3
+274102,Oenothera biennis aggr.,Oenothera biennis aggr.,Onagraceae,,*,*,NEO,2,x,3
+275400,Onobrychis montana DC.,Onobrychis montana,Fabaceae,,,*,I,2,5,3
+275600,Onobrychis viciifolia Scop.,Onobrychis viciifolia,Fabaceae,*,*,*,NEO,2,4,2
+279100,Ophrys insectifera L.,Ophrys insectifera,Orchidaceae,,*,*,I,2.5,5,1
+280900,Orchis mascula (L.) L.,Orchis mascula,Orchidaceae,,*,*,I,3,4,3
+282200,Orchis ustulata L.,Orchis ustulata,Orchidaceae,,,*,I,3,3,2
+282600,Origanum vulgare L.,Origanum vulgare,Lamiaceae,*,*,*,I,2,4,3
+284000,Orobanche alba Willd.,Orobanche alba,Orobanchaceae,,*,*,I,2,4,2
+287100,Ostrya carpinifolia Scop.,Ostrya carpinifolia,Betulaceae,,,*,I,2,4,3
+287300,Oxalis acetosella L.,Oxalis acetosella,Oxalidaceae,*,*,*,I,3,2,2
+288100,Oxyria digyna (L.) Hill,Oxyria digyna,Polygonaceae,,,*,I,3.5,4,2
+288200,Oxytropis campestris (L.) DC.,Oxytropis campestris,Fabaceae,,,*,I,2,4,2
+289300,Oxytropis jacquinii Bunge,Oxytropis jacquinii,Fabaceae,,,*,I,2,5,2
+291800,Papaver rhoeas L.,Papaver rhoeas,Papaveraceae,*,*,*,ARCH,2,4,3
+292600,Paris quadrifolia L.,Paris quadrifolia,Melanthiaceae,*,*,*,I,3.5,4,3
+292700,Parnassia palustris L.,Parnassia palustris,Celastraceae,,*,*,I,4,4,2
+294200,Pedicularis foliosa L.,Pedicularis foliosa,Orobanchaceae,,,*,I,4,4,4
+295400,Pedicularis tuberosa L.,Pedicularis tuberosa,Orobanchaceae,,,*,I,2.5,2,2
+295500,Pedicularis verticillata L.,Pedicularis verticillata,Orobanchaceae,,*,*,I,3.5,4,2
+295700,Petasites albus (L.) Gaertn.,Petasites albus,Asteraceae,,*,*,I,4,3,4
+295900,Petasites hybridus (L.) G. Gaertn. & al.,Petasites hybridus,Asteraceae,,*,*,I,4,4,4
+297200,Peucedanum ostruthium (L.) W. D. J. Koch,Peucedanum ostruthium,Apiaceae,,*,*,I,3,3,4
+298900,Phleum alpinum aggr.,Phleum alpinum aggr.,Poaceae,,,*,I,4,2,2
+300005,Phleum pratense aggr.,Phleum pratense aggr.,Poaceae,*,*,*,I,3,3,4
+300300,Phragmites australis (Cav.) Steud.,Phragmites australis,Poaceae,*,*,*,I,4.5,3,4
+300500,Phyllitis scolopendrium (L.) Newman,Phyllitis scolopendrium,Aspleniaceae,,,*,I,3.5,4,3
+300800,Phyteuma betonicifolium Vill.,Phyteuma betonicifolium,Campanulaceae,,*,*,I,3,2,2
+301400,Phyteuma hemisphaericum L.,Phyteuma hemisphaericum,Campanulaceae,,,*,I,2.5,1,2
+301800,Phyteuma orbiculare L.,Phyteuma orbiculare,Campanulaceae,,,*,I,3,4,2
+302400,Phyteuma spicatum L.,Phyteuma spicatum,Campanulaceae,*,*,*,I,3,3,3
+302800,Picea abies (L.) H. Karst.,Picea abies,Pinaceae,*,*,*,I,3,x,3
+304300,Pinguicula alpina L.,Pinguicula alpina,Lentibulariaceae,,,*,I,4,4,2
+304800,Pinguicula vulgaris L.,Pinguicula vulgaris,Lentibulariaceae,,*,*,I,4,4,2
+304900,Pinus cembra L.,Pinus cembra,Pinaceae,,,*,I,3,2,2
+305800,Pinus mugo subsp. uncinata (DC.) Domin,Pinus mugo subsp. uncinata,Pinaceae,,,*,I,2.5,3,2
+305500,Pinus mugo Turra subsp. mugo,Pinus mugo subsp. mugo,Pinaceae,,,*,I,2.5,x,2
+306100,Pinus sylvestris L.,Pinus sylvestris,Pinaceae,*,*,*,I,x,x,2
+307000,Plantago alpina L.,Plantago alpina,Plantaginaceae,,,*,I,3,2,2
+307250,Plantago atrata Hoppe,Plantago atrata,Plantaginaceae,,,*,I,3.5,4,3
+307800,Plantago lanceolata L.,Plantago lanceolata,Plantaginaceae,*,*,*,I,2.5,3,3
+307850,Plantago major L.,Plantago major,Plantaginaceae,*,*,*,I,3,3,4
+308100,Plantago media L.,Plantago media,Plantaginaceae,*,*,*,I,2,4,3
+309000,Poa alpina L.,Poa alpina,Poaceae,,,*,I,3.5,3,4
+309200,Poa annua L.,Poa annua,Poaceae,*,*,*,I,3,3,4
+309500,Poa bulbosa L.,Poa bulbosa,Poaceae,,*,*,I,1.5,3,3
+310800,Poa pratensis L.,Poa pratensis,Poaceae,*,*,*,I,3.5,3,4
+311295,Poa trivialis L.,Poa trivialis,Poaceae,*,*,*,I,3.5,4,4
+312700,Polygala chamaebuxus L.,Polygala chamaebuxus,Polygalaceae,,*,*,I,2,4,2
+313195,Polygala vulgaris L.,Polygala vulgaris,Polygalaceae,,*,*,I,2,2,2
+313400,Polygonatum multiflorum (L.) All.,Polygonatum multiflorum,Asparagaceae,*,*,*,I,3,4,3
+313500,Polygonatum odoratum (Mill.) Druce,Polygonatum odoratum,Asparagaceae,*,*,*,I,2,4,3
+313700,Polygonatum verticillatum (L.) All.,Polygonatum verticillatum,Asparagaceae,,,*,I,3.5,3,3
+314300,Polygonum aviculare aggr.,Polygonum aviculare aggr.,Polygonaceae,,*,*,I,3.5,3,4
+314400,Polygonum bistorta L.,Polygonum bistorta,Polygonaceae,,*,*,I,4,3,4
+315600,Polygonum persicaria L.,Polygonum persicaria,Polygonaceae,,*,*,I,3,3,4
+315800,Polygonum viviparum L.,Polygonum viviparum,Polygonaceae,,,*,I,3,3,2
+316400,Polypodium vulgare L.,Polypodium vulgare,Polypodiaceae,,,*,I,2.5,2,2
+317100,Populus alba L.,Populus alba,Salicaceae,,*,*,I,3.5,4,4
+317250,Populus nigra L.,Populus nigra,Salicaceae,,,*,I/NEO,4,4,4
+317500,Populus tremula L.,Populus tremula,Salicaceae,*,*,*,I,3,3,3
+320900,Potentilla anserina L.,Potentilla anserina,Rosaceae,*,*,*,I,3,3,4
+321300,Potentilla aurea L.,Potentilla aurea,Rosaceae,,,*,I,2.5,2,2
+322100,Potentilla crantzii (Crantz) Fritsch,Potentilla crantzii,Rosaceae,,,*,I,2.5,4,2
+322400,Potentilla erecta (L.) Raeusch.,Potentilla erecta,Rosaceae,*,*,*,I,3,2,2
+324500,Potentilla reptans L.,Potentilla reptans,Rosaceae,*,*,*,I,3,4,4
+324700,Potentilla sterilis (L.) Garcke,Potentilla sterilis,Rosaceae,,*,*,I,3,3,3
+325200,Prenanthes purpurea L.,Prenanthes purpurea,Asteraceae,*,*,*,I,3,3,3
+325700,Primula auricula L.,Primula auricula,Primulaceae,,,*,I,3.5,5,2
+325950,Primula elatior (L.) L.,Primula elatior,Primulaceae,*,*,*,I,3.5,4,3
+326200,Primula farinosa L.,Primula farinosa,Primulaceae,,*,*,I,3.5,4,1
+326605,Primula hirsuta All.,Primula hirsuta,Primulaceae,,,*,I,3,2,2
+327195,Primula veris L.,Primula veris,Primulaceae,*,*,*,I,2.5,4,2
+327650,Pritzelago alpina (L.) Kuntze,Pritzelago alpina,Brassicaceae,,,*,I,3.5,4,2
+328100,Prunella vulgaris L.,Prunella vulgaris,Lamiaceae,*,*,*,I,3.5,3,3
+328400,Prunus avium L.,Prunus avium,Rosaceae,*,*,*,I,3.5,3,3
+329500,Prunus mahaleb L.,Prunus mahaleb,Rosaceae,,*,*,I,1.5,4,2
+329600,Prunus padus L.,Prunus padus,Rosaceae,,*,*,I,3.5,3,3
+330300,Prunus spinosa L.,Prunus spinosa,Rosaceae,*,*,*,I,2.5,3,3
+330800,Pteridium aquilinum (L.) Kuhn,Pteridium aquilinum,Dennstaedtiaceae,*,*,*,I,3,2,2
+332800,Pulmonaria obscura Dumort.,Pulmonaria obscura,Boraginaceae,,*,*,I,3.5,4,3
+333200,Pulsatilla alpina (L.) Delarbre subsp. alpina,Pulsatilla alpina subsp. alpina,Ranunculaceae,,,*,I,3,4,3
+333390,Pulsatilla alpina subsp. apiifolia (Scop.) Nyman,Pulsatilla alpina subsp. apiifolia,Ranunculaceae,,,*,I,3,2,3
+334100,Pulsatilla vernalis (L.) Mill.,Pulsatilla vernalis,Ranunculaceae,,,*,I,2.5,2,2
+335300,Pyrus pyraster Burgsd.,Pyrus pyraster,Rosaceae,,,*,I,2,4,3
+335900,Quercus petraea Liebl.,Quercus petraea,Fagaceae,*,*,*,I,2,3,2
+336000,Quercus pubescens Willd.,Quercus pubescens,Fagaceae,,*,*,I,2.5,3,2
+336100,Quercus robur L.,Quercus robur,Fagaceae,*,*,*,I,3.5,3,3
+336500,Ranunculus aconitifolius L.,Ranunculus aconitifolius,Ranunculaceae,,*,*,I,4,3,4
+336595,Ranunculus acris L.,Ranunculus acris,Ranunculaceae,*,*,*,I,3,3,3
+336800,Ranunculus alpestris L.,Ranunculus alpestris,Ranunculaceae,,,*,I,3.5,4,2
+337700,Ranunculus bulbosus L.,Ranunculus bulbosus,Ranunculaceae,*,*,*,I,2,4,2
+338200,Ranunculus ficaria L.,Ranunculus ficaria,Ranunculaceae,*,*,*,I,3.5,4,4
+338700,Ranunculus glacialis L.,Ranunculus glacialis,Ranunculaceae,,,*,I,3.5,2,2
+339200,Ranunculus kuepferi Greuter & Burdet,Ranunculus kuepferi,Ranunculaceae,,,*,I,3,2,3
+339505,Ranunculus montanus aggr.,Ranunculus montanus aggr.,Ranunculaceae,,,*,I,x,x,x
+340300,Ranunculus platanifolius L.,Ranunculus platanifolius,Ranunculaceae,,*,*,I,3,3,3
+340900,Ranunculus repens L.,Ranunculus repens,Ranunculaceae,*,*,*,I,3.5,3,4
+343200,Reynoutria japonica Houtt.,Reynoutria japonica,Polygonaceae,,*,*,NEO,3.5,3,4
+343500,Rhamnus cathartica L.,Rhamnus cathartica,Rhamnaceae,,*,*,I,2.5,4,2
+344100,Rhinanthus alectorolophus (Scop.) Pollich,Rhinanthus alectorolophus,Orobanchaceae,*,*,*,I,3,4,3
+344800,Rhinanthus minor L.,Rhinanthus minor,Orobanchaceae,,*,*,I,3.5,3,2
+345300,Rhododendron ferrugineum L.,Rhododendron ferrugineum,Ericaceae,*,*,*,I,3,2,2
+345400,Rhododendron hirsutum L.,Rhododendron hirsutum,Ericaceae,,*,*,I,3,4,2
+346500,Robinia pseudoacacia L.,Robinia pseudoacacia,Fabaceae,,*,*,NEO,2.5,3,4
+347850,Rosa canina aggr.,Rosa canina aggr.,Rosaceae,,*,*,I,2.5,3,3
+349500,Rosa pendulina L.,Rosa pendulina,Rosaceae,,,*,I,3.5,4,3
+352200,Rubus caesius L.,Rubus caesius,Rosaceae,*,*,*,I,3.5,4,4
+354400,Rubus idaeus L.,Rubus idaeus,Rosaceae,*,*,*,I,3,3,4
+358900,Rumex acetosa L.,Rumex acetosa,Polygonaceae,*,*,*,I,3,3,4
+359400,Rumex alpinus L.,Rumex alpinus,Polygonaceae,,,*,I,3.5,3,5
+360400,Rumex obtusifolius L.,Rumex obtusifolius,Polygonaceae,*,*,*,I,3,3,5
+360900,Rumex scutatus L.,Rumex scutatus,Polygonaceae,,*,*,I,2,3,2
+362800,Salix alba L.,Salix alba,Salicaceae,*,*,*,I,4.5^,4,4
+363100,Salix appendiculata Vill.,Salix appendiculata,Salicaceae,,,*,I,3.5,3,3
+363700,Salix caprea L.,Salix caprea,Salicaceae,*,*,*,I,3,3,3
+364000,Salix elaeagnos Scop.,Salix elaeagnos,Salicaceae,,*,*,I,4^,4,2
+364700,Salix helvetica Vill.,Salix helvetica,Salicaceae,,,*,I,4,2,2
+364800,Salix herbacea L.,Salix herbacea,Salicaceae,,,*,I,3.5,2,2
+365800,Salix purpurea L.,Salix purpurea,Salicaceae,,*,*,I,3.5,4,3
+366100,Salix reticulata L.,Salix reticulata,Salicaceae,,,*,I,3,5,2
+366200,Salix retusa L.,Salix retusa,Salicaceae,,,*,I,3,4,2
+367300,Salvia glutinosa L.,Salvia glutinosa,Lamiaceae,,*,*,I,3.5,4,4
+367600,Salvia pratensis L.,Salvia pratensis,Lamiaceae,*,*,*,I,2,4,2
+368300,Sambucus nigra L.,Sambucus nigra,Adoxaceae,*,*,*,I,3.5,4,4
+368400,Sambucus racemosa L.,Sambucus racemosa,Adoxaceae,,*,*,I,3,2,4
+368650,Sanguisorba minor Scop.,Sanguisorba minor,Rosaceae,,*,*,I,2,4,2
+369100,Sanicula europaea L.,Sanicula europaea,Apiaceae,,*,*,I,3,4,3
+369400,Saponaria ocymoides L.,Saponaria ocymoides,Caryophyllaceae,,*,*,I,2,4,2
+369500,Saponaria officinalis L.,Saponaria officinalis,Caryophyllaceae,,*,*,I,2.5,4,4
+371600,Saxifraga aizoides L.,Saxifraga aizoides,Saxifragaceae,,,*,I,4,4,2
+371800,Saxifraga androsacea L.,Saxifraga androsacea,Saxifragaceae,,,*,I,3.5,4,2
+372300,Saxifraga bryoides L.,Saxifraga bryoides,Saxifragaceae,,,*,I,3.5,2,1
+372500,Saxifraga caesia L.,Saxifraga caesia,Saxifragaceae,,,*,I,2,5,1
+374450,Saxifraga oppositifolia L.,Saxifraga oppositifolia,Saxifragaceae,,,*,I,3.5,4,2
+374600,Saxifraga paniculata Mill.,Saxifraga paniculata,Saxifragaceae,,,*,I,2,4,2
+375400,Saxifraga rotundifolia L.,Saxifraga rotundifolia,Saxifragaceae,,*,*,I,4,3,4
+375800,Saxifraga stellaris L.,Saxifraga stellaris,Saxifragaceae,,,*,I,4,3,2
+376500,Scabiosa columbaria L.,Scabiosa columbaria,Caprifoliaceae,*,*,*,I,2,4,2
+379100,Schoenus nigricans L.,Schoenus nigricans,Cyperaceae,,*,*,I,4.5,5,2
+379700,Scirpus sylvaticus L.,Scirpus sylvaticus,Cyperaceae,,*,*,I,4.5,3,3
+383000,Securigera varia (L.) Lassen,Securigera varia,Fabaceae,,*,*,I,2.5,4,2
+383100,Sedum acre L.,Sedum acre,Crassulaceae,,,*,I,1,3,2
+383200,Sedum album L.,Sedum album,Crassulaceae,*,*,*,I,1,4,2
+383700,Sedum atratum L.,Sedum atratum,Crassulaceae,,,*,I,3,5,1
+385500,Sedum sexangulare L.,Sedum sexangulare,Crassulaceae,,*,*,I,1.5,4,3
+386300,Selaginella selaginoides (L.) Schrank & Mart.,Selaginella selaginoides,Selaginellaceae,,,*,I,3.5,4,2
+386700,Sempervivum arachnoideum L.,Sempervivum arachnoideum,Crassulaceae,,*,*,I,1,2,1
+387000,Sempervivum montanum L.,Sempervivum montanum,Crassulaceae,,,*,I,2,2,2
+387600,Senecio alpinus (L.) Scop.,Senecio alpinus,Asteraceae,,,*,I,4,4,5
+388200,Senecio doronicum (L.) L.,Senecio doronicum,Asteraceae,,,*,I,2.5,4,2
+389005,Senecio incanus L.,Senecio incanus,Asteraceae,,,*,I,2,2,2
+390500,Senecio vulgaris L.,Senecio vulgaris,Asteraceae,*,*,*,ARCH,3,4,4
+392200,Sesleria caerulea (L.) Ard.,Sesleria caerulea,Poaceae,,*,*,I,2,4,2
+393700,Sibbaldia procumbens L.,Sibbaldia procumbens,Rosaceae,,,*,I,3,2,3
+394300,Silene acaulis (L.) Jacq.,Silene acaulis,Caryophyllaceae,,,*,I,3,4,1
+394900,Silene dioica (L.) Clairv.,Silene dioica,Caryophyllaceae,*,*,*,I,3.5,3,4
+395200,Silene flos-cuculi (L.) Clairv.,Silene flos-cuculi,Caryophyllaceae,,*,*,I,4,3,3
+396050,Silene nutans L.,Silene nutans,Caryophyllaceae,*,*,*,I,2,3,2
+396400,Silene pratensis (Rafn) Godr.,Silene pratensis,Caryophyllaceae,,*,*,I,2.5,3,4
+396800,Silene rupestris L.,Silene rupestris,Caryophyllaceae,,,*,I,1.5,2,2
+397295,Silene vulgaris (Moench) Garcke,Silene vulgaris,Caryophyllaceae,*,*,*,I,2.5,3,2
+398000,Sinapis arvensis L.,Sinapis arvensis,Brassicaceae,,*,*,ARCH,3,4,4
+399500,Solanum dulcamara L.,Solanum dulcamara,Solanaceae,,*,*,I,3.5,3,4
+400600,Soldanella alpina L.,Soldanella alpina,Primulaceae,,,*,I,4,3,3
+400800,Soldanella pusilla Baumg.,Soldanella pusilla,Primulaceae,,,*,I,4,2,2
+401000,Solidago canadensis L.,Solidago canadensis,Asteraceae,,*,*,NEO,3,4,4
+401100,Solidago gigantea Aiton,Solidago gigantea,Asteraceae,,*,*,NEO,3.5,3,4
+401395,Solidago virgaurea L.,Solidago virgaurea,Asteraceae,,*,*,I,2.5,3,3
+401900,Sonchus oleraceus L.,Sonchus oleraceus,Asteraceae,,*,*,I,3,4,4
+402200,Sorbus aria (L.) Crantz,Sorbus aria,Rosaceae,*,*,*,I,2,3,2
+402300,Sorbus aucuparia L.,Sorbus aucuparia,Rosaceae,*,*,*,I,3,3,3
+402700,Sorbus torminalis (L.) Crantz,Sorbus torminalis,Rosaceae,,*,*,I,2,4,2
+404700,Spergularia rubra (L.) J. Presl & C. Presl,Spergularia rubra,Caryophyllaceae,,,*,ARCH,1.5,2,2
+406595,Stachys recta L.,Stachys recta,Lamiaceae,,*,*,I,1.5,4,2
+406800,Stachys sylvatica L.,Stachys sylvatica,Lamiaceae,,*,*,I,3.5,3,4
+407800,Stellaria media (L.) Vill.,Stellaria media,Caryophyllaceae,*,*,*,I,3,3,4
+408095,Stellaria nemorum L.,Stellaria nemorum,Caryophyllaceae,,*,*,I,3.5^,3,4
+409515,Stipa pennata aggr.,Stipa pennata aggr.,Poaceae,,*,*,I,1,4,2
+410800,Symphytum officinale L.,Symphytum officinale,Boraginaceae,,*,*,I,3.5,3,4
+413100,Taraxacum officinale aggr.,Taraxacum officinale aggr.,Asteraceae,*,*,*,I,3,3,4
+413600,Taxus baccata L.,Taxus baccata,Taxaceae,*,*,*,I,2.5,4,2
+415000,Teucrium chamaedrys L.,Teucrium chamaedrys,Lamiaceae,,,*,I,1.5,4,2
+415100,Teucrium montanum L.,Teucrium montanum,Lamiaceae,,,*,I,1.5,5,2
+415500,Thalictrum aquilegiifolium L.,Thalictrum aquilegiifolium,Ranunculaceae,,*,*,I,4,4,3
+417200,Thesium alpinum L.,Thesium alpinum,Santalaceae,,,*,I,3,3,2
+418200,Thlaspi arvense L.,Thlaspi arvense,Brassicaceae,,*,*,ARCH,3,3,4
+419095,Thlaspi rotundifolium (L.) Gaudin,Thlaspi rotundifolium,Brassicaceae,,,*,I,3,5,2
+421200,Thymus serpyllum aggr.,Thymus serpyllum aggr.,Lamiaceae,*,*,*,I,x,x,2
+421400,Tilia cordata Mill.,Tilia cordata,Malvaceae,*,*,*,I,2.5,3,2
+421500,Tilia platyphyllos Scop.,Tilia platyphyllos,Malvaceae,*,*,*,I,3,4,3
+421600,Tofieldia calyculata (L.) Wahlenb.,Tofieldia calyculata,Tofieldiaceae,*,*,*,I,3.5,4,2
+422950,Tragopogon pratensis L.,Tragopogon pratensis,Asteraceae,*,*,*,I,2.5,4,3
+423600,Traunsteinera globosa (L.) Rchb.,Traunsteinera globosa,Orchidaceae,,,*,I,3.5,4,3
+423900,Trichophorum cespitosum (L.) Hartm.,Trichophorum cespitosum,Cyperaceae,,*,*,I,4.5,1,1
+424500,Trifolium alpinum L.,Trifolium alpinum,Fabaceae,,,*,I,2.5,2,2
+424900,Trifolium badium Schreb.,Trifolium badium,Fabaceae,,,*,I,3.5,4,3
+425100,Trifolium dubium Sibth.,Trifolium dubium,Fabaceae,,*,*,I,2.5,3,3
+426000,Trifolium medium L.,Trifolium medium,Fabaceae,,*,*,I,2.5,3,3
+426300,Trifolium montanum L.,Trifolium montanum,Fabaceae,*,*,*,I,2,4,2
+426895,Trifolium pratense L.,Trifolium pratense,Fabaceae,*,*,*,I,3,3,3
+427100,Trifolium repens L.,Trifolium repens,Fabaceae,*,*,*,I,3,3,4
+429400,Trisetum flavescens (L.) P. Beauv.,Trisetum flavescens,Poaceae,*,*,*,I,3,3,4
+430600,Trollius europaeus L.,Trollius europaeus,Ranunculaceae,*,*,*,I,4,3,3
+431380,Tulipa sylvestris L.,Tulipa sylvestris,Liliaceae,,,*,I/ARCH,2.5,4,3
+432000,Tussilago farfara L.,Tussilago farfara,Asteraceae,*,*,*,I,3.5,4,3
+432200,Typha latifolia L.,Typha latifolia,Typhaceae,,*,*,I,5,4,4
+432800,Ulmus glabra Huds.,Ulmus glabra,Ulmaceae,*,*,*,I,3.5,3,4
+433000,Ulmus minor Mill.,Ulmus minor,Ulmaceae,,,*,I,3.5,4,3
+433400,Urtica dioica L.,Urtica dioica,Urticaceae,*,*,*,I,3.5,3,5
+434800,Vaccinium myrtillus L.,Vaccinium myrtillus,Ericaceae,*,*,*,I,3,1,2
+435100,Vaccinium uliginosum aggr.,Vaccinium uliginosum aggr.,Ericaceae,,*,*,I,x,1,2
+435300,Vaccinium vitis-idaea L.,Vaccinium vitis-idaea,Ericaceae,,,*,I,2.5,1,2
+435700,Valeriana montana L.,Valeriana montana,Caprifoliaceae,,,*,I,3.5,5,2
+435800,Valeriana officinalis L.,Valeriana officinalis,Caprifoliaceae,*,*,*,I,4,4,3
+436700,Valeriana tripteris L.,Valeriana tripteris,Caprifoliaceae,,,*,I,3,3,2
+437500,Valerianella locusta (L.) Laterr.,Valerianella locusta,Caprifoliaceae,,*,*,I,3,3,3
+437800,Veratrum album L.,Veratrum album,Melanthiaceae,,,*,I,3.5,3,4
+439000,Verbascum lychnitis L.,Verbascum lychnitis,Scrophulariaceae,,*,*,I,2,4,4
+439650,Verbascum thapsus L.,Verbascum thapsus,Scrophulariaceae,*,*,*,I,2.5,3,4
+440000,Verbena officinalis L.,Verbena officinalis,Verbenaceae,,*,*,ARCH,3,3,4
+440800,Veronica arvensis L.,Veronica arvensis,Plantaginaceae,,*,*,I,2.5,4,3
+441000,Veronica beccabunga L.,Veronica beccabunga,Plantaginaceae,,*,*,I,4.5^,3,4
+441100,Veronica bellidioides L.,Veronica bellidioides,Plantaginaceae,,,*,I,2,1,2
+441400,Veronica chamaedrys L.,Veronica chamaedrys,Plantaginaceae,*,*,*,I,2.5,4,3
+441600,Veronica filiformis Sm.,Veronica filiformis,Plantaginaceae,,*,*,NEO,3.5,3,4
+441700,Veronica fruticans Jacq.,Veronica fruticans,Plantaginaceae,,,*,I,2,3,2
+441900,Veronica hederifolia L.,Veronica hederifolia,Plantaginaceae,*,*,*,I,3,3,4
+442700,Veronica persica Poir.,Veronica persica,Plantaginaceae,*,*,*,NEO,3,4,4
+444100,Veronica urticifolia Jacq.,Veronica urticifolia,Plantaginaceae,,*,*,I,3.5,4,3
+444300,Viburnum lantana L.,Viburnum lantana,Adoxaceae,*,*,*,I,2,4,2
+444400,Viburnum opulus L.,Viburnum opulus,Adoxaceae,*,*,*,I,3.5,3,3
+444995,Vicia cracca L.,Vicia cracca,Fabaceae,*,*,*,I,1.5,3,3
+446995,Vicia sativa L.,Vicia sativa,Fabaceae,,*,*,ARCH/NEO,2,3,2
+447400,Vicia sepium L.,Vicia sepium,Fabaceae,*,*,*,I,3,3,3
+448400,Vinca minor L.,Vinca minor,Apocynaceae,,*,*,I,3,4,3
+448500,Vincetoxicum hirundinaria Medik.,Vincetoxicum hirundinaria,Apocynaceae,,*,*,I,2.5,4,2
+449000,Viola arvensis Murray,Viola arvensis,Violaceae,,,*,ARCH,2.5,3,3
+449100,Viola biflora L.,Viola biflora,Violaceae,,*,*,I,4,3,4
+449200,Viola calcarata L.,Viola calcarata,Violaceae,,,*,I,3,3,2
+450300,Viola hirta L.,Viola hirta,Violaceae,,*,*,I,2.5,4,2
+451600,Viola reichenbachiana Boreau,Viola reichenbachiana,Violaceae,*,*,*,I,3,3,3
+452500,Viola tricolor L.,Viola tricolor,Violaceae,*,*,*,I,3,2,3
+452600,Viscum album L.,Viscum album,Santalaceae,,*,*,I,-,-,-
