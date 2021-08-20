@@ -1,936 +1,936 @@
-date,species_slug,place_slug
-2020-09-02,plantago-lanceolata,alleestrasse-1
-2020-09-02,centaurea-nigra,alleestrasse-1
-2020-09-02,plantago-media,alleestrasse-1
-2020-09-02,chenopodium-album,alleestrasse-1
-2020-09-02,centaurea-jacea,alleestrasse-1
-2020-09-02,veronica-persica,alleestrasse-1
-2020-09-02,geranium-pyrenaicum,alleestrasse-1
-2020-07-28,centaurea-jacea,alleestrasse-1
-2020-07-28,daucus-carota,alleestrasse-1
-2020-07-28,centaurea-jacea,alleestrasse-1
-2020-07-31,mentha-spicata,alleestrasse-2
-2020-07-31,pastinaca-sativa,alleestrasse-2
-2020-07-31,galium-mollugo,alleestrasse-2
-2020-07-31,trifolium-pratense,alleestrasse-2
-2020-07-31,daucus-carota,alleestrasse-2
-2020-06-16,achillea-millefolium,alleestrasse-3
-2020-06-16,sedum-album,alleestrasse-3
-2020-06-16,chaerophyllum-hirsutum,alleestrasse-3
-2020-06-16,erigeron-annuus,alleestrasse-3
-2020-07-31,epilobium-hirsutum,alleestrasse-3
-2020-06-06,verbascum-thapsus,alleestrasse-4
-2020-06-16,trifolium-pratense,alleestrasse-4
-2020-06-06,silene-latifolia,alleestrasse-4
-2020-06-06,silene-dichotoma,alleestrasse-4
-2020-07-11,verbena-bonariensis,alleestrasse-4
-2020-06-16,achillea-millefolium,alleestrasse-4
-2020-08-13,clinopodium-vulgare,bluets-1
-2020-08-13,centaurea-jacea,bluets-1
-2020-08-13,centaurea-jacea,bluets-1
-2020-08-13,scabiosa-columbaria,bluets-1
-2020-08-13,silene-latifolia,bluets-1
-2020-08-13,trifolium-pratense,bluets-1
-2020-08-13,trifolium-repens,bluets-1
-2020-08-13,silene-vulgaris,bluets-1
-2020-08-13,silene-latifolia,bluets-1
-2020-08-13,epilobium-hirsutum,bluets-1
-2020-08-13,crepis-capillaris,bluets-1
-2020-08-13,melilotus-albus,bluets-1
-2020-08-13,erigeron-annuus,bluets-1
-2020-08-13,veronica-persica,bluets-1
-2020-08-13,malva-neglecta,bluets-1
-2020-08-13,cirsium-arvense,bluets-1
-2020-08-13,calystegia-sepium,bluets-1
-2020-08-13,galium-mollugo,bluets-1
-2020-08-13,brassica-napus,bluets-1
-2020-08-13,silene-latifolia,bluets-1
-2020-08-13,lotus-corniculatus,bluets-1
-2020-08-13,trifolium-pratense,bluets-1
-2020-08-13,medicago-sativa,bluets-1
-2020-07-10,hypericum-perforatum,bluets-2
-2020-06-12,tragopogon-pratensis,bluets-2
-2020-06-12,geranium-pyrenaicum,bluets-2
-2020-06-12,knautia-arvensis,bluets-2
-2020-06-12,centaurea-jacea,bluets-2
-2020-06-12,galium-mollugo,bluets-2
-2020-06-12,leucanthemum-vulgare,bluets-2
-2020-06-12,vicia-sepium,bluets-2
-2020-06-28,tragopogon-pratensis,bluets-3
-2020-06-28,senecio-inaequidens,bluets-3
-2020-06-28,knautia-arvensis,bluets-3
-2020-06-28,medicago-sativa,bluets-3
-2020-06-28,dianthus-carthusianorum,bluets-3
-2020-06-28,mentha-longifolia,bluets-3
-2020-06-28,lapsana-communis,bluets-3
-2020-06-28,galium-mollugo,bluets-3
-2020-06-28,erigeron-annuus,bluets-3
-2020-06-09,medicago-lupulina,boujean-1
-2020-06-09,cichorium-intybus,boujean-1
-2020-06-09,potentilla-reptans,boujean-1
-2020-06-09,papaver-rhoeas,boujean-2
-2020-06-09,hypericum-maculatum,boujean-2
-2020-06-09,trifolium-pratense,boujean-2
-2020-06-09,erigeron-annuus,boujean-2
-2020-06-09,medicago-lupulina,boujean-2
-2020-06-18,medicago-lupulina,boujean-2
-2020-06-18,arenaria-serpyllifolia,boujean-2
-2020-06-18,crepis-capillaris,boujean-2
-2020-06-18,clinopodium-acinos,boujean-2
-2020-06-18,trifolium-pratense,boujean-3
-2020-06-18,crepis-capillaris,boujean-3
-2020-06-18,potentilla-reptans,boujean-3
-2020-06-18,senecio-inaequidens,boujean-3
-2020-06-18,cichorium-intybus,boujean-3
-2020-06-18,erigeron-annuus,boujean-3
-2020-09-03,lavandula-angustifolia,buren-1
-2020-09-03,eupatorium-cannabinum,buren-1
-2020-09-03,cichorium-intybus,buren-1
-2020-09-03,vicia-sepium,buren-1
-2020-09-03,trifolium-pratense,buren-1
-2020-09-03,lotus-corniculatus,buren-1
-2020-09-03,solidago-canadensis,buren-1
-2020-09-03,hypericum-perforatum,buren-1
-2020-09-03,senecio-inaequidens,buren-1
-2020-09-03,hypericum-perforatum,buren-1
-2020-09-03,epilobium-dodonaei,buren-1
-2020-09-03,daucus-carota,buren-1
-2020-09-03,erigeron-annuus,buren-1
-2020-09-03,leucanthemum-vulgare,buren-1
-2020-09-03,centaurea-jacea,buren-1
-2020-09-03,echium-vulgare,buren-1
-2020-09-03,galium-mollugo,buren-1
-2020-09-03,taraxacum-officinale,buren-1
-2020-09-03,ranunculus-acris,buren-1
-2020-09-03,clematis-vitalba,buren-1
-2020-09-03,dianthus-armeria,buren-1
-2020-09-03,senecio-inaequidens,buren-1
-2020-09-03,centranthus-ruber,buren-2
-2020-09-03,cichorium-intybus,buren-2
-2020-09-03,chelidonium-majus,buren-2
-2020-09-03,cornus-sanguinea,buren-2
-2020-09-03,verbena-officinalis,buren-2
-2020-08-04,potentilla-reptans,buren-2
-2020-08-04,bryonia-dioica,buren-2
-2020-08-04,sorbus-aucuparia,buren-2
-2020-08-04,sambucus-nigra,buren-2
-2020-08-04,echium-vulgare,buren-2
-2020-08-04,silene-latifolia,buren-2
-2020-08-04,cichorium-intybus,buren-2
-2020-08-04,geranium-robertianum,buren-2
-2020-08-04,urtica-dioica,buren-2
-2020-08-04,sambucus-nigra,buren-2
-2020-08-07,geranium-pyrenaicum,buren-2
-2020-08-07,melilotus-albus,buren-2
-2020-08-07,echium-vulgare,buren-2
-2020-08-07,senecio-inaequidens,buren-2
-2020-08-07,lavandula-angustifolia,buren-2
-2020-08-07,trifolium-pratense,buren-2
-2020-08-07,daucus-carota,buren-2
-2020-08-07,clematis-vitalba,buren-2
-2020-08-07,hypericum-perforatum,buren-2
-2020-08-07,eupatorium-cannabinum,buren-2
-2020-08-07,solidago-canadensis,buren-2
-2020-08-07,epilobium-dodonaei,buren-2
-2020-09-03,cornus-sanguinea,buren-3
-2020-09-03,rubus-rubus,buren-3
-2020-09-03,rubus-armeniacus,buren-3
-2020-09-03,erigeron-annuus,buren-3
-2020-09-28,knautia-arvensis,cff-lot-1
-2020-09-28,polygonum-aviculare,cff-lot-1
-2020-09-28,trifolium-pratense,cff-lot-1
-2020-09-28,rubus-rubus,cff-lot-1
-2020-09-28,lamium-maculatum,cff-lot-1
-2020-09-28,sonchus-oleraceus,cff-lot-1
-2020-09-28,mentha-spicata,cff-lot-1
-2020-09-28,galeopsis-tetrahit,cff-lot-1
-2020-09-28,galium-mollugo,cff-lot-1
-2020-09-28,cornus-sanguinea,cff-lot-1
-2020-09-28,urtica-dioica,cff-lot-1
-2020-09-28,artemisia-vulgaris,cff-lot-1
-2020-09-28,erigeron-annuus,cff-lot-1
-2020-09-28,medicago-lupulina,cff-lot-2
-2020-09-28,parthenocissus-quinquefolia,cff-lot-2
-2020-09-28,medicago-sativa,cff-lot-2
-2020-09-28,galium-mollugo,cff-lot-2
-2020-09-28,malus-sylvestris,cff-lot-2
-2020-09-28,rubus-rubus,cff-lot-2
-2020-09-28,eupatorium-cannabinum,cff-lot-2
-2020-09-28,erigeron-annuus,cff-lot-2
-2020-09-28,trifolium-pratense,cff-lot-2
-2020-09-28,solidago-canadensis,cff-lot-2
-2020-09-11,borkhausenia-intermedia,cff-path-1
-2020-09-11,calystegia-sepium,cff-path-1
-2020-09-11,epilobium-hirsutum,cff-path-1
-2020-09-11,solidago-canadensis,cff-path-1
-2020-09-11,solanum-nigrum,cff-path-1
-2020-09-11,malva-neglecta,cff-path-1
-2020-09-11,urtica-dioica,cff-path-1
-2020-09-11,chenopodium-album,cff-path-1
-2020-09-11,erodium-cicutarium,cff-path-1
-2020-07-28,malva-neglecta,cff-path-2
-2020-07-28,alcea-rosea,cff-path-2
-2020-07-31,arctium-minus,cff-path-2
-2020-07-31,carduus-crispus,cff-path-2
-2020-07-31,carduus-crispus,cff-path-2
-2020-07-31,convolvulus-arvensis,cff-path-2
-2020-07-31,oxalis-dillenii,cff-path-2
-2020-07-31,sambucus-nigra,cff-path-2
-2020-07-31,crataegus-monogyna,cff-path-2
-2020-08-07,epilobium-hirsutum,cff-path-3
-2020-08-07,erigeron-annuus,cff-path-3
-2020-08-07,geranium-pyrenaicum,cff-path-3
-2020-08-07,medicago-lupulina,cff-path-3
-2020-08-07,robinia-pseudoacacia,cff-path-3
-2020-08-07,solanum-nigrum,cff-path-3
-2020-08-07,urtica-dioica,cff-path-3
-2020-09-02,erigeron-annuus,chapelle
-2020-09-02,centaurea-scabiosa,chapelle
-2020-09-02,campanula-rotundifolia,chapelle
-2020-09-02,daucus-carota,chapelle
-2020-09-02,vicia-cracca,chapelle
-2020-09-02,mentha-spicata,chapelle
-2020-09-02,lycopus-europaeus,chapelle
-2020-09-02,verbascum-thapsus,chapelle
-2020-09-02,leucanthemum-vulgare,chapelle
-2020-09-02,geranium-pyrenaicum,chapelle
-2020-09-02,solidago-canadensis,chapelle
-2020-09-02,melilotus-albus,chapelle
-2020-09-02,erigeron-annuus,chapelle
-2020-09-02,erigeron-canadensis,chapelle
-2020-09-02,medicago-sativa,chapelle
-2020-09-02,leucanthemum-vulgare,chapelle
-2020-09-02,trifolium-repens,chapelle
-2020-09-02,trifolium-pratense,chapelle
-2020-09-02,lotus-corniculatus,chapelle
-2020-08-30,trifolium-repens,chemin-de-la-course
-2020-08-30,centaurea-jacea,chemin-de-la-course
-2020-08-30,cichorium-intybus,chemin-de-la-course
-2020-08-30,petrorhagia-saxifraga,chemin-de-la-course
-2020-08-30,achillea-millefolium,chemin-de-la-course
-2020-08-30,cirsium-arvense,chemin-de-la-course
-2020-08-30,erigeron-canadensis,chemin-de-la-course
-2020-08-30,centaurea-scabiosa,chemin-de-la-course
-2020-08-30,lotus-corniculatus,chemin-de-la-course
-2020-08-30,cirsium-vulgare,chemin-de-la-course
-2020-08-30,tripleurospermum-maritimum,chemin-de-la-course
-2020-08-30,knautia-arvensis,chemin-de-la-course
-2020-08-30,centaurea-jacea,chemin-de-la-course
-2020-08-30,trifolium-pratense,chemin-de-la-course
-2020-08-30,trifolium-pratense,chemin-de-la-course
-2020-08-30,erigeron-annuus,chemin-de-la-course
-2020-08-30,leucanthemum-vulgare,chemin-de-la-course
-2020-08-30,silene-latifolia,chemin-de-la-course
-2020-08-30,galium-mollugo,chemin-de-la-course
-2020-08-30,medicago-sativa,chemin-de-la-course
-2020-07-28,heracleum-sphondylium,chemin-des-voies
-2020-07-28,bryonia-dioica,chemin-des-voies
-2020-07-28,geranium-molle,chemin-des-voies
-2020-07-28,geum-urbanum,chemin-des-voies
-2020-07-28,urtica-dioica,chemin-des-voies
-2020-07-28,cornus-sanguinea,chemin-des-voies
-2020-07-28,buddleja-davidii,chemin-des-voies
-2020-07-28,daucus-carota,chemin-des-voies
-2020-07-28,erigeron-annuus,chemin-des-voies
-2020-07-28,verbena-officinalis,chemin-des-voies
-2020-09-15,lythrum-salicaria,cheyres-path
-2020-09-15,eupatorium-cannabinum,cheyres-path
-2020-09-15,viburnum-opulus,cheyres-path
-2020-09-15,rubus-caesius,cheyres-path
-2020-09-15,calystegia-sepium,cheyres-path
-2020-09-15,stachys-palustris,cheyres-path
-2020-09-15,lycopus-europaeus,cheyres-reserve
-2020-09-15,chenopodium-album,cheyres-reserve
-2020-09-15,persicaria-maculosa,cheyres-reserve
-2020-09-15,persicaria-longiseta,cheyres-reserve
-2020-09-15,polygonum-aviculare,cheyres-reserve
-2020-09-15,solanum-nigrum,cheyres-reserve
-2020-09-15,achillea-ptarmica,cheyres-reserve
-2020-07-04,geranium-pratense,college
-2020-07-04,lotus-corniculatus,college
-2020-07-04,malva-alcea,college
-2020-06-18,echium-vulgare,college
-2020-06-18,sedum-album,college
-2020-06-18,ligustrum-vulgare,college
-2020-06-18,urtica-dioica,college
-2020-06-18,geum-urbanum,college
-2020-09-19,erigeron-canadensis,cygnes
-2020-09-19,erigeron-annuus,cygnes
-2020-09-19,medicago-sativa,cygnes
-2020-09-19,lotus-corniculatus,cygnes
-2020-09-19,oenothera-biennis,cygnes
-2020-08-08,anemone-hupehensis,cygnes
-2020-08-08,cirsium-vulgare,cygnes
-2020-08-08,daucus-carota,cygnes
-2020-08-08,hypericum-perforatum,cygnes
-2020-08-08,medicago-sativa,cygnes
-2020-08-08,jacobaea-vulgaris,cygnes
-2020-08-08,solidago-canadensis,cygnes
-2020-07-07,artemisia-verlotiorum,cygnes-lot-1
-2020-07-07,carduus-crispus,cygnes-lot-1
-2020-07-07,cirsium-palustre,cygnes-lot-1
-2020-07-07,cirsium-vulgare,cygnes-lot-1
-2020-07-07,linaria-vulgaris,cygnes-lot-1
-2020-07-07,lactuca-serriola,cygnes-lot-1
-2020-07-07,erigeron-annuus,cygnes-lot-1
-2020-07-07,erigeron-canadensis,cygnes-lot-1
-2020-07-07,medicago-sativa,cygnes-lot-1
-2020-07-07,lotus-corniculatus,cygnes-lot-1
-2020-07-08,matricaria-chamomilla,cygnes-lot-2
-2020-07-11,daucus-carota,cygnes-lot-2
-2020-07-11,melilotus-officinalis,cygnes-lot-2
-2020-07-11,lotus-corniculatus,cygnes-lot-2
-2020-07-11,erigeron-canadensis,cygnes-lot-2
-2020-07-11,erigeron-annuus,cygnes-lot-2
-2020-07-11,populus-alba,cygnes-lot-2
-2020-07-11,lactuca-serriola,cygnes-lot-2
-2020-07-07,solidago-canadensis,cygnes-lot-3
-2020-07-11,malva-sylvestris,cygnes-lot-3
-2020-07-11,oenothera-biennis,cygnes-lot-3
-2020-07-11,buddleja-davidii,cygnes-lot-3
-2020-07-11,hypericum-perforatum,cygnes-lot-3
-2020-07-11,pastinaca-sativa,cygnes-lot-3
-2020-07-09,verbascum-densiflorum,cygnes-lot-4
-2020-09-20,senecio-inaequidens,cygnes-lot-5
-2020-09-20,diplotaxis-tenuifolia,cygnes-lot-5
-2020-07-11,papaver-rhoeas,cygnes-lot-6
-2020-08-30,solidago-canadensis,cygnes-lot-7
-2020-08-30,packera-aurea,cygnes-lot-7
-2020-08-30,populus-alba,cygnes-lot-7
-2020-08-30,medicago-lupulina,cygnes-lot-7
-2020-08-30,buddleja-davidii,cygnes-lot-7
-2020-08-30,artemisia-vulgaris,cygnes-lot-7
-2020-08-30,lotus-corniculatus,cygnes-lot-7
-2020-08-30,erigeron-canadensis,cygnes-lot-7
-2020-08-30,erigeron-annuus,cygnes-lot-7
-2020-08-30,chenopodium-album,cygnes-lot-7
-2020-08-30,artemisia-vulgaris,cygnes-lot-8
-2020-08-30,rosa-canina,cygnes-lot-8
-2020-08-30,oenothera-biennis,cygnes-lot-8
-2020-08-30,medicago-sativa,cygnes-lot-8
-2020-08-30,medicago-lupulina,cygnes-lot-8
-2020-08-30,hypericum-perforatum,cygnes-lot-8
-2020-08-30,verbena-officinalis,cygnes-lot-8
-2020-08-30,silene-vulgaris,cygnes-lot-8
-2020-08-30,cirsium-arvense,cygnes-lot-8
-2020-08-30,daucus-carota,cygnes-lot-8
-2020-08-30,lotus-corniculatus,cygnes-lot-8
-2020-08-30,trifolium-pratense,cygnes-lot-8
-2020-08-30,pastinaca-sativa,cygnes-lot-8
-2020-08-30,echium-vulgare,cygnes-lot-8
-2020-08-30,senecio-inaequidens,cygnes-lot-8
-2020-07-24,cornus-sanguinea,cygnes-lot-8
-2020-07-24,crataegus-monogyna,cygnes-lot-8
-2020-07-24,oenothera-biennis,cygnes-lot-8
-2020-08-03,cymbalaria-muralis,dam
-2020-08-03,eupatorium-cannabinum,dam
-2020-06-16,campanula-rotundifolia,energie-1
-2020-06-16,galium-mollugo,energie-1
-2020-06-16,silene-vulgaris,energie-1
-2020-06-16,convolvulus-arvensis,energie-1
-2020-06-16,achillea-millefolium,energie-1
-2020-06-16,knautia-arvensis,energie-1
-2020-06-16,polygonum-aviculare,energie-1
-2020-08-03,seseli-libanotis,energie-1
-2020-08-03,campanula-rotundifolia,energie-1
-2020-08-03,clematis-vitalba,energie-2
-2020-08-03,hypericum-perforatum,energie-2
-2020-08-03,eupatorium-cannabinum,energie-2
-2020-08-03,lactuca-serriola,energie-2
-2020-06-06,reseda-lutea,energie-3
-2020-06-06,silene-vulgaris,energie-3
-2020-06-06,lactuca-serriola,energie-3
-2020-07-03,epilobium-hirsutum,football-1
-2020-07-03,eupatorium-cannabinum,football-1
-2020-07-03,solanum-dulcamara,football-1
-2020-07-03,stachys-palustris,football-1
-2020-07-03,veronica-persica,football-1
-2020-08-04,geranium-robertianum,football-1
-2020-08-04,eupatorium-cannabinum,football-1
-2020-08-04,cirsium-oleraceum,football-1
-2020-07-03,clematis-vitalba,football-2
-2020-07-03,lotus-corniculatus,football-2
-2020-07-03,geum-urbanum,football-2
-2020-08-04,viburnum-opulus,football-2
-2020-08-04,angelica-sylvestris,football-2
-2020-08-04,cirsium-arvense,football-2
-2020-08-04,origanum-vulgare,football-2
-2020-07-03,lotus-corniculatus,football-3
-2020-07-03,jacobaea-vulgaris,football-3
-2020-07-03,sedum-sexangulare,football-3
-2020-07-03,centaurea-jacea,football-3
-2020-07-03,origanum-vulgare,football-4
-2020-07-03,cichorium-intybus,football-5
-2020-07-03,pastinaca-sativa,football-5
-2020-08-03,dipsacus-fullonum,football-6
-2020-08-03,erigeron-annuus,football-6
-2020-08-03,pastinaca-sativa,football-6
-2020-08-03,alnus-glutinosa,football-6
-2020-08-03,jacobaea-vulgaris,football-6
-2020-08-03,origanum-vulgare,football-6
-2020-07-08,campanula-rotundifolia,frinvillier-fabrique-1
-2020-07-08,prenanthes-purpurea,frinvillier-fabrique-2
-2020-07-08,rubus-fruticosus,frinvillier-fabrique-2
-2020-07-08,campanula-scheuchzeri,frinvillier-fabrique-3
-2020-07-08,campanula-trachelium,frinvillier-fabrique-3
-2020-07-08,filipendula-ulmaria,frinvillier-fabrique-4
-2020-07-08,eupatorium-cannabinum,frinvillier-fabrique-4
-2020-07-08,knautia-dipsacifolia,frinvillier-fabrique-1
-2020-07-08,verbascum-lychnitis,frinvillier-fabrique-1
-2020-07-08,verbascum-nigrum,frinvillier-fabrique-1
-2020-07-08,hypericum-perforatum,frinvillier-fabrique-2
-2020-07-08,melilotus-officinalis,frinvillier-fabrique-2
-2020-07-08,rubus-idaeus,frinvillier-fabrique-2
-2020-07-08,jacobaea-vulgaris,frinvillier-fabrique-4
-2020-07-08,verbascum-nigrum,frinvillier-fabrique-4
-2020-07-08,erigeron-annuus,frinvillier-fabrique-4
-2020-09-22,ranunculus-acris,frinvillier-ramp
-2020-09-22,lactuca-muralis,frinvillier-ramp
-2020-09-22,lactuca-serriola,frinvillier-ramp
-2020-09-22,solidago-virgaurea,frinvillier-ramp
-2020-08-07,rubus-caesius,gottstatt-1
-2020-08-07,rumex-obtusifolius,gottstatt-1
-2020-08-07,trifolium-pratense,gottstatt-1
-2020-08-07,cichorium-intybus,gottstatt-1
-2020-08-07,daucus-carota,gottstatt-1
-2020-08-07,lamium-maculatum,gottstatt-1
-2020-08-07,chaerophyllum-aureum,gottstatt-1
-2020-08-07,galium-mollugo,gottstatt-1
-2020-08-07,centaurea-jacea,gottstatt-1
-2020-08-07,silene-vulgaris,gottstatt-1
-2020-08-07,medicago-sativa,gottstatt-1
-2020-08-07,erigeron-annuus,gottstatt-1
-2020-08-07,calystegia-sepium,gottstatt-1
-2020-08-07,lotus-corniculatus,gottstatt-1
-2020-08-07,arctium-lappa,gottstatt-1
-2020-08-16,galium-mollugo,gottstatt-2
-2020-08-16,daucus-carota,gottstatt-2
-2020-08-16,rumex-obtusifolius,gottstatt-2
-2020-08-16,lotus-corniculatus,gottstatt-2
-2020-08-16,medicago-sativa,gottstatt-2
-2020-08-16,knautia-arvensis,gottstatt-2
-2020-08-16,acer-pseudoplatanus,gottstatt-2
-2020-08-24,achillea-millefolium,gottstatt-3
-2020-08-24,cirsium-arvense,gottstatt-3
-2020-08-24,daucus-carota,gottstatt-3
-2020-08-24,erigeron-annuus,gottstatt-3
-2020-08-24,galium-mollugo,gottstatt-3
-2020-08-24,lotus-corniculatus,gottstatt-3
-2020-08-24,malva-moschata,gottstatt-3
-2020-08-24,plantago-media,gottstatt-3
-2020-08-24,rumex-obtusifolius,gottstatt-3
-2020-08-24,silene-vulgaris,gottstatt-3
-2020-08-24,solanum-dulcamara,gottstatt-3
-2020-08-24,solidago-canadensis,gottstatt-3
-2020-08-24,trifolium-pratense,gottstatt-3
-2020-08-24,vicia-cracca,gottstatt-3
-2020-08-24,verbena-officinalis,gottstatt-3
-2020-09-01,reseda-lutea,hayek-1
-2020-09-01,cosmos-bipinnatus,hayek-1
-2020-09-01,symphytum-officinale,hayek-1
-2020-09-01,medicago-sativa,hayek-1
-2020-07-28,senecio-inaequidens,jura-1
-2020-08-08,dianthus-carthusianorum,jura-1
-2020-08-08,eupatorium-cannabinum,jura-1
-2020-08-08,knautia-arvensis,jura-1
-2020-08-08,origanum-vulgare,jura-1
-2020-07-09,verbascum-nigrum,jura-2
-2020-06-20,onobrychis-viciifolia,jura-2
-2020-06-20,securigera-varia,jura-2
-2020-06-28,chelidonium-majus,jura-2
-2020-06-28,malva-alcea,jura-2
-2020-06-28,silene-vulgaris,jura-2
-2020-06-28,reseda-lutea,jura-2
-2020-06-28,echium-vulgare,jura-2
-2020-06-28,calystegia-sepium,jura-2
-2020-06-28,geum-urbanum,jura-2
-2020-07-12,malva-alcea,lezard-1
-2020-08-04,galeopsis-tetrahit,lezard-1
-2020-08-04,linaria-vulgaris,lezard-1
-2020-08-04,cornus-sanguinea,lezard-1
-2020-08-04,malva-alcea,lezard-1
-2020-07-29,sedum-album,ligerz-favorite
-2020-07-29,crepis-capillaris,ligerz-favorite
-2020-07-27,bellis-perennis,lucherz-bureli
-2020-07-27,filipendula-ulmaria,lucherz-bureli
-2020-07-27,ranunculus-acris,lucherz-bureli
-2020-07-27,circaea-lutetiana,lucherz-seestrasse
-2020-07-27,filipendula-ulmaria,lucherz-seestrasse
-2020-07-27,chaerophyllum-temulum,lucherz-seestrasse
-2020-07-27,lythrum-salicaria,lucherz-seestrasse
-2020-07-27,knautia-dipsacifolia,lucherz-seestrasse
-2020-07-27,viburnum-lantana,lucherz-seestrasse
-2020-07-27,galium-mollugo,lucherz-seestrasse
-2020-07-27,heracleum-sphondylium,lucherz-seestrasse
-2020-07-27,urtica-dioica,lucherz-seestrasse
-2020-09-17,trifolium-pratense,orvin-petit-moulin
-2020-09-17,knautia-arvensis,orvin-petit-moulin
-2020-09-17,trifolium-dubium,orvin-petit-moulin
-2020-09-17,galeopsis-tetrahit,orvin-petit-moulin
-2020-09-17,rubus-caesius,orvin-petit-moulin
-2020-09-17,prunus-spinosa,orvin-petit-moulin
-2020-09-22,echium-vulgare,pery-taubenlochweg
-2020-09-22,centaurea-jacea,pery-taubenlochweg
-2020-09-22,galium-mollugo,pery-taubenlochweg
-2020-09-22,medicago-sativa,pery-taubenlochweg
-2020-09-22,silene-vulgaris,pery-taubenlochweg
-2020-09-22,verbascum-nigrum,pery-taubenlochweg
-2020-09-25,silene-dioica,pieterlen-stockweg
-2020-09-23,erigeron-canadensis,reichenbach
-2020-09-23,cirsium-oleraceum,reichenbach
-2020-09-23,reynoutria-japonica,reichenbach
-2020-09-23,pilosella-aurantiaca,reichenbach
-2020-09-23,eupatorium-cannabinum,reichenbach
-2020-09-23,rubus-caesius,reichenbach
-2020-09-23,mentha-aquatica,reichenbach
-2020-09-23,cirsium-arvense,reichenbach
-2020-09-23,tragopogon-pratensis,reichenbach
-2020-09-22,geranium-pyrenaicum,rondchatel
-2020-09-22,achillea-millefolium,rondchatel
-2020-09-22,picris-hieracioides,rondchatel
-2020-09-22,urtica-dioica,rondchatel
-2020-09-22,solidago-canadensis,rondchatel
-2020-09-22,calystegia-sepium,rondchatel
-2020-09-22,lamium-maculatum,rondchatel
-2020-09-22,erigeron-annuus,rondchatel
-2020-08-11,urtica-dioica,rue-alfred-aebi
-2020-08-11,ligustrum-sinense,rue-alfred-aebi
-2020-08-11,symphoricarpos-albus,rue-alfred-aebi
-2020-08-11,acer-pseudoplatanus,rue-alfred-aebi
-2020-08-11,corylus-avellana,rue-alfred-aebi
-2020-08-11,acer-pseudoplatanus,rue-alfred-aebi
-2020-08-11,sambucus-nigra,rue-alfred-aebi
-2020-08-12,viburnum-rhytidophyllum,rue-alfred-aebi
-2020-07-11,lathyrus-latifolius,rue-centrale
-2020-07-11,malva-moschata,rue-centrale
-2020-07-11,stachys-byzantina,rue-centrale
-2020-07-11,dianthus-armeria,rue-centrale
-2020-07-11,rubus-caesius,rue-centrale
-2020-08-23,achillea-millefolium,rue-de-leau-1
-2020-08-23,buddleja-davidii,rue-de-leau-1
-2020-08-23,daucus-carota,rue-de-leau-1
-2020-08-23,solanum-nigrum,rue-de-leau-1
-2020-08-23,stachys-recta,rue-de-leau-1
-2020-08-23,centaurea-scabiosa,rue-de-leau-1
-2020-08-23,lotus-corniculatus,rue-de-leau-1
-2020-08-23,hypericum-perforatum,rue-de-leau-1
-2020-08-23,oenothera-biennis,rue-de-leau-1
-2020-08-23,centaurea-jacea,rue-de-leau-1
-2020-08-23,centaurea-jacea,rue-de-leau-1
-2020-08-23,trifolium-pratense,rue-de-leau-1
-2020-08-23,melilotus-albus,rue-de-leau-1
-2020-08-23,erigeron-canadensis,rue-de-leau-1
-2020-08-01,brassica-napus,rue-de-leau-2
-2020-08-03,crepis-capillaris,rue-de-leau-2
-2020-08-03,silene-vulgaris,rue-de-leau-2
-2020-08-03,picris-hieracioides,rue-de-leau-2
-2020-08-01,oenothera-biennis,rue-de-leau-3
-2020-08-01,silene-vulgaris,rue-de-leau-3
-2020-08-01,silene-latifolia,rue-de-leau-3
-2020-08-01,reseda-lutea,rue-de-leau-3
-2020-08-01,centaurea-scabiosa,rue-de-leau-3
-2020-08-01,tragopogon-pratensis,rue-de-leau-3
-2020-08-01,daucus-carota,rue-de-leau-3
-2020-08-17,galium-mollugo,rue-de-leau-4
-2020-08-17,erigeron-canadensis,rue-de-leau-4
-2020-08-17,lotus-corniculatus,rue-de-leau-4
-2020-08-17,rumex-obtusifolius,rue-de-leau-4
-2020-08-17,trifolium-pratense,rue-de-leau-4
-2020-08-17,daucus-carota,rue-de-leau-4
-2020-08-17,silene-vulgaris,rue-de-leau-4
-2020-08-17,achillea-millefolium,rue-de-leau-4
-2020-08-17,melilotus-albus,rue-de-leau-4
-2020-08-17,stachys-recta,rue-de-leau-4
-2020-08-17,centaurea-scabiosa,rue-de-leau-4
-2020-08-17,centaurea-jacea,rue-de-leau-4
-2020-08-18,prunella-grandiflora,rue-de-leau-5
-2020-08-18,eupatorium-serotinum,rue-de-leau-5
-2020-08-18,leucanthemum-vulgare,rue-de-leau-5
-2020-08-18,lotus-corniculatus,rue-de-leau-5
-2020-08-18,daucus-carota,rue-de-leau-5
-2020-08-18,trifolium-pratense,rue-de-leau-5
-2020-08-18,silene-vulgaris,rue-de-leau-5
-2020-08-18,achillea-millefolium,rue-de-leau-5
-2020-08-20,myosoton-aquaticum,saint-ursanne-falls
-2020-08-20,impatiens-glandulifera,saint-ursanne-falls
-2020-08-15,mentha-spicata,salome-1
-2020-08-15,artemisia-vulgaris,salome-1
-2020-08-15,populus-alba,salome-1
-2020-08-15,alnus-glutinosa,salome-1
-2020-08-15,salix-alba,salome-1
-2020-08-15,salix-purpurea,salome-1
-2020-08-15,sambucus-nigra,salome-1
-2020-08-15,crataegus-monogyna,salome-1
-2020-06-05,galium-mollugo,salome-2
-2020-07-23,echium-vulgare,salome-2
-2020-07-24,sedum-sexangulare,salome-2
-2020-07-24,sedum-album,salome-2
-2020-06-05,senecio-inaequidens,salome-3
-2020-06-05,sedum-album,salome-3
-2020-06-03,galium-album,salome-4
-2020-06-03,sedum-album,salome-4
-2020-06-24,cirsium-palustre,salome-5
-2020-06-24,erigeron-annuus,salome-5
-2020-06-24,sisymbrium-officinale,salome-5
-2020-06-24,urtica-dioica,salome-5
-2020-06-24,galium-mollugo,salome-5
-2020-06-24,mentha-spicata,salome-5
-2020-06-24,oenothera-biennis,salome-5
-2020-06-24,geranium-pyrenaicum,salome-5
-2020-06-24,hypericum-maculatum,salome-5
-2020-06-24,medicago-sativa,salome-5
-2020-07-04,dipsacus-fullonum,schlosslifeld-1
-2020-07-04,cichorium-intybus,schlosslifeld-1
-2020-07-04,echium-vulgare,schlosslifeld-1
-2020-07-04,potentilla-reptans,schlosslifeld-2
-2020-07-04,echium-vulgare,schlosslifeld-2
-2020-07-04,silene-latifolia,schlosslifeld-2
-2020-07-04,cichorium-intybus,schlosslifeld-2
-2020-07-04,malva-alcea,schlosslifeld-2
-2020-08-19,galeopsis-tetrahit,schlosslifeld-2
-2020-08-19,silene-latifolia,schlosslifeld-2
-2020-08-19,polygonum-aviculare,schlosslifeld-2
-2020-08-19,echium-vulgare,schlosslifeld-2
-2020-08-19,chaenorhinum-minus,schlosslifeld-2
-2020-08-19,geranium-pusillum,schlosslifeld-2
-2020-08-19,acer-pseudoplatanus,schlosslifeld-2
-2020-08-19,dianthus-armeria,schlosslifeld-2
-2020-07-04,filipendula-ulmaria,schlosslifeld-3
-2020-07-04,echium-vulgare,schlosslifeld-3
-2020-07-04,melilotus-albus,schlosslifeld-3
-2020-07-04,ranunculus-acris,schlosslifeld-3
-2020-07-04,tragopogon-pratensis,schlosslifeld-3
-2020-07-07,malva-alcea,schlosslifeld-3
-2020-07-04,malva-sylvestris,schlosslifeld-3
-2020-06-18,alcea-rosea,schlosslistrasse
-2020-06-18,geranium-molle,schlosslistrasse
-2020-06-18,achillea-millefolium,schlosslistrasse
-2020-06-18,senecio-inaequidens,schlosslistrasse
-2020-06-18,daucus-carota,schlosslistrasse
-2020-06-18,lepidium-virginicum,schlosslistrasse
-2020-07-10,daucus-carota,schussinsel-3
-2020-07-10,convolvulus-arvensis,schussinsel-1
-2020-07-10,lactuca-serriola,schussinsel-2
-2020-07-10,tragopogon-pratensis,schussinsel-2
-2020-07-10,oenothera-biennis,schussinsel-3
-2020-07-10,hypericum-perforatum,schussinsel-3
-2020-07-10,verbascum-thapsus,schussinsel-3
-2020-07-10,medicago-sativa,schussinsel-3
-2020-07-10,erigeron-annuus,schussinsel-3
-2020-07-10,cirsium-arvense,schussinsel-3
-2020-09-01,centaurea-jacea,schussinsel-4
-2020-09-01,erigeron-annuus,schussinsel-4
-2020-09-01,erigeron-canadensis,schussinsel-4
-2020-09-01,silene-vulgaris,schussinsel-4
-2020-09-01,lotus-corniculatus,schussinsel-4
-2020-09-01,salvia-pratensis,schussinsel-4
-2020-09-01,trifolium-pratense,schussinsel-4
-2020-09-01,trifolium-repens,schussinsel-4
-2020-09-01,campanula-rotundifolia,schussinsel-4
-2020-09-01,calystegia-sepium,schussinsel-4
-2020-09-01,centaurea-jacea,schussinsel-4
-2020-09-01,scabiosa-columbaria,schussinsel-4
-2020-09-01,erigeron-annuus,schussinsel-4
-2020-09-01,trifolium-pratense,schussinsel-4
-2020-09-01,silene-vulgaris,schussinsel-4
-2020-09-01,leucanthemum-vulgare,schussinsel-4
-2020-09-01,onobrychis-viciifolia,schussinsel-4
-2020-09-02,rumex-obtusifolius,schussinsel-5
-2020-09-02,salvia-pratensis,schussinsel-5
-2020-09-02,centaurea-jacea,schussinsel-5
-2020-09-02,knautia-arvensis,schussinsel-5
-2020-09-02,leucanthemum-vulgare,schussinsel-5
-2020-09-02,succisa-pratensis,schussinsel-5
-2020-09-02,urtica-dioica,schussinsel-5
-2020-09-02,rubus-rubus,schussinsel-5
-2020-09-02,epilobium-hirsutum,schussinsel-5
-2020-09-02,eupatorium-cannabinum,schussinsel-5
-2020-09-02,galium-mollugo,schussinsel-5
-2020-09-02,artemisia-vulgaris,schussinsel-5
-2020-09-02,potentilla-reptans,schussinsel-5
-2020-09-02,silene-vulgaris,schussinsel-5
-2020-09-02,lotus-corniculatus,schussinsel-5
-2020-09-02,erigeron-annuus,schussinsel-5
-2020-09-02,medicago-sativa,schussinsel-6
-2020-09-02,daucus-carota,schussinsel-6
-2020-09-02,silene-vulgaris,schussinsel-6
-2020-09-02,epilobium-hirsutum,schussinsel-6
-2020-09-02,urtica-dioica,schussinsel-6
-2020-09-02,solidago-canadensis,schussinsel-6
-2020-09-02,galium-mollugo,schussinsel-6
-2020-09-02,trifolium-repens,schussinsel-6
-2020-09-02,clinopodium-vulgare,schussinsel-6
-2020-09-02,leucanthemum-vulgare,schussinsel-6
-2020-09-02,trifolium-pratense,schussinsel-6
-2020-09-02,lotus-corniculatus,schussinsel-6
-2020-09-02,onobrychis-viciifolia,schussinsel-6
-2020-06-09,bryonia-dioica,sonnenfeld-1
-2020-06-18,geranium-robertianum,sonnenfeld-1
-2020-06-18,bryonia-dioica,sonnenfeld-1
-2020-06-18,daucus-carota,sonnenfeld-1
-2020-06-18,malva-alcea,sonnenfeld-1
-2020-06-18,senecio-inaequidens,sonnenfeld-1
-2020-07-04,melilotus-albus,sonnenfeld-2
-2020-07-04,daucus-carota,sonnenfeld-2
-2020-07-04,geranium-robertianum,sonnenfeld-2
-2020-07-04,senecio-inaequidens,sonnenfeld-2
-2020-08-14,mentha-spicata,strom
-2020-08-14,erigeron-annuus,strom
-2020-08-14,verbena-officinalis,strom
-2020-08-14,hypericum-perforatum,strom
-2020-08-14,lactuca-muralis,strom
-2020-08-14,eupatorium-cannabinum,strom
-2020-08-14,crepis-biennis,strom
-2020-08-14,rubus-rubus,strom
-2020-08-14,clematis-vitalba,strom
-2020-08-14,saponaria-officinalis,strom
-2020-08-26,buddleja-davidii,sundgraben-beach
-2020-08-26,cornus-sanguinea,sundgraben-beach
-2020-08-26,cotoneaster-horizontalis,sundgraben-beach
-2020-08-26,epilobium-angustifolium,sundgraben-beach
-2020-08-26,epilobium-parviflorum,sundgraben-beach
-2020-08-26,epilobium-fleischeri,sundgraben-beach
-2020-08-26,erigeron-annuus,sundgraben-beach
-2020-08-26,erigeron-canadensis,sundgraben-beach
-2020-08-26,eupatorium-cannabinum,sundgraben-beach
-2020-08-26,hippocrepis-emerus,sundgraben-beach
-2020-08-26,hypochaeris-radicata,sundgraben-beach
-2020-08-26,origanum-vulgare,sundgraben-beach
-2020-08-26,oxalis-dillenii,sundgraben-beach
-2020-08-26,rubus-caesius,sundgraben-beach
-2020-08-26,senecio-inaequidens,sundgraben-beach
-2020-08-26,silene-vulgaris,sundgraben-beach
-2020-08-26,trifolium-medium,sundgraben-beach
-2020-09-05,galeopsis-tetrahit,sundgraben-bridge-left
-2020-09-05,clinopodium-nepeta,sundgraben-bridge-left
-2020-09-05,oxalis-dillenii,sundgraben-bridge-left
-2020-09-05,linaria-repens,sundgraben-bridge-left
-2020-09-05,oenothera-biennis,sundgraben-bridge-left
-2020-09-05,clinopodium-vulgare,sundgraben-bridge-left
-2020-09-05,achillea-millefolium,sundgraben-bridge-left
-2020-09-05,reseda-lutea,sundgraben-bridge-left
-2020-09-05,daucus-carota,sundgraben-bridge-left
-2020-09-05,linaria-vulgaris,sundgraben-bridge-left
-2020-09-05,lotus-corniculatus,sundgraben-bridge-left
-2020-09-05,centaurea-scabiosa,sundgraben-bridge-left
-2020-09-05,hypericum-perforatum,sundgraben-bridge-left
-2020-09-05,trifolium-medium,sundgraben-bridge-left
-2020-09-05,calystegia-sepium,sundgraben-bridge-left
-2020-09-05,buddleja-davidii,sundgraben-bridge-left
-2020-09-05,cyclamen-purpurascens,sundgraben-bridge-left
-2020-09-13,hippocrepis-emerus,sundgraben-forest-left
-2020-09-13,lysimachia-arvensis,sundgraben-forest-left
-2020-09-13,ligustrum-vulgare,sundgraben-forest-left
-2020-09-13,oxalis-dillenii,sundgraben-forest-left
-2020-09-13,knautia-arvensis,sundgraben-forest-left
-2020-09-13,trifolium-pratense,sundgraben-forest-right
-2020-09-13,medicago-sativa,sundgraben-forest-right
-2020-09-13,centaurea-scabiosa,sundgraben-forest-right
-2020-09-13,rorippa-sylvestris,sundgraben-forest-right
-2020-09-13,centaurea-jacea,sundgraben-forest-right
-2020-09-13,achillea-millefolium,sundgraben-forest-right
-2020-09-13,erigeron-annuus,sundgraben-forest-right
-2020-09-13,daucus-carota,sundgraben-forest-right
-2020-09-13,silene-vulgaris,sundgraben-forest-right
-2020-09-13,eupatorium-cannabinum,sundgraben-forest-right
-2020-09-13,erigeron-canadensis,sundgraben-forest-right
-2020-09-05,melampyrum-pratense,sundgraben-forest-right
-2020-09-13,calystegia-sepium,sundgraben-gorge
-2020-09-13,oenothera-biennis,sundgraben-gorge
-2020-09-13,centaurea-scabiosa,sundgraben-gorge
-2020-09-13,clinopodium-vulgare,sundgraben-gorge
-2020-09-13,linaria-vulgaris,sundgraben-gorge
-2020-09-13,rudbeckia-hirta,sundgraben-gorge
-2020-09-13,eupatorium-cannabinum,sundgraben-gorge
-2020-09-13,antirrhinum-majus,sundgraben-gorge
-2020-09-05,trifolium-pratense,sundgraben-port
-2020-09-05,daucus-carota,sundgraben-port
-2020-09-05,verbena-officinalis,sundgraben-port
-2020-09-05,eupatorium-cannabinum,sundgraben-port
-2020-09-05,erigeron-canadensis,sundgraben-port
-2020-09-05,oxalis-corniculata,sundgraben-port
-2020-07-28,crepis-capillaris,sureaux
-2020-07-28,trifolium-pratense,sureaux
-2020-07-28,heracleum-sphondylium,sureaux
-2020-08-09,solanum-nigrum,sureaux
-2020-08-09,chenopodium-album,sureaux
-2020-08-09,erigeron-canadensis,sureaux
-2020-08-09,ranunculus-repens,sureaux
-2020-08-09,geranium-pyrenaicum,sureaux
-2020-08-09,rubus-caesius,sureaux
-2020-08-09,filipendula-ulmaria,sureaux
-2020-08-09,erigeron-annuus,sureaux
-2020-08-09,erigeron-annuus,sureaux
-2020-08-09,achillea-millefolium,sureaux
-2020-08-09,galium-mollugo,sureaux
-2020-08-09,aethusa-cynapium,sureaux
-2020-08-09,carduus-crispus,sureaux
-2020-08-09,rumex-obtusifolius,sureaux
-2020-08-04,echium-vulgare,lezard-2
-2020-08-04,cichorium-intybus,lezard-2
-2020-08-13,epilobium-roseum,parc-muni
-2020-08-13,epilobium-parviflorum,parc-muni
-2020-08-13,veronica-beccabunga,parc-muni
-2020-08-13,cyclamen-hederifolium,parc-muni
-2020-08-15,solidago-canadensis,salome-2
-2020-08-08,artemisia-vulgaris,swatch-1
-2020-08-08,cirsium-arvense,swatch-1
-2020-08-08,galium-mollugo,swatch-1
-2020-08-08,lathyrus-sylvestris,swatch-1
-2020-08-08,securigera-varia,swatch-1
-2020-08-08,silene-vulgaris,swatch-1
-2020-08-08,trifolium-pratense,swatch-1
-2020-08-31,medicago-sativa,swatch-2
-2020-08-31,centaurea-scabiosa,swatch-2
-2020-08-31,centaurea-jacea,swatch-2
-2020-08-31,leucanthemum-vulgare,swatch-2
-2020-08-31,reseda-lutea,swatch-2
-2020-08-31,melilotus-albus,swatch-2
-2020-08-31,lathyrus-pratensis,swatch-2
-2020-08-31,reseda-lutea,swatch-2
-2020-08-31,cirsium-vulgare,swatch-2
-2020-08-31,rumex-obtusifolius,swatch-2
-2020-08-31,trifolium-repens,swatch-2
-2020-08-31,mentha-spicata,swatch-2
-2020-08-31,clematis-vitalba,swatch-2
-2020-08-31,calystegia-sepium,swatch-2
-2020-08-31,daucus-carota,swatch-2
-2020-08-31,cirsium-arvense,swatch-2
-2020-08-31,trifolium-pratense,swatch-2
-2020-08-31,silene-vulgaris,swatch-2
-2020-08-31,erigeron-annuus,swatch-2
-2020-08-18,galeopsis-tetrahit,taubenloch-1
-2020-08-18,epilobium-collinum,taubenloch-1
-2020-08-18,geranium-robertianum,taubenloch-1
-2020-08-18,hylotelephium-telephium,taubenloch-1
-2020-08-18,lactuca-muralis,taubenloch-1
-2020-08-18,lapsana-communis,taubenloch-1
-2020-08-18,galeopsis-tetrahit,taubenloch-1
-2020-08-18,campanula-trachelium,taubenloch-1
-2020-08-22,campanula-trachelium,taubenloch-2
-2020-08-22,solanum-dulcamara,taubenloch-2
-2020-08-22,galeopsis-tetrahit,taubenloch-2
-2020-08-22,salvia-glutinosa,taubenloch-2
-2020-08-22,campanula-rotundifolia,taubenloch-2
-2020-08-22,geranium-robertianum,taubenloch-2
-2020-08-22,campanula-rapunculoides,taubenloch-2
-2020-08-22,salvia-glutinosa,taubenloch-2
-2020-08-22,galeopsis-tetrahit,taubenloch-2
-2020-08-22,campanula-rhomboidalis,taubenloch-2
-2020-08-22,lactuca-muralis,taubenloch-2
-2020-08-22,geranium-robertianum,taubenloch-2
-2020-08-22,geranium-robertianum,taubenloch-2
-2020-09-22,rubus-caesius,transjurane-tunnel
-2020-09-22,hylotelephium-telephium,transjurane-tunnel
-2020-08-08,artemisia-vulgaris,truite-1
-2020-08-08,carduus-personata,truite-1
-2020-08-08,chaenorhinum-minus,truite-1
-2020-08-08,cirsium-arvense,truite-1
-2020-08-08,daucus-carota,truite-1
-2020-08-08,dipsacus-pilosus,truite-1
-2020-08-08,epilobium-hirsutum,truite-1
-2020-08-08,eupatorium-cannabinum,truite-1
-2020-08-08,galeopsis-tetrahit,truite-1
-2020-08-08,galium-mollugo,truite-1
-2020-08-08,geranium-pyrenaicum,truite-1
-2020-08-08,geranium-robertianum,truite-1
-2020-08-08,knautia-arvensis,truite-1
-2020-08-08,lactuca-serriola,truite-1
-2020-08-08,lapsana-communis,truite-1
-2020-08-08,leontodon-hispidus,truite-1
-2020-08-08,pastinaca-sativa,truite-1
-2020-08-08,polygonum-persicaria,truite-1
-2020-08-08,silene-vulgaris,truite-1
-2020-08-08,solanum-dulcamara,truite-1
-2020-08-08,urtica-dioica,truite-1
-2020-08-08,veronica-persica,truite-1
-2020-08-22,petasites-hybridus,truite-2
-2020-08-22,clematis-vitalba,truite-2
-2020-08-22,salix-nigra,truite-2
-2020-08-22,solanum-dulcamara,truite-2
-2020-08-22,rumex-obtusifolius,truite-2
-2020-08-22,epilobium-hirsutum,truite-2
-2020-08-22,polygonum-aviculare,truite-2
-2020-08-22,rorippa-islandica,truite-2
-2020-08-22,tussilago-farfara,truite-2
-2020-08-22,urtica-dioica,truite-2
-2020-08-22,mentha-spicata,truite-2
-2020-08-22,persicaria-lapathifolia,truite-2
-2020-08-22,lathyrus-latifolius,truite-2
-2020-08-06,phlox-pilosa,truite-3
-2020-08-06,urtica-dioica,truite-3
-2020-08-06,salix-purpurea,truite-3
-2020-08-06,rosa-spinosissima,truite-3
-2020-08-06,sambucus-nigra,truite-3
-2020-08-06,rubus-rubus,truite-3
-2020-08-06,daucus-carota,truite-3
-2020-08-06,trifolium-pratense,truite-3
-2020-08-06,silene-vulgaris,truite-3
-2020-08-06,centaurea-scabiosa,truite-3
-2020-08-06,lotus-corniculatus,truite-3
-2020-08-06,chenopodium-album,truite-3
-2020-08-06,leucanthemum-vulgare,truite-3
-2020-08-06,centaurea-jacea,truite-3
-2020-08-06,cirsium-arvense,truite-3
-2020-08-06,galium-mollugo,truite-3
-2020-08-03,centaurea-jacea,truite-4
-2020-08-03,salvia-pratensis,truite-4
-2020-08-03,cichorium-intybus,truite-4
-2020-08-06,hypericum-perforatum,truite-4
-2020-08-06,silene-latifolia,truite-4
-2020-08-06,knautia-arvensis,truite-4
-2020-08-06,cirsium-arvense,truite-4
-2020-08-06,rumex-obtusifolius,truite-4
-2020-08-06,clinopodium-vulgare,truite-4
-2020-08-06,echium-vulgare,truite-4
-2020-08-29,trifolium-repens,truite-5
-2020-08-29,lotus-corniculatus,truite-5
-2020-08-29,rubus-rubus,truite-5
-2020-08-29,clematis-vitalba,truite-5
-2020-08-29,lamium-maculatum,truite-5
-2020-08-29,verbena-officinalis,truite-5
-2020-08-29,trifolium-pratense,truite-5
-2020-08-29,jacobaea-vulgaris,truite-5
-2020-08-29,galium-mollugo,truite-5
-2020-08-29,ranunculus-acris,truite-5
-2020-08-29,silene-vulgaris,truite-5
-2020-08-29,linaria-vulgaris,truite-5
-2020-08-29,potentilla-reptans,truite-5
-2020-08-29,rapistrum-rugosum,truite-5
-2020-08-29,malva-moschata,truite-5
-2020-08-29,daucus-carota,truite-5
-2020-08-29,medicago-sativa,truite-5
-2020-08-29,reseda-lutea,truite-5
-2020-08-25,angelica-sylvestris,twann-estuary
-2020-08-25,calystegia-sepium,twann-estuary
-2020-08-25,cornus-sanguinea,twann-estuary
-2020-08-25,cymbalaria-muralis,twann-estuary
-2020-08-25,daucus-carota,twann-estuary
-2020-08-25,epilobium-hirsutum,twann-estuary
-2020-08-25,erigeron-annuus,twann-estuary
-2020-08-25,galium-mollugo,twann-estuary
-2020-08-25,geranium-rotundifolium,twann-estuary
-2020-08-25,heracleum-sphondylium,twann-estuary
-2020-08-25,hieracium-morulum,twann-estuary
-2020-08-25,lactuca-serriola,twann-estuary
-2020-08-25,lathyrus-latifolius,twann-estuary
-2020-08-25,lycopus-europaeus,twann-estuary
-2020-08-25,rubus-rubus,twann-estuary
-2020-08-25,rubus-caesius,twann-estuary
-2020-08-25,silene-vulgaris,twann-estuary
-2020-08-25,trifolium-pratense,twann-estuary
-2020-08-25,urtica-dioica,twann-estuary
-2020-08-25,verbascum-densiflorum,twann-estuary
-2020-08-25,vicia-cracca,twann-estuary
-2020-08-05,pseudofumaria-lutea,twann-gorges
-2020-08-10,hippocrepis-emerus,weissenau
-2020-08-10,lactuca-muralis,weissenau
-2020-08-10,calystegia-sepium,weissenau
-2020-08-10,viburnum-opulus,weissenau
-2020-08-10,mentha-aquatica,weissenau
-2020-08-10,aria-edulis,weissenau
-2020-08-10,allium-carinatum,weissenau
-2020-08-10,viburnum-lantana,weissenau
-2020-08-10,filipendula-ulmaria,weissenau
-2020-08-10,lythrum-salicaria,weissenau
-2020-08-10,lysimachia-vulgaris,weissenau
+date,species_slug,new_date,place_slug,loc_date
+2020-09-02,plantago-lanceolata,2020-09-02,alleestrasse-1,"('alleestrasse-1', Timestamp('2020-09-02 00:00:00'))"
+2020-09-02,centaurea-nigra,2020-09-02,alleestrasse-1,"('alleestrasse-1', Timestamp('2020-09-02 00:00:00'))"
+2020-09-02,plantago-media,2020-09-02,alleestrasse-1,"('alleestrasse-1', Timestamp('2020-09-02 00:00:00'))"
+2020-09-02,chenopodium-album,2020-09-02,alleestrasse-1,"('alleestrasse-1', Timestamp('2020-09-02 00:00:00'))"
+2020-09-02,centaurea-jacea,2020-09-02,alleestrasse-1,"('alleestrasse-1', Timestamp('2020-09-02 00:00:00'))"
+2020-09-02,veronica-persica,2020-09-02,alleestrasse-1,"('alleestrasse-1', Timestamp('2020-09-02 00:00:00'))"
+2020-09-02,geranium-pyrenaicum,2020-09-02,alleestrasse-1,"('alleestrasse-1', Timestamp('2020-09-02 00:00:00'))"
+2020-07-28,centaurea-jacea,2020-07-28,alleestrasse-1,"('alleestrasse-1', Timestamp('2020-07-28 00:00:00'))"
+2020-07-28,daucus-carota,2020-07-28,alleestrasse-1,"('alleestrasse-1', Timestamp('2020-07-28 00:00:00'))"
+2020-07-28,centaurea-jacea,2020-07-28,alleestrasse-1,"('alleestrasse-1', Timestamp('2020-07-28 00:00:00'))"
+2020-07-31,mentha-spicata,2020-07-31,alleestrasse-2,"('alleestrasse-2', Timestamp('2020-07-31 00:00:00'))"
+2020-07-31,pastinaca-sativa,2020-07-31,alleestrasse-2,"('alleestrasse-2', Timestamp('2020-07-31 00:00:00'))"
+2020-07-31,galium-mollugo,2020-07-31,alleestrasse-2,"('alleestrasse-2', Timestamp('2020-07-31 00:00:00'))"
+2020-07-31,trifolium-pratense,2020-07-31,alleestrasse-2,"('alleestrasse-2', Timestamp('2020-07-31 00:00:00'))"
+2020-07-31,daucus-carota,2020-07-31,alleestrasse-2,"('alleestrasse-2', Timestamp('2020-07-31 00:00:00'))"
+2020-06-16,achillea-millefolium,2020-06-16,alleestrasse-3,"('alleestrasse-3', Timestamp('2020-06-16 00:00:00'))"
+2020-06-16,sedum-album,2020-06-16,alleestrasse-3,"('alleestrasse-3', Timestamp('2020-06-16 00:00:00'))"
+2020-06-16,chaerophyllum-hirsutum,2020-06-16,alleestrasse-3,"('alleestrasse-3', Timestamp('2020-06-16 00:00:00'))"
+2020-06-16,erigeron-annuus,2020-06-16,alleestrasse-3,"('alleestrasse-3', Timestamp('2020-06-16 00:00:00'))"
+2020-07-31,epilobium-hirsutum,2020-07-31,alleestrasse-3,"('alleestrasse-3', Timestamp('2020-07-31 00:00:00'))"
+2020-06-06,verbascum-thapsus,2020-06-06,alleestrasse-4,"('alleestrasse-4', Timestamp('2020-06-06 00:00:00'))"
+2020-06-16,trifolium-pratense,2020-06-16,alleestrasse-4,"('alleestrasse-4', Timestamp('2020-06-16 00:00:00'))"
+2020-06-06,silene-latifolia,2020-06-06,alleestrasse-4,"('alleestrasse-4', Timestamp('2020-06-06 00:00:00'))"
+2020-06-06,silene-dichotoma,2020-06-06,alleestrasse-4,"('alleestrasse-4', Timestamp('2020-06-06 00:00:00'))"
+2020-07-11,verbena-bonariensis,2020-07-11,alleestrasse-4,"('alleestrasse-4', Timestamp('2020-07-11 00:00:00'))"
+2020-06-16,achillea-millefolium,2020-06-16,alleestrasse-4,"('alleestrasse-4', Timestamp('2020-06-16 00:00:00'))"
+2020-08-13,clinopodium-vulgare,2020-08-13,bluets-1,"('bluets-1', Timestamp('2020-08-13 00:00:00'))"
+2020-08-13,centaurea-jacea,2020-08-13,bluets-1,"('bluets-1', Timestamp('2020-08-13 00:00:00'))"
+2020-08-13,centaurea-jacea,2020-08-13,bluets-1,"('bluets-1', Timestamp('2020-08-13 00:00:00'))"
+2020-08-13,scabiosa-columbaria,2020-08-13,bluets-1,"('bluets-1', Timestamp('2020-08-13 00:00:00'))"
+2020-08-13,silene-latifolia,2020-08-13,bluets-1,"('bluets-1', Timestamp('2020-08-13 00:00:00'))"
+2020-08-13,trifolium-pratense,2020-08-13,bluets-1,"('bluets-1', Timestamp('2020-08-13 00:00:00'))"
+2020-08-13,trifolium-repens,2020-08-13,bluets-1,"('bluets-1', Timestamp('2020-08-13 00:00:00'))"
+2020-08-13,silene-vulgaris,2020-08-13,bluets-1,"('bluets-1', Timestamp('2020-08-13 00:00:00'))"
+2020-08-13,silene-latifolia,2020-08-13,bluets-1,"('bluets-1', Timestamp('2020-08-13 00:00:00'))"
+2020-08-13,epilobium-hirsutum,2020-08-13,bluets-1,"('bluets-1', Timestamp('2020-08-13 00:00:00'))"
+2020-08-13,crepis-capillaris,2020-08-13,bluets-1,"('bluets-1', Timestamp('2020-08-13 00:00:00'))"
+2020-08-13,melilotus-albus,2020-08-13,bluets-1,"('bluets-1', Timestamp('2020-08-13 00:00:00'))"
+2020-08-13,erigeron-annuus,2020-08-13,bluets-1,"('bluets-1', Timestamp('2020-08-13 00:00:00'))"
+2020-08-13,veronica-persica,2020-08-13,bluets-1,"('bluets-1', Timestamp('2020-08-13 00:00:00'))"
+2020-08-13,malva-neglecta,2020-08-13,bluets-1,"('bluets-1', Timestamp('2020-08-13 00:00:00'))"
+2020-08-13,cirsium-arvense,2020-08-13,bluets-1,"('bluets-1', Timestamp('2020-08-13 00:00:00'))"
+2020-08-13,calystegia-sepium,2020-08-13,bluets-1,"('bluets-1', Timestamp('2020-08-13 00:00:00'))"
+2020-08-13,galium-mollugo,2020-08-13,bluets-1,"('bluets-1', Timestamp('2020-08-13 00:00:00'))"
+2020-08-13,brassica-napus,2020-08-13,bluets-1,"('bluets-1', Timestamp('2020-08-13 00:00:00'))"
+2020-08-13,silene-latifolia,2020-08-13,bluets-1,"('bluets-1', Timestamp('2020-08-13 00:00:00'))"
+2020-08-13,lotus-corniculatus,2020-08-13,bluets-1,"('bluets-1', Timestamp('2020-08-13 00:00:00'))"
+2020-08-13,trifolium-pratense,2020-08-13,bluets-1,"('bluets-1', Timestamp('2020-08-13 00:00:00'))"
+2020-08-13,medicago-sativa,2020-08-13,bluets-1,"('bluets-1', Timestamp('2020-08-13 00:00:00'))"
+2020-07-10,hypericum-perforatum,2020-07-10,bluets-2,"('bluets-2', Timestamp('2020-07-10 00:00:00'))"
+2020-06-12,tragopogon-pratensis,2020-06-12,bluets-2,"('bluets-2', Timestamp('2020-06-12 00:00:00'))"
+2020-06-12,geranium-pyrenaicum,2020-06-12,bluets-2,"('bluets-2', Timestamp('2020-06-12 00:00:00'))"
+2020-06-12,knautia-arvensis,2020-06-12,bluets-2,"('bluets-2', Timestamp('2020-06-12 00:00:00'))"
+2020-06-12,centaurea-jacea,2020-06-12,bluets-2,"('bluets-2', Timestamp('2020-06-12 00:00:00'))"
+2020-06-12,galium-mollugo,2020-06-12,bluets-2,"('bluets-2', Timestamp('2020-06-12 00:00:00'))"
+2020-06-12,leucanthemum-vulgare,2020-06-12,bluets-2,"('bluets-2', Timestamp('2020-06-12 00:00:00'))"
+2020-06-12,vicia-sepium,2020-06-12,bluets-2,"('bluets-2', Timestamp('2020-06-12 00:00:00'))"
+2020-06-28,tragopogon-pratensis,2020-06-28,bluets-3,"('bluets-3', Timestamp('2020-06-28 00:00:00'))"
+2020-06-28,senecio-inaequidens,2020-06-28,bluets-3,"('bluets-3', Timestamp('2020-06-28 00:00:00'))"
+2020-06-28,knautia-arvensis,2020-06-28,bluets-3,"('bluets-3', Timestamp('2020-06-28 00:00:00'))"
+2020-06-28,medicago-sativa,2020-06-28,bluets-3,"('bluets-3', Timestamp('2020-06-28 00:00:00'))"
+2020-06-28,dianthus-carthusianorum,2020-06-28,bluets-3,"('bluets-3', Timestamp('2020-06-28 00:00:00'))"
+2020-06-28,mentha-longifolia,2020-06-28,bluets-3,"('bluets-3', Timestamp('2020-06-28 00:00:00'))"
+2020-06-28,lapsana-communis,2020-06-28,bluets-3,"('bluets-3', Timestamp('2020-06-28 00:00:00'))"
+2020-06-28,galium-mollugo,2020-06-28,bluets-3,"('bluets-3', Timestamp('2020-06-28 00:00:00'))"
+2020-06-28,erigeron-annuus,2020-06-28,bluets-3,"('bluets-3', Timestamp('2020-06-28 00:00:00'))"
+2020-06-09,medicago-lupulina,2020-06-09,boujean-1,"('boujean-1', Timestamp('2020-06-09 00:00:00'))"
+2020-06-09,cichorium-intybus,2020-06-09,boujean-1,"('boujean-1', Timestamp('2020-06-09 00:00:00'))"
+2020-06-09,potentilla-reptans,2020-06-09,boujean-1,"('boujean-1', Timestamp('2020-06-09 00:00:00'))"
+2020-06-09,papaver-rhoeas,2020-06-09,boujean-2,"('boujean-2', Timestamp('2020-06-09 00:00:00'))"
+2020-06-09,hypericum-maculatum,2020-06-09,boujean-2,"('boujean-2', Timestamp('2020-06-09 00:00:00'))"
+2020-06-09,trifolium-pratense,2020-06-09,boujean-2,"('boujean-2', Timestamp('2020-06-09 00:00:00'))"
+2020-06-09,erigeron-annuus,2020-06-09,boujean-2,"('boujean-2', Timestamp('2020-06-09 00:00:00'))"
+2020-06-09,medicago-lupulina,2020-06-09,boujean-2,"('boujean-2', Timestamp('2020-06-09 00:00:00'))"
+2020-06-18,medicago-lupulina,2020-06-18,boujean-2,"('boujean-2', Timestamp('2020-06-18 00:00:00'))"
+2020-06-18,arenaria-serpyllifolia,2020-06-18,boujean-2,"('boujean-2', Timestamp('2020-06-18 00:00:00'))"
+2020-06-18,crepis-capillaris,2020-06-18,boujean-2,"('boujean-2', Timestamp('2020-06-18 00:00:00'))"
+2020-06-18,clinopodium-acinos,2020-06-18,boujean-2,"('boujean-2', Timestamp('2020-06-18 00:00:00'))"
+2020-06-18,trifolium-pratense,2020-06-18,boujean-3,"('boujean-3', Timestamp('2020-06-18 00:00:00'))"
+2020-06-18,crepis-capillaris,2020-06-18,boujean-3,"('boujean-3', Timestamp('2020-06-18 00:00:00'))"
+2020-06-18,potentilla-reptans,2020-06-18,boujean-3,"('boujean-3', Timestamp('2020-06-18 00:00:00'))"
+2020-06-18,senecio-inaequidens,2020-06-18,boujean-3,"('boujean-3', Timestamp('2020-06-18 00:00:00'))"
+2020-06-18,cichorium-intybus,2020-06-18,boujean-3,"('boujean-3', Timestamp('2020-06-18 00:00:00'))"
+2020-06-18,erigeron-annuus,2020-06-18,boujean-3,"('boujean-3', Timestamp('2020-06-18 00:00:00'))"
+2020-09-03,lavandula-angustifolia,2020-09-03,buren-1,"('buren-1', Timestamp('2020-09-03 00:00:00'))"
+2020-09-03,eupatorium-cannabinum,2020-09-03,buren-1,"('buren-1', Timestamp('2020-09-03 00:00:00'))"
+2020-09-03,cichorium-intybus,2020-09-03,buren-1,"('buren-1', Timestamp('2020-09-03 00:00:00'))"
+2020-09-03,vicia-sepium,2020-09-03,buren-1,"('buren-1', Timestamp('2020-09-03 00:00:00'))"
+2020-09-03,trifolium-pratense,2020-09-03,buren-1,"('buren-1', Timestamp('2020-09-03 00:00:00'))"
+2020-09-03,lotus-corniculatus,2020-09-03,buren-1,"('buren-1', Timestamp('2020-09-03 00:00:00'))"
+2020-09-03,solidago-canadensis,2020-09-03,buren-1,"('buren-1', Timestamp('2020-09-03 00:00:00'))"
+2020-09-03,hypericum-perforatum,2020-09-03,buren-1,"('buren-1', Timestamp('2020-09-03 00:00:00'))"
+2020-09-03,senecio-inaequidens,2020-09-03,buren-1,"('buren-1', Timestamp('2020-09-03 00:00:00'))"
+2020-09-03,hypericum-perforatum,2020-09-03,buren-1,"('buren-1', Timestamp('2020-09-03 00:00:00'))"
+2020-09-03,epilobium-dodonaei,2020-09-03,buren-1,"('buren-1', Timestamp('2020-09-03 00:00:00'))"
+2020-09-03,daucus-carota,2020-09-03,buren-1,"('buren-1', Timestamp('2020-09-03 00:00:00'))"
+2020-09-03,erigeron-annuus,2020-09-03,buren-1,"('buren-1', Timestamp('2020-09-03 00:00:00'))"
+2020-09-03,leucanthemum-vulgare,2020-09-03,buren-1,"('buren-1', Timestamp('2020-09-03 00:00:00'))"
+2020-09-03,centaurea-jacea,2020-09-03,buren-1,"('buren-1', Timestamp('2020-09-03 00:00:00'))"
+2020-09-03,echium-vulgare,2020-09-03,buren-1,"('buren-1', Timestamp('2020-09-03 00:00:00'))"
+2020-09-03,galium-mollugo,2020-09-03,buren-1,"('buren-1', Timestamp('2020-09-03 00:00:00'))"
+2020-09-03,taraxacum-officinale,2020-09-03,buren-1,"('buren-1', Timestamp('2020-09-03 00:00:00'))"
+2020-09-03,ranunculus-acris,2020-09-03,buren-1,"('buren-1', Timestamp('2020-09-03 00:00:00'))"
+2020-09-03,clematis-vitalba,2020-09-03,buren-1,"('buren-1', Timestamp('2020-09-03 00:00:00'))"
+2020-09-03,dianthus-armeria,2020-09-03,buren-1,"('buren-1', Timestamp('2020-09-03 00:00:00'))"
+2020-09-03,senecio-inaequidens,2020-09-03,buren-1,"('buren-1', Timestamp('2020-09-03 00:00:00'))"
+2020-09-03,centranthus-ruber,2020-09-03,buren-2,"('buren-2', Timestamp('2020-09-03 00:00:00'))"
+2020-09-03,cichorium-intybus,2020-09-03,buren-2,"('buren-2', Timestamp('2020-09-03 00:00:00'))"
+2020-09-03,chelidonium-majus,2020-09-03,buren-2,"('buren-2', Timestamp('2020-09-03 00:00:00'))"
+2020-09-03,cornus-sanguinea,2020-09-03,buren-2,"('buren-2', Timestamp('2020-09-03 00:00:00'))"
+2020-09-03,verbena-officinalis,2020-09-03,buren-2,"('buren-2', Timestamp('2020-09-03 00:00:00'))"
+2020-08-04,potentilla-reptans,2020-08-04,buren-2,"('buren-2', Timestamp('2020-08-04 00:00:00'))"
+2020-08-04,bryonia-dioica,2020-08-04,buren-2,"('buren-2', Timestamp('2020-08-04 00:00:00'))"
+2020-08-04,sorbus-aucuparia,2020-08-04,buren-2,"('buren-2', Timestamp('2020-08-04 00:00:00'))"
+2020-08-04,sambucus-nigra,2020-08-04,buren-2,"('buren-2', Timestamp('2020-08-04 00:00:00'))"
+2020-08-04,echium-vulgare,2020-08-04,buren-2,"('buren-2', Timestamp('2020-08-04 00:00:00'))"
+2020-08-04,silene-latifolia,2020-08-04,buren-2,"('buren-2', Timestamp('2020-08-04 00:00:00'))"
+2020-08-04,cichorium-intybus,2020-08-04,buren-2,"('buren-2', Timestamp('2020-08-04 00:00:00'))"
+2020-08-04,geranium-robertianum,2020-08-04,buren-2,"('buren-2', Timestamp('2020-08-04 00:00:00'))"
+2020-08-04,urtica-dioica,2020-08-04,buren-2,"('buren-2', Timestamp('2020-08-04 00:00:00'))"
+2020-08-04,sambucus-nigra,2020-08-04,buren-2,"('buren-2', Timestamp('2020-08-04 00:00:00'))"
+2020-08-07,geranium-pyrenaicum,2020-08-07,buren-2,"('buren-2', Timestamp('2020-08-07 00:00:00'))"
+2020-08-07,melilotus-albus,2020-08-07,buren-2,"('buren-2', Timestamp('2020-08-07 00:00:00'))"
+2020-08-07,echium-vulgare,2020-08-07,buren-2,"('buren-2', Timestamp('2020-08-07 00:00:00'))"
+2020-08-07,senecio-inaequidens,2020-08-07,buren-2,"('buren-2', Timestamp('2020-08-07 00:00:00'))"
+2020-08-07,lavandula-angustifolia,2020-08-07,buren-2,"('buren-2', Timestamp('2020-08-07 00:00:00'))"
+2020-08-07,trifolium-pratense,2020-08-07,buren-2,"('buren-2', Timestamp('2020-08-07 00:00:00'))"
+2020-08-07,daucus-carota,2020-08-07,buren-2,"('buren-2', Timestamp('2020-08-07 00:00:00'))"
+2020-08-07,clematis-vitalba,2020-08-07,buren-2,"('buren-2', Timestamp('2020-08-07 00:00:00'))"
+2020-08-07,hypericum-perforatum,2020-08-07,buren-2,"('buren-2', Timestamp('2020-08-07 00:00:00'))"
+2020-08-07,eupatorium-cannabinum,2020-08-07,buren-2,"('buren-2', Timestamp('2020-08-07 00:00:00'))"
+2020-08-07,solidago-canadensis,2020-08-07,buren-2,"('buren-2', Timestamp('2020-08-07 00:00:00'))"
+2020-08-07,epilobium-dodonaei,2020-08-07,buren-2,"('buren-2', Timestamp('2020-08-07 00:00:00'))"
+2020-09-03,cornus-sanguinea,2020-09-03,buren-3,"('buren-3', Timestamp('2020-09-03 00:00:00'))"
+2020-09-03,rubus-rubus,2020-09-03,buren-3,"('buren-3', Timestamp('2020-09-03 00:00:00'))"
+2020-09-03,rubus-armeniacus,2020-09-03,buren-3,"('buren-3', Timestamp('2020-09-03 00:00:00'))"
+2020-09-03,erigeron-annuus,2020-09-03,buren-3,"('buren-3', Timestamp('2020-09-03 00:00:00'))"
+2020-09-28,knautia-arvensis,2020-09-28,cff-lot-1,"('cff-lot-1', Timestamp('2020-09-28 00:00:00'))"
+2020-09-28,polygonum-aviculare,2020-09-28,cff-lot-1,"('cff-lot-1', Timestamp('2020-09-28 00:00:00'))"
+2020-09-28,trifolium-pratense,2020-09-28,cff-lot-1,"('cff-lot-1', Timestamp('2020-09-28 00:00:00'))"
+2020-09-28,rubus-rubus,2020-09-28,cff-lot-1,"('cff-lot-1', Timestamp('2020-09-28 00:00:00'))"
+2020-09-28,lamium-maculatum,2020-09-28,cff-lot-1,"('cff-lot-1', Timestamp('2020-09-28 00:00:00'))"
+2020-09-28,sonchus-oleraceus,2020-09-28,cff-lot-1,"('cff-lot-1', Timestamp('2020-09-28 00:00:00'))"
+2020-09-28,mentha-spicata,2020-09-28,cff-lot-1,"('cff-lot-1', Timestamp('2020-09-28 00:00:00'))"
+2020-09-28,galeopsis-tetrahit,2020-09-28,cff-lot-1,"('cff-lot-1', Timestamp('2020-09-28 00:00:00'))"
+2020-09-28,galium-mollugo,2020-09-28,cff-lot-1,"('cff-lot-1', Timestamp('2020-09-28 00:00:00'))"
+2020-09-28,cornus-sanguinea,2020-09-28,cff-lot-1,"('cff-lot-1', Timestamp('2020-09-28 00:00:00'))"
+2020-09-28,urtica-dioica,2020-09-28,cff-lot-1,"('cff-lot-1', Timestamp('2020-09-28 00:00:00'))"
+2020-09-28,artemisia-vulgaris,2020-09-28,cff-lot-1,"('cff-lot-1', Timestamp('2020-09-28 00:00:00'))"
+2020-09-28,erigeron-annuus,2020-09-28,cff-lot-1,"('cff-lot-1', Timestamp('2020-09-28 00:00:00'))"
+2020-09-28,medicago-lupulina,2020-09-28,cff-lot-2,"('cff-lot-2', Timestamp('2020-09-28 00:00:00'))"
+2020-09-28,parthenocissus-quinquefolia,2020-09-28,cff-lot-2,"('cff-lot-2', Timestamp('2020-09-28 00:00:00'))"
+2020-09-28,medicago-sativa,2020-09-28,cff-lot-2,"('cff-lot-2', Timestamp('2020-09-28 00:00:00'))"
+2020-09-28,galium-mollugo,2020-09-28,cff-lot-2,"('cff-lot-2', Timestamp('2020-09-28 00:00:00'))"
+2020-09-28,malus-sylvestris,2020-09-28,cff-lot-2,"('cff-lot-2', Timestamp('2020-09-28 00:00:00'))"
+2020-09-28,rubus-rubus,2020-09-28,cff-lot-2,"('cff-lot-2', Timestamp('2020-09-28 00:00:00'))"
+2020-09-28,eupatorium-cannabinum,2020-09-28,cff-lot-2,"('cff-lot-2', Timestamp('2020-09-28 00:00:00'))"
+2020-09-28,erigeron-annuus,2020-09-28,cff-lot-2,"('cff-lot-2', Timestamp('2020-09-28 00:00:00'))"
+2020-09-28,trifolium-pratense,2020-09-28,cff-lot-2,"('cff-lot-2', Timestamp('2020-09-28 00:00:00'))"
+2020-09-28,solidago-canadensis,2020-09-28,cff-lot-2,"('cff-lot-2', Timestamp('2020-09-28 00:00:00'))"
+2020-09-11,borkhausenia-intermedia,2020-09-11,cff-path-1,"('cff-path-1', Timestamp('2020-09-11 00:00:00'))"
+2020-09-11,calystegia-sepium,2020-09-11,cff-path-1,"('cff-path-1', Timestamp('2020-09-11 00:00:00'))"
+2020-09-11,epilobium-hirsutum,2020-09-11,cff-path-1,"('cff-path-1', Timestamp('2020-09-11 00:00:00'))"
+2020-09-11,solidago-canadensis,2020-09-11,cff-path-1,"('cff-path-1', Timestamp('2020-09-11 00:00:00'))"
+2020-09-11,solanum-nigrum,2020-09-11,cff-path-1,"('cff-path-1', Timestamp('2020-09-11 00:00:00'))"
+2020-09-11,malva-neglecta,2020-09-11,cff-path-1,"('cff-path-1', Timestamp('2020-09-11 00:00:00'))"
+2020-09-11,urtica-dioica,2020-09-11,cff-path-1,"('cff-path-1', Timestamp('2020-09-11 00:00:00'))"
+2020-09-11,chenopodium-album,2020-09-11,cff-path-1,"('cff-path-1', Timestamp('2020-09-11 00:00:00'))"
+2020-09-11,erodium-cicutarium,2020-09-11,cff-path-1,"('cff-path-1', Timestamp('2020-09-11 00:00:00'))"
+2020-07-28,malva-neglecta,2020-07-28,cff-path-2,"('cff-path-2', Timestamp('2020-07-28 00:00:00'))"
+2020-07-28,alcea-rosea,2020-07-28,cff-path-2,"('cff-path-2', Timestamp('2020-07-28 00:00:00'))"
+2020-07-31,arctium-minus,2020-07-31,cff-path-2,"('cff-path-2', Timestamp('2020-07-31 00:00:00'))"
+2020-07-31,carduus-crispus,2020-07-31,cff-path-2,"('cff-path-2', Timestamp('2020-07-31 00:00:00'))"
+2020-07-31,carduus-crispus,2020-07-31,cff-path-2,"('cff-path-2', Timestamp('2020-07-31 00:00:00'))"
+2020-07-31,convolvulus-arvensis,2020-07-31,cff-path-2,"('cff-path-2', Timestamp('2020-07-31 00:00:00'))"
+2020-07-31,oxalis-dillenii,2020-07-31,cff-path-2,"('cff-path-2', Timestamp('2020-07-31 00:00:00'))"
+2020-07-31,sambucus-nigra,2020-07-31,cff-path-2,"('cff-path-2', Timestamp('2020-07-31 00:00:00'))"
+2020-07-31,crataegus-monogyna,2020-07-31,cff-path-2,"('cff-path-2', Timestamp('2020-07-31 00:00:00'))"
+2020-08-07,epilobium-hirsutum,2020-08-07,cff-path-3,"('cff-path-3', Timestamp('2020-08-07 00:00:00'))"
+2020-08-07,erigeron-annuus,2020-08-07,cff-path-3,"('cff-path-3', Timestamp('2020-08-07 00:00:00'))"
+2020-08-07,geranium-pyrenaicum,2020-08-07,cff-path-3,"('cff-path-3', Timestamp('2020-08-07 00:00:00'))"
+2020-08-07,medicago-lupulina,2020-08-07,cff-path-3,"('cff-path-3', Timestamp('2020-08-07 00:00:00'))"
+2020-08-07,robinia-pseudoacacia,2020-08-07,cff-path-3,"('cff-path-3', Timestamp('2020-08-07 00:00:00'))"
+2020-08-07,solanum-nigrum,2020-08-07,cff-path-3,"('cff-path-3', Timestamp('2020-08-07 00:00:00'))"
+2020-08-07,urtica-dioica,2020-08-07,cff-path-3,"('cff-path-3', Timestamp('2020-08-07 00:00:00'))"
+2020-09-02,erigeron-annuus,2020-09-02,chapelle,"('chapelle', Timestamp('2020-09-02 00:00:00'))"
+2020-09-02,centaurea-scabiosa,2020-09-02,chapelle,"('chapelle', Timestamp('2020-09-02 00:00:00'))"
+2020-09-02,campanula-rotundifolia,2020-09-02,chapelle,"('chapelle', Timestamp('2020-09-02 00:00:00'))"
+2020-09-02,daucus-carota,2020-09-02,chapelle,"('chapelle', Timestamp('2020-09-02 00:00:00'))"
+2020-09-02,vicia-cracca,2020-09-02,chapelle,"('chapelle', Timestamp('2020-09-02 00:00:00'))"
+2020-09-02,mentha-spicata,2020-09-02,chapelle,"('chapelle', Timestamp('2020-09-02 00:00:00'))"
+2020-09-02,lycopus-europaeus,2020-09-02,chapelle,"('chapelle', Timestamp('2020-09-02 00:00:00'))"
+2020-09-02,verbascum-thapsus,2020-09-02,chapelle,"('chapelle', Timestamp('2020-09-02 00:00:00'))"
+2020-09-02,leucanthemum-vulgare,2020-09-02,chapelle,"('chapelle', Timestamp('2020-09-02 00:00:00'))"
+2020-09-02,geranium-pyrenaicum,2020-09-02,chapelle,"('chapelle', Timestamp('2020-09-02 00:00:00'))"
+2020-09-02,solidago-canadensis,2020-09-02,chapelle,"('chapelle', Timestamp('2020-09-02 00:00:00'))"
+2020-09-02,melilotus-albus,2020-09-02,chapelle,"('chapelle', Timestamp('2020-09-02 00:00:00'))"
+2020-09-02,erigeron-annuus,2020-09-02,chapelle,"('chapelle', Timestamp('2020-09-02 00:00:00'))"
+2020-09-02,erigeron-canadensis,2020-09-02,chapelle,"('chapelle', Timestamp('2020-09-02 00:00:00'))"
+2020-09-02,medicago-sativa,2020-09-02,chapelle,"('chapelle', Timestamp('2020-09-02 00:00:00'))"
+2020-09-02,leucanthemum-vulgare,2020-09-02,chapelle,"('chapelle', Timestamp('2020-09-02 00:00:00'))"
+2020-09-02,trifolium-repens,2020-09-02,chapelle,"('chapelle', Timestamp('2020-09-02 00:00:00'))"
+2020-09-02,trifolium-pratense,2020-09-02,chapelle,"('chapelle', Timestamp('2020-09-02 00:00:00'))"
+2020-09-02,lotus-corniculatus,2020-09-02,chapelle,"('chapelle', Timestamp('2020-09-02 00:00:00'))"
+2020-08-30,trifolium-repens,2020-08-30,chemin-de-la-course,"('chemin-de-la-course', Timestamp('2020-08-30 00:00:00'))"
+2020-08-30,centaurea-jacea,2020-08-30,chemin-de-la-course,"('chemin-de-la-course', Timestamp('2020-08-30 00:00:00'))"
+2020-08-30,cichorium-intybus,2020-08-30,chemin-de-la-course,"('chemin-de-la-course', Timestamp('2020-08-30 00:00:00'))"
+2020-08-30,petrorhagia-saxifraga,2020-08-30,chemin-de-la-course,"('chemin-de-la-course', Timestamp('2020-08-30 00:00:00'))"
+2020-08-30,achillea-millefolium,2020-08-30,chemin-de-la-course,"('chemin-de-la-course', Timestamp('2020-08-30 00:00:00'))"
+2020-08-30,cirsium-arvense,2020-08-30,chemin-de-la-course,"('chemin-de-la-course', Timestamp('2020-08-30 00:00:00'))"
+2020-08-30,erigeron-canadensis,2020-08-30,chemin-de-la-course,"('chemin-de-la-course', Timestamp('2020-08-30 00:00:00'))"
+2020-08-30,centaurea-scabiosa,2020-08-30,chemin-de-la-course,"('chemin-de-la-course', Timestamp('2020-08-30 00:00:00'))"
+2020-08-30,lotus-corniculatus,2020-08-30,chemin-de-la-course,"('chemin-de-la-course', Timestamp('2020-08-30 00:00:00'))"
+2020-08-30,cirsium-vulgare,2020-08-30,chemin-de-la-course,"('chemin-de-la-course', Timestamp('2020-08-30 00:00:00'))"
+2020-08-30,tripleurospermum-maritimum,2020-08-30,chemin-de-la-course,"('chemin-de-la-course', Timestamp('2020-08-30 00:00:00'))"
+2020-08-30,knautia-arvensis,2020-08-30,chemin-de-la-course,"('chemin-de-la-course', Timestamp('2020-08-30 00:00:00'))"
+2020-08-30,centaurea-jacea,2020-08-30,chemin-de-la-course,"('chemin-de-la-course', Timestamp('2020-08-30 00:00:00'))"
+2020-08-30,trifolium-pratense,2020-08-30,chemin-de-la-course,"('chemin-de-la-course', Timestamp('2020-08-30 00:00:00'))"
+2020-08-30,trifolium-pratense,2020-08-30,chemin-de-la-course,"('chemin-de-la-course', Timestamp('2020-08-30 00:00:00'))"
+2020-08-30,erigeron-annuus,2020-08-30,chemin-de-la-course,"('chemin-de-la-course', Timestamp('2020-08-30 00:00:00'))"
+2020-08-30,leucanthemum-vulgare,2020-08-30,chemin-de-la-course,"('chemin-de-la-course', Timestamp('2020-08-30 00:00:00'))"
+2020-08-30,silene-latifolia,2020-08-30,chemin-de-la-course,"('chemin-de-la-course', Timestamp('2020-08-30 00:00:00'))"
+2020-08-30,galium-mollugo,2020-08-30,chemin-de-la-course,"('chemin-de-la-course', Timestamp('2020-08-30 00:00:00'))"
+2020-08-30,medicago-sativa,2020-08-30,chemin-de-la-course,"('chemin-de-la-course', Timestamp('2020-08-30 00:00:00'))"
+2020-07-28,heracleum-sphondylium,2020-07-28,chemin-des-voies,"('chemin-des-voies', Timestamp('2020-07-28 00:00:00'))"
+2020-07-28,bryonia-dioica,2020-07-28,chemin-des-voies,"('chemin-des-voies', Timestamp('2020-07-28 00:00:00'))"
+2020-07-28,geranium-molle,2020-07-28,chemin-des-voies,"('chemin-des-voies', Timestamp('2020-07-28 00:00:00'))"
+2020-07-28,geum-urbanum,2020-07-28,chemin-des-voies,"('chemin-des-voies', Timestamp('2020-07-28 00:00:00'))"
+2020-07-28,urtica-dioica,2020-07-28,chemin-des-voies,"('chemin-des-voies', Timestamp('2020-07-28 00:00:00'))"
+2020-07-28,cornus-sanguinea,2020-07-28,chemin-des-voies,"('chemin-des-voies', Timestamp('2020-07-28 00:00:00'))"
+2020-07-28,buddleja-davidii,2020-07-28,chemin-des-voies,"('chemin-des-voies', Timestamp('2020-07-28 00:00:00'))"
+2020-07-28,daucus-carota,2020-07-28,chemin-des-voies,"('chemin-des-voies', Timestamp('2020-07-28 00:00:00'))"
+2020-07-28,erigeron-annuus,2020-07-28,chemin-des-voies,"('chemin-des-voies', Timestamp('2020-07-28 00:00:00'))"
+2020-07-28,verbena-officinalis,2020-07-28,chemin-des-voies,"('chemin-des-voies', Timestamp('2020-07-28 00:00:00'))"
+2020-09-15,lythrum-salicaria,2020-09-15,cheyres-path,"('cheyres-path', Timestamp('2020-09-15 00:00:00'))"
+2020-09-15,eupatorium-cannabinum,2020-09-15,cheyres-path,"('cheyres-path', Timestamp('2020-09-15 00:00:00'))"
+2020-09-15,viburnum-opulus,2020-09-15,cheyres-path,"('cheyres-path', Timestamp('2020-09-15 00:00:00'))"
+2020-09-15,rubus-caesius,2020-09-15,cheyres-path,"('cheyres-path', Timestamp('2020-09-15 00:00:00'))"
+2020-09-15,calystegia-sepium,2020-09-15,cheyres-path,"('cheyres-path', Timestamp('2020-09-15 00:00:00'))"
+2020-09-15,stachys-palustris,2020-09-15,cheyres-path,"('cheyres-path', Timestamp('2020-09-15 00:00:00'))"
+2020-09-15,lycopus-europaeus,2020-09-15,cheyres-reserve,"('cheyres-reserve', Timestamp('2020-09-15 00:00:00'))"
+2020-09-15,chenopodium-album,2020-09-15,cheyres-reserve,"('cheyres-reserve', Timestamp('2020-09-15 00:00:00'))"
+2020-09-15,persicaria-maculosa,2020-09-15,cheyres-reserve,"('cheyres-reserve', Timestamp('2020-09-15 00:00:00'))"
+2020-09-15,persicaria-longiseta,2020-09-15,cheyres-reserve,"('cheyres-reserve', Timestamp('2020-09-15 00:00:00'))"
+2020-09-15,polygonum-aviculare,2020-09-15,cheyres-reserve,"('cheyres-reserve', Timestamp('2020-09-15 00:00:00'))"
+2020-09-15,solanum-nigrum,2020-09-15,cheyres-reserve,"('cheyres-reserve', Timestamp('2020-09-15 00:00:00'))"
+2020-09-15,achillea-ptarmica,2020-09-15,cheyres-reserve,"('cheyres-reserve', Timestamp('2020-09-15 00:00:00'))"
+2020-07-04,geranium-pratense,2020-07-04,college,"('college', Timestamp('2020-07-04 00:00:00'))"
+2020-07-04,lotus-corniculatus,2020-07-04,college,"('college', Timestamp('2020-07-04 00:00:00'))"
+2020-07-04,malva-alcea,2020-07-04,college,"('college', Timestamp('2020-07-04 00:00:00'))"
+2020-06-18,echium-vulgare,2020-06-18,college,"('college', Timestamp('2020-06-18 00:00:00'))"
+2020-06-18,sedum-album,2020-06-18,college,"('college', Timestamp('2020-06-18 00:00:00'))"
+2020-06-18,ligustrum-vulgare,2020-06-18,college,"('college', Timestamp('2020-06-18 00:00:00'))"
+2020-06-18,urtica-dioica,2020-06-18,college,"('college', Timestamp('2020-06-18 00:00:00'))"
+2020-06-18,geum-urbanum,2020-06-18,college,"('college', Timestamp('2020-06-18 00:00:00'))"
+2020-09-19,erigeron-canadensis,2020-09-19,cygnes,"('cygnes', Timestamp('2020-09-19 00:00:00'))"
+2020-09-19,erigeron-annuus,2020-09-19,cygnes,"('cygnes', Timestamp('2020-09-19 00:00:00'))"
+2020-09-19,medicago-sativa,2020-09-19,cygnes,"('cygnes', Timestamp('2020-09-19 00:00:00'))"
+2020-09-19,lotus-corniculatus,2020-09-19,cygnes,"('cygnes', Timestamp('2020-09-19 00:00:00'))"
+2020-09-19,oenothera-biennis,2020-09-19,cygnes,"('cygnes', Timestamp('2020-09-19 00:00:00'))"
+2020-08-08,anemone-hupehensis,2020-08-08,cygnes,"('cygnes', Timestamp('2020-08-08 00:00:00'))"
+2020-08-08,cirsium-vulgare,2020-08-08,cygnes,"('cygnes', Timestamp('2020-08-08 00:00:00'))"
+2020-08-08,daucus-carota,2020-08-08,cygnes,"('cygnes', Timestamp('2020-08-08 00:00:00'))"
+2020-08-08,hypericum-perforatum,2020-08-08,cygnes,"('cygnes', Timestamp('2020-08-08 00:00:00'))"
+2020-08-08,medicago-sativa,2020-08-08,cygnes,"('cygnes', Timestamp('2020-08-08 00:00:00'))"
+2020-08-08,jacobaea-vulgaris,2020-08-08,cygnes,"('cygnes', Timestamp('2020-08-08 00:00:00'))"
+2020-08-08,solidago-canadensis,2020-08-08,cygnes,"('cygnes', Timestamp('2020-08-08 00:00:00'))"
+2020-07-07,artemisia-verlotiorum,2020-07-07,cygnes-lot-1,"('cygnes-lot-1', Timestamp('2020-07-07 00:00:00'))"
+2020-07-07,carduus-crispus,2020-07-07,cygnes-lot-1,"('cygnes-lot-1', Timestamp('2020-07-07 00:00:00'))"
+2020-07-07,cirsium-palustre,2020-07-07,cygnes-lot-1,"('cygnes-lot-1', Timestamp('2020-07-07 00:00:00'))"
+2020-07-07,cirsium-vulgare,2020-07-07,cygnes-lot-1,"('cygnes-lot-1', Timestamp('2020-07-07 00:00:00'))"
+2020-07-07,linaria-vulgaris,2020-07-07,cygnes-lot-1,"('cygnes-lot-1', Timestamp('2020-07-07 00:00:00'))"
+2020-07-07,lactuca-serriola,2020-07-07,cygnes-lot-1,"('cygnes-lot-1', Timestamp('2020-07-07 00:00:00'))"
+2020-07-07,erigeron-annuus,2020-07-07,cygnes-lot-1,"('cygnes-lot-1', Timestamp('2020-07-07 00:00:00'))"
+2020-07-07,erigeron-canadensis,2020-07-07,cygnes-lot-1,"('cygnes-lot-1', Timestamp('2020-07-07 00:00:00'))"
+2020-07-07,medicago-sativa,2020-07-07,cygnes-lot-1,"('cygnes-lot-1', Timestamp('2020-07-07 00:00:00'))"
+2020-07-07,lotus-corniculatus,2020-07-07,cygnes-lot-1,"('cygnes-lot-1', Timestamp('2020-07-07 00:00:00'))"
+2020-07-08,matricaria-chamomilla,2020-07-08,cygnes-lot-2,"('cygnes-lot-2', Timestamp('2020-07-08 00:00:00'))"
+2020-07-11,daucus-carota,2020-07-11,cygnes-lot-2,"('cygnes-lot-2', Timestamp('2020-07-11 00:00:00'))"
+2020-07-11,melilotus-officinalis,2020-07-11,cygnes-lot-2,"('cygnes-lot-2', Timestamp('2020-07-11 00:00:00'))"
+2020-07-11,lotus-corniculatus,2020-07-11,cygnes-lot-2,"('cygnes-lot-2', Timestamp('2020-07-11 00:00:00'))"
+2020-07-11,erigeron-canadensis,2020-07-11,cygnes-lot-2,"('cygnes-lot-2', Timestamp('2020-07-11 00:00:00'))"
+2020-07-11,erigeron-annuus,2020-07-11,cygnes-lot-2,"('cygnes-lot-2', Timestamp('2020-07-11 00:00:00'))"
+2020-07-11,populus-alba,2020-07-11,cygnes-lot-2,"('cygnes-lot-2', Timestamp('2020-07-11 00:00:00'))"
+2020-07-11,lactuca-serriola,2020-07-11,cygnes-lot-2,"('cygnes-lot-2', Timestamp('2020-07-11 00:00:00'))"
+2020-07-07,solidago-canadensis,2020-07-07,cygnes-lot-3,"('cygnes-lot-3', Timestamp('2020-07-07 00:00:00'))"
+2020-07-11,malva-sylvestris,2020-07-11,cygnes-lot-3,"('cygnes-lot-3', Timestamp('2020-07-11 00:00:00'))"
+2020-07-11,oenothera-biennis,2020-07-11,cygnes-lot-3,"('cygnes-lot-3', Timestamp('2020-07-11 00:00:00'))"
+2020-07-11,buddleja-davidii,2020-07-11,cygnes-lot-3,"('cygnes-lot-3', Timestamp('2020-07-11 00:00:00'))"
+2020-07-11,hypericum-perforatum,2020-07-11,cygnes-lot-3,"('cygnes-lot-3', Timestamp('2020-07-11 00:00:00'))"
+2020-07-11,pastinaca-sativa,2020-07-11,cygnes-lot-3,"('cygnes-lot-3', Timestamp('2020-07-11 00:00:00'))"
+2020-07-09,verbascum-densiflorum,2020-07-09,cygnes-lot-4,"('cygnes-lot-4', Timestamp('2020-07-09 00:00:00'))"
+2020-09-20,senecio-inaequidens,2020-09-20,cygnes-lot-5,"('cygnes-lot-5', Timestamp('2020-09-20 00:00:00'))"
+2020-09-20,diplotaxis-tenuifolia,2020-09-20,cygnes-lot-5,"('cygnes-lot-5', Timestamp('2020-09-20 00:00:00'))"
+2020-07-11,papaver-rhoeas,2020-07-11,cygnes-lot-6,"('cygnes-lot-6', Timestamp('2020-07-11 00:00:00'))"
+2020-08-30,solidago-canadensis,2020-08-30,cygnes-lot-7,"('cygnes-lot-7', Timestamp('2020-08-30 00:00:00'))"
+2020-08-30,packera-aurea,2020-08-30,cygnes-lot-7,"('cygnes-lot-7', Timestamp('2020-08-30 00:00:00'))"
+2020-08-30,populus-alba,2020-08-30,cygnes-lot-7,"('cygnes-lot-7', Timestamp('2020-08-30 00:00:00'))"
+2020-08-30,medicago-lupulina,2020-08-30,cygnes-lot-7,"('cygnes-lot-7', Timestamp('2020-08-30 00:00:00'))"
+2020-08-30,buddleja-davidii,2020-08-30,cygnes-lot-7,"('cygnes-lot-7', Timestamp('2020-08-30 00:00:00'))"
+2020-08-30,artemisia-vulgaris,2020-08-30,cygnes-lot-7,"('cygnes-lot-7', Timestamp('2020-08-30 00:00:00'))"
+2020-08-30,lotus-corniculatus,2020-08-30,cygnes-lot-7,"('cygnes-lot-7', Timestamp('2020-08-30 00:00:00'))"
+2020-08-30,erigeron-canadensis,2020-08-30,cygnes-lot-7,"('cygnes-lot-7', Timestamp('2020-08-30 00:00:00'))"
+2020-08-30,erigeron-annuus,2020-08-30,cygnes-lot-7,"('cygnes-lot-7', Timestamp('2020-08-30 00:00:00'))"
+2020-08-30,chenopodium-album,2020-08-30,cygnes-lot-7,"('cygnes-lot-7', Timestamp('2020-08-30 00:00:00'))"
+2020-08-30,artemisia-vulgaris,2020-08-30,cygnes-lot-8,"('cygnes-lot-8', Timestamp('2020-08-30 00:00:00'))"
+2020-08-30,rosa-canina,2020-08-30,cygnes-lot-8,"('cygnes-lot-8', Timestamp('2020-08-30 00:00:00'))"
+2020-08-30,oenothera-biennis,2020-08-30,cygnes-lot-8,"('cygnes-lot-8', Timestamp('2020-08-30 00:00:00'))"
+2020-08-30,medicago-sativa,2020-08-30,cygnes-lot-8,"('cygnes-lot-8', Timestamp('2020-08-30 00:00:00'))"
+2020-08-30,medicago-lupulina,2020-08-30,cygnes-lot-8,"('cygnes-lot-8', Timestamp('2020-08-30 00:00:00'))"
+2020-08-30,hypericum-perforatum,2020-08-30,cygnes-lot-8,"('cygnes-lot-8', Timestamp('2020-08-30 00:00:00'))"
+2020-08-30,verbena-officinalis,2020-08-30,cygnes-lot-8,"('cygnes-lot-8', Timestamp('2020-08-30 00:00:00'))"
+2020-08-30,silene-vulgaris,2020-08-30,cygnes-lot-8,"('cygnes-lot-8', Timestamp('2020-08-30 00:00:00'))"
+2020-08-30,cirsium-arvense,2020-08-30,cygnes-lot-8,"('cygnes-lot-8', Timestamp('2020-08-30 00:00:00'))"
+2020-08-30,daucus-carota,2020-08-30,cygnes-lot-8,"('cygnes-lot-8', Timestamp('2020-08-30 00:00:00'))"
+2020-08-30,lotus-corniculatus,2020-08-30,cygnes-lot-8,"('cygnes-lot-8', Timestamp('2020-08-30 00:00:00'))"
+2020-08-30,trifolium-pratense,2020-08-30,cygnes-lot-8,"('cygnes-lot-8', Timestamp('2020-08-30 00:00:00'))"
+2020-08-30,pastinaca-sativa,2020-08-30,cygnes-lot-8,"('cygnes-lot-8', Timestamp('2020-08-30 00:00:00'))"
+2020-08-30,echium-vulgare,2020-08-30,cygnes-lot-8,"('cygnes-lot-8', Timestamp('2020-08-30 00:00:00'))"
+2020-08-30,senecio-inaequidens,2020-08-30,cygnes-lot-8,"('cygnes-lot-8', Timestamp('2020-08-30 00:00:00'))"
+2020-07-24,cornus-sanguinea,2020-07-24,cygnes-lot-8,"('cygnes-lot-8', Timestamp('2020-07-24 00:00:00'))"
+2020-07-24,crataegus-monogyna,2020-07-24,cygnes-lot-8,"('cygnes-lot-8', Timestamp('2020-07-24 00:00:00'))"
+2020-07-24,oenothera-biennis,2020-07-24,cygnes-lot-8,"('cygnes-lot-8', Timestamp('2020-07-24 00:00:00'))"
+2020-08-03,cymbalaria-muralis,2020-08-03,dam,"('dam', Timestamp('2020-08-03 00:00:00'))"
+2020-08-03,eupatorium-cannabinum,2020-08-03,dam,"('dam', Timestamp('2020-08-03 00:00:00'))"
+2020-06-16,campanula-rotundifolia,2020-06-16,energie-1,"('energie-1', Timestamp('2020-06-16 00:00:00'))"
+2020-06-16,galium-mollugo,2020-06-16,energie-1,"('energie-1', Timestamp('2020-06-16 00:00:00'))"
+2020-06-16,silene-vulgaris,2020-06-16,energie-1,"('energie-1', Timestamp('2020-06-16 00:00:00'))"
+2020-06-16,convolvulus-arvensis,2020-06-16,energie-1,"('energie-1', Timestamp('2020-06-16 00:00:00'))"
+2020-06-16,achillea-millefolium,2020-06-16,energie-1,"('energie-1', Timestamp('2020-06-16 00:00:00'))"
+2020-06-16,knautia-arvensis,2020-06-16,energie-1,"('energie-1', Timestamp('2020-06-16 00:00:00'))"
+2020-06-16,polygonum-aviculare,2020-06-16,energie-1,"('energie-1', Timestamp('2020-06-16 00:00:00'))"
+2020-08-03,seseli-libanotis,2020-08-03,energie-1,"('energie-1', Timestamp('2020-08-03 00:00:00'))"
+2020-08-03,campanula-rotundifolia,2020-08-03,energie-1,"('energie-1', Timestamp('2020-08-03 00:00:00'))"
+2020-08-03,clematis-vitalba,2020-08-03,energie-2,"('energie-2', Timestamp('2020-08-03 00:00:00'))"
+2020-08-03,hypericum-perforatum,2020-08-03,energie-2,"('energie-2', Timestamp('2020-08-03 00:00:00'))"
+2020-08-03,eupatorium-cannabinum,2020-08-03,energie-2,"('energie-2', Timestamp('2020-08-03 00:00:00'))"
+2020-08-03,lactuca-serriola,2020-08-03,energie-2,"('energie-2', Timestamp('2020-08-03 00:00:00'))"
+2020-06-06,reseda-lutea,2020-06-06,energie-3,"('energie-3', Timestamp('2020-06-06 00:00:00'))"
+2020-06-06,silene-vulgaris,2020-06-06,energie-3,"('energie-3', Timestamp('2020-06-06 00:00:00'))"
+2020-06-06,lactuca-serriola,2020-06-06,energie-3,"('energie-3', Timestamp('2020-06-06 00:00:00'))"
+2020-07-03,epilobium-hirsutum,2020-07-03,football-1,"('football-1', Timestamp('2020-07-03 00:00:00'))"
+2020-07-03,eupatorium-cannabinum,2020-07-03,football-1,"('football-1', Timestamp('2020-07-03 00:00:00'))"
+2020-07-03,solanum-dulcamara,2020-07-03,football-1,"('football-1', Timestamp('2020-07-03 00:00:00'))"
+2020-07-03,stachys-palustris,2020-07-03,football-1,"('football-1', Timestamp('2020-07-03 00:00:00'))"
+2020-07-03,veronica-persica,2020-07-03,football-1,"('football-1', Timestamp('2020-07-03 00:00:00'))"
+2020-08-04,geranium-robertianum,2020-08-04,football-1,"('football-1', Timestamp('2020-08-04 00:00:00'))"
+2020-08-04,eupatorium-cannabinum,2020-08-04,football-1,"('football-1', Timestamp('2020-08-04 00:00:00'))"
+2020-08-04,cirsium-oleraceum,2020-08-04,football-1,"('football-1', Timestamp('2020-08-04 00:00:00'))"
+2020-07-03,clematis-vitalba,2020-07-03,football-2,"('football-2', Timestamp('2020-07-03 00:00:00'))"
+2020-07-03,lotus-corniculatus,2020-07-03,football-2,"('football-2', Timestamp('2020-07-03 00:00:00'))"
+2020-07-03,geum-urbanum,2020-07-03,football-2,"('football-2', Timestamp('2020-07-03 00:00:00'))"
+2020-08-04,viburnum-opulus,2020-08-04,football-2,"('football-2', Timestamp('2020-08-04 00:00:00'))"
+2020-08-04,angelica-sylvestris,2020-08-04,football-2,"('football-2', Timestamp('2020-08-04 00:00:00'))"
+2020-08-04,cirsium-arvense,2020-08-04,football-2,"('football-2', Timestamp('2020-08-04 00:00:00'))"
+2020-08-04,origanum-vulgare,2020-08-04,football-2,"('football-2', Timestamp('2020-08-04 00:00:00'))"
+2020-07-03,lotus-corniculatus,2020-07-03,football-3,"('football-3', Timestamp('2020-07-03 00:00:00'))"
+2020-07-03,jacobaea-vulgaris,2020-07-03,football-3,"('football-3', Timestamp('2020-07-03 00:00:00'))"
+2020-07-03,sedum-sexangulare,2020-07-03,football-3,"('football-3', Timestamp('2020-07-03 00:00:00'))"
+2020-07-03,centaurea-jacea,2020-07-03,football-3,"('football-3', Timestamp('2020-07-03 00:00:00'))"
+2020-07-03,origanum-vulgare,2020-07-03,football-4,"('football-4', Timestamp('2020-07-03 00:00:00'))"
+2020-07-03,cichorium-intybus,2020-07-03,football-5,"('football-5', Timestamp('2020-07-03 00:00:00'))"
+2020-07-03,pastinaca-sativa,2020-07-03,football-5,"('football-5', Timestamp('2020-07-03 00:00:00'))"
+2020-08-03,dipsacus-fullonum,2020-08-03,football-6,"('football-6', Timestamp('2020-08-03 00:00:00'))"
+2020-08-03,erigeron-annuus,2020-08-03,football-6,"('football-6', Timestamp('2020-08-03 00:00:00'))"
+2020-08-03,pastinaca-sativa,2020-08-03,football-6,"('football-6', Timestamp('2020-08-03 00:00:00'))"
+2020-08-03,alnus-glutinosa,2020-08-03,football-6,"('football-6', Timestamp('2020-08-03 00:00:00'))"
+2020-08-03,jacobaea-vulgaris,2020-08-03,football-6,"('football-6', Timestamp('2020-08-03 00:00:00'))"
+2020-08-03,origanum-vulgare,2020-08-03,football-6,"('football-6', Timestamp('2020-08-03 00:00:00'))"
+2020-07-08,campanula-rotundifolia,2020-07-08,frinvillier-fabrique-1,"('frinvillier-fabrique-1', Timestamp('2020-07-08 00:00:00'))"
+2020-07-08,prenanthes-purpurea,2020-07-08,frinvillier-fabrique-2,"('frinvillier-fabrique-2', Timestamp('2020-07-08 00:00:00'))"
+2020-07-08,rubus-fruticosus,2020-07-08,frinvillier-fabrique-2,"('frinvillier-fabrique-2', Timestamp('2020-07-08 00:00:00'))"
+2020-07-08,campanula-scheuchzeri,2020-07-08,frinvillier-fabrique-3,"('frinvillier-fabrique-3', Timestamp('2020-07-08 00:00:00'))"
+2020-07-08,campanula-trachelium,2020-07-08,frinvillier-fabrique-3,"('frinvillier-fabrique-3', Timestamp('2020-07-08 00:00:00'))"
+2020-07-08,filipendula-ulmaria,2020-07-08,frinvillier-fabrique-4,"('frinvillier-fabrique-4', Timestamp('2020-07-08 00:00:00'))"
+2020-07-08,eupatorium-cannabinum,2020-07-08,frinvillier-fabrique-4,"('frinvillier-fabrique-4', Timestamp('2020-07-08 00:00:00'))"
+2020-07-08,knautia-dipsacifolia,2020-07-08,frinvillier-fabrique-1,"('frinvillier-fabrique-1', Timestamp('2020-07-08 00:00:00'))"
+2020-07-08,verbascum-lychnitis,2020-07-08,frinvillier-fabrique-1,"('frinvillier-fabrique-1', Timestamp('2020-07-08 00:00:00'))"
+2020-07-08,verbascum-nigrum,2020-07-08,frinvillier-fabrique-1,"('frinvillier-fabrique-1', Timestamp('2020-07-08 00:00:00'))"
+2020-07-08,hypericum-perforatum,2020-07-08,frinvillier-fabrique-2,"('frinvillier-fabrique-2', Timestamp('2020-07-08 00:00:00'))"
+2020-07-08,melilotus-officinalis,2020-07-08,frinvillier-fabrique-2,"('frinvillier-fabrique-2', Timestamp('2020-07-08 00:00:00'))"
+2020-07-08,rubus-idaeus,2020-07-08,frinvillier-fabrique-2,"('frinvillier-fabrique-2', Timestamp('2020-07-08 00:00:00'))"
+2020-07-08,jacobaea-vulgaris,2020-07-08,frinvillier-fabrique-4,"('frinvillier-fabrique-4', Timestamp('2020-07-08 00:00:00'))"
+2020-07-08,verbascum-nigrum,2020-07-08,frinvillier-fabrique-4,"('frinvillier-fabrique-4', Timestamp('2020-07-08 00:00:00'))"
+2020-07-08,erigeron-annuus,2020-07-08,frinvillier-fabrique-4,"('frinvillier-fabrique-4', Timestamp('2020-07-08 00:00:00'))"
+2020-09-22,ranunculus-acris,2020-09-22,frinvillier-ramp,"('frinvillier-ramp', Timestamp('2020-09-22 00:00:00'))"
+2020-09-22,lactuca-muralis,2020-09-22,frinvillier-ramp,"('frinvillier-ramp', Timestamp('2020-09-22 00:00:00'))"
+2020-09-22,lactuca-serriola,2020-09-22,frinvillier-ramp,"('frinvillier-ramp', Timestamp('2020-09-22 00:00:00'))"
+2020-09-22,solidago-virgaurea,2020-09-22,frinvillier-ramp,"('frinvillier-ramp', Timestamp('2020-09-22 00:00:00'))"
+2020-08-07,rubus-caesius,2020-08-07,gottstatt-1,"('gottstatt-1', Timestamp('2020-08-07 00:00:00'))"
+2020-08-07,rumex-obtusifolius,2020-08-07,gottstatt-1,"('gottstatt-1', Timestamp('2020-08-07 00:00:00'))"
+2020-08-07,trifolium-pratense,2020-08-07,gottstatt-1,"('gottstatt-1', Timestamp('2020-08-07 00:00:00'))"
+2020-08-07,cichorium-intybus,2020-08-07,gottstatt-1,"('gottstatt-1', Timestamp('2020-08-07 00:00:00'))"
+2020-08-07,daucus-carota,2020-08-07,gottstatt-1,"('gottstatt-1', Timestamp('2020-08-07 00:00:00'))"
+2020-08-07,lamium-maculatum,2020-08-07,gottstatt-1,"('gottstatt-1', Timestamp('2020-08-07 00:00:00'))"
+2020-08-07,chaerophyllum-aureum,2020-08-07,gottstatt-1,"('gottstatt-1', Timestamp('2020-08-07 00:00:00'))"
+2020-08-07,galium-mollugo,2020-08-07,gottstatt-1,"('gottstatt-1', Timestamp('2020-08-07 00:00:00'))"
+2020-08-07,centaurea-jacea,2020-08-07,gottstatt-1,"('gottstatt-1', Timestamp('2020-08-07 00:00:00'))"
+2020-08-07,silene-vulgaris,2020-08-07,gottstatt-1,"('gottstatt-1', Timestamp('2020-08-07 00:00:00'))"
+2020-08-07,medicago-sativa,2020-08-07,gottstatt-1,"('gottstatt-1', Timestamp('2020-08-07 00:00:00'))"
+2020-08-07,erigeron-annuus,2020-08-07,gottstatt-1,"('gottstatt-1', Timestamp('2020-08-07 00:00:00'))"
+2020-08-07,calystegia-sepium,2020-08-07,gottstatt-1,"('gottstatt-1', Timestamp('2020-08-07 00:00:00'))"
+2020-08-07,lotus-corniculatus,2020-08-07,gottstatt-1,"('gottstatt-1', Timestamp('2020-08-07 00:00:00'))"
+2020-08-07,arctium-lappa,2020-08-07,gottstatt-1,"('gottstatt-1', Timestamp('2020-08-07 00:00:00'))"
+2020-08-16,galium-mollugo,2020-08-16,gottstatt-2,"('gottstatt-2', Timestamp('2020-08-16 00:00:00'))"
+2020-08-16,daucus-carota,2020-08-16,gottstatt-2,"('gottstatt-2', Timestamp('2020-08-16 00:00:00'))"
+2020-08-16,rumex-obtusifolius,2020-08-16,gottstatt-2,"('gottstatt-2', Timestamp('2020-08-16 00:00:00'))"
+2020-08-16,lotus-corniculatus,2020-08-16,gottstatt-2,"('gottstatt-2', Timestamp('2020-08-16 00:00:00'))"
+2020-08-16,medicago-sativa,2020-08-16,gottstatt-2,"('gottstatt-2', Timestamp('2020-08-16 00:00:00'))"
+2020-08-16,knautia-arvensis,2020-08-16,gottstatt-2,"('gottstatt-2', Timestamp('2020-08-16 00:00:00'))"
+2020-08-16,acer-pseudoplatanus,2020-08-16,gottstatt-2,"('gottstatt-2', Timestamp('2020-08-16 00:00:00'))"
+2020-08-24,achillea-millefolium,2020-08-24,gottstatt-3,"('gottstatt-3', Timestamp('2020-08-24 00:00:00'))"
+2020-08-24,cirsium-arvense,2020-08-24,gottstatt-3,"('gottstatt-3', Timestamp('2020-08-24 00:00:00'))"
+2020-08-24,daucus-carota,2020-08-24,gottstatt-3,"('gottstatt-3', Timestamp('2020-08-24 00:00:00'))"
+2020-08-24,erigeron-annuus,2020-08-24,gottstatt-3,"('gottstatt-3', Timestamp('2020-08-24 00:00:00'))"
+2020-08-24,galium-mollugo,2020-08-24,gottstatt-3,"('gottstatt-3', Timestamp('2020-08-24 00:00:00'))"
+2020-08-24,lotus-corniculatus,2020-08-24,gottstatt-3,"('gottstatt-3', Timestamp('2020-08-24 00:00:00'))"
+2020-08-24,malva-moschata,2020-08-24,gottstatt-3,"('gottstatt-3', Timestamp('2020-08-24 00:00:00'))"
+2020-08-24,plantago-media,2020-08-24,gottstatt-3,"('gottstatt-3', Timestamp('2020-08-24 00:00:00'))"
+2020-08-24,rumex-obtusifolius,2020-08-24,gottstatt-3,"('gottstatt-3', Timestamp('2020-08-24 00:00:00'))"
+2020-08-24,silene-vulgaris,2020-08-24,gottstatt-3,"('gottstatt-3', Timestamp('2020-08-24 00:00:00'))"
+2020-08-24,solanum-dulcamara,2020-08-24,gottstatt-3,"('gottstatt-3', Timestamp('2020-08-24 00:00:00'))"
+2020-08-24,solidago-canadensis,2020-08-24,gottstatt-3,"('gottstatt-3', Timestamp('2020-08-24 00:00:00'))"
+2020-08-24,trifolium-pratense,2020-08-24,gottstatt-3,"('gottstatt-3', Timestamp('2020-08-24 00:00:00'))"
+2020-08-24,vicia-cracca,2020-08-24,gottstatt-3,"('gottstatt-3', Timestamp('2020-08-24 00:00:00'))"
+2020-08-24,verbena-officinalis,2020-08-24,gottstatt-3,"('gottstatt-3', Timestamp('2020-08-24 00:00:00'))"
+2020-09-01,reseda-lutea,2020-09-01,hayek-1,"('hayek-1', Timestamp('2020-09-01 00:00:00'))"
+2020-09-01,cosmos-bipinnatus,2020-09-01,hayek-1,"('hayek-1', Timestamp('2020-09-01 00:00:00'))"
+2020-09-01,symphytum-officinale,2020-09-01,hayek-1,"('hayek-1', Timestamp('2020-09-01 00:00:00'))"
+2020-09-01,medicago-sativa,2020-09-01,hayek-1,"('hayek-1', Timestamp('2020-09-01 00:00:00'))"
+2020-07-28,senecio-inaequidens,2020-07-28,jura-1,"('jura-1', Timestamp('2020-07-28 00:00:00'))"
+2020-08-08,dianthus-carthusianorum,2020-08-08,jura-1,"('jura-1', Timestamp('2020-08-08 00:00:00'))"
+2020-08-08,eupatorium-cannabinum,2020-08-08,jura-1,"('jura-1', Timestamp('2020-08-08 00:00:00'))"
+2020-08-08,knautia-arvensis,2020-08-08,jura-1,"('jura-1', Timestamp('2020-08-08 00:00:00'))"
+2020-08-08,origanum-vulgare,2020-08-08,jura-1,"('jura-1', Timestamp('2020-08-08 00:00:00'))"
+2020-07-09,verbascum-nigrum,2020-07-09,jura-2,"('jura-2', Timestamp('2020-07-09 00:00:00'))"
+2020-06-20,onobrychis-viciifolia,2020-06-20,jura-2,"('jura-2', Timestamp('2020-06-20 00:00:00'))"
+2020-06-20,securigera-varia,2020-06-20,jura-2,"('jura-2', Timestamp('2020-06-20 00:00:00'))"
+2020-06-28,chelidonium-majus,2020-06-28,jura-2,"('jura-2', Timestamp('2020-06-28 00:00:00'))"
+2020-06-28,malva-alcea,2020-06-28,jura-2,"('jura-2', Timestamp('2020-06-28 00:00:00'))"
+2020-06-28,silene-vulgaris,2020-06-28,jura-2,"('jura-2', Timestamp('2020-06-28 00:00:00'))"
+2020-06-28,reseda-lutea,2020-06-28,jura-2,"('jura-2', Timestamp('2020-06-28 00:00:00'))"
+2020-06-28,echium-vulgare,2020-06-28,jura-2,"('jura-2', Timestamp('2020-06-28 00:00:00'))"
+2020-06-28,calystegia-sepium,2020-06-28,jura-2,"('jura-2', Timestamp('2020-06-28 00:00:00'))"
+2020-06-28,geum-urbanum,2020-06-28,jura-2,"('jura-2', Timestamp('2020-06-28 00:00:00'))"
+2020-07-12,malva-alcea,2020-07-12,lezard-1,"('lezard-1', Timestamp('2020-07-12 00:00:00'))"
+2020-08-04,galeopsis-tetrahit,2020-08-04,lezard-1,"('lezard-1', Timestamp('2020-08-04 00:00:00'))"
+2020-08-04,linaria-vulgaris,2020-08-04,lezard-1,"('lezard-1', Timestamp('2020-08-04 00:00:00'))"
+2020-08-04,cornus-sanguinea,2020-08-04,lezard-1,"('lezard-1', Timestamp('2020-08-04 00:00:00'))"
+2020-08-04,malva-alcea,2020-08-04,lezard-1,"('lezard-1', Timestamp('2020-08-04 00:00:00'))"
+2020-07-29,sedum-album,2020-07-29,ligerz-favorite,"('ligerz-favorite', Timestamp('2020-07-29 00:00:00'))"
+2020-07-29,crepis-capillaris,2020-07-29,ligerz-favorite,"('ligerz-favorite', Timestamp('2020-07-29 00:00:00'))"
+2020-07-27,bellis-perennis,2020-07-27,lucherz-bureli,"('lucherz-bureli', Timestamp('2020-07-27 00:00:00'))"
+2020-07-27,filipendula-ulmaria,2020-07-27,lucherz-bureli,"('lucherz-bureli', Timestamp('2020-07-27 00:00:00'))"
+2020-07-27,ranunculus-acris,2020-07-27,lucherz-bureli,"('lucherz-bureli', Timestamp('2020-07-27 00:00:00'))"
+2020-07-27,circaea-lutetiana,2020-07-27,lucherz-seestrasse,"('lucherz-seestrasse', Timestamp('2020-07-27 00:00:00'))"
+2020-07-27,filipendula-ulmaria,2020-07-27,lucherz-seestrasse,"('lucherz-seestrasse', Timestamp('2020-07-27 00:00:00'))"
+2020-07-27,chaerophyllum-temulum,2020-07-27,lucherz-seestrasse,"('lucherz-seestrasse', Timestamp('2020-07-27 00:00:00'))"
+2020-07-27,lythrum-salicaria,2020-07-27,lucherz-seestrasse,"('lucherz-seestrasse', Timestamp('2020-07-27 00:00:00'))"
+2020-07-27,knautia-dipsacifolia,2020-07-27,lucherz-seestrasse,"('lucherz-seestrasse', Timestamp('2020-07-27 00:00:00'))"
+2020-07-27,viburnum-lantana,2020-07-27,lucherz-seestrasse,"('lucherz-seestrasse', Timestamp('2020-07-27 00:00:00'))"
+2020-07-27,galium-mollugo,2020-07-27,lucherz-seestrasse,"('lucherz-seestrasse', Timestamp('2020-07-27 00:00:00'))"
+2020-07-27,heracleum-sphondylium,2020-07-27,lucherz-seestrasse,"('lucherz-seestrasse', Timestamp('2020-07-27 00:00:00'))"
+2020-07-27,urtica-dioica,2020-07-27,lucherz-seestrasse,"('lucherz-seestrasse', Timestamp('2020-07-27 00:00:00'))"
+2020-09-17,trifolium-pratense,2020-09-17,orvin-petit-moulin,"('orvin-petit-moulin', Timestamp('2020-09-17 00:00:00'))"
+2020-09-17,knautia-arvensis,2020-09-17,orvin-petit-moulin,"('orvin-petit-moulin', Timestamp('2020-09-17 00:00:00'))"
+2020-09-17,trifolium-dubium,2020-09-17,orvin-petit-moulin,"('orvin-petit-moulin', Timestamp('2020-09-17 00:00:00'))"
+2020-09-17,galeopsis-tetrahit,2020-09-17,orvin-petit-moulin,"('orvin-petit-moulin', Timestamp('2020-09-17 00:00:00'))"
+2020-09-17,rubus-caesius,2020-09-17,orvin-petit-moulin,"('orvin-petit-moulin', Timestamp('2020-09-17 00:00:00'))"
+2020-09-17,prunus-spinosa,2020-09-17,orvin-petit-moulin,"('orvin-petit-moulin', Timestamp('2020-09-17 00:00:00'))"
+2020-09-22,echium-vulgare,2020-09-22,pery-taubenlochweg,"('pery-taubenlochweg', Timestamp('2020-09-22 00:00:00'))"
+2020-09-22,centaurea-jacea,2020-09-22,pery-taubenlochweg,"('pery-taubenlochweg', Timestamp('2020-09-22 00:00:00'))"
+2020-09-22,galium-mollugo,2020-09-22,pery-taubenlochweg,"('pery-taubenlochweg', Timestamp('2020-09-22 00:00:00'))"
+2020-09-22,medicago-sativa,2020-09-22,pery-taubenlochweg,"('pery-taubenlochweg', Timestamp('2020-09-22 00:00:00'))"
+2020-09-22,silene-vulgaris,2020-09-22,pery-taubenlochweg,"('pery-taubenlochweg', Timestamp('2020-09-22 00:00:00'))"
+2020-09-22,verbascum-nigrum,2020-09-22,pery-taubenlochweg,"('pery-taubenlochweg', Timestamp('2020-09-22 00:00:00'))"
+2020-09-25,silene-dioica,2020-09-25,pieterlen-stockweg,"('pieterlen-stockweg', Timestamp('2020-09-25 00:00:00'))"
+2020-09-23,erigeron-canadensis,2020-09-23,reichenbach,"('reichenbach', Timestamp('2020-09-23 00:00:00'))"
+2020-09-23,cirsium-oleraceum,2020-09-23,reichenbach,"('reichenbach', Timestamp('2020-09-23 00:00:00'))"
+2020-09-23,reynoutria-japonica,2020-09-23,reichenbach,"('reichenbach', Timestamp('2020-09-23 00:00:00'))"
+2020-09-23,pilosella-aurantiaca,2020-09-23,reichenbach,"('reichenbach', Timestamp('2020-09-23 00:00:00'))"
+2020-09-23,eupatorium-cannabinum,2020-09-23,reichenbach,"('reichenbach', Timestamp('2020-09-23 00:00:00'))"
+2020-09-23,rubus-caesius,2020-09-23,reichenbach,"('reichenbach', Timestamp('2020-09-23 00:00:00'))"
+2020-09-23,mentha-aquatica,2020-09-23,reichenbach,"('reichenbach', Timestamp('2020-09-23 00:00:00'))"
+2020-09-23,cirsium-arvense,2020-09-23,reichenbach,"('reichenbach', Timestamp('2020-09-23 00:00:00'))"
+2020-09-23,tragopogon-pratensis,2020-09-23,reichenbach,"('reichenbach', Timestamp('2020-09-23 00:00:00'))"
+2020-09-22,geranium-pyrenaicum,2020-09-22,rondchatel,"('rondchatel', Timestamp('2020-09-22 00:00:00'))"
+2020-09-22,achillea-millefolium,2020-09-22,rondchatel,"('rondchatel', Timestamp('2020-09-22 00:00:00'))"
+2020-09-22,picris-hieracioides,2020-09-22,rondchatel,"('rondchatel', Timestamp('2020-09-22 00:00:00'))"
+2020-09-22,urtica-dioica,2020-09-22,rondchatel,"('rondchatel', Timestamp('2020-09-22 00:00:00'))"
+2020-09-22,solidago-canadensis,2020-09-22,rondchatel,"('rondchatel', Timestamp('2020-09-22 00:00:00'))"
+2020-09-22,calystegia-sepium,2020-09-22,rondchatel,"('rondchatel', Timestamp('2020-09-22 00:00:00'))"
+2020-09-22,lamium-maculatum,2020-09-22,rondchatel,"('rondchatel', Timestamp('2020-09-22 00:00:00'))"
+2020-09-22,erigeron-annuus,2020-09-22,rondchatel,"('rondchatel', Timestamp('2020-09-22 00:00:00'))"
+2020-08-11,urtica-dioica,2020-08-11,rue-alfred-aebi,"('rue-alfred-aebi', Timestamp('2020-08-11 00:00:00'))"
+2020-08-11,ligustrum-sinense,2020-08-11,rue-alfred-aebi,"('rue-alfred-aebi', Timestamp('2020-08-11 00:00:00'))"
+2020-08-11,symphoricarpos-albus,2020-08-11,rue-alfred-aebi,"('rue-alfred-aebi', Timestamp('2020-08-11 00:00:00'))"
+2020-08-11,acer-pseudoplatanus,2020-08-11,rue-alfred-aebi,"('rue-alfred-aebi', Timestamp('2020-08-11 00:00:00'))"
+2020-08-11,corylus-avellana,2020-08-11,rue-alfred-aebi,"('rue-alfred-aebi', Timestamp('2020-08-11 00:00:00'))"
+2020-08-11,acer-pseudoplatanus,2020-08-11,rue-alfred-aebi,"('rue-alfred-aebi', Timestamp('2020-08-11 00:00:00'))"
+2020-08-11,sambucus-nigra,2020-08-11,rue-alfred-aebi,"('rue-alfred-aebi', Timestamp('2020-08-11 00:00:00'))"
+2020-08-12,viburnum-rhytidophyllum,2020-08-12,rue-alfred-aebi,"('rue-alfred-aebi', Timestamp('2020-08-12 00:00:00'))"
+2020-07-11,lathyrus-latifolius,2020-07-11,rue-centrale,"('rue-centrale', Timestamp('2020-07-11 00:00:00'))"
+2020-07-11,malva-moschata,2020-07-11,rue-centrale,"('rue-centrale', Timestamp('2020-07-11 00:00:00'))"
+2020-07-11,stachys-byzantina,2020-07-11,rue-centrale,"('rue-centrale', Timestamp('2020-07-11 00:00:00'))"
+2020-07-11,dianthus-armeria,2020-07-11,rue-centrale,"('rue-centrale', Timestamp('2020-07-11 00:00:00'))"
+2020-07-11,rubus-caesius,2020-07-11,rue-centrale,"('rue-centrale', Timestamp('2020-07-11 00:00:00'))"
+2020-08-23,achillea-millefolium,2020-08-23,rue-de-leau-1,"('rue-de-leau-1', Timestamp('2020-08-23 00:00:00'))"
+2020-08-23,buddleja-davidii,2020-08-23,rue-de-leau-1,"('rue-de-leau-1', Timestamp('2020-08-23 00:00:00'))"
+2020-08-23,daucus-carota,2020-08-23,rue-de-leau-1,"('rue-de-leau-1', Timestamp('2020-08-23 00:00:00'))"
+2020-08-23,solanum-nigrum,2020-08-23,rue-de-leau-1,"('rue-de-leau-1', Timestamp('2020-08-23 00:00:00'))"
+2020-08-23,stachys-recta,2020-08-23,rue-de-leau-1,"('rue-de-leau-1', Timestamp('2020-08-23 00:00:00'))"
+2020-08-23,centaurea-scabiosa,2020-08-23,rue-de-leau-1,"('rue-de-leau-1', Timestamp('2020-08-23 00:00:00'))"
+2020-08-23,lotus-corniculatus,2020-08-23,rue-de-leau-1,"('rue-de-leau-1', Timestamp('2020-08-23 00:00:00'))"
+2020-08-23,hypericum-perforatum,2020-08-23,rue-de-leau-1,"('rue-de-leau-1', Timestamp('2020-08-23 00:00:00'))"
+2020-08-23,oenothera-biennis,2020-08-23,rue-de-leau-1,"('rue-de-leau-1', Timestamp('2020-08-23 00:00:00'))"
+2020-08-23,centaurea-jacea,2020-08-23,rue-de-leau-1,"('rue-de-leau-1', Timestamp('2020-08-23 00:00:00'))"
+2020-08-23,centaurea-jacea,2020-08-23,rue-de-leau-1,"('rue-de-leau-1', Timestamp('2020-08-23 00:00:00'))"
+2020-08-23,trifolium-pratense,2020-08-23,rue-de-leau-1,"('rue-de-leau-1', Timestamp('2020-08-23 00:00:00'))"
+2020-08-23,melilotus-albus,2020-08-23,rue-de-leau-1,"('rue-de-leau-1', Timestamp('2020-08-23 00:00:00'))"
+2020-08-23,erigeron-canadensis,2020-08-23,rue-de-leau-1,"('rue-de-leau-1', Timestamp('2020-08-23 00:00:00'))"
+2020-08-01,brassica-napus,2020-08-01,rue-de-leau-2,"('rue-de-leau-2', Timestamp('2020-08-01 00:00:00'))"
+2020-08-03,crepis-capillaris,2020-08-03,rue-de-leau-2,"('rue-de-leau-2', Timestamp('2020-08-03 00:00:00'))"
+2020-08-03,silene-vulgaris,2020-08-03,rue-de-leau-2,"('rue-de-leau-2', Timestamp('2020-08-03 00:00:00'))"
+2020-08-03,picris-hieracioides,2020-08-03,rue-de-leau-2,"('rue-de-leau-2', Timestamp('2020-08-03 00:00:00'))"
+2020-08-01,oenothera-biennis,2020-08-01,rue-de-leau-3,"('rue-de-leau-3', Timestamp('2020-08-01 00:00:00'))"
+2020-08-01,silene-vulgaris,2020-08-01,rue-de-leau-3,"('rue-de-leau-3', Timestamp('2020-08-01 00:00:00'))"
+2020-08-01,silene-latifolia,2020-08-01,rue-de-leau-3,"('rue-de-leau-3', Timestamp('2020-08-01 00:00:00'))"
+2020-08-01,reseda-lutea,2020-08-01,rue-de-leau-3,"('rue-de-leau-3', Timestamp('2020-08-01 00:00:00'))"
+2020-08-01,centaurea-scabiosa,2020-08-01,rue-de-leau-3,"('rue-de-leau-3', Timestamp('2020-08-01 00:00:00'))"
+2020-08-01,tragopogon-pratensis,2020-08-01,rue-de-leau-3,"('rue-de-leau-3', Timestamp('2020-08-01 00:00:00'))"
+2020-08-01,daucus-carota,2020-08-01,rue-de-leau-3,"('rue-de-leau-3', Timestamp('2020-08-01 00:00:00'))"
+2020-08-17,galium-mollugo,2020-08-17,rue-de-leau-4,"('rue-de-leau-4', Timestamp('2020-08-17 00:00:00'))"
+2020-08-17,erigeron-canadensis,2020-08-17,rue-de-leau-4,"('rue-de-leau-4', Timestamp('2020-08-17 00:00:00'))"
+2020-08-17,lotus-corniculatus,2020-08-17,rue-de-leau-4,"('rue-de-leau-4', Timestamp('2020-08-17 00:00:00'))"
+2020-08-17,rumex-obtusifolius,2020-08-17,rue-de-leau-4,"('rue-de-leau-4', Timestamp('2020-08-17 00:00:00'))"
+2020-08-17,trifolium-pratense,2020-08-17,rue-de-leau-4,"('rue-de-leau-4', Timestamp('2020-08-17 00:00:00'))"
+2020-08-17,daucus-carota,2020-08-17,rue-de-leau-4,"('rue-de-leau-4', Timestamp('2020-08-17 00:00:00'))"
+2020-08-17,silene-vulgaris,2020-08-17,rue-de-leau-4,"('rue-de-leau-4', Timestamp('2020-08-17 00:00:00'))"
+2020-08-17,achillea-millefolium,2020-08-17,rue-de-leau-4,"('rue-de-leau-4', Timestamp('2020-08-17 00:00:00'))"
+2020-08-17,melilotus-albus,2020-08-17,rue-de-leau-4,"('rue-de-leau-4', Timestamp('2020-08-17 00:00:00'))"
+2020-08-17,stachys-recta,2020-08-17,rue-de-leau-4,"('rue-de-leau-4', Timestamp('2020-08-17 00:00:00'))"
+2020-08-17,centaurea-scabiosa,2020-08-17,rue-de-leau-4,"('rue-de-leau-4', Timestamp('2020-08-17 00:00:00'))"
+2020-08-17,centaurea-jacea,2020-08-17,rue-de-leau-4,"('rue-de-leau-4', Timestamp('2020-08-17 00:00:00'))"
+2020-08-18,prunella-grandiflora,2020-08-18,rue-de-leau-5,"('rue-de-leau-5', Timestamp('2020-08-18 00:00:00'))"
+2020-08-18,eupatorium-serotinum,2020-08-18,rue-de-leau-5,"('rue-de-leau-5', Timestamp('2020-08-18 00:00:00'))"
+2020-08-18,leucanthemum-vulgare,2020-08-18,rue-de-leau-5,"('rue-de-leau-5', Timestamp('2020-08-18 00:00:00'))"
+2020-08-18,lotus-corniculatus,2020-08-18,rue-de-leau-5,"('rue-de-leau-5', Timestamp('2020-08-18 00:00:00'))"
+2020-08-18,daucus-carota,2020-08-18,rue-de-leau-5,"('rue-de-leau-5', Timestamp('2020-08-18 00:00:00'))"
+2020-08-18,trifolium-pratense,2020-08-18,rue-de-leau-5,"('rue-de-leau-5', Timestamp('2020-08-18 00:00:00'))"
+2020-08-18,silene-vulgaris,2020-08-18,rue-de-leau-5,"('rue-de-leau-5', Timestamp('2020-08-18 00:00:00'))"
+2020-08-18,achillea-millefolium,2020-08-18,rue-de-leau-5,"('rue-de-leau-5', Timestamp('2020-08-18 00:00:00'))"
+2020-08-20,myosoton-aquaticum,2020-08-20,saint-ursanne-falls,"('saint-ursanne-falls', Timestamp('2020-08-20 00:00:00'))"
+2020-08-20,impatiens-glandulifera,2020-08-20,saint-ursanne-falls,"('saint-ursanne-falls', Timestamp('2020-08-20 00:00:00'))"
+2020-08-15,mentha-spicata,2020-08-15,salome-1,"('salome-1', Timestamp('2020-08-15 00:00:00'))"
+2020-08-15,artemisia-vulgaris,2020-08-15,salome-1,"('salome-1', Timestamp('2020-08-15 00:00:00'))"
+2020-08-15,populus-alba,2020-08-15,salome-1,"('salome-1', Timestamp('2020-08-15 00:00:00'))"
+2020-08-15,alnus-glutinosa,2020-08-15,salome-1,"('salome-1', Timestamp('2020-08-15 00:00:00'))"
+2020-08-15,salix-alba,2020-08-15,salome-1,"('salome-1', Timestamp('2020-08-15 00:00:00'))"
+2020-08-15,salix-purpurea,2020-08-15,salome-1,"('salome-1', Timestamp('2020-08-15 00:00:00'))"
+2020-08-15,sambucus-nigra,2020-08-15,salome-1,"('salome-1', Timestamp('2020-08-15 00:00:00'))"
+2020-08-15,crataegus-monogyna,2020-08-15,salome-1,"('salome-1', Timestamp('2020-08-15 00:00:00'))"
+2020-06-05,galium-mollugo,2020-06-05,salome-2,"('salome-2', Timestamp('2020-06-05 00:00:00'))"
+2020-07-23,echium-vulgare,2020-07-23,salome-2,"('salome-2', Timestamp('2020-07-23 00:00:00'))"
+2020-07-24,sedum-sexangulare,2020-07-24,salome-2,"('salome-2', Timestamp('2020-07-24 00:00:00'))"
+2020-07-24,sedum-album,2020-07-24,salome-2,"('salome-2', Timestamp('2020-07-24 00:00:00'))"
+2020-06-05,senecio-inaequidens,2020-06-05,salome-3,"('salome-3', Timestamp('2020-06-05 00:00:00'))"
+2020-06-05,sedum-album,2020-06-05,salome-3,"('salome-3', Timestamp('2020-06-05 00:00:00'))"
+2020-06-03,galium-album,2020-06-03,salome-4,"('salome-4', Timestamp('2020-06-03 00:00:00'))"
+2020-06-03,sedum-album,2020-06-03,salome-4,"('salome-4', Timestamp('2020-06-03 00:00:00'))"
+2020-06-24,cirsium-palustre,2020-06-24,salome-5,"('salome-5', Timestamp('2020-06-24 00:00:00'))"
+2020-06-24,erigeron-annuus,2020-06-24,salome-5,"('salome-5', Timestamp('2020-06-24 00:00:00'))"
+2020-06-24,sisymbrium-officinale,2020-06-24,salome-5,"('salome-5', Timestamp('2020-06-24 00:00:00'))"
+2020-06-24,urtica-dioica,2020-06-24,salome-5,"('salome-5', Timestamp('2020-06-24 00:00:00'))"
+2020-06-24,galium-mollugo,2020-06-24,salome-5,"('salome-5', Timestamp('2020-06-24 00:00:00'))"
+2020-06-24,mentha-spicata,2020-06-24,salome-5,"('salome-5', Timestamp('2020-06-24 00:00:00'))"
+2020-06-24,oenothera-biennis,2020-06-24,salome-5,"('salome-5', Timestamp('2020-06-24 00:00:00'))"
+2020-06-24,geranium-pyrenaicum,2020-06-24,salome-5,"('salome-5', Timestamp('2020-06-24 00:00:00'))"
+2020-06-24,hypericum-maculatum,2020-06-24,salome-5,"('salome-5', Timestamp('2020-06-24 00:00:00'))"
+2020-06-24,medicago-sativa,2020-06-24,salome-5,"('salome-5', Timestamp('2020-06-24 00:00:00'))"
+2020-07-04,dipsacus-fullonum,2020-07-04,schlosslifeld-1,"('schlosslifeld-1', Timestamp('2020-07-04 00:00:00'))"
+2020-07-04,cichorium-intybus,2020-07-04,schlosslifeld-1,"('schlosslifeld-1', Timestamp('2020-07-04 00:00:00'))"
+2020-07-04,echium-vulgare,2020-07-04,schlosslifeld-1,"('schlosslifeld-1', Timestamp('2020-07-04 00:00:00'))"
+2020-07-04,potentilla-reptans,2020-07-04,schlosslifeld-2,"('schlosslifeld-2', Timestamp('2020-07-04 00:00:00'))"
+2020-07-04,echium-vulgare,2020-07-04,schlosslifeld-2,"('schlosslifeld-2', Timestamp('2020-07-04 00:00:00'))"
+2020-07-04,silene-latifolia,2020-07-04,schlosslifeld-2,"('schlosslifeld-2', Timestamp('2020-07-04 00:00:00'))"
+2020-07-04,cichorium-intybus,2020-07-04,schlosslifeld-2,"('schlosslifeld-2', Timestamp('2020-07-04 00:00:00'))"
+2020-07-04,malva-alcea,2020-07-04,schlosslifeld-2,"('schlosslifeld-2', Timestamp('2020-07-04 00:00:00'))"
+2020-08-19,galeopsis-tetrahit,2020-08-19,schlosslifeld-2,"('schlosslifeld-2', Timestamp('2020-08-19 00:00:00'))"
+2020-08-19,silene-latifolia,2020-08-19,schlosslifeld-2,"('schlosslifeld-2', Timestamp('2020-08-19 00:00:00'))"
+2020-08-19,polygonum-aviculare,2020-08-19,schlosslifeld-2,"('schlosslifeld-2', Timestamp('2020-08-19 00:00:00'))"
+2020-08-19,echium-vulgare,2020-08-19,schlosslifeld-2,"('schlosslifeld-2', Timestamp('2020-08-19 00:00:00'))"
+2020-08-19,chaenorhinum-minus,2020-08-19,schlosslifeld-2,"('schlosslifeld-2', Timestamp('2020-08-19 00:00:00'))"
+2020-08-19,geranium-pusillum,2020-08-19,schlosslifeld-2,"('schlosslifeld-2', Timestamp('2020-08-19 00:00:00'))"
+2020-08-19,acer-pseudoplatanus,2020-08-19,schlosslifeld-2,"('schlosslifeld-2', Timestamp('2020-08-19 00:00:00'))"
+2020-08-19,dianthus-armeria,2020-08-19,schlosslifeld-2,"('schlosslifeld-2', Timestamp('2020-08-19 00:00:00'))"
+2020-07-04,filipendula-ulmaria,2020-07-04,schlosslifeld-3,"('schlosslifeld-3', Timestamp('2020-07-04 00:00:00'))"
+2020-07-04,echium-vulgare,2020-07-04,schlosslifeld-3,"('schlosslifeld-3', Timestamp('2020-07-04 00:00:00'))"
+2020-07-04,melilotus-albus,2020-07-04,schlosslifeld-3,"('schlosslifeld-3', Timestamp('2020-07-04 00:00:00'))"
+2020-07-04,ranunculus-acris,2020-07-04,schlosslifeld-3,"('schlosslifeld-3', Timestamp('2020-07-04 00:00:00'))"
+2020-07-04,tragopogon-pratensis,2020-07-04,schlosslifeld-3,"('schlosslifeld-3', Timestamp('2020-07-04 00:00:00'))"
+2020-07-07,malva-alcea,2020-07-07,schlosslifeld-3,"('schlosslifeld-3', Timestamp('2020-07-07 00:00:00'))"
+2020-07-04,malva-sylvestris,2020-07-04,schlosslifeld-3,"('schlosslifeld-3', Timestamp('2020-07-04 00:00:00'))"
+2020-06-18,alcea-rosea,2020-06-18,schlosslistrasse,"('schlosslistrasse', Timestamp('2020-06-18 00:00:00'))"
+2020-06-18,geranium-molle,2020-06-18,schlosslistrasse,"('schlosslistrasse', Timestamp('2020-06-18 00:00:00'))"
+2020-06-18,achillea-millefolium,2020-06-18,schlosslistrasse,"('schlosslistrasse', Timestamp('2020-06-18 00:00:00'))"
+2020-06-18,senecio-inaequidens,2020-06-18,schlosslistrasse,"('schlosslistrasse', Timestamp('2020-06-18 00:00:00'))"
+2020-06-18,daucus-carota,2020-06-18,schlosslistrasse,"('schlosslistrasse', Timestamp('2020-06-18 00:00:00'))"
+2020-06-18,lepidium-virginicum,2020-06-18,schlosslistrasse,"('schlosslistrasse', Timestamp('2020-06-18 00:00:00'))"
+2020-07-10,daucus-carota,2020-07-10,schussinsel-3,"('schussinsel-3', Timestamp('2020-07-10 00:00:00'))"
+2020-07-10,convolvulus-arvensis,2020-07-10,schussinsel-1,"('schussinsel-1', Timestamp('2020-07-10 00:00:00'))"
+2020-07-10,lactuca-serriola,2020-07-10,schussinsel-2,"('schussinsel-2', Timestamp('2020-07-10 00:00:00'))"
+2020-07-10,tragopogon-pratensis,2020-07-10,schussinsel-2,"('schussinsel-2', Timestamp('2020-07-10 00:00:00'))"
+2020-07-10,oenothera-biennis,2020-07-10,schussinsel-3,"('schussinsel-3', Timestamp('2020-07-10 00:00:00'))"
+2020-07-10,hypericum-perforatum,2020-07-10,schussinsel-3,"('schussinsel-3', Timestamp('2020-07-10 00:00:00'))"
+2020-07-10,verbascum-thapsus,2020-07-10,schussinsel-3,"('schussinsel-3', Timestamp('2020-07-10 00:00:00'))"
+2020-07-10,medicago-sativa,2020-07-10,schussinsel-3,"('schussinsel-3', Timestamp('2020-07-10 00:00:00'))"
+2020-07-10,erigeron-annuus,2020-07-10,schussinsel-3,"('schussinsel-3', Timestamp('2020-07-10 00:00:00'))"
+2020-07-10,cirsium-arvense,2020-07-10,schussinsel-3,"('schussinsel-3', Timestamp('2020-07-10 00:00:00'))"
+2020-09-01,centaurea-jacea,2020-09-01,schussinsel-4,"('schussinsel-4', Timestamp('2020-09-01 00:00:00'))"
+2020-09-01,erigeron-annuus,2020-09-01,schussinsel-4,"('schussinsel-4', Timestamp('2020-09-01 00:00:00'))"
+2020-09-01,erigeron-canadensis,2020-09-01,schussinsel-4,"('schussinsel-4', Timestamp('2020-09-01 00:00:00'))"
+2020-09-01,silene-vulgaris,2020-09-01,schussinsel-4,"('schussinsel-4', Timestamp('2020-09-01 00:00:00'))"
+2020-09-01,lotus-corniculatus,2020-09-01,schussinsel-4,"('schussinsel-4', Timestamp('2020-09-01 00:00:00'))"
+2020-09-01,salvia-pratensis,2020-09-01,schussinsel-4,"('schussinsel-4', Timestamp('2020-09-01 00:00:00'))"
+2020-09-01,trifolium-pratense,2020-09-01,schussinsel-4,"('schussinsel-4', Timestamp('2020-09-01 00:00:00'))"
+2020-09-01,trifolium-repens,2020-09-01,schussinsel-4,"('schussinsel-4', Timestamp('2020-09-01 00:00:00'))"
+2020-09-01,campanula-rotundifolia,2020-09-01,schussinsel-4,"('schussinsel-4', Timestamp('2020-09-01 00:00:00'))"
+2020-09-01,calystegia-sepium,2020-09-01,schussinsel-4,"('schussinsel-4', Timestamp('2020-09-01 00:00:00'))"
+2020-09-01,centaurea-jacea,2020-09-01,schussinsel-4,"('schussinsel-4', Timestamp('2020-09-01 00:00:00'))"
+2020-09-01,scabiosa-columbaria,2020-09-01,schussinsel-4,"('schussinsel-4', Timestamp('2020-09-01 00:00:00'))"
+2020-09-01,erigeron-annuus,2020-09-01,schussinsel-4,"('schussinsel-4', Timestamp('2020-09-01 00:00:00'))"
+2020-09-01,trifolium-pratense,2020-09-01,schussinsel-4,"('schussinsel-4', Timestamp('2020-09-01 00:00:00'))"
+2020-09-01,silene-vulgaris,2020-09-01,schussinsel-4,"('schussinsel-4', Timestamp('2020-09-01 00:00:00'))"
+2020-09-01,leucanthemum-vulgare,2020-09-01,schussinsel-4,"('schussinsel-4', Timestamp('2020-09-01 00:00:00'))"
+2020-09-01,onobrychis-viciifolia,2020-09-01,schussinsel-4,"('schussinsel-4', Timestamp('2020-09-01 00:00:00'))"
+2020-09-02,rumex-obtusifolius,2020-09-02,schussinsel-5,"('schussinsel-5', Timestamp('2020-09-02 00:00:00'))"
+2020-09-02,salvia-pratensis,2020-09-02,schussinsel-5,"('schussinsel-5', Timestamp('2020-09-02 00:00:00'))"
+2020-09-02,centaurea-jacea,2020-09-02,schussinsel-5,"('schussinsel-5', Timestamp('2020-09-02 00:00:00'))"
+2020-09-02,knautia-arvensis,2020-09-02,schussinsel-5,"('schussinsel-5', Timestamp('2020-09-02 00:00:00'))"
+2020-09-02,leucanthemum-vulgare,2020-09-02,schussinsel-5,"('schussinsel-5', Timestamp('2020-09-02 00:00:00'))"
+2020-09-02,succisa-pratensis,2020-09-02,schussinsel-5,"('schussinsel-5', Timestamp('2020-09-02 00:00:00'))"
+2020-09-02,urtica-dioica,2020-09-02,schussinsel-5,"('schussinsel-5', Timestamp('2020-09-02 00:00:00'))"
+2020-09-02,rubus-rubus,2020-09-02,schussinsel-5,"('schussinsel-5', Timestamp('2020-09-02 00:00:00'))"
+2020-09-02,epilobium-hirsutum,2020-09-02,schussinsel-5,"('schussinsel-5', Timestamp('2020-09-02 00:00:00'))"
+2020-09-02,eupatorium-cannabinum,2020-09-02,schussinsel-5,"('schussinsel-5', Timestamp('2020-09-02 00:00:00'))"
+2020-09-02,galium-mollugo,2020-09-02,schussinsel-5,"('schussinsel-5', Timestamp('2020-09-02 00:00:00'))"
+2020-09-02,artemisia-vulgaris,2020-09-02,schussinsel-5,"('schussinsel-5', Timestamp('2020-09-02 00:00:00'))"
+2020-09-02,potentilla-reptans,2020-09-02,schussinsel-5,"('schussinsel-5', Timestamp('2020-09-02 00:00:00'))"
+2020-09-02,silene-vulgaris,2020-09-02,schussinsel-5,"('schussinsel-5', Timestamp('2020-09-02 00:00:00'))"
+2020-09-02,lotus-corniculatus,2020-09-02,schussinsel-5,"('schussinsel-5', Timestamp('2020-09-02 00:00:00'))"
+2020-09-02,erigeron-annuus,2020-09-02,schussinsel-5,"('schussinsel-5', Timestamp('2020-09-02 00:00:00'))"
+2020-09-02,medicago-sativa,2020-09-02,schussinsel-6,"('schussinsel-6', Timestamp('2020-09-02 00:00:00'))"
+2020-09-02,daucus-carota,2020-09-02,schussinsel-6,"('schussinsel-6', Timestamp('2020-09-02 00:00:00'))"
+2020-09-02,silene-vulgaris,2020-09-02,schussinsel-6,"('schussinsel-6', Timestamp('2020-09-02 00:00:00'))"
+2020-09-02,epilobium-hirsutum,2020-09-02,schussinsel-6,"('schussinsel-6', Timestamp('2020-09-02 00:00:00'))"
+2020-09-02,urtica-dioica,2020-09-02,schussinsel-6,"('schussinsel-6', Timestamp('2020-09-02 00:00:00'))"
+2020-09-02,solidago-canadensis,2020-09-02,schussinsel-6,"('schussinsel-6', Timestamp('2020-09-02 00:00:00'))"
+2020-09-02,galium-mollugo,2020-09-02,schussinsel-6,"('schussinsel-6', Timestamp('2020-09-02 00:00:00'))"
+2020-09-02,trifolium-repens,2020-09-02,schussinsel-6,"('schussinsel-6', Timestamp('2020-09-02 00:00:00'))"
+2020-09-02,clinopodium-vulgare,2020-09-02,schussinsel-6,"('schussinsel-6', Timestamp('2020-09-02 00:00:00'))"
+2020-09-02,leucanthemum-vulgare,2020-09-02,schussinsel-6,"('schussinsel-6', Timestamp('2020-09-02 00:00:00'))"
+2020-09-02,trifolium-pratense,2020-09-02,schussinsel-6,"('schussinsel-6', Timestamp('2020-09-02 00:00:00'))"
+2020-09-02,lotus-corniculatus,2020-09-02,schussinsel-6,"('schussinsel-6', Timestamp('2020-09-02 00:00:00'))"
+2020-09-02,onobrychis-viciifolia,2020-09-02,schussinsel-6,"('schussinsel-6', Timestamp('2020-09-02 00:00:00'))"
+2020-06-09,bryonia-dioica,2020-06-09,sonnenfeld-1,"('sonnenfeld-1', Timestamp('2020-06-09 00:00:00'))"
+2020-06-18,geranium-robertianum,2020-06-18,sonnenfeld-1,"('sonnenfeld-1', Timestamp('2020-06-18 00:00:00'))"
+2020-06-18,bryonia-dioica,2020-06-18,sonnenfeld-1,"('sonnenfeld-1', Timestamp('2020-06-18 00:00:00'))"
+2020-06-18,daucus-carota,2020-06-18,sonnenfeld-1,"('sonnenfeld-1', Timestamp('2020-06-18 00:00:00'))"
+2020-06-18,malva-alcea,2020-06-18,sonnenfeld-1,"('sonnenfeld-1', Timestamp('2020-06-18 00:00:00'))"
+2020-06-18,senecio-inaequidens,2020-06-18,sonnenfeld-1,"('sonnenfeld-1', Timestamp('2020-06-18 00:00:00'))"
+2020-07-04,melilotus-albus,2020-07-04,sonnenfeld-2,"('sonnenfeld-2', Timestamp('2020-07-04 00:00:00'))"
+2020-07-04,daucus-carota,2020-07-04,sonnenfeld-2,"('sonnenfeld-2', Timestamp('2020-07-04 00:00:00'))"
+2020-07-04,geranium-robertianum,2020-07-04,sonnenfeld-2,"('sonnenfeld-2', Timestamp('2020-07-04 00:00:00'))"
+2020-07-04,senecio-inaequidens,2020-07-04,sonnenfeld-2,"('sonnenfeld-2', Timestamp('2020-07-04 00:00:00'))"
+2020-08-14,mentha-spicata,2020-08-14,strom,"('strom', Timestamp('2020-08-14 00:00:00'))"
+2020-08-14,erigeron-annuus,2020-08-14,strom,"('strom', Timestamp('2020-08-14 00:00:00'))"
+2020-08-14,verbena-officinalis,2020-08-14,strom,"('strom', Timestamp('2020-08-14 00:00:00'))"
+2020-08-14,hypericum-perforatum,2020-08-14,strom,"('strom', Timestamp('2020-08-14 00:00:00'))"
+2020-08-14,lactuca-muralis,2020-08-14,strom,"('strom', Timestamp('2020-08-14 00:00:00'))"
+2020-08-14,eupatorium-cannabinum,2020-08-14,strom,"('strom', Timestamp('2020-08-14 00:00:00'))"
+2020-08-14,crepis-biennis,2020-08-14,strom,"('strom', Timestamp('2020-08-14 00:00:00'))"
+2020-08-14,rubus-rubus,2020-08-14,strom,"('strom', Timestamp('2020-08-14 00:00:00'))"
+2020-08-14,clematis-vitalba,2020-08-14,strom,"('strom', Timestamp('2020-08-14 00:00:00'))"
+2020-08-14,saponaria-officinalis,2020-08-14,strom,"('strom', Timestamp('2020-08-14 00:00:00'))"
+2020-08-26,buddleja-davidii,2020-08-26,sundgraben-beach,"('sundgraben-beach', Timestamp('2020-08-26 00:00:00'))"
+2020-08-26,cornus-sanguinea,2020-08-26,sundgraben-beach,"('sundgraben-beach', Timestamp('2020-08-26 00:00:00'))"
+2020-08-26,cotoneaster-horizontalis,2020-08-26,sundgraben-beach,"('sundgraben-beach', Timestamp('2020-08-26 00:00:00'))"
+2020-08-26,epilobium-angustifolium,2020-08-26,sundgraben-beach,"('sundgraben-beach', Timestamp('2020-08-26 00:00:00'))"
+2020-08-26,epilobium-parviflorum,2020-08-26,sundgraben-beach,"('sundgraben-beach', Timestamp('2020-08-26 00:00:00'))"
+2020-08-26,epilobium-fleischeri,2020-08-26,sundgraben-beach,"('sundgraben-beach', Timestamp('2020-08-26 00:00:00'))"
+2020-08-26,erigeron-annuus,2020-08-26,sundgraben-beach,"('sundgraben-beach', Timestamp('2020-08-26 00:00:00'))"
+2020-08-26,erigeron-canadensis,2020-08-26,sundgraben-beach,"('sundgraben-beach', Timestamp('2020-08-26 00:00:00'))"
+2020-08-26,eupatorium-cannabinum,2020-08-26,sundgraben-beach,"('sundgraben-beach', Timestamp('2020-08-26 00:00:00'))"
+2020-08-26,hippocrepis-emerus,2020-08-26,sundgraben-beach,"('sundgraben-beach', Timestamp('2020-08-26 00:00:00'))"
+2020-08-26,hypochaeris-radicata,2020-08-26,sundgraben-beach,"('sundgraben-beach', Timestamp('2020-08-26 00:00:00'))"
+2020-08-26,origanum-vulgare,2020-08-26,sundgraben-beach,"('sundgraben-beach', Timestamp('2020-08-26 00:00:00'))"
+2020-08-26,oxalis-dillenii,2020-08-26,sundgraben-beach,"('sundgraben-beach', Timestamp('2020-08-26 00:00:00'))"
+2020-08-26,rubus-caesius,2020-08-26,sundgraben-beach,"('sundgraben-beach', Timestamp('2020-08-26 00:00:00'))"
+2020-08-26,senecio-inaequidens,2020-08-26,sundgraben-beach,"('sundgraben-beach', Timestamp('2020-08-26 00:00:00'))"
+2020-08-26,silene-vulgaris,2020-08-26,sundgraben-beach,"('sundgraben-beach', Timestamp('2020-08-26 00:00:00'))"
+2020-08-26,trifolium-medium,2020-08-26,sundgraben-beach,"('sundgraben-beach', Timestamp('2020-08-26 00:00:00'))"
+2020-09-05,galeopsis-tetrahit,2020-09-05,sundgraben-bridge-left,"('sundgraben-bridge-left', Timestamp('2020-09-05 00:00:00'))"
+2020-09-05,clinopodium-nepeta,2020-09-05,sundgraben-bridge-left,"('sundgraben-bridge-left', Timestamp('2020-09-05 00:00:00'))"
+2020-09-05,oxalis-dillenii,2020-09-05,sundgraben-bridge-left,"('sundgraben-bridge-left', Timestamp('2020-09-05 00:00:00'))"
+2020-09-05,linaria-repens,2020-09-05,sundgraben-bridge-left,"('sundgraben-bridge-left', Timestamp('2020-09-05 00:00:00'))"
+2020-09-05,oenothera-biennis,2020-09-05,sundgraben-bridge-left,"('sundgraben-bridge-left', Timestamp('2020-09-05 00:00:00'))"
+2020-09-05,clinopodium-vulgare,2020-09-05,sundgraben-bridge-left,"('sundgraben-bridge-left', Timestamp('2020-09-05 00:00:00'))"
+2020-09-05,achillea-millefolium,2020-09-05,sundgraben-bridge-left,"('sundgraben-bridge-left', Timestamp('2020-09-05 00:00:00'))"
+2020-09-05,reseda-lutea,2020-09-05,sundgraben-bridge-left,"('sundgraben-bridge-left', Timestamp('2020-09-05 00:00:00'))"
+2020-09-05,daucus-carota,2020-09-05,sundgraben-bridge-left,"('sundgraben-bridge-left', Timestamp('2020-09-05 00:00:00'))"
+2020-09-05,linaria-vulgaris,2020-09-05,sundgraben-bridge-left,"('sundgraben-bridge-left', Timestamp('2020-09-05 00:00:00'))"
+2020-09-05,lotus-corniculatus,2020-09-05,sundgraben-bridge-left,"('sundgraben-bridge-left', Timestamp('2020-09-05 00:00:00'))"
+2020-09-05,centaurea-scabiosa,2020-09-05,sundgraben-bridge-left,"('sundgraben-bridge-left', Timestamp('2020-09-05 00:00:00'))"
+2020-09-05,hypericum-perforatum,2020-09-05,sundgraben-bridge-left,"('sundgraben-bridge-left', Timestamp('2020-09-05 00:00:00'))"
+2020-09-05,trifolium-medium,2020-09-05,sundgraben-bridge-left,"('sundgraben-bridge-left', Timestamp('2020-09-05 00:00:00'))"
+2020-09-05,calystegia-sepium,2020-09-05,sundgraben-bridge-left,"('sundgraben-bridge-left', Timestamp('2020-09-05 00:00:00'))"
+2020-09-05,buddleja-davidii,2020-09-05,sundgraben-bridge-left,"('sundgraben-bridge-left', Timestamp('2020-09-05 00:00:00'))"
+2020-09-05,cyclamen-purpurascens,2020-09-05,sundgraben-bridge-left,"('sundgraben-bridge-left', Timestamp('2020-09-05 00:00:00'))"
+2020-09-13,hippocrepis-emerus,2020-09-13,sundgraben-forest-left,"('sundgraben-forest-left', Timestamp('2020-09-13 00:00:00'))"
+2020-09-13,lysimachia-arvensis,2020-09-13,sundgraben-forest-left,"('sundgraben-forest-left', Timestamp('2020-09-13 00:00:00'))"
+2020-09-13,ligustrum-vulgare,2020-09-13,sundgraben-forest-left,"('sundgraben-forest-left', Timestamp('2020-09-13 00:00:00'))"
+2020-09-13,oxalis-dillenii,2020-09-13,sundgraben-forest-left,"('sundgraben-forest-left', Timestamp('2020-09-13 00:00:00'))"
+2020-09-13,knautia-arvensis,2020-09-13,sundgraben-forest-left,"('sundgraben-forest-left', Timestamp('2020-09-13 00:00:00'))"
+2020-09-13,trifolium-pratense,2020-09-13,sundgraben-forest-right,"('sundgraben-forest-right', Timestamp('2020-09-13 00:00:00'))"
+2020-09-13,medicago-sativa,2020-09-13,sundgraben-forest-right,"('sundgraben-forest-right', Timestamp('2020-09-13 00:00:00'))"
+2020-09-13,centaurea-scabiosa,2020-09-13,sundgraben-forest-right,"('sundgraben-forest-right', Timestamp('2020-09-13 00:00:00'))"
+2020-09-13,rorippa-sylvestris,2020-09-13,sundgraben-forest-right,"('sundgraben-forest-right', Timestamp('2020-09-13 00:00:00'))"
+2020-09-13,centaurea-jacea,2020-09-13,sundgraben-forest-right,"('sundgraben-forest-right', Timestamp('2020-09-13 00:00:00'))"
+2020-09-13,achillea-millefolium,2020-09-13,sundgraben-forest-right,"('sundgraben-forest-right', Timestamp('2020-09-13 00:00:00'))"
+2020-09-13,erigeron-annuus,2020-09-13,sundgraben-forest-right,"('sundgraben-forest-right', Timestamp('2020-09-13 00:00:00'))"
+2020-09-13,daucus-carota,2020-09-13,sundgraben-forest-right,"('sundgraben-forest-right', Timestamp('2020-09-13 00:00:00'))"
+2020-09-13,silene-vulgaris,2020-09-13,sundgraben-forest-right,"('sundgraben-forest-right', Timestamp('2020-09-13 00:00:00'))"
+2020-09-13,eupatorium-cannabinum,2020-09-13,sundgraben-forest-right,"('sundgraben-forest-right', Timestamp('2020-09-13 00:00:00'))"
+2020-09-13,erigeron-canadensis,2020-09-13,sundgraben-forest-right,"('sundgraben-forest-right', Timestamp('2020-09-13 00:00:00'))"
+2020-09-05,melampyrum-pratense,2020-09-05,sundgraben-forest-right,"('sundgraben-forest-right', Timestamp('2020-09-05 00:00:00'))"
+2020-09-13,calystegia-sepium,2020-09-13,sundgraben-gorge,"('sundgraben-gorge', Timestamp('2020-09-13 00:00:00'))"
+2020-09-13,oenothera-biennis,2020-09-13,sundgraben-gorge,"('sundgraben-gorge', Timestamp('2020-09-13 00:00:00'))"
+2020-09-13,centaurea-scabiosa,2020-09-13,sundgraben-gorge,"('sundgraben-gorge', Timestamp('2020-09-13 00:00:00'))"
+2020-09-13,clinopodium-vulgare,2020-09-13,sundgraben-gorge,"('sundgraben-gorge', Timestamp('2020-09-13 00:00:00'))"
+2020-09-13,linaria-vulgaris,2020-09-13,sundgraben-gorge,"('sundgraben-gorge', Timestamp('2020-09-13 00:00:00'))"
+2020-09-13,rudbeckia-hirta,2020-09-13,sundgraben-gorge,"('sundgraben-gorge', Timestamp('2020-09-13 00:00:00'))"
+2020-09-13,eupatorium-cannabinum,2020-09-13,sundgraben-gorge,"('sundgraben-gorge', Timestamp('2020-09-13 00:00:00'))"
+2020-09-13,antirrhinum-majus,2020-09-13,sundgraben-gorge,"('sundgraben-gorge', Timestamp('2020-09-13 00:00:00'))"
+2020-09-05,trifolium-pratense,2020-09-05,sundgraben-port,"('sundgraben-port', Timestamp('2020-09-05 00:00:00'))"
+2020-09-05,daucus-carota,2020-09-05,sundgraben-port,"('sundgraben-port', Timestamp('2020-09-05 00:00:00'))"
+2020-09-05,verbena-officinalis,2020-09-05,sundgraben-port,"('sundgraben-port', Timestamp('2020-09-05 00:00:00'))"
+2020-09-05,eupatorium-cannabinum,2020-09-05,sundgraben-port,"('sundgraben-port', Timestamp('2020-09-05 00:00:00'))"
+2020-09-05,erigeron-canadensis,2020-09-05,sundgraben-port,"('sundgraben-port', Timestamp('2020-09-05 00:00:00'))"
+2020-09-05,oxalis-corniculata,2020-09-05,sundgraben-port,"('sundgraben-port', Timestamp('2020-09-05 00:00:00'))"
+2020-07-28,crepis-capillaris,2020-07-28,sureaux,"('sureaux', Timestamp('2020-07-28 00:00:00'))"
+2020-07-28,trifolium-pratense,2020-07-28,sureaux,"('sureaux', Timestamp('2020-07-28 00:00:00'))"
+2020-07-28,heracleum-sphondylium,2020-07-28,sureaux,"('sureaux', Timestamp('2020-07-28 00:00:00'))"
+2020-08-09,solanum-nigrum,2020-08-09,sureaux,"('sureaux', Timestamp('2020-08-09 00:00:00'))"
+2020-08-09,chenopodium-album,2020-08-09,sureaux,"('sureaux', Timestamp('2020-08-09 00:00:00'))"
+2020-08-09,erigeron-canadensis,2020-08-09,sureaux,"('sureaux', Timestamp('2020-08-09 00:00:00'))"
+2020-08-09,ranunculus-repens,2020-08-09,sureaux,"('sureaux', Timestamp('2020-08-09 00:00:00'))"
+2020-08-09,geranium-pyrenaicum,2020-08-09,sureaux,"('sureaux', Timestamp('2020-08-09 00:00:00'))"
+2020-08-09,rubus-caesius,2020-08-09,sureaux,"('sureaux', Timestamp('2020-08-09 00:00:00'))"
+2020-08-09,filipendula-ulmaria,2020-08-09,sureaux,"('sureaux', Timestamp('2020-08-09 00:00:00'))"
+2020-08-09,erigeron-annuus,2020-08-09,sureaux,"('sureaux', Timestamp('2020-08-09 00:00:00'))"
+2020-08-09,erigeron-annuus,2020-08-09,sureaux,"('sureaux', Timestamp('2020-08-09 00:00:00'))"
+2020-08-09,achillea-millefolium,2020-08-09,sureaux,"('sureaux', Timestamp('2020-08-09 00:00:00'))"
+2020-08-09,galium-mollugo,2020-08-09,sureaux,"('sureaux', Timestamp('2020-08-09 00:00:00'))"
+2020-08-09,aethusa-cynapium,2020-08-09,sureaux,"('sureaux', Timestamp('2020-08-09 00:00:00'))"
+2020-08-09,carduus-crispus,2020-08-09,sureaux,"('sureaux', Timestamp('2020-08-09 00:00:00'))"
+2020-08-09,rumex-obtusifolius,2020-08-09,sureaux,"('sureaux', Timestamp('2020-08-09 00:00:00'))"
+2020-08-04,echium-vulgare,2020-08-04,lezard-2,"('lezard-2', Timestamp('2020-08-04 00:00:00'))"
+2020-08-04,cichorium-intybus,2020-08-04,lezard-2,"('lezard-2', Timestamp('2020-08-04 00:00:00'))"
+2020-08-13,epilobium-roseum,2020-08-13,parc-muni,"('parc-muni', Timestamp('2020-08-13 00:00:00'))"
+2020-08-13,epilobium-parviflorum,2020-08-13,parc-muni,"('parc-muni', Timestamp('2020-08-13 00:00:00'))"
+2020-08-13,veronica-beccabunga,2020-08-13,parc-muni,"('parc-muni', Timestamp('2020-08-13 00:00:00'))"
+2020-08-13,cyclamen-hederifolium,2020-08-13,parc-muni,"('parc-muni', Timestamp('2020-08-13 00:00:00'))"
+2020-08-15,solidago-canadensis,2020-08-15,salome-2,"('salome-2', Timestamp('2020-08-15 00:00:00'))"
+2020-08-08,artemisia-vulgaris,2020-08-08,swatch-1,"('swatch-1', Timestamp('2020-08-08 00:00:00'))"
+2020-08-08,cirsium-arvense,2020-08-08,swatch-1,"('swatch-1', Timestamp('2020-08-08 00:00:00'))"
+2020-08-08,galium-mollugo,2020-08-08,swatch-1,"('swatch-1', Timestamp('2020-08-08 00:00:00'))"
+2020-08-08,lathyrus-sylvestris,2020-08-08,swatch-1,"('swatch-1', Timestamp('2020-08-08 00:00:00'))"
+2020-08-08,securigera-varia,2020-08-08,swatch-1,"('swatch-1', Timestamp('2020-08-08 00:00:00'))"
+2020-08-08,silene-vulgaris,2020-08-08,swatch-1,"('swatch-1', Timestamp('2020-08-08 00:00:00'))"
+2020-08-08,trifolium-pratense,2020-08-08,swatch-1,"('swatch-1', Timestamp('2020-08-08 00:00:00'))"
+2020-08-31,medicago-sativa,2020-08-31,swatch-2,"('swatch-2', Timestamp('2020-08-31 00:00:00'))"
+2020-08-31,centaurea-scabiosa,2020-08-31,swatch-2,"('swatch-2', Timestamp('2020-08-31 00:00:00'))"
+2020-08-31,centaurea-jacea,2020-08-31,swatch-2,"('swatch-2', Timestamp('2020-08-31 00:00:00'))"
+2020-08-31,leucanthemum-vulgare,2020-08-31,swatch-2,"('swatch-2', Timestamp('2020-08-31 00:00:00'))"
+2020-08-31,reseda-lutea,2020-08-31,swatch-2,"('swatch-2', Timestamp('2020-08-31 00:00:00'))"
+2020-08-31,melilotus-albus,2020-08-31,swatch-2,"('swatch-2', Timestamp('2020-08-31 00:00:00'))"
+2020-08-31,lathyrus-pratensis,2020-08-31,swatch-2,"('swatch-2', Timestamp('2020-08-31 00:00:00'))"
+2020-08-31,reseda-lutea,2020-08-31,swatch-2,"('swatch-2', Timestamp('2020-08-31 00:00:00'))"
+2020-08-31,cirsium-vulgare,2020-08-31,swatch-2,"('swatch-2', Timestamp('2020-08-31 00:00:00'))"
+2020-08-31,rumex-obtusifolius,2020-08-31,swatch-2,"('swatch-2', Timestamp('2020-08-31 00:00:00'))"
+2020-08-31,trifolium-repens,2020-08-31,swatch-2,"('swatch-2', Timestamp('2020-08-31 00:00:00'))"
+2020-08-31,mentha-spicata,2020-08-31,swatch-2,"('swatch-2', Timestamp('2020-08-31 00:00:00'))"
+2020-08-31,clematis-vitalba,2020-08-31,swatch-2,"('swatch-2', Timestamp('2020-08-31 00:00:00'))"
+2020-08-31,calystegia-sepium,2020-08-31,swatch-2,"('swatch-2', Timestamp('2020-08-31 00:00:00'))"
+2020-08-31,daucus-carota,2020-08-31,swatch-2,"('swatch-2', Timestamp('2020-08-31 00:00:00'))"
+2020-08-31,cirsium-arvense,2020-08-31,swatch-2,"('swatch-2', Timestamp('2020-08-31 00:00:00'))"
+2020-08-31,trifolium-pratense,2020-08-31,swatch-2,"('swatch-2', Timestamp('2020-08-31 00:00:00'))"
+2020-08-31,silene-vulgaris,2020-08-31,swatch-2,"('swatch-2', Timestamp('2020-08-31 00:00:00'))"
+2020-08-31,erigeron-annuus,2020-08-31,swatch-2,"('swatch-2', Timestamp('2020-08-31 00:00:00'))"
+2020-08-18,galeopsis-tetrahit,2020-08-18,taubenloch-1,"('taubenloch-1', Timestamp('2020-08-18 00:00:00'))"
+2020-08-18,epilobium-collinum,2020-08-18,taubenloch-1,"('taubenloch-1', Timestamp('2020-08-18 00:00:00'))"
+2020-08-18,geranium-robertianum,2020-08-18,taubenloch-1,"('taubenloch-1', Timestamp('2020-08-18 00:00:00'))"
+2020-08-18,hylotelephium-telephium,2020-08-18,taubenloch-1,"('taubenloch-1', Timestamp('2020-08-18 00:00:00'))"
+2020-08-18,lactuca-muralis,2020-08-18,taubenloch-1,"('taubenloch-1', Timestamp('2020-08-18 00:00:00'))"
+2020-08-18,lapsana-communis,2020-08-18,taubenloch-1,"('taubenloch-1', Timestamp('2020-08-18 00:00:00'))"
+2020-08-18,galeopsis-tetrahit,2020-08-18,taubenloch-1,"('taubenloch-1', Timestamp('2020-08-18 00:00:00'))"
+2020-08-18,campanula-trachelium,2020-08-18,taubenloch-1,"('taubenloch-1', Timestamp('2020-08-18 00:00:00'))"
+2020-08-22,campanula-trachelium,2020-08-22,taubenloch-2,"('taubenloch-2', Timestamp('2020-08-22 00:00:00'))"
+2020-08-22,solanum-dulcamara,2020-08-22,taubenloch-2,"('taubenloch-2', Timestamp('2020-08-22 00:00:00'))"
+2020-08-22,galeopsis-tetrahit,2020-08-22,taubenloch-2,"('taubenloch-2', Timestamp('2020-08-22 00:00:00'))"
+2020-08-22,salvia-glutinosa,2020-08-22,taubenloch-2,"('taubenloch-2', Timestamp('2020-08-22 00:00:00'))"
+2020-08-22,campanula-rotundifolia,2020-08-22,taubenloch-2,"('taubenloch-2', Timestamp('2020-08-22 00:00:00'))"
+2020-08-22,geranium-robertianum,2020-08-22,taubenloch-2,"('taubenloch-2', Timestamp('2020-08-22 00:00:00'))"
+2020-08-22,campanula-rapunculoides,2020-08-22,taubenloch-2,"('taubenloch-2', Timestamp('2020-08-22 00:00:00'))"
+2020-08-22,salvia-glutinosa,2020-08-22,taubenloch-2,"('taubenloch-2', Timestamp('2020-08-22 00:00:00'))"
+2020-08-22,galeopsis-tetrahit,2020-08-22,taubenloch-2,"('taubenloch-2', Timestamp('2020-08-22 00:00:00'))"
+2020-08-22,campanula-rhomboidalis,2020-08-22,taubenloch-2,"('taubenloch-2', Timestamp('2020-08-22 00:00:00'))"
+2020-08-22,lactuca-muralis,2020-08-22,taubenloch-2,"('taubenloch-2', Timestamp('2020-08-22 00:00:00'))"
+2020-08-22,geranium-robertianum,2020-08-22,taubenloch-2,"('taubenloch-2', Timestamp('2020-08-22 00:00:00'))"
+2020-08-22,geranium-robertianum,2020-08-22,taubenloch-2,"('taubenloch-2', Timestamp('2020-08-22 00:00:00'))"
+2020-09-22,rubus-caesius,2020-09-22,transjurane-tunnel,"('transjurane-tunnel', Timestamp('2020-09-22 00:00:00'))"
+2020-09-22,hylotelephium-telephium,2020-09-22,transjurane-tunnel,"('transjurane-tunnel', Timestamp('2020-09-22 00:00:00'))"
+2020-08-08,artemisia-vulgaris,2020-08-08,truite-1,"('truite-1', Timestamp('2020-08-08 00:00:00'))"
+2020-08-08,carduus-personata,2020-08-08,truite-1,"('truite-1', Timestamp('2020-08-08 00:00:00'))"
+2020-08-08,chaenorhinum-minus,2020-08-08,truite-1,"('truite-1', Timestamp('2020-08-08 00:00:00'))"
+2020-08-08,cirsium-arvense,2020-08-08,truite-1,"('truite-1', Timestamp('2020-08-08 00:00:00'))"
+2020-08-08,daucus-carota,2020-08-08,truite-1,"('truite-1', Timestamp('2020-08-08 00:00:00'))"
+2020-08-08,dipsacus-pilosus,2020-08-08,truite-1,"('truite-1', Timestamp('2020-08-08 00:00:00'))"
+2020-08-08,epilobium-hirsutum,2020-08-08,truite-1,"('truite-1', Timestamp('2020-08-08 00:00:00'))"
+2020-08-08,eupatorium-cannabinum,2020-08-08,truite-1,"('truite-1', Timestamp('2020-08-08 00:00:00'))"
+2020-08-08,galeopsis-tetrahit,2020-08-08,truite-1,"('truite-1', Timestamp('2020-08-08 00:00:00'))"
+2020-08-08,galium-mollugo,2020-08-08,truite-1,"('truite-1', Timestamp('2020-08-08 00:00:00'))"
+2020-08-08,geranium-pyrenaicum,2020-08-08,truite-1,"('truite-1', Timestamp('2020-08-08 00:00:00'))"
+2020-08-08,geranium-robertianum,2020-08-08,truite-1,"('truite-1', Timestamp('2020-08-08 00:00:00'))"
+2020-08-08,knautia-arvensis,2020-08-08,truite-1,"('truite-1', Timestamp('2020-08-08 00:00:00'))"
+2020-08-08,lactuca-serriola,2020-08-08,truite-1,"('truite-1', Timestamp('2020-08-08 00:00:00'))"
+2020-08-08,lapsana-communis,2020-08-08,truite-1,"('truite-1', Timestamp('2020-08-08 00:00:00'))"
+2020-08-08,leontodon-hispidus,2020-08-08,truite-1,"('truite-1', Timestamp('2020-08-08 00:00:00'))"
+2020-08-08,pastinaca-sativa,2020-08-08,truite-1,"('truite-1', Timestamp('2020-08-08 00:00:00'))"
+2020-08-08,polygonum-persicaria,2020-08-08,truite-1,"('truite-1', Timestamp('2020-08-08 00:00:00'))"
+2020-08-08,silene-vulgaris,2020-08-08,truite-1,"('truite-1', Timestamp('2020-08-08 00:00:00'))"
+2020-08-08,solanum-dulcamara,2020-08-08,truite-1,"('truite-1', Timestamp('2020-08-08 00:00:00'))"
+2020-08-08,urtica-dioica,2020-08-08,truite-1,"('truite-1', Timestamp('2020-08-08 00:00:00'))"
+2020-08-08,veronica-persica,2020-08-08,truite-1,"('truite-1', Timestamp('2020-08-08 00:00:00'))"
+2020-08-22,petasites-hybridus,2020-08-22,truite-2,"('truite-2', Timestamp('2020-08-22 00:00:00'))"
+2020-08-22,clematis-vitalba,2020-08-22,truite-2,"('truite-2', Timestamp('2020-08-22 00:00:00'))"
+2020-08-22,salix-nigra,2020-08-22,truite-2,"('truite-2', Timestamp('2020-08-22 00:00:00'))"
+2020-08-22,solanum-dulcamara,2020-08-22,truite-2,"('truite-2', Timestamp('2020-08-22 00:00:00'))"
+2020-08-22,rumex-obtusifolius,2020-08-22,truite-2,"('truite-2', Timestamp('2020-08-22 00:00:00'))"
+2020-08-22,epilobium-hirsutum,2020-08-22,truite-2,"('truite-2', Timestamp('2020-08-22 00:00:00'))"
+2020-08-22,polygonum-aviculare,2020-08-22,truite-2,"('truite-2', Timestamp('2020-08-22 00:00:00'))"
+2020-08-22,rorippa-islandica,2020-08-22,truite-2,"('truite-2', Timestamp('2020-08-22 00:00:00'))"
+2020-08-22,tussilago-farfara,2020-08-22,truite-2,"('truite-2', Timestamp('2020-08-22 00:00:00'))"
+2020-08-22,urtica-dioica,2020-08-22,truite-2,"('truite-2', Timestamp('2020-08-22 00:00:00'))"
+2020-08-22,mentha-spicata,2020-08-22,truite-2,"('truite-2', Timestamp('2020-08-22 00:00:00'))"
+2020-08-22,persicaria-lapathifolia,2020-08-22,truite-2,"('truite-2', Timestamp('2020-08-22 00:00:00'))"
+2020-08-22,lathyrus-latifolius,2020-08-22,truite-2,"('truite-2', Timestamp('2020-08-22 00:00:00'))"
+2020-08-06,phlox-pilosa,2020-08-06,truite-3,"('truite-3', Timestamp('2020-08-06 00:00:00'))"
+2020-08-06,urtica-dioica,2020-08-06,truite-3,"('truite-3', Timestamp('2020-08-06 00:00:00'))"
+2020-08-06,salix-purpurea,2020-08-06,truite-3,"('truite-3', Timestamp('2020-08-06 00:00:00'))"
+2020-08-06,rosa-spinosissima,2020-08-06,truite-3,"('truite-3', Timestamp('2020-08-06 00:00:00'))"
+2020-08-06,sambucus-nigra,2020-08-06,truite-3,"('truite-3', Timestamp('2020-08-06 00:00:00'))"
+2020-08-06,rubus-rubus,2020-08-06,truite-3,"('truite-3', Timestamp('2020-08-06 00:00:00'))"
+2020-08-06,daucus-carota,2020-08-06,truite-3,"('truite-3', Timestamp('2020-08-06 00:00:00'))"
+2020-08-06,trifolium-pratense,2020-08-06,truite-3,"('truite-3', Timestamp('2020-08-06 00:00:00'))"
+2020-08-06,silene-vulgaris,2020-08-06,truite-3,"('truite-3', Timestamp('2020-08-06 00:00:00'))"
+2020-08-06,centaurea-scabiosa,2020-08-06,truite-3,"('truite-3', Timestamp('2020-08-06 00:00:00'))"
+2020-08-06,lotus-corniculatus,2020-08-06,truite-3,"('truite-3', Timestamp('2020-08-06 00:00:00'))"
+2020-08-06,chenopodium-album,2020-08-06,truite-3,"('truite-3', Timestamp('2020-08-06 00:00:00'))"
+2020-08-06,leucanthemum-vulgare,2020-08-06,truite-3,"('truite-3', Timestamp('2020-08-06 00:00:00'))"
+2020-08-06,centaurea-jacea,2020-08-06,truite-3,"('truite-3', Timestamp('2020-08-06 00:00:00'))"
+2020-08-06,cirsium-arvense,2020-08-06,truite-3,"('truite-3', Timestamp('2020-08-06 00:00:00'))"
+2020-08-06,galium-mollugo,2020-08-06,truite-3,"('truite-3', Timestamp('2020-08-06 00:00:00'))"
+2020-08-03,centaurea-jacea,2020-08-03,truite-4,"('truite-4', Timestamp('2020-08-03 00:00:00'))"
+2020-08-03,salvia-pratensis,2020-08-03,truite-4,"('truite-4', Timestamp('2020-08-03 00:00:00'))"
+2020-08-03,cichorium-intybus,2020-08-03,truite-4,"('truite-4', Timestamp('2020-08-03 00:00:00'))"
+2020-08-06,hypericum-perforatum,2020-08-06,truite-4,"('truite-4', Timestamp('2020-08-06 00:00:00'))"
+2020-08-06,silene-latifolia,2020-08-06,truite-4,"('truite-4', Timestamp('2020-08-06 00:00:00'))"
+2020-08-06,knautia-arvensis,2020-08-06,truite-4,"('truite-4', Timestamp('2020-08-06 00:00:00'))"
+2020-08-06,cirsium-arvense,2020-08-06,truite-4,"('truite-4', Timestamp('2020-08-06 00:00:00'))"
+2020-08-06,rumex-obtusifolius,2020-08-06,truite-4,"('truite-4', Timestamp('2020-08-06 00:00:00'))"
+2020-08-06,clinopodium-vulgare,2020-08-06,truite-4,"('truite-4', Timestamp('2020-08-06 00:00:00'))"
+2020-08-06,echium-vulgare,2020-08-06,truite-4,"('truite-4', Timestamp('2020-08-06 00:00:00'))"
+2020-08-29,trifolium-repens,2020-08-29,truite-5,"('truite-5', Timestamp('2020-08-29 00:00:00'))"
+2020-08-29,lotus-corniculatus,2020-08-29,truite-5,"('truite-5', Timestamp('2020-08-29 00:00:00'))"
+2020-08-29,rubus-rubus,2020-08-29,truite-5,"('truite-5', Timestamp('2020-08-29 00:00:00'))"
+2020-08-29,clematis-vitalba,2020-08-29,truite-5,"('truite-5', Timestamp('2020-08-29 00:00:00'))"
+2020-08-29,lamium-maculatum,2020-08-29,truite-5,"('truite-5', Timestamp('2020-08-29 00:00:00'))"
+2020-08-29,verbena-officinalis,2020-08-29,truite-5,"('truite-5', Timestamp('2020-08-29 00:00:00'))"
+2020-08-29,trifolium-pratense,2020-08-29,truite-5,"('truite-5', Timestamp('2020-08-29 00:00:00'))"
+2020-08-29,jacobaea-vulgaris,2020-08-29,truite-5,"('truite-5', Timestamp('2020-08-29 00:00:00'))"
+2020-08-29,galium-mollugo,2020-08-29,truite-5,"('truite-5', Timestamp('2020-08-29 00:00:00'))"
+2020-08-29,ranunculus-acris,2020-08-29,truite-5,"('truite-5', Timestamp('2020-08-29 00:00:00'))"
+2020-08-29,silene-vulgaris,2020-08-29,truite-5,"('truite-5', Timestamp('2020-08-29 00:00:00'))"
+2020-08-29,linaria-vulgaris,2020-08-29,truite-5,"('truite-5', Timestamp('2020-08-29 00:00:00'))"
+2020-08-29,potentilla-reptans,2020-08-29,truite-5,"('truite-5', Timestamp('2020-08-29 00:00:00'))"
+2020-08-29,rapistrum-rugosum,2020-08-29,truite-5,"('truite-5', Timestamp('2020-08-29 00:00:00'))"
+2020-08-29,malva-moschata,2020-08-29,truite-5,"('truite-5', Timestamp('2020-08-29 00:00:00'))"
+2020-08-29,daucus-carota,2020-08-29,truite-5,"('truite-5', Timestamp('2020-08-29 00:00:00'))"
+2020-08-29,medicago-sativa,2020-08-29,truite-5,"('truite-5', Timestamp('2020-08-29 00:00:00'))"
+2020-08-29,reseda-lutea,2020-08-29,truite-5,"('truite-5', Timestamp('2020-08-29 00:00:00'))"
+2020-08-25,angelica-sylvestris,2020-08-25,twann-estuary,"('twann-estuary', Timestamp('2020-08-25 00:00:00'))"
+2020-08-25,calystegia-sepium,2020-08-25,twann-estuary,"('twann-estuary', Timestamp('2020-08-25 00:00:00'))"
+2020-08-25,cornus-sanguinea,2020-08-25,twann-estuary,"('twann-estuary', Timestamp('2020-08-25 00:00:00'))"
+2020-08-25,cymbalaria-muralis,2020-08-25,twann-estuary,"('twann-estuary', Timestamp('2020-08-25 00:00:00'))"
+2020-08-25,daucus-carota,2020-08-25,twann-estuary,"('twann-estuary', Timestamp('2020-08-25 00:00:00'))"
+2020-08-25,epilobium-hirsutum,2020-08-25,twann-estuary,"('twann-estuary', Timestamp('2020-08-25 00:00:00'))"
+2020-08-25,erigeron-annuus,2020-08-25,twann-estuary,"('twann-estuary', Timestamp('2020-08-25 00:00:00'))"
+2020-08-25,galium-mollugo,2020-08-25,twann-estuary,"('twann-estuary', Timestamp('2020-08-25 00:00:00'))"
+2020-08-25,geranium-rotundifolium,2020-08-25,twann-estuary,"('twann-estuary', Timestamp('2020-08-25 00:00:00'))"
+2020-08-25,heracleum-sphondylium,2020-08-25,twann-estuary,"('twann-estuary', Timestamp('2020-08-25 00:00:00'))"
+2020-08-25,hieracium-morulum,2020-08-25,twann-estuary,"('twann-estuary', Timestamp('2020-08-25 00:00:00'))"
+2020-08-25,lactuca-serriola,2020-08-25,twann-estuary,"('twann-estuary', Timestamp('2020-08-25 00:00:00'))"
+2020-08-25,lathyrus-latifolius,2020-08-25,twann-estuary,"('twann-estuary', Timestamp('2020-08-25 00:00:00'))"
+2020-08-25,lycopus-europaeus,2020-08-25,twann-estuary,"('twann-estuary', Timestamp('2020-08-25 00:00:00'))"
+2020-08-25,rubus-rubus,2020-08-25,twann-estuary,"('twann-estuary', Timestamp('2020-08-25 00:00:00'))"
+2020-08-25,rubus-caesius,2020-08-25,twann-estuary,"('twann-estuary', Timestamp('2020-08-25 00:00:00'))"
+2020-08-25,silene-vulgaris,2020-08-25,twann-estuary,"('twann-estuary', Timestamp('2020-08-25 00:00:00'))"
+2020-08-25,trifolium-pratense,2020-08-25,twann-estuary,"('twann-estuary', Timestamp('2020-08-25 00:00:00'))"
+2020-08-25,urtica-dioica,2020-08-25,twann-estuary,"('twann-estuary', Timestamp('2020-08-25 00:00:00'))"
+2020-08-25,verbascum-densiflorum,2020-08-25,twann-estuary,"('twann-estuary', Timestamp('2020-08-25 00:00:00'))"
+2020-08-25,vicia-cracca,2020-08-25,twann-estuary,"('twann-estuary', Timestamp('2020-08-25 00:00:00'))"
+2020-08-05,pseudofumaria-lutea,2020-08-05,twann-gorges,"('twann-gorges', Timestamp('2020-08-05 00:00:00'))"
+2020-08-10,hippocrepis-emerus,2020-08-10,weissenau,"('weissenau', Timestamp('2020-08-10 00:00:00'))"
+2020-08-10,lactuca-muralis,2020-08-10,weissenau,"('weissenau', Timestamp('2020-08-10 00:00:00'))"
+2020-08-10,calystegia-sepium,2020-08-10,weissenau,"('weissenau', Timestamp('2020-08-10 00:00:00'))"
+2020-08-10,viburnum-opulus,2020-08-10,weissenau,"('weissenau', Timestamp('2020-08-10 00:00:00'))"
+2020-08-10,mentha-aquatica,2020-08-10,weissenau,"('weissenau', Timestamp('2020-08-10 00:00:00'))"
+2020-08-10,aria-edulis,2020-08-10,weissenau,"('weissenau', Timestamp('2020-08-10 00:00:00'))"
+2020-08-10,allium-carinatum,2020-08-10,weissenau,"('weissenau', Timestamp('2020-08-10 00:00:00'))"
+2020-08-10,viburnum-lantana,2020-08-10,weissenau,"('weissenau', Timestamp('2020-08-10 00:00:00'))"
+2020-08-10,filipendula-ulmaria,2020-08-10,weissenau,"('weissenau', Timestamp('2020-08-10 00:00:00'))"
+2020-08-10,lythrum-salicaria,2020-08-10,weissenau,"('weissenau', Timestamp('2020-08-10 00:00:00'))"
+2020-08-10,lysimachia-vulgaris,2020-08-10,weissenau,"('weissenau', Timestamp('2020-08-10 00:00:00'))"
