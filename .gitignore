@@ -2,7 +2,7 @@
 */.idea/*
 */.pycache/*
 */.ipynb_checkpoints/*
-
+.ipynb_checkpoints/
 
 # ignores the heavy data files
 /shape_files/*
