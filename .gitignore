@@ -3,6 +3,7 @@
 */.pycache/*
 */.ipynb_checkpoints/*
 
+
 # ignores the heavy data files
 /shape_files/*
 /resources/reference-data/qgis-suze-files*
