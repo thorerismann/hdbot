@@ -1,0 +1,7 @@
+index,lon,lat,waterbody,id,name,ws,5x5,species_slug,str_date,CH
+cff-lot-2,7.2550212,47.1399406,suze,3,biel,151,585220,malus-sylvestris,2020-09-28,NT
+buren-1,7.2684779,47.1530273,suze,2,biel,151,585220,epilobium-dodonaei,2020-09-03,NT
+buren-2,7.2690419,47.15238,suze,2,biel,151,585220,epilobium-dodonaei,2020-08-07,NT
+truite-1,7.269151,47.1467829,suze,2,biel,151,585220,dipsacus-pilosus,2020-08-08,NT
+truite-2,7.2693113,47.1469019,suze,2,biel,151,585220,rorippa-islandica,2020-08-22,NT
+parc-muni,7.254484,47.1418701,suze,3,biel,151,585220,cyclamen-hederifolium,2020-08-13,NT
