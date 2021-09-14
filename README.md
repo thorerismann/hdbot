@@ -1,7 +1,11 @@
 # hdbot
 
-This repository is used to produce a short report on identifying wild flowers along the urban Suze river in 2020. The final report is available as a Jupyter notebook (final-report.pynb)
+This repository generates the final report for the hammerdirt pilot project to identify wild flowers along the urban Suze river in 2020. A direct link to the final report is available here : 
 
-The reference data used in the analysis is included in the resources/preprocessed folder organized into .json dictionairies. The original files are freely available from Info Flora (www.infoflora.ch).
+A slightly abridged version is available as the second chapter of the larger hammerdirt project "flora biel", here:
 
-The survey and reference data is prepared for analysis in the preprocessing file, with the results stored in the preprocessed folder. These files are then used to generate the graphics and analysis in the final-report.pynb file.
+All of the data used in the analysis is included in the resources folder. It consists of one set of original survey data conducted by Gabrial Thor Erismann in 2020, and a number of data files freely available from Info Flora (www.infoflora.ch).
+
+Please feel free to reach out via instagram
+
+
