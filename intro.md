@@ -9,8 +9,8 @@ For questions or comments botany\[at\]hammerdirt\[dot\]ch is at your service.
 
 <br></br>
 
-_Sundlaunen, Thunersee, one of the survey sites_
-:::{image} resources/pictures/sites/sundlaunen.jpg
+_Ajuga reptans feeding a bee_
+:::{image} resources/pictures/2021/DSC09846.JPG
 :alt: Map of IQAASL locations
 :class: bg-primary mb-1
 :width: 600px

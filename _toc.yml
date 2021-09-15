@@ -9,12 +9,12 @@ parts:
     numbered: True
     chapters:
      - file: final-report.ipynb
-   - caption: Plant Survey - Year Two
+  - caption: Plant Survey - Year Two
     numbered: True
     chapters:
-    - file: final-report-2021.ipynb
-  - caption: Wildflower Buckets
+     - file: final-report-2021.ipynb
+  - caption: Business Plan
     numbered: True
     chapters:
-    - file: flora-buckets-ipynb
-    
+     - file: flora-buckets.ipynb
+
