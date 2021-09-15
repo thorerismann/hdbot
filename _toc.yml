@@ -5,8 +5,16 @@ format: jb-book
 root: intro
 
 parts:
-  - caption: Year one
+  - caption: Plant Survey - Year One
     numbered: True
     chapters:
      - file: final-report.ipynb
-   
+   - caption: Plant Survey - Year Two
+    numbered: True
+    chapters:
+    - file: final-report-2021.ipynb
+  - caption: Wildflower Buckets
+    numbered: True
+    chapters:
+    - file: flora-buckets-ipynb
+    
