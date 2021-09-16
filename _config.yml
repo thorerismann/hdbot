@@ -1,14 +1,17 @@
 # Book settings
 # Learn more at https://jupyterbook.org/customize/config.html
 
-title: hammerdirt botany
+title: love plants
 author: hammerdirt botanist
-logo: resources/pictures/eupatorium-suze-thumb.JPG
+logo: resources/pictures/2021/DSC07778.JPG
+copyright: "2021"
 
 # Force re-execution of notebooks on each build.
 # See https://jupyterbook.org/content/execute.html
+# Only include files specified in the toc.yml file
+
 execute:
-  execute_notebooks: 'off'
+  execute_notebooks: 'force'
 only_build_toc_files: true
 
 # Define the name of the latex output file for PDF builds

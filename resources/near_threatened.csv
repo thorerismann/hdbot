@@ -1,12 +1,12 @@
-index,lon,lat,waterbody,id,name,ws,5x5,n species,species_slug,str_date,JU
-jura-2,7.253285,47.138823,suze,3,biel,151,585220,10.0,malva-alcea,2020-06-28,NT
-sonnenfeld-1,7.2688798,47.152291,suze,2,biel,151,585220,5.0,malva-alcea,2020-06-18,NT
-bluets-3,7.2671142,47.146202,suze,2,biel,151,585220,9.0,dianthus-carthusianorum,2020-06-28,NT
-schlosslifeld-3,7.2707122,47.1507024,suze,2,biel,151,585220,1.0,malva-alcea,2020-07-07,NT
-lezard-1,7.2709493,47.1488774,suze,2,biel,151,585220,4.0,malva-alcea,2020-08-04,NT
-cff-lot-2,7.2550212,47.1399406,suze,3,biel,151,585220,10.0,malus-sylvestris,2020-09-28,NT
-jura-1,7.2531604,47.1389134,suze,3,biel,151,585220,5.0,dianthus-carthusianorum,2020-08-08,NT
-buren-1,7.2684779,47.1530273,suze,2,biel,151,585220,20.0,epilobium-dodonaei,2020-09-03,NT
-buren-2,7.2690419,47.15238,suze,2,biel,151,585220,24.0,epilobium-dodonaei,2020-08-07,NT
-chemin-de-la-course,7.265898,47.1446034,suze,2,biel,151,585220,18.0,petrorhagia-saxifraga,2020-08-30,NT
-truite-1,7.269151,47.1467829,suze,2,biel,151,585220,22.0,dipsacus-pilosus,2020-08-08,NT
+index,lon,lat,waterbody,id,name,ws,5x5,species_slug,str_date,JU
+jura-2,7.253285,47.138823,suze,3,biel,151,585220,malva-alcea,2020-06-28,NT
+sonnenfeld-1,7.2688798,47.152291,suze,2,biel,151,585220,malva-alcea,2020-06-18,NT
+bluets-3,7.2671142,47.146202,suze,2,biel,151,585220,dianthus-carthusianorum,2020-06-28,NT
+schlosslifeld-3,7.2707122,47.1507024,suze,2,biel,151,585220,malva-alcea,2020-07-07,NT
+lezard-1,7.2709493,47.1488774,suze,2,biel,151,585220,malva-alcea,2020-08-04,NT
+cff-lot-2,7.2550212,47.1399406,suze,3,biel,151,585220,malus-sylvestris,2020-09-28,NT
+jura-1,7.2531604,47.1389134,suze,3,biel,151,585220,dianthus-carthusianorum,2020-08-08,NT
+buren-1,7.2684779,47.1530273,suze,2,biel,151,585220,epilobium-dodonaei,2020-09-03,NT
+buren-2,7.2690419,47.15238,suze,2,biel,151,585220,epilobium-dodonaei,2020-08-07,NT
+chemin-de-la-course,7.265898,47.1446034,suze,2,biel,151,585220,petrorhagia-saxifraga,2020-08-30,NT
+truite-1,7.269151,47.1467829,suze,2,biel,151,585220,dipsacus-pilosus,2020-08-08,NT
