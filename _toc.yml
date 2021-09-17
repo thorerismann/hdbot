@@ -13,9 +13,12 @@ parts:
     numbered: True
     chapters:
      - file: final-report-2021.ipynb
-  - caption: Flower Buckets
+  - caption: Buckets of Wildflowers
     numbered: True
     chapters:
      - file: flora-buckets.ipynb
-
+  - caption: Context and Extension
+    numbered: True
+    chapters:
+     - file: context.ipynb
 

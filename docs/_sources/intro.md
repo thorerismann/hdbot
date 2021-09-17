@@ -13,17 +13,15 @@ __Edition 1__ ver=0.02 _build two_
 *Onobrychis viciifolia* hosting the dance of life and death on a railroad berm in the Madretsch neighborhood of Biel/Bienne
 
 <br></br>
-
-The purpose of this development repository is to build revenue streams that complement the existing biogeography of the city of Biel/Bienne. This page is under development and will likely have been updated since the last time you visited. A French and German version of this site will be available in the next few months.
+Love plants is a model for offering a subscription-based plant service of 100% native, wild-type flowers that complements the biogeography of Biel/Bienne.
 <p>&nbsp;</p>
-The first two chapters are concerned with surveying the existing diversity of plantlife in the city of Biel/Bienne. Year One (2020) is focused on the path of the Suze river as it runs through the city, with some 850 plant observations. Year Two (2021) expands to include much of the city of Bienne with some 4500 plant observations so far. The survey period will end officially on October 15th, 2021.
+The first two chapters cover surveying the existing diversity of plantlife in the city of Biel/Bienne. Year One (2020) is focused on the path of the Suze river as it runs through the city, with some 850 plant observations. Year Two (2021) expands to include much of the city of Bienne with some 4500 plant observations so far. The 2021 survey period will end officially on October 15th, 2021.
 <p>&nbsp;</p>
-The subsequent chapters are devoted to building sustainable business models based around wild-type flowers. The third chapter is devoted to the primary product, namely a subscription service for deliverty of buckets of in-season wildflowers. The fourth chapter is devoted to market context and reviewing additional revenue streams in related markets.
-
-<br></br>
-
+The subsequent chapters are devoted to building sustainable business models based around wild-type flowers. The third chapter is devoted to the primary product, namely a subscription service for deliverty of buckets of in-season wildflowers. The fourth chapter is devoted to market context and identifying additional revenue streams related to the flower bucket service.
 <p>&nbsp;</p>
-For questions or comments *botany at hammerdirt dot ch* is at your service. The dedicated link is the following:  https://thorerismann.github.io/hdbot/
+For questions or comments *botany at hammerdirt dot ch* is at your service. 
+<p>&nbsp;</p>
+This page is under development and will likely have been updated since the last time you visited. A French and German version of this site will be available soon.The dedicated link is the following:  https://thorerismann.github.io/hdbot/
 <p>&nbsp;</p>
 Built by hammerdirt botany.
 
