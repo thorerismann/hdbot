@@ -2,7 +2,7 @@
 
 __Edition 1__ ver=0.02 _build two_
 
-## Local biodiversity is under threat everywhere, so lets act locally, everywhere.
+## The biodiversity crisis and a local solution
 
 :::{image} resources/pictures/2021/DSC00317.JPG
 :alt: Map of IQAASL locations
@@ -11,17 +11,14 @@ __Edition 1__ ver=0.02 _build two_
 :align: center
 :::
 *Onobrychis viciifolia* hosting the dance of life and death on a railroad berm in the Madretsch neighborhood of Biel/Bienne
-
 <br></br>
-Love plants is a model for offering a subscription-based plant service of 100% native, wild-type flowers that complements the biogeography of Biel/Bienne.
+Love plants is a model for offering a subscription-based plant service of 100% native, wild-type flowers for Biel/Bienne.
 <p>&nbsp;</p>
-The first two chapters cover surveying the existing diversity of plantlife in the city of Biel/Bienne. Year One (2020) is focused on the path of the Suze river as it runs through the city, with some 850 plant observations. Year Two (2021) expands to include much of the city of Bienne with some 4500 plant observations so far. The 2021 survey period will end officially on October 15th, 2021.
+This repository is divided into four sections. The first section provides a background on the situation of vascular plants and insect life in Switzerland, and more particularly in the region around Biel/Bienne, based primarily on recent nationwide reports and datasets issued by the Swiss Academy of Sciences and InfoFlora.  The second section summarizes the results of some 5000 plant observations made from June - September 2020 and from February - September 2021, principally in the Biel/Bienne metropolitan area. The third chapter presents the love plants concept. The final chapter proposes some citizen science initiatives related to the preservation of biodiversity, and in particular genetic diversity.
 <p>&nbsp;</p>
-The subsequent chapters are devoted to building sustainable business models based around wild-type flowers. The third chapter is devoted to the primary product, namely a subscription service for deliverty of buckets of in-season wildflowers. The fourth chapter is devoted to market context and identifying additional revenue streams related to the flower bucket service.
+For questions or comments *botany at hammerdirt dot ch* is at your service.
 <p>&nbsp;</p>
-For questions or comments *botany at hammerdirt dot ch* is at your service. 
-<p>&nbsp;</p>
-This page is under development and will likely have been updated since the last time you visited. A French and German version of this site will be available soon.The dedicated link is the following:  https://thorerismann.github.io/hdbot/
+This page is under development and the final version will be frozen around December 2021. It will likely have been updated since the last time you visited. A French and German version of this site will be available soon. The dedicated link is the following: https://thorerismann.github.io/hdbot/
 <p>&nbsp;</p>
 Built by hammerdirt botany.
 
