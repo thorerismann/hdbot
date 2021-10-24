@@ -35,7 +35,7 @@ from IPython.display import display, Math, Latex
 
 # # Floral Buckets - summary
 
-# In[2]:
+# In[3]:
 
 
 this_picture = PILImage.open("resources/pictures/2021/DSC09846.JPG")
