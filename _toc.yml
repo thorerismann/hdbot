@@ -5,20 +5,23 @@ format: jb-book
 root: intro
 
 parts:
-  - caption: Biodiversity, a grim situation
+  - caption: Biodiversity, an uncertain future
     numbered: True
     chapters:
      - file: intro-context.ipynb
-  - caption: The plantlife of Biel
+  - caption: The plants of Biel/Bienne
     numbered: True
     chapters:
      - file: surveys.ipynb
-  - caption: Buckets of Wildflowers
+  - caption: Biodiversity buckets
     numbered: True
     chapters:
      - file: flora-buckets.ipynb
-  - caption: Citizen Science
+  - caption: Germination
     numbered: True
     chapters:
-     - file: science.ipynb
-
+     - file: germination.ipynb
+  - caption: Resources
+    numbered: True
+    chapters:
+     - file: resources.ipynb
