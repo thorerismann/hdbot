@@ -1,7 +1,17 @@
-# love plants
+# The Biodiversity Box
 
-Love plants is a model for offering a subscription-based plant service of 100% native, wild-type flowers that complements the biogeography of Biel/Bienne.
+A Biodiversity Box is a mini biotope composed of 100% native flowers sourced regionally built to reflect the unique biogeography of Biel/Bienne.
 
-This repository is divided into four sections. The first section provides a background on the situation of vascular plants and insect life in Switzerland, and more particularly in the region around Biel/Bienne, based primarily on recent nationwide reports and datasets issued by the Swiss Academy of Sciences and InfoFlora.  The second section summarizes the results of some 5000 plant observations made from June - September 2020 and from February - September 2021, principally in the Biel/Bienne metropolitan area. The third chapter presents the love plants concept. The final chapter proposes some citizen science initiatives related to the preservation of biodiversity, and in particular genetic diversity. 
+This repository is to build the Jupyter Book page available through the following dedicated link: https://thorerismann.github.io/hdbot/ T
 
-This page is under development and the final version will be frozen around December 2021. It will thus likely have been updated since the last time you visited. A French and German version of this site will be available soon. The dedicated link is the following: https://thorerismann.github.io/hdbot/
+It is divided into the following sections:
+
+Part 1 (intro-context.pynb) provides a short introduction to the dire situation facing biodiversity globally, and also in the region around Biel/Bienne. 
+
+Part 2 (surveys.pynb) summarizes the results of nearly 5000 vascular plant observations made in Biel between 2020 and 2021.
+
+Part 3 (flora-buckets.pynb) presents the biodiversity boxes concept. 
+
+This page is under development and the final version will be frozen around December 2021. It will thus likely have been updated since the last time you visited. A French and German translation will be available soon.
+
+Contact thor.erismann at gmail dot com
