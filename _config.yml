@@ -11,7 +11,7 @@ copyright: "2021"
 # Only include files specified in the toc.yml file
 
 execute:
-  execute_notebooks: 'force'
+  execute_notebooks: off
 only_build_toc_files: true
 
 # Define the name of the latex output file for PDF builds
@@ -20,8 +20,8 @@ latex:
     targetname: book.tex
 
 # Add a bibtex file so that we can create citations
-bibtex_bibfiles:
-  - resources/references.bib
+# bibtex_bibfiles:
+#  - resources/references.bib
 
 # Information about where the book exists on the web
 repository:

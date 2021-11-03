@@ -1,28 +1,35 @@
-# love local plants
+# Biodiversity Box
 
-__Edition 1__ ver=0.02 _build two_
+__Edition 1__ ver=0.1 _build four_
 
 ## The biodiversity crisis and a local solution
 
 :::{image} resources/pictures/2021/DSC00317.JPG
-:alt: Map of IQAASL locations
+:alt: Map of survey locations
 :class: bg-primary mb-1
 :width: 600px
 :align: center
 :::
-*Onobrychis viciifolia* hosting the dance of life and death on a railroad berm in the Madretsch neighborhood of Biel/Bienne
+*Onobrychis viciifolia*, a spider and a bee at the CFF depot in Madretsch, Biel/Bienne
 <br></br>
-This document forms the background for developping a sustainable business model for offering a subscription-based plant service of 100% native, wild-type flowers for Biel/Bienne.
+This document develops a sustainable business model for offering a subscription-based plant service of 100% native, wild-type flowers originated locally for the city of Biel/Bienne.
 <p>&nbsp;</p>
-This repository is divided into four sections. 
-* The first section provides a background on the precarious situation of biodiversity in general on this planet, and more specifically on vascular plants and insect life in Switzerland, and in the region around Biel/Bienne.  
-* The second section summarizes the results of some 5000 plant observations made in the metropolitan area of Biel/Bienne from June - September 2020 and from February - September 2021, principally in the Biel/Bienne metropolitan area. 
-* The third chapter presents a subscription model for selling native plants and explores some other relevat revenu streams. 
-* The final chapter proposes some citizen science initiatives related to the preservation of biodiversity, and in particular genetic diversity directly related to this work.
+This repository is divided into the following sections:
+
+* Part 1 (intro-context.pynb) provides a short introduction to the dire situation facing biodiversity globally, and also in the region around Biel/Bienne. 
+* Part 2 (surveys.pynb) summarizes the results of nearly 5000 vascular plant observations made in Biel between 2020 and 2021.
+* Part 3 (flora-buckets.pynb) presents the biodiversity boxes concept. 
+
+
+
 <p>&nbsp;</p>
+
 For questions or comments *botany at hammerdirt dot ch* is at your service.
+
 <p>&nbsp;</p>
-This page is under development and the final version will be frozen around December 2021. It will likely have been updated since the last time you visited. A French and German version of this site will be available soon. The dedicated link is the following: https://thorerismann.github.io/hdbot/
+
+This page is under development and the final version will be frozen around December 2021. A complete French and German translation will be available.
+
 <p>&nbsp;</p>
 Built by hammerdirt botany.
 

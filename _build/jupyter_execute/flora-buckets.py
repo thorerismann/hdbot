@@ -35,7 +35,7 @@ from IPython.display import display, Math, Latex
 
 # # Floral Buckets - summary
 
-# In[3]:
+# In[2]:
 
 
 this_picture = PILImage.open("resources/pictures/2021/DSC09846.JPG")
@@ -48,9 +48,20 @@ html = '<img src="data:image/png;base64,{}"/>'.format(encoded_string)
 md(html)
 
 
-# ## Market Analysis - overview
+# ## Market for Regional Seeds
 # 
-# In progress
+# If regional biodiversity is to be preserved effectively, then the market for local ecotype wildflowers is only going to expand. In terms of provision of seeds and seedlings, there is significant interest among private individuals in using local wildflowers to create natural gardens that provide habitat and food resources to the larger ecosystem. Public authorities are continuously engaged in renaturalization projects that need local seeds and seedlings to be maximaly effective at preserving regional biodiversity. Even municipal authorities engaged in providing wildflower strips alongside roadways and as part of public greenspaces should be using regional type seeds.
+# 
+# Indeed, there are a number of companies offering to cut flowering meadows, dry the seed and offer sacks of wildflower mixes. In general, they do not offer individual spieces either as seedlings or as seed packets - they offer slightly different prairie mixes with more or less the same standard composition. This means that, for example, early blooming forest flowers like anemone nemorosa and A. hepatica are simply not offered by anyone. In general, there are about 50-60 species that can be more or less regionally sourced from different actors.
+# 
+# In comparison to the number of flowering plants found regionally, the selection on offer is relatively restricted. 
+# sa
+# ### Biodiversity boxes
+# 
+# Traditional horticultural settings do not provide the floral resources 
+# 
+# ### Seeds and Seedlings
+# 
 # 
 # ### Local competition
 # 

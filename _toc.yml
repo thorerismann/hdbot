@@ -24,4 +24,4 @@ parts:
   - caption: Resources
     numbered: True
     chapters:
-     - file: resources.ipynb
+     - file: resources.md
