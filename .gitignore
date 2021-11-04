@@ -4,10 +4,12 @@
 */.ipynb_checkpoints/*
 .ipynb_checkpoints/
 
-# ignores the heavy data files
-/shape_files/*
-/resources/reference-data/qgis-suze-files*
-/resources/pictures/ignore/*
+# ignores heavy and confidential files.
+/ignore/*
+
+# ignores the build files (available in the Docs folder for the JB build)
+/_build/*
+
 
 # IPython
 profile_default/
